@@ -1,5 +1,4 @@
 import { mkdirSync, writeFileSync, statSync } from "fs";
-import { spawnSync } from "child_process";
 import { join } from "path";
 import type { ImageCategory } from "@/data/image-manifest";
 import {
@@ -10,7 +9,7 @@ import {
   removeSiblingImageFiles,
   validateUploadMime,
 } from "@/lib/image-upload-server";
-import { projectRoot } from "@/lib/project-path";
+import { runSeedSync } from "@/lib/run-seed-sync";
 
 export const runtime = "nodejs";
 
@@ -74,11 +73,7 @@ export async function POST(request: Request) {
   writeFileSync(absolutePath, buffer);
   removeSiblingImageFiles(dir, id, ext);
 
-  const sync = spawnSync("node", ["seed/scripts/sync-app-data.mjs"], {
-    cwd: projectRoot(),
-    encoding: "utf8",
-    timeout: 120_000,
-  });
+  const sync = runSeedSync();
 
   if (sync.status !== 0) {
     return Response.json(
