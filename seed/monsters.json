@@ -1,0 +1,1641 @@
+{
+  "generatedAt": "2026-06-17T15:15:16.922Z",
+  "count": 63,
+  "monsters": [
+    {
+      "id": "grave-walker",
+      "name": "Grave Walker",
+      "category": "undead",
+      "threatRank": "F",
+      "tier": 1,
+      "habitat": [
+        "urban-ruin"
+      ],
+      "appearance": "Decayed humanoid; grey-green skin; torn modern clothing; milky eyes",
+      "behavior": "Slow shambling; drawn to sound; swarm in numbers",
+      "scale": "Human",
+      "traits": [
+        "infectious-bite",
+        "slow",
+        "pack-swarm"
+      ],
+      "drops": [
+        {
+          "item": "rotted-flesh",
+          "rank": "F",
+          "chance": 0.6
+        },
+        {
+          "item": "grave-dust",
+          "rank": "F",
+          "chance": 0.3
+        }
+      ],
+      "firstAppearance": "ch-0004",
+      "imagePath": "assets/images/monsters/grave-walker.png",
+      "imagePrompt": "A decayed undead wandering through a deserted city street at dusk, realistic fantasy art, highly detailed, cinematic lighting, book illustration quality"
+    },
+    {
+      "id": "crimson-swarmer",
+      "name": "Crimson Swarmer",
+      "category": "insect",
+      "threatRank": "E",
+      "tier": 1,
+      "habitat": [
+        "everywhere",
+        "ruin"
+      ],
+      "appearance": "Thumb-sized red beetle; iridescent carapace; mandibles that glow faintly",
+      "behavior": "Individually weak; swarm consumes flesh in minutes",
+      "scale": "Insect",
+      "traits": [
+        "swarm",
+        "flesh-consumption"
+      ],
+      "drops": [
+        {
+          "item": "crimson-chitin",
+          "rank": "E",
+          "chance": 0.5
+        }
+      ],
+      "firstAppearance": "ch-0015",
+      "imagePath": "assets/images/monsters/crimson-swarmer.png",
+      "imagePrompt": "Thousands of crimson insects covering an abandoned vehicle, realistic fantasy horror art, highly detailed"
+    },
+    {
+      "id": "ashwolf",
+      "name": "Ashwolf",
+      "category": "beast",
+      "threatRank": "E",
+      "tier": 1,
+      "habitat": [
+        "forest",
+        "ruined-suburb"
+      ],
+      "appearance": "Large wolf-sized; ember-orange fur; glowing red eyes; heat haze around muzzle",
+      "behavior": "Pack hunter; flanks prey; fire-resistant",
+      "scale": "Large horse",
+      "traits": [
+        "pack-hunter",
+        "fire-resistance",
+        "enhanced-speed"
+      ],
+      "drops": [
+        {
+          "item": "ember-hide",
+          "rank": "E",
+          "chance": 0.7
+        },
+        {
+          "item": "beast-core-e",
+          "rank": "E",
+          "chance": 0.15
+        }
+      ],
+      "evolutionChain": [
+        "ashwolf",
+        "dire-ashwolf",
+        "ember-fang",
+        "inferno-wolf-king"
+      ],
+      "firstAppearance": "ch-0008",
+      "imagePath": "assets/images/monsters/ashwolf.png",
+      "imagePrompt": "A massive ember-furred wolf with glowing red eyes stalking through a ruined suburban street at dusk, realistic fantasy art, highly detailed"
+    },
+    {
+      "id": "dire-ashwolf",
+      "name": "Dire Ashwolf",
+      "category": "beast",
+      "threatRank": "D",
+      "tier": 2,
+      "habitat": [
+        "forest",
+        "ashwolf-territory"
+      ],
+      "appearance": "Twice wolf size; black fur with lava-cracks; smoke from nostrils",
+      "behavior": "Pack alpha; coordinates flanking",
+      "scale": "Small truck",
+      "traits": [
+        "pack-alpha",
+        "fire-breath-weak"
+      ],
+      "drops": [
+        {
+          "item": "ember-hide",
+          "rank": "D",
+          "chance": 0.8
+        },
+        {
+          "item": "beast-core-d",
+          "rank": "D",
+          "chance": 0.25
+        }
+      ],
+      "evolutionOf": "ashwolf",
+      "firstAppearance": "ch-0042",
+      "imagePath": "assets/images/monsters/dire-ashwolf.png",
+      "imagePrompt": "A gigantic black and ember wolf with smoke rising from its fur in a burned forest, realistic fantasy art"
+    },
+    {
+      "id": "ironhide-boar",
+      "name": "Ironhide Boar",
+      "category": "beast",
+      "threatRank": "D",
+      "tier": 2,
+      "habitat": [
+        "grassland",
+        "highway"
+      ],
+      "appearance": "Gigantic boar; metallic skin plates; tusks like curved swords",
+      "behavior": "Charges; high durability; territorial on roads",
+      "scale": "Large truck",
+      "traits": [
+        "charge",
+        "high-durability"
+      ],
+      "drops": [
+        {
+          "item": "ironthorn-plate",
+          "rank": "D",
+          "chance": 0.65
+        },
+        {
+          "item": "beast-core-d",
+          "rank": "D",
+          "chance": 0.2
+        }
+      ],
+      "firstAppearance": "ch-0045",
+      "imagePath": "assets/images/monsters/ironhide-boar.png",
+      "imagePrompt": "A giant armored boar charging through an abandoned highway, realistic fantasy art, highly detailed"
+    },
+    {
+      "id": "razorwing",
+      "name": "Razorwing",
+      "category": "sky",
+      "threatRank": "D",
+      "tier": 2,
+      "habitat": [
+        "city",
+        "cliff",
+        "skyscraper"
+      ],
+      "appearance": "Eagle-sized; blade-shaped metal feathers; silver-grey plumage",
+      "behavior": "Dive attacks; flock circles prey",
+      "scale": "Eagle",
+      "traits": [
+        "dive-attack",
+        "flock",
+        "blade-feathers"
+      ],
+      "drops": [
+        {
+          "item": "razor-feather",
+          "rank": "D",
+          "chance": 0.55
+        },
+        {
+          "item": "sky-gland",
+          "rank": "D",
+          "chance": 0.2
+        }
+      ],
+      "firstAppearance": "ch-0004",
+      "imagePath": "assets/images/monsters/razorwing.png",
+      "imagePrompt": "A flock of blade-feathered flying predators circling ruined skyscrapers, realistic fantasy art"
+    },
+    {
+      "id": "bone-mantis",
+      "name": "Bone Mantis",
+      "category": "insect",
+      "threatRank": "D",
+      "tier": 2,
+      "habitat": [
+        "forest"
+      ],
+      "appearance": "Three-meter praying mantis; white exoskeleton like bone; scythe limbs",
+      "behavior": "Ambush; camouflage among trees",
+      "scale": "Human+",
+      "traits": [
+        "ambush",
+        "camouflage",
+        "scythe-limbs"
+      ],
+      "drops": [
+        {
+          "item": "bone-chitin",
+          "rank": "D",
+          "chance": 0.6
+        }
+      ],
+      "firstAppearance": "ch-0055",
+      "imagePath": "assets/images/monsters/bone-mantis.png",
+      "imagePrompt": "A giant white skeletal mantis hidden among forest trees, realistic fantasy horror art"
+    },
+    {
+      "id": "mud-stalker",
+      "name": "Mud Stalker",
+      "category": "beast",
+      "threatRank": "D",
+      "tier": 2,
+      "habitat": [
+        "wetland",
+        "river"
+      ],
+      "appearance": "Crocodilian; mud-covered scales; nearly invisible in water",
+      "behavior": "Ambush from water; drags prey under",
+      "scale": "Crocodile",
+      "traits": [
+        "ambush",
+        "aquatic"
+      ],
+      "drops": [
+        {
+          "item": "mud-scale",
+          "rank": "D",
+          "chance": 0.5
+        }
+      ],
+      "firstAppearance": "ch-0034",
+      "imagePath": "assets/images/monsters/mud-stalker.png",
+      "imagePrompt": "A camouflaged reptilian monster emerging from muddy river water, realistic fantasy art"
+    },
+    {
+      "id": "glimmer-rat",
+      "name": "Glimmer Rat",
+      "category": "beast",
+      "threatRank": "E",
+      "tier": 1,
+      "habitat": [
+        "urban-ruin",
+        "sewer"
+      ],
+      "appearance": "Dog-sized rat; bioluminescent blue veins; oversized incisors",
+      "behavior": "Scavenger swarms; flees fire",
+      "scale": "Dog",
+      "traits": [
+        "swarm",
+        "scavenger"
+      ],
+      "drops": [
+        {
+          "item": "glimmer-gland",
+          "rank": "E",
+          "chance": 0.4
+        }
+      ],
+      "firstAppearance": "ch-0012",
+      "imagePath": "assets/images/monsters/glimmer-rat.png",
+      "imagePrompt": "Swarm of glowing blue-veined giant rats in a flooded subway tunnel, realistic fantasy art"
+    },
+    {
+      "id": "thunder-stag",
+      "name": "Thunder Stag",
+      "category": "beast",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "mountain-forest"
+      ],
+      "appearance": "Massive deer; lightning antlers; blue-white fur; storm clouds follow",
+      "behavior": "Territorial; electrical discharge when threatened",
+      "scale": "Elephant",
+      "traits": [
+        "electrical-discharge",
+        "territorial",
+        "storm-aura"
+      ],
+      "drops": [
+        {
+          "item": "storm-crystal",
+          "rank": "C",
+          "chance": 0.5
+        },
+        {
+          "item": "beast-core-c",
+          "rank": "C",
+          "chance": 0.3
+        }
+      ],
+      "firstAppearance": "ch-0086",
+      "imagePath": "assets/images/monsters/thunder-stag.png",
+      "imagePrompt": "A majestic lightning-antlered stag atop a mountain during a storm, realistic fantasy art"
+    },
+    {
+      "id": "whisper-shade",
+      "name": "Whisper Shade",
+      "category": "aberration",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "rift-zone"
+      ],
+      "appearance": "Faceless shadow humanoid; edges fray like smoke; no feet",
+      "behavior": "Mental attacks; induces hallucinations of lost people",
+      "scale": "Human",
+      "traits": [
+        "mental-attack",
+        "hallucination",
+        "intangible"
+      ],
+      "drops": [
+        {
+          "item": "void-silk",
+          "rank": "C",
+          "chance": 0.35
+        },
+        {
+          "item": "shade-fragment",
+          "rank": "C",
+          "chance": 0.4
+        }
+      ],
+      "firstAppearance": "ch-0481",
+      "imagePath": "assets/images/monsters/whisper-shade.png",
+      "imagePrompt": "A faceless shadow creature standing inside a reality fracture, realistic fantasy horror art"
+    },
+    {
+      "id": "ironhorn",
+      "name": "Ironhorn",
+      "category": "beast",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "plains",
+        "sanctuary-valley"
+      ],
+      "appearance": "Massive horned herbivore; metallic hide; docile unless provoked",
+      "behavior": "Herd animal; Sanctuary domesticates for labor",
+      "scale": "Cow x4",
+      "traits": [
+        "herd",
+        "domesticatable",
+        "charge-when-threatened"
+      ],
+      "drops": [
+        {
+          "item": "ironhorn-hide",
+          "rank": "C",
+          "chance": 0.7
+        },
+        {
+          "item": "ironhorn-horn",
+          "rank": "C",
+          "chance": 0.3
+        }
+      ],
+      "firstAppearance": "ch-0185",
+      "imagePath": "assets/images/monsters/ironhorn.png",
+      "imagePrompt": "Massive metallic-horned herbivores grazing near a fantasy settlement, realistic fantasy art"
+    },
+    {
+      "id": "dusk-revenant",
+      "name": "Dusk Revenant",
+      "category": "undead",
+      "threatRank": "B",
+      "tier": 4,
+      "habitat": [
+        "ancient-battlefield"
+      ],
+      "appearance": "Armored undead knight; purple soul flame in chest; rusted greatsword",
+      "behavior": "Retains combat knowledge; commands lesser undead",
+      "scale": "Human",
+      "traits": [
+        "combat-knowledge",
+        "commands-undead",
+        "soul-flame"
+      ],
+      "drops": [
+        {
+          "item": "soul-ember",
+          "rank": "B",
+          "chance": 0.4
+        },
+        {
+          "item": "revenant-plate-fragment",
+          "rank": "B",
+          "chance": 0.35
+        }
+      ],
+      "firstAppearance": "ch-0200",
+      "imagePath": "assets/images/monsters/dusk-revenant.png",
+      "imagePrompt": "An undead knight illuminated by ghostly violet flames on an ancient battlefield, realistic fantasy art"
+    },
+    {
+      "id": "abyssal-maw",
+      "name": "Abyssal Maw",
+      "category": "aquatic",
+      "threatRank": "B",
+      "tier": 4,
+      "habitat": [
+        "coastal",
+        "deep-water"
+      ],
+      "appearance": "Gigantic shark; multiple tooth rows; bioluminescent green eyes",
+      "behavior": "Ambush; extreme burst speed",
+      "scale": "Whale shark",
+      "traits": [
+        "ambush",
+        "extreme-speed",
+        "blood-scent"
+      ],
+      "drops": [
+        {
+          "item": "abyssal-tooth",
+          "rank": "B",
+          "chance": 0.5
+        },
+        {
+          "item": "beast-core-b",
+          "rank": "B",
+          "chance": 0.25
+        }
+      ],
+      "firstAppearance": "ch-0350",
+      "imagePath": "assets/images/monsters/abyssal-maw.png",
+      "imagePrompt": "A glowing abyssal sea predator emerging from dark ocean depths, realistic fantasy art"
+    },
+    {
+      "id": "cinder-hound",
+      "name": "Cinder Hound",
+      "category": "beast",
+      "threatRank": "B",
+      "tier": 4,
+      "habitat": [
+        "volcanic",
+        "burn-zone"
+      ],
+      "appearance": "Molten cracks on black hide; ember eyes; no fur",
+      "behavior": "Hunts in pairs; leaves fire trails",
+      "scale": "Large horse",
+      "traits": [
+        "fire-trail",
+        "pair-hunter"
+      ],
+      "drops": [
+        {
+          "item": "cinder-core",
+          "rank": "B",
+          "chance": 0.45
+        }
+      ],
+      "firstAppearance": "ch-0300",
+      "imagePath": "assets/images/monsters/cinder-hound.png",
+      "imagePrompt": "Black hounds with molten cracks running through volcanic ruins, realistic fantasy art"
+    },
+    {
+      "id": "memory-wraith",
+      "name": "Memory Wraith",
+      "category": "aberration",
+      "threatRank": "B",
+      "tier": 4,
+      "habitat": [
+        "forgotten-palace"
+      ],
+      "appearance": "Translucent human shapes; faces shift between strangers",
+      "behavior": "Steals short-term memories on touch",
+      "scale": "Human",
+      "traits": [
+        "memory-theft",
+        "intangible"
+      ],
+      "drops": [
+        {
+          "item": "memory-glass-shard",
+          "rank": "B",
+          "chance": 0.5
+        }
+      ],
+      "dungeonExclusive": "forgotten-palace",
+      "firstAppearance": "ch-0129",
+      "imagePath": "assets/images/monsters/memory-wraith.png",
+      "imagePrompt": "Translucent wraiths with shifting faces in a white misty palace, realistic fantasy art"
+    },
+    {
+      "id": "clockwork-soldier",
+      "name": "Clockwork Soldier",
+      "category": "construct",
+      "threatRank": "B",
+      "tier": 4,
+      "habitat": [
+        "eternal-machine"
+      ],
+      "appearance": "Bronze humanoid automaton; gear joints; red crystal eyes",
+      "behavior": "Follows dungeon laws; punishes rule-breakers",
+      "scale": "Human",
+      "traits": [
+        "precision",
+        "law-enforcement"
+      ],
+      "drops": [
+        {
+          "item": "bronze-gear",
+          "rank": "B",
+          "chance": 0.6
+        }
+      ],
+      "dungeonExclusive": "eternal-machine",
+      "firstAppearance": "ch-0400",
+      "imagePath": "assets/images/monsters/clockwork-soldier.png",
+      "imagePrompt": "Bronze clockwork soldiers marching through a mechanical dungeon, realistic fantasy art"
+    },
+    {
+      "id": "storm-roc",
+      "name": "Storm Roc",
+      "category": "sky",
+      "threatRank": "A",
+      "tier": 5,
+      "habitat": [
+        "mountain",
+        "storm-roc-mountains"
+      ],
+      "appearance": "Eagle-like; 40m wingspan; storm clouds in wake",
+      "behavior": "Creates localized storms; controls wind",
+      "scale": "Building",
+      "traits": [
+        "storm-creation",
+        "wind-control",
+        "territorial"
+      ],
+      "drops": [
+        {
+          "item": "roc-plume",
+          "rank": "A",
+          "chance": 0.4
+        },
+        {
+          "item": "beast-core-a",
+          "rank": "A",
+          "chance": 0.2
+        }
+      ],
+      "firstAppearance": "ch-0086",
+      "imagePath": "assets/images/monsters/storm-roc.png",
+      "imagePrompt": "A gigantic storm eagle flying through thunderclouds above ruined mountains, realistic fantasy art"
+    },
+    {
+      "id": "eye-of-the-void",
+      "name": "Eye of the Void",
+      "category": "aberration",
+      "threatRank": "A",
+      "tier": 5,
+      "habitat": [
+        "high-mana-zone",
+        "rift"
+      ],
+      "appearance": "Floating sphere covered in eyes; void-black center",
+      "behavior": "Psychic attacks; reality distortion in radius",
+      "scale": "Room-sized",
+      "traits": [
+        "psychic-attack",
+        "reality-distortion"
+      ],
+      "drops": [
+        {
+          "item": "void-lens",
+          "rank": "A",
+          "chance": 0.3
+        }
+      ],
+      "firstAppearance": "ch-0500",
+      "imagePath": "assets/images/monsters/eye-of-the-void.png",
+      "imagePrompt": "A floating cosmic horror covered in glowing eyes, realistic fantasy horror art"
+    },
+    {
+      "id": "hive-soldier",
+      "name": "Hive Soldier",
+      "category": "insect",
+      "threatRank": "A",
+      "tier": 5,
+      "habitat": [
+        "crimson-hive"
+      ],
+      "appearance": "Human-sized insect warrior; crimson chitin; acid claws",
+      "behavior": "Coordinated assault; adapts to tactics",
+      "scale": "Human",
+      "traits": [
+        "hive-mind",
+        "acid",
+        "adaptation"
+      ],
+      "drops": [
+        {
+          "item": "hive-acid-sac",
+          "rank": "A",
+          "chance": 0.5
+        }
+      ],
+      "dungeonExclusive": "crimson-hive",
+      "firstAppearance": "ch-0500",
+      "imagePath": "assets/images/monsters/hive-soldier.png",
+      "imagePrompt": "Crimson insect warriors in organic tunnels, realistic fantasy horror art"
+    },
+    {
+      "id": "ember-dragon",
+      "name": "Ember Dragon",
+      "category": "dragon",
+      "threatRank": "S",
+      "tier": 5,
+      "habitat": [
+        "volcanic"
+      ],
+      "appearance": "Red scales; furnace breath; intelligence in gold eyes",
+      "behavior": "Territorial; negotiates if respected",
+      "scale": "Building+",
+      "traits": [
+        "fire-breath",
+        "flight",
+        "ancient-intelligence"
+      ],
+      "drops": [
+        {
+          "item": "dragon-scale-fragment",
+          "rank": "S",
+          "chance": 0.15
+        }
+      ],
+      "firstAppearance": "ch-0003",
+      "imagePath": "assets/images/monsters/ember-dragon.png",
+      "imagePrompt": "A colossal red dragon perched atop an active volcano, realistic epic fantasy art"
+    },
+    {
+      "id": "frost-dragon",
+      "name": "Frost Dragon",
+      "category": "dragon",
+      "threatRank": "S",
+      "tier": 5,
+      "habitat": [
+        "frozen",
+        "north"
+      ],
+      "appearance": "White crystal scales; ice breath; frost aura",
+      "behavior": "Territorial; sleeps centuries",
+      "scale": "Building+",
+      "traits": [
+        "ice-storm",
+        "territorial"
+      ],
+      "drops": [
+        {
+          "item": "frost-scale-fragment",
+          "rank": "S",
+          "chance": 0.15
+        }
+      ],
+      "firstAppearance": "ch-0715",
+      "imagePath": "assets/images/monsters/frost-dragon.png",
+      "imagePrompt": "A majestic white dragon flying through a blizzard, realistic epic fantasy art"
+    },
+    {
+      "id": "obsidian-dragon",
+      "name": "Obsidian Dragon",
+      "category": "dragon",
+      "threatRank": "SS",
+      "tier": 5,
+      "habitat": [
+        "unknown",
+        "celestial-peaks"
+      ],
+      "appearance": "Black scales; gold eyes; wings darken sky",
+      "behavior": "Ancient intellect; observes civilizations",
+      "scale": "Mountain",
+      "traits": [
+        "catastrophic-power",
+        "ancient-intellect"
+      ],
+      "drops": [
+        {
+          "item": "obsidian-dragon-scale",
+          "rank": "SS",
+          "chance": 0.05
+        }
+      ],
+      "firstAppearance": "ch-0721",
+      "imagePath": "assets/images/monsters/obsidian-dragon.png",
+      "imagePrompt": "An enormous obsidian dragon watching humanity from a mountain peak, realistic epic fantasy art"
+    },
+    {
+      "id": "mountain-walker",
+      "name": "Mountain Walker",
+      "category": "titan",
+      "threatRank": "SS",
+      "tier": 5,
+      "habitat": [
+        "mountain-range"
+      ],
+      "appearance": "200m humanoid giant; stone skin; slow steps cause quakes",
+      "behavior": "Territorial; ignores small creatures unless provoked",
+      "scale": "Skyscraper",
+      "traits": [
+        "earthquake",
+        "near-indestructible"
+      ],
+      "drops": [
+        {
+          "item": "titan-stone-heart",
+          "rank": "SS",
+          "chance": 0.01
+        }
+      ],
+      "firstAppearance": "ch-0600",
+      "imagePath": "assets/images/monsters/mountain-walker.png",
+      "imagePrompt": "A mountain-sized stone giant walking through clouds, realistic epic fantasy art"
+    },
+    {
+      "id": "leviathan-serpent",
+      "name": "Leviathan Serpent",
+      "category": "aquatic",
+      "threatRank": "SS",
+      "tier": 5,
+      "habitat": [
+        "deep-ocean"
+      ],
+      "appearance": "300m+ sea serpent; blue-black scales; bioluminescent patterns",
+      "behavior": "Tsunami generation; extreme regeneration",
+      "scale": "City block",
+      "traits": [
+        "tsunami",
+        "regeneration"
+      ],
+      "drops": [
+        {
+          "item": "leviathan-scale",
+          "rank": "SS",
+          "chance": 0.02
+        }
+      ],
+      "firstAppearance": "ch-0500",
+      "imagePath": "assets/images/monsters/leviathan-serpent.png",
+      "imagePrompt": "A colossal sea serpent emerging during a storm, realistic epic fantasy art"
+    },
+    {
+      "id": "world-serpent",
+      "name": "World Serpent",
+      "category": "titan",
+      "threatRank": "Catastrophe",
+      "tier": 5,
+      "habitat": [
+        "unknown"
+      ],
+      "appearance": "Planetary scale serpent; visible on horizon",
+      "behavior": "Reality disturbance; ancient existence",
+      "scale": "Planetary",
+      "traits": [
+        "reality-disturbance"
+      ],
+      "drops": [],
+      "firstAppearance": "ch-0900",
+      "imagePath": "assets/images/monsters/world-serpent.png",
+      "imagePrompt": "A colossal serpent encircling the horizon beneath a fractured sky, realistic epic fantasy art"
+    },
+    {
+      "id": "forgotten-knight",
+      "name": "Forgotten Knight",
+      "category": "undead",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "forgotten-palace"
+      ],
+      "appearance": "Empty white armor; moves without occupant",
+      "behavior": "Guards memory vaults",
+      "drops": [
+        {
+          "item": "pale-steel-fragment",
+          "rank": "C",
+          "chance": 0.45
+        }
+      ],
+      "dungeonExclusive": "forgotten-palace",
+      "firstAppearance": "ch-0125",
+      "imagePath": "assets/images/monsters/forgotten-knight.png",
+      "imagePrompt": "Empty white armor knights patrolling a misty palace, realistic fantasy art"
+    },
+    {
+      "id": "echo-servant",
+      "name": "Echo Servant",
+      "category": "aberration",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "forgotten-palace"
+      ],
+      "appearance": "Humanoid made of repeating sound waves",
+      "behavior": "Repeats last words spoken nearby as weapon",
+      "drops": [
+        {
+          "item": "echo-crystal",
+          "rank": "C",
+          "chance": 0.4
+        }
+      ],
+      "dungeonExclusive": "forgotten-palace",
+      "firstAppearance": "ch-0130",
+      "imagePath": "assets/images/monsters/echo-servant.png",
+      "imagePrompt": "Sound-wave humanoids in a white palace corridor, realistic fantasy art"
+    },
+    {
+      "id": "gear-beast",
+      "name": "Gear Beast",
+      "category": "construct",
+      "threatRank": "A",
+      "tier": 5,
+      "habitat": [
+        "eternal-machine"
+      ],
+      "appearance": "Bronze lion with clockwork innards exposed",
+      "behavior": "Charges; sheds gears that fight independently",
+      "drops": [
+        {
+          "item": "master-gear",
+          "rank": "A",
+          "chance": 0.35
+        }
+      ],
+      "dungeonExclusive": "eternal-machine",
+      "firstAppearance": "ch-0410",
+      "imagePath": "assets/images/monsters/gear-beast.png",
+      "imagePrompt": "A bronze clockwork lion in a colossal gear chamber, realistic fantasy art"
+    },
+    {
+      "id": "shadow-citizen",
+      "name": "Shadow Citizen",
+      "category": "aberration",
+      "threatRank": "B",
+      "tier": 4,
+      "habitat": [
+        "city-of-shadows"
+      ],
+      "appearance": "Human silhouette without face; mimics passerby movements",
+      "behavior": "Manifestation of regret; non-lethal unless resisted",
+      "drops": [
+        {
+          "item": "shadow-ink",
+          "rank": "B",
+          "chance": 0.5
+        }
+      ],
+      "dungeonExclusive": "city-of-shadows",
+      "firstAppearance": "ch-0550",
+      "imagePath": "assets/images/monsters/shadow-citizen.png",
+      "imagePrompt": "Shadowy figures watching from windows in a twilight city, realistic fantasy art"
+    },
+    {
+      "id": "forest-guardian",
+      "name": "Forest Guardian",
+      "category": "magical",
+      "threatRank": "A",
+      "tier": 5,
+      "habitat": [
+        "world-tree"
+      ],
+      "appearance": "Tree-like humanoid; moss armor; glowing sap veins",
+      "behavior": "Protects World Tree levels",
+      "drops": [
+        {
+          "item": "life-sap",
+          "rank": "A",
+          "chance": 0.4
+        }
+      ],
+      "dungeonExclusive": "world-tree",
+      "firstAppearance": "ch-0600",
+      "imagePath": "assets/images/monsters/forest-guardian.png",
+      "imagePrompt": "A massive tree humanoid guarding a colossal world tree branch, realistic fantasy art"
+    },
+    {
+      "id": "rift-hound",
+      "name": "Rift Hound",
+      "category": "aberration",
+      "threatRank": "D",
+      "tier": 2,
+      "habitat": [
+        "rift-zone",
+        "ashford"
+      ],
+      "appearance": "Wolf with fractured geometry; limbs misaligned",
+      "behavior": "Phases short distances; hunts in pairs",
+      "drops": [
+        {
+          "item": "rift-shard",
+          "rank": "D",
+          "chance": 0.35
+        }
+      ],
+      "firstAppearance": "ch-0028",
+      "imagePath": "assets/images/monsters/rift-hound.png",
+      "imagePrompt": "A wolf with distorted geometry hunting in a fractured city, realistic fantasy art"
+    },
+    {
+      "id": "plague-crow",
+      "name": "Plague Crow",
+      "category": "sky",
+      "threatRank": "E",
+      "tier": 1,
+      "habitat": [
+        "urban",
+        "farmland"
+      ],
+      "appearance": "Oversized crow; diseased feathers; red eyes",
+      "behavior": "Marks carrion; attracts swarms",
+      "drops": [
+        {
+          "item": "plague-feather",
+          "rank": "E",
+          "chance": 0.4
+        }
+      ],
+      "firstAppearance": "ch-0018",
+      "imagePath": "assets/images/monsters/plague-crow.png",
+      "imagePrompt": "Giant diseased crows circling ruined farmland, realistic fantasy art"
+    },
+    {
+      "id": "stoneback",
+      "name": "Stoneback",
+      "category": "beast",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "plains",
+        "sanctuary"
+      ],
+      "appearance": "Gigantic turtle; stone shell; slow",
+      "behavior": "Domesticated for construction transport",
+      "drops": [
+        {
+          "item": "stoneback-plate",
+          "rank": "C",
+          "chance": 0.5
+        }
+      ],
+      "firstAppearance": "ch-0292",
+      "imagePath": "assets/images/monsters/stoneback.png",
+      "imagePrompt": "Gigantic turtle-like creatures carrying cargo for a fantasy city, realistic fantasy art"
+    },
+    {
+      "id": "skymanta",
+      "name": "Skymanta",
+      "category": "sky",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "sky",
+        "cloud"
+      ],
+      "appearance": "Flying manta ray; membrane sails; calm gliders",
+      "behavior": "Domesticated for air travel",
+      "drops": [
+        {
+          "item": "sky-membrane",
+          "rank": "C",
+          "chance": 0.45
+        }
+      ],
+      "firstAppearance": "ch-0400",
+      "imagePath": "assets/images/monsters/skymanta.png",
+      "imagePrompt": "Flying manta-like creatures gliding through clouds above a fantasy city, realistic fantasy art"
+    },
+    {
+      "id": "brood-hunter",
+      "name": "Brood Hunter",
+      "category": "insect",
+      "threatRank": "B",
+      "tier": 4,
+      "habitat": [
+        "crimson-hive"
+      ],
+      "appearance": "Panther-sized insect; crimson; silent",
+      "behavior": "Stalks parties; targets weakest",
+      "drops": [
+        {
+          "item": "hunter-chitin",
+          "rank": "B",
+          "chance": 0.5
+        }
+      ],
+      "dungeonExclusive": "crimson-hive",
+      "firstAppearance": "ch-0500",
+      "imagePath": "assets/images/monsters/brood-hunter.png",
+      "imagePrompt": "A crimson insect predator stalking through organic tunnels, realistic fantasy horror art"
+    },
+    {
+      "id": "deep-one",
+      "name": "Deep One",
+      "category": "aquatic",
+      "threatRank": "A",
+      "tier": 5,
+      "habitat": [
+        "abyssal-ocean"
+      ],
+      "appearance": "Humanoid fish; luminescent lures; ancient eyes",
+      "behavior": "Intelligent; ambush in darkness",
+      "drops": [
+        {
+          "item": "deep-pearl",
+          "rank": "A",
+          "chance": 0.3
+        }
+      ],
+      "dungeonExclusive": "abyssal-ocean",
+      "firstAppearance": "ch-0500",
+      "imagePath": "assets/images/monsters/deep-one.png",
+      "imagePrompt": "Bioluminescent humanoid sea creatures in endless dark ocean, realistic fantasy horror art"
+    },
+    {
+      "id": "twilight-stalker",
+      "name": "Twilight Stalker",
+      "category": "aberration",
+      "threatRank": "B",
+      "tier": 4,
+      "habitat": [
+        "city-of-shadows"
+      ],
+      "appearance": "Long-limbed shadow; only visible at periphery",
+      "behavior": "Hunts those who deny regret",
+      "drops": [
+        {
+          "item": "twilight-fragment",
+          "rank": "B",
+          "chance": 0.4
+        }
+      ],
+      "dungeonExclusive": "city-of-shadows",
+      "firstAppearance": "ch-0550",
+      "imagePath": "assets/images/monsters/twilight-stalker.png",
+      "imagePrompt": "A long-limbed shadow creature in eternal twilight streets, realistic fantasy horror art"
+    },
+    {
+      "id": "sky-serpent",
+      "name": "Sky Serpent",
+      "category": "sky",
+      "threatRank": "A",
+      "tier": 5,
+      "habitat": [
+        "world-tree"
+      ],
+      "appearance": "Serpentine flyer; leaf-colored scales",
+      "behavior": "Patrols World Tree branches",
+      "drops": [
+        {
+          "item": "sky-serpent-scale",
+          "rank": "A",
+          "chance": 0.35
+        }
+      ],
+      "dungeonExclusive": "world-tree",
+      "firstAppearance": "ch-0600",
+      "imagePath": "assets/images/monsters/sky-serpent.png",
+      "imagePrompt": "A serpentine dragon flying between colossal tree branches, realistic fantasy art"
+    },
+    {
+      "id": "grave-walker-alpha",
+      "name": "Grave Walker Alpha",
+      "category": "undead",
+      "threatRank": "D",
+      "tier": 2,
+      "habitat": [
+        "urban-ruin"
+      ],
+      "appearance": "Larger grave walker; bone spikes; faster",
+      "behavior": "Coordinates horde",
+      "evolutionOf": "grave-walker",
+      "drops": [
+        {
+          "item": "grave-dust",
+          "rank": "D",
+          "chance": 0.5
+        },
+        {
+          "item": "beast-core-d",
+          "rank": "D",
+          "chance": 0.1
+        }
+      ],
+      "firstAppearance": "ch-0025",
+      "imagePath": "assets/images/monsters/grave-walker-alpha.png",
+      "imagePrompt": "A larger mutated undead leading a horde through city ruins, realistic fantasy art"
+    },
+    {
+      "id": "ember-fang",
+      "name": "Ember Fang",
+      "category": "beast",
+      "threatRank": "B",
+      "tier": 4,
+      "habitat": [
+        "ashwolf-forest"
+      ],
+      "appearance": "Wolf as large as truck; flames along spine",
+      "evolutionOf": "dire-ashwolf",
+      "drops": [
+        {
+          "item": "ember-fang-tooth",
+          "rank": "B",
+          "chance": 0.5
+        }
+      ],
+      "firstAppearance": "ch-0238",
+      "imagePath": "assets/images/monsters/ember-fang.png",
+      "imagePrompt": "A flaming wolf the size of a truck in a burned forest, realistic fantasy art"
+    },
+    {
+      "id": "inferno-wolf-king",
+      "name": "Inferno Wolf King",
+      "category": "beast",
+      "threatRank": "A",
+      "tier": 5,
+      "habitat": [
+        "ashwolf-forest"
+      ],
+      "appearance": "Crown of fire; commands entire territory",
+      "evolutionOf": "ember-fang",
+      "drops": [
+        {
+          "item": "inferno-crown-fragment",
+          "rank": "A",
+          "chance": 0.25
+        }
+      ],
+      "firstAppearance": "ch-0500",
+      "imagePath": "assets/images/monsters/inferno-wolf-king.png",
+      "imagePrompt": "A wolf king wreathed in fire commanding a pack in a volcanic forest, realistic epic fantasy art"
+    },
+    {
+      "id": "frost-hare",
+      "name": "Frost Hare",
+      "category": "beast",
+      "threatRank": "F",
+      "tier": 1,
+      "habitat": [
+        "tundra",
+        "north"
+      ],
+      "appearance": "Rabbit-sized; white fur; ice crystals on ears",
+      "behavior": "Flees; freezes trail",
+      "drops": [
+        {
+          "item": "frost-fur",
+          "rank": "F",
+          "chance": 0.5
+        }
+      ],
+      "firstAppearance": "ch-0100",
+      "imagePath": "assets/images/monsters/frost-hare.png",
+      "imagePrompt": "Small white rabbits with ice crystal ears in snowy ruins, realistic fantasy art"
+    },
+    {
+      "id": "carrion-crow",
+      "name": "Carrion Crow",
+      "category": "sky",
+      "threatRank": "F",
+      "tier": 1,
+      "habitat": [
+        "urban",
+        "battlefield"
+      ],
+      "appearance": "Crow with extra talons; oily black feathers",
+      "behavior": "Marks corpses; attracts predators",
+      "drops": [
+        {
+          "item": "crow-feather",
+          "rank": "F",
+          "chance": 0.35
+        }
+      ],
+      "firstAppearance": "ch-0006",
+      "imagePath": "assets/images/monsters/carrion-crow.png",
+      "imagePrompt": "Oversized crows perched on ruined cars, realistic fantasy art"
+    },
+    {
+      "id": "spine-rat",
+      "name": "Spine Rat",
+      "category": "beast",
+      "threatRank": "E",
+      "tier": 1,
+      "habitat": [
+        "sewer",
+        "dungeon-entrance"
+      ],
+      "appearance": "Rat with exposed bone spines along back",
+      "behavior": "Burrows; ambush from below",
+      "drops": [
+        {
+          "item": "spine-bone",
+          "rank": "E",
+          "chance": 0.4
+        }
+      ],
+      "firstAppearance": "ch-0030",
+      "imagePath": "assets/images/monsters/spine-rat.png",
+      "imagePrompt": "Giant rats with bone spines in a sewer tunnel, realistic fantasy horror art"
+    },
+    {
+      "id": "glass-wasp",
+      "name": "Glass Wasp",
+      "category": "insect",
+      "threatRank": "D",
+      "tier": 2,
+      "habitat": [
+        "forest",
+        "ruin"
+      ],
+      "appearance": "Wasp with transparent glass wings; stinger drips acid",
+      "behavior": "Nest in walls; aggressive near hive",
+      "drops": [
+        {
+          "item": "glass-wing",
+          "rank": "D",
+          "chance": 0.45
+        }
+      ],
+      "firstAppearance": "ch-0060",
+      "imagePath": "assets/images/monsters/glass-wasp.png",
+      "imagePrompt": "Giant wasps with glass wings swarming a ruined building, realistic fantasy art"
+    },
+    {
+      "id": "salt-crab",
+      "name": "Salt Crab",
+      "category": "aquatic",
+      "threatRank": "E",
+      "tier": 1,
+      "habitat": [
+        "coastal",
+        "harbor"
+      ],
+      "appearance": "Car-sized crab; crystalline salt shell",
+      "behavior": "Scavenger; crushes with claws",
+      "drops": [
+        {
+          "item": "salt-shell",
+          "rank": "E",
+          "chance": 0.55
+        }
+      ],
+      "firstAppearance": "ch-0010",
+      "imagePath": "assets/images/monsters/salt-crab.png",
+      "imagePrompt": "Giant crabs with crystalline shells on a ruined harbor, realistic fantasy art"
+    },
+    {
+      "id": "void-moth",
+      "name": "Void Moth",
+      "category": "aberration",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "rift-zone",
+        "night"
+      ],
+      "appearance": "Moth with wings like torn night sky; dust causes disorientation",
+      "behavior": "Drawn to light; blinds with wing dust",
+      "drops": [
+        {
+          "item": "void-dust",
+          "rank": "C",
+          "chance": 0.4
+        }
+      ],
+      "firstAppearance": "ch-0200",
+      "imagePath": "assets/images/monsters/void-moth.png",
+      "imagePrompt": "A moth with starfield wings in a rift-lit night, realistic fantasy horror art"
+    },
+    {
+      "id": "bramble-bear",
+      "name": "Bramble Bear",
+      "category": "beast",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "forest"
+      ],
+      "appearance": "Bear overgrown with thorny vines; red eyes",
+      "behavior": "Territorial; slow but devastating",
+      "drops": [
+        {
+          "item": "bramble-pelt",
+          "rank": "C",
+          "chance": 0.5
+        }
+      ],
+      "firstAppearance": "ch-0150",
+      "imagePath": "assets/images/monsters/bramble-bear.png",
+      "imagePrompt": "A bear covered in thorny vines in a dark forest, realistic fantasy art"
+    },
+    {
+      "id": "silt-serpent",
+      "name": "Silt Serpent",
+      "category": "aquatic",
+      "threatRank": "D",
+      "tier": 2,
+      "habitat": [
+        "river",
+        "marsh"
+      ],
+      "appearance": "Snake; mud-colored; constrictor",
+      "behavior": "Ambush from silt beds",
+      "drops": [
+        {
+          "item": "silt-scale",
+          "rank": "D",
+          "chance": 0.45
+        }
+      ],
+      "firstAppearance": "ch-0040",
+      "imagePath": "assets/images/monsters/silt-serpent.png",
+      "imagePrompt": "A mud-colored serpent rising from river silt, realistic fantasy art"
+    },
+    {
+      "id": "hollow-dog",
+      "name": "Hollow Dog",
+      "category": "undead",
+      "threatRank": "E",
+      "tier": 1,
+      "habitat": [
+        "urban-ruin"
+      ],
+      "appearance": "Emaciated dog; ribs visible; glowing chest cavity",
+      "behavior": "Pack hunter; unnerving silence",
+      "drops": [
+        {
+          "item": "hollow-bone",
+          "rank": "E",
+          "chance": 0.35
+        }
+      ],
+      "firstAppearance": "ch-0004",
+      "imagePath": "assets/images/monsters/hollow-dog.png",
+      "imagePrompt": "Emaciated undead dogs with glowing chests in city ruins, realistic fantasy horror art"
+    },
+    {
+      "id": "copper-beetle",
+      "name": "Copper Beetle",
+      "category": "insect",
+      "threatRank": "F",
+      "tier": 1,
+      "habitat": [
+        "everywhere"
+      ],
+      "appearance": "Palm-sized beetle; copper shell",
+      "behavior": "Swarm on metal; corrodes gear",
+      "drops": [
+        {
+          "item": "copper-chitin",
+          "rank": "F",
+          "chance": 0.5
+        }
+      ],
+      "firstAppearance": "ch-0020",
+      "imagePath": "assets/images/monsters/copper-beetle.png",
+      "imagePrompt": "Copper-shelled beetles swarming rusted metal, realistic fantasy art"
+    },
+    {
+      "id": "wind-lynx",
+      "name": "Wind Lynx",
+      "category": "beast",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "cliff",
+        "highland"
+      ],
+      "appearance": "Lynx with elongated limbs; fur ripples like wind",
+      "behavior": "Silent stalker; leaps impossible distances",
+      "drops": [
+        {
+          "item": "wind-pelt",
+          "rank": "C",
+          "chance": 0.45
+        }
+      ],
+      "firstAppearance": "ch-0120",
+      "imagePath": "assets/images/monsters/wind-lynx.png",
+      "imagePrompt": "A lynx with wind-rippling fur leaping between cliffs, realistic fantasy art"
+    },
+    {
+      "id": "bone-collector",
+      "name": "Bone Collector",
+      "category": "undead",
+      "threatRank": "C",
+      "tier": 3,
+      "habitat": [
+        "graveyard",
+        "battlefield"
+      ],
+      "appearance": "Humanoid built from mismatched bones; carries sack of skulls",
+      "behavior": "Collects bones; grows stronger",
+      "drops": [
+        {
+          "item": "assembled-bone",
+          "rank": "C",
+          "chance": 0.5
+        }
+      ],
+      "firstAppearance": "ch-0180",
+      "imagePath": "assets/images/monsters/bone-collector.png",
+      "imagePrompt": "An undead creature made of mismatched bones in a graveyard, realistic fantasy horror art"
+    },
+    {
+      "id": "regret-spirit",
+      "name": "Regret Spirit",
+      "category": "aberration",
+      "threatRank": "B",
+      "tier": 4,
+      "habitat": [
+        "city-of-shadows"
+      ],
+      "appearance": "Human shape made of whispered apologies",
+      "behavior": "Non-lethal unless resisted; drains will",
+      "dungeonExclusive": "city-of-shadows",
+      "drops": [
+        {
+          "item": "regret-essence",
+          "rank": "B",
+          "chance": 0.35
+        }
+      ],
+      "firstAppearance": "ch-0550",
+      "imagePath": "assets/images/monsters/regret-spirit.png",
+      "imagePrompt": "Translucent spirits of regret in twilight streets, realistic fantasy art"
+    },
+    {
+      "id": "bronze-sentinel",
+      "name": "Bronze Sentinel",
+      "category": "construct",
+      "threatRank": "A",
+      "tier": 5,
+      "habitat": [
+        "eternal-machine"
+      ],
+      "appearance": "Three-meter bronze guardian; halberd; law runes",
+      "behavior": "Guards thresholds; speaks in legal formulae",
+      "dungeonExclusive": "eternal-machine",
+      "drops": [
+        {
+          "item": "sentinel-core",
+          "rank": "A",
+          "chance": 0.3
+        }
+      ],
+      "firstAppearance": "ch-0420",
+      "imagePath": "assets/images/monsters/bronze-sentinel.png",
+      "imagePrompt": "A bronze guardian automaton with glowing law runes, realistic fantasy art"
+    },
+    {
+      "id": "ancient-spirit",
+      "name": "Ancient Spirit",
+      "category": "magical",
+      "threatRank": "S",
+      "tier": 5,
+      "habitat": [
+        "world-tree"
+      ],
+      "appearance": "Humanoid of bark and starlight",
+      "behavior": "Judges intent; protects tree levels",
+      "dungeonExclusive": "world-tree",
+      "drops": [
+        {
+          "item": "spirit-sap",
+          "rank": "S",
+          "chance": 0.1
+        }
+      ],
+      "firstAppearance": "ch-0600",
+      "imagePath": "assets/images/monsters/ancient-spirit.png",
+      "imagePrompt": "A spirit of bark and starlight on a world tree branch, realistic epic fantasy art"
+    },
+    {
+      "id": "dungeon-guardian-construct",
+      "name": "Dungeon Guardian Construct",
+      "category": "construct",
+      "threatRank": "A",
+      "tier": 5,
+      "habitat": [
+        "first-dungeon"
+      ],
+      "appearance": "Humanoid of amber light and stone; faceless",
+      "behavior": "Tests worthiness; does not kill if party retreats",
+      "dungeonExclusive": "first-dungeon",
+      "drops": [
+        {
+          "item": "guardian-core",
+          "rank": "A",
+          "chance": 1
+        }
+      ],
+      "firstAppearance": "ch-0180",
+      "imagePath": "assets/images/monsters/dungeon-guardian-construct.png",
+      "imagePrompt": "A faceless construct of amber light guarding an underground archive, realistic fantasy art"
+    },
+    {
+      "id": "skarax-devourer",
+      "name": "Skarax the Devourer",
+      "category": "titan",
+      "threatRank": "SS",
+      "tier": 5,
+      "habitat": [
+        "ruined-mountains"
+      ],
+      "appearance": "Mountain-sized quadruped; black stone armor; six red eyes",
+      "behavior": "Consumes entire ecosystems; territorial",
+      "named": true,
+      "drops": [
+        {
+          "item": "devourer-stone",
+          "rank": "SS",
+          "chance": 0.01
+        }
+      ],
+      "firstAppearance": "ch-0600",
+      "imagePath": "assets/images/monsters/skarax-devourer.png",
+      "imagePrompt": "A mountain-sized beast with six red eyes consuming a forest, realistic epic fantasy art"
+    },
+    {
+      "id": "velkarion",
+      "name": "Velkarion",
+      "category": "dragon",
+      "threatRank": "SS",
+      "tier": 5,
+      "habitat": [
+        "celestial-peaks"
+      ],
+      "appearance": "Obsidian scales; gold eyes; wings span kilometers",
+      "behavior": "Ancient pride; observes civilizations; not evil",
+      "named": true,
+      "drops": [],
+      "firstAppearance": "ch-0721",
+      "imagePath": "assets/images/monsters/velkarion.png",
+      "imagePrompt": "An enormous obsidian dragon with gold eyes watching humanity from a peak, realistic epic fantasy art"
+    },
+    {
+      "id": "brood-mother",
+      "name": "The Brood Mother",
+      "category": "insect",
+      "threatRank": "S",
+      "tier": 5,
+      "habitat": [
+        "crimson-hive"
+      ],
+      "appearance": "Gigantic insect queen; crimson; millions of offspring",
+      "behavior": "Hive sovereign; evolution engine",
+      "named": true,
+      "dungeonExclusive": "crimson-hive",
+      "drops": [
+        {
+          "item": "brood-crown",
+          "rank": "S",
+          "chance": 1
+        }
+      ],
+      "firstAppearance": "ch-0527",
+      "imagePath": "assets/images/monsters/brood-mother.png",
+      "imagePrompt": "A colossal crimson insect queen in an organic throne chamber, realistic epic fantasy horror art"
+    },
+    {
+      "id": "pale-king",
+      "name": "The Pale King",
+      "category": "undead",
+      "threatRank": "S",
+      "tier": 5,
+      "habitat": [
+        "forgotten-palace"
+      ],
+      "appearance": "White-clad king; shattered crown; hollow eyes",
+      "behavior": "Steals memories; sovereign of palace",
+      "named": true,
+      "dungeonExclusive": "forgotten-palace",
+      "drops": [
+        {
+          "item": "pale-crown-fragment",
+          "rank": "S",
+          "chance": 1
+        }
+      ],
+      "firstAppearance": "ch-0133",
+      "imagePath": "assets/images/monsters/pale-king.png",
+      "imagePrompt": "A pale undead king with a shattered crown in a white misty palace, realistic epic fantasy art"
+    },
+    {
+      "id": "clockwork-empress",
+      "name": "The Clockwork Empress",
+      "category": "construct",
+      "threatRank": "S",
+      "tier": 5,
+      "habitat": [
+        "eternal-machine"
+      ],
+      "appearance": "Bronze and silver empress; gear crown; ticking heartbeat",
+      "behavior": "Enforces dungeon laws absolutely",
+      "named": true,
+      "dungeonExclusive": "eternal-machine",
+      "drops": [
+        {
+          "item": "empress-crown-gear",
+          "rank": "S",
+          "chance": 1
+        }
+      ],
+      "firstAppearance": "ch-0451",
+      "imagePath": "assets/images/monsters/clockwork-empress.png",
+      "imagePrompt": "A mechanical empress of bronze and silver on a throne of gears, realistic epic fantasy art"
+    }
+  ]
+}

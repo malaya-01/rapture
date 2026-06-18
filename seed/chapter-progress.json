@@ -1,0 +1,460 @@
+{
+  "lastUpdated": "2026-06-18T07:09:42.580Z",
+  "publishedChapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "drafts": [],
+  "deaths": [],
+  "skillsUnlocked": [],
+  "equipmentAcquired": [],
+  "locationsVisited": {
+    "cassian-reed": [
+      "ashford",
+      "cassian-apartment",
+      "logistics-office"
+    ]
+  },
+  "foreshadowing": [
+    {
+      "id": "limbo-wrong-stars",
+      "planted": null,
+      "paidOff": null,
+      "description": "Impossible constellations"
+    },
+    {
+      "id": "sanctuary-sites",
+      "planted": null,
+      "paidOff": "ch-0266",
+      "description": "Defensible valleys"
+    },
+    {
+      "id": "selene-abandonment",
+      "planted": null,
+      "paidOff": null,
+      "description": "Fear of replaceability"
+    }
+  ],
+  "historyLog": [
+    {
+      "chapter": 1,
+      "inWorldDay": 0,
+      "delta": "Cassian Reed wakes to an ordinary Tuesday in Ashford—until the sky fractures over the harbor and the world ends in a single afternoon."
+    },
+    {
+      "chapter": 2,
+      "inWorldDay": 1,
+      "delta": "Fire captain Rowan Hale moves his family toward safety when the sky tears open over Ashford's outskirts—and something vast emerges from the wound."
+    },
+    {
+      "chapter": 3,
+      "inWorldDay": 2,
+      "delta": "Adrian and Selene face two days of fracturing sky from their apartment above the bakery—until the sky breaks fully and the first Ember Dragon descends on Ashford."
+    },
+    {
+      "chapter": 4,
+      "inWorldDay": 3,
+      "delta": "Three survivors on Day Three: Cassian navigates a city turning predatory, Rowan calculates who can be saved at the barn, and Adrian searches for passage south while Ashford burns from every direction."
+    },
+    {
+      "chapter": 5,
+      "inWorldDay": 4,
+      "delta": "Marcus Vale attempts to evacuate with Iris and six-year-old Lily through Ashford's university district—but the organized convoy fails, the roads break, and Marcus finds himself choosing documentation over denial as civilization collapses around his family."
+    },
+    {
+      "chapter": 6,
+      "inWorldDay": 5,
+      "delta": "Wildlife photographer Nora Winters witnesses the Rapture from open country, moves against the flow of refugees into the wilderness, and encounters a displaced silver hawk whose trust she earns—while her camera captures something in the fracture light that belongs to no field guide."
+    },
+    {
+      "chapter": 7,
+      "inWorldDay": 6,
+      "delta": "On the sixth night of the Rapture, Cassian Reed barricades his apartment, rations what remains, and learns what the city sounds like after dark—until something scrapes at his door and he holds his breath until dawn."
+    },
+    {
+      "chapter": 8,
+      "inWorldDay": 2,
+      "delta": "Cassian's first direct encounter with a grave-walker turns into a messy flight through Ashford's dead streets — and leaves him shaken by something impossible happening in his own hands."
+    },
+    {
+      "chapter": 9,
+      "inWorldDay": 8,
+      "delta": "Eight days after the sky broke, Rowan Hale cycles through every emergency frequency he knows and finds only silence — learning, finally, that no one is coming."
+    },
+    {
+      "chapter": 10,
+      "inWorldDay": 9,
+      "delta": "On the ninth day after the Rapture, a final emergency broadcast reaches five survivors in five different places — and ends with a sentence that closes the door on the world they knew."
+    },
+    {
+      "chapter": 11,
+      "inWorldDay": 10,
+      "delta": "Cassian scavenges Ashford's depleted shops on the tenth day and meets the first real test of who he intends to be when kindness carries a cost."
+    },
+    {
+      "chapter": 12,
+      "inWorldDay": 11,
+      "delta": "Rowan formalizes the rescue barn's shelter rules and loses someone he promised to protect — learning the difference between a promise kept in intention and one the world refuses to honor."
+    },
+    {
+      "chapter": 13,
+      "inWorldDay": 12,
+      "delta": "Adrian searches for Selene and Rowan through the ruins of Ashford's eastern margin, pulling stragglers along as he goes — until a piece of cloth on the wrong side of a collapsed overpass stops him cold."
+    },
+    {
+      "chapter": 14,
+      "inWorldDay": 13,
+      "delta": "In the corner of a refugee gymnasium, Marcus Vale makes the first stable mana readings of the post-Rapture world — while his daughter asks the questions he is only beginning to find language for."
+    },
+    {
+      "chapter": 15,
+      "inWorldDay": 15,
+      "delta": "Nora Winters moves north against the refugee tide, nearly drowns at a river crossing, and chooses the wild over the crowd — until three smoke columns on the horizon breathe in the same rhythm."
+    },
+    {
+      "chapter": 16,
+      "inWorldDay": 15,
+      "delta": "Selene Arkwright organizes intake at an eastern refugee camp and waits for Adrian — watching reunion after reunion that is not hers, and learning what fear of abandonment feels like when the world has stopped arguing against it."
+    },
+    {
+      "chapter": 17,
+      "inWorldDay": 16,
+      "delta": "The same collapsed highway interchange serves as landmark, shelter, and waypoint for four survivors who pass through it within hours of each other — and never meet."
+    },
+    {
+      "chapter": 18,
+      "inWorldDay": 17,
+      "delta": "Elena Hale pushes past exhaustion to save a child she cannot save — and discovers, in the aftermath, that her hands have begun to do something impossible."
+    },
+    {
+      "chapter": 19,
+      "inWorldDay": 19,
+      "delta": "Rowan Hale lists the week's dead, holds a fracturing community together through a burial argument, and finds words scratched in the memorial wall that are older than today."
+    },
+    {
+      "chapter": 20,
+      "inWorldDay": 20,
+      "delta": "The first week ends: Adrian moves east with stragglers, Marcus moves west with his family and his notebooks, Selene follows a rumor into the dark — and three horizons light up with something that was never there before."
+    },
+    {
+      "chapter": 21,
+      "inWorldDay": 21,
+      "delta": "Nora Winters maps the changed highways east of Ashford and finds that geography itself has shifted—a city name that was never on any map, and a hawk who will not fly toward the eastern glow."
+    },
+    {
+      "chapter": 22,
+      "inWorldDay": 22,
+      "delta": "Adrian Hale moves east through the ruin belt, accumulating survivors he cannot abandon while searching for Selene and Rowan—until a child points toward something monstrous and new on the horizon."
+    },
+    {
+      "chapter": 23,
+      "inWorldDay": 23,
+      "delta": "Cassian Reed scouts defensible positions across Ashford's elevated district—mapping water, walls, and sightlines with the reluctant precision of someone who sees a future city where only ruins stand."
+    },
+    {
+      "chapter": 24,
+      "inWorldDay": 24,
+      "delta": "Marcus Vale answers his daughter's impossible questions about the broken sky and learns that 'I don't know' is not defeat—until Lily finds a stone warm to the touch, carved with symbols from no language he recognizes."
+    },
+    {
+      "chapter": 25,
+      "inWorldDay": 25,
+      "delta": "Rowan Hale formalizes the first guard rotation at the relocated shelter—assigning positions, training civilians who have never held a weapon, watching Atlas absorb every detail, and accepting the title of leader without ceremony."
+    },
+    {
+      "chapter": 26,
+      "inWorldDay": 26,
+      "delta": "Selene Arkwright finds the last dead phone tower and discovers her unsent text to Adrian. A false rumor about him cuts deeper than it should—and an omega in Ashford who makes things vanish lodges in her mind like a splinter."
+    },
+    {
+      "chapter": 27,
+      "inWorldDay": 27,
+      "delta": "Cassian Reed finally leaves Ashford—passing a survivor camp without joining, finding trail markers he can't account for, and choosing loneliness over bad company for the first time as an act of will rather than circumstance."
+    },
+    {
+      "chapter": 28,
+      "inWorldDay": 28,
+      "delta": "Nora Winters discovers ruins of impossible architecture at the wild zone's edge—wrong angles, pre-human stonework, and stars visible through a gap that should not show stars at midday. Then the ground trembles, and the ruin moves."
+    },
+    {
+      "chapter": 29,
+      "inWorldDay": 29,
+      "delta": "A single tremor crosses the entire region simultaneously. Three separate groups—Marcus in his mobile lab, Rowan at his shelter, Adrian on the road—feel it from their separate distances. Then the sky clears for sixty seconds and every survivor sees the same impossible shape on the horizon."
+    },
+    {
+      "chapter": 30,
+      "inWorldDay": 30,
+      "delta": "The first dungeon rises from the earth east of Ashford—a colossal structure visible from every position across the region. Each survivor witnesses it from their own distance, their own isolation. Cassian stands alone on the open road, the last to see it, with no one to answer his question."
+    }
+  ],
+  "chapters": {
+    "ch-0001": {
+      "status": "published",
+      "title": "The Last Ordinary Morning",
+      "pov": "cassian-reed",
+      "inWorldDay": 0,
+      "wordCount": 2401,
+      "lockedFacts": []
+    },
+    "ch-0002": {
+      "status": "published",
+      "title": "The Sound Above",
+      "pov": "rowan-hale",
+      "inWorldDay": 1,
+      "wordCount": 2763,
+      "lockedFacts": []
+    },
+    "ch-0003": {
+      "status": "published",
+      "title": "Falling Fire",
+      "pov": "adrian-hale",
+      "inWorldDay": 2,
+      "wordCount": 2576,
+      "lockedFacts": []
+    },
+    "ch-0004": {
+      "status": "published",
+      "title": "When The World Ended",
+      "pov": "multiple",
+      "inWorldDay": 3,
+      "wordCount": 3474,
+      "lockedFacts": []
+    },
+    "ch-0005": {
+      "status": "published",
+      "title": "Day Zero",
+      "pov": "marcus-vale",
+      "inWorldDay": 4,
+      "wordCount": 2823,
+      "lockedFacts": []
+    },
+    "ch-0006": {
+      "status": "published",
+      "title": "The Photographer",
+      "pov": "nora-winters",
+      "inWorldDay": 5,
+      "wordCount": 2478,
+      "lockedFacts": []
+    },
+    "ch-0007": {
+      "status": "published",
+      "title": "The First Night",
+      "pov": "cassian-reed",
+      "inWorldDay": 6,
+      "wordCount": 2407,
+      "lockedFacts": []
+    },
+    "ch-0008": {
+      "status": "published",
+      "title": "The Things In The Dark",
+      "pov": "cassian-reed",
+      "inWorldDay": 2,
+      "wordCount": 3110,
+      "lockedFacts": []
+    },
+    "ch-0009": {
+      "status": "published",
+      "title": "No Rescue Is Coming",
+      "pov": "rowan-hale",
+      "inWorldDay": 8,
+      "wordCount": 3387,
+      "lockedFacts": []
+    },
+    "ch-0010": {
+      "status": "published",
+      "title": "The Last Broadcast",
+      "pov": "multiple",
+      "inWorldDay": 9,
+      "wordCount": 2941,
+      "lockedFacts": []
+    },
+    "ch-0011": {
+      "status": "published",
+      "title": "Empty Shelves",
+      "pov": "cassian-reed",
+      "inWorldDay": 10,
+      "wordCount": 2711,
+      "lockedFacts": []
+    },
+    "ch-0012": {
+      "status": "published",
+      "title": "The Hale Hold",
+      "pov": "rowan-hale",
+      "inWorldDay": 11,
+      "wordCount": 2434,
+      "lockedFacts": []
+    },
+    "ch-0013": {
+      "status": "published",
+      "title": "Broken Chain",
+      "pov": "adrian-hale",
+      "inWorldDay": 12,
+      "wordCount": 2846,
+      "lockedFacts": []
+    },
+    "ch-0014": {
+      "status": "published",
+      "title": "Field Notes",
+      "pov": "marcus-vale",
+      "inWorldDay": 13,
+      "wordCount": 2652,
+      "lockedFacts": []
+    },
+    "ch-0015": {
+      "status": "published",
+      "title": "Northbound",
+      "pov": "nora-winters",
+      "inWorldDay": 15,
+      "wordCount": 2521,
+      "lockedFacts": []
+    },
+    "ch-0016": {
+      "status": "published",
+      "title": "Waiting Room",
+      "pov": "selene-arkwright",
+      "inWorldDay": 15,
+      "wordCount": 2408,
+      "lockedFacts": []
+    },
+    "ch-0017": {
+      "status": "published",
+      "title": "Under The Same Sky",
+      "pov": "multiple",
+      "inWorldDay": 16,
+      "wordCount": 2411,
+      "lockedFacts": []
+    },
+    "ch-0018": {
+      "status": "published",
+      "title": "The Healer's Hands",
+      "pov": "elena-hale",
+      "inWorldDay": 17,
+      "wordCount": 2572,
+      "lockedFacts": []
+    },
+    "ch-0019": {
+      "status": "published",
+      "title": "Names On A Wall",
+      "pov": "rowan-hale",
+      "inWorldDay": 19,
+      "wordCount": 2449,
+      "lockedFacts": []
+    },
+    "ch-0020": {
+      "status": "published",
+      "title": "Separate Roads",
+      "pov": "multi",
+      "inWorldDay": 20,
+      "wordCount": 3395,
+      "lockedFacts": []
+    },
+    "ch-0021": {
+      "status": "published",
+      "title": "Ruined Highways",
+      "pov": "nora-winters",
+      "inWorldDay": 21,
+      "wordCount": 2581,
+      "lockedFacts": []
+    },
+    "ch-0022": {
+      "status": "published",
+      "title": "Still Searching",
+      "pov": "adrian-hale",
+      "inWorldDay": 22,
+      "wordCount": 2774,
+      "lockedFacts": []
+    },
+    "ch-0023": {
+      "status": "published",
+      "title": "High Ground",
+      "pov": "cassian-reed",
+      "inWorldDay": 23,
+      "wordCount": 2666,
+      "lockedFacts": []
+    },
+    "ch-0024": {
+      "status": "published",
+      "title": "Questions Without Answers",
+      "pov": "marcus-vale",
+      "inWorldDay": 24,
+      "wordCount": 3053,
+      "lockedFacts": []
+    },
+    "ch-0025": {
+      "status": "published",
+      "title": "Watch Rotation",
+      "pov": "rowan-hale",
+      "inWorldDay": 25,
+      "wordCount": 2825,
+      "lockedFacts": []
+    },
+    "ch-0026": {
+      "status": "published",
+      "title": "Last Signal",
+      "pov": "selene-arkwright",
+      "inWorldDay": 26,
+      "wordCount": 2685,
+      "lockedFacts": []
+    },
+    "ch-0027": {
+      "status": "published",
+      "title": "Passing Shadows",
+      "pov": "cassian-reed",
+      "inWorldDay": 27,
+      "wordCount": 2982,
+      "lockedFacts": []
+    },
+    "ch-0028": {
+      "status": "published",
+      "title": "Impossible Ruins",
+      "pov": "nora-winters",
+      "inWorldDay": 28,
+      "wordCount": 2550,
+      "lockedFacts": []
+    },
+    "ch-0029": {
+      "status": "published",
+      "title": "The Tremor",
+      "pov": "multi",
+      "inWorldDay": 29,
+      "wordCount": 2442,
+      "lockedFacts": []
+    },
+    "ch-0030": {
+      "status": "published",
+      "title": "Beyond The Ruins",
+      "pov": "multi",
+      "inWorldDay": 30,
+      "wordCount": 3838,
+      "lockedFacts": []
+    }
+  }
+}

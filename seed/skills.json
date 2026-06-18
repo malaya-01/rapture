@@ -1,0 +1,768 @@
+{
+  "generatedAt": "2026-06-17T15:15:16.925Z",
+  "count": 81,
+  "skills": [
+    {
+      "id": "pack-hunter-instinct",
+      "name": "Pack Hunter Instinct",
+      "type": "passive",
+      "affinity": "beast",
+      "rank": "D",
+      "description": "Enhanced threat detection; beast contract bonus"
+    },
+    {
+      "id": "fold-step",
+      "name": "Fold Step",
+      "type": "spell",
+      "affinity": "spatial",
+      "rank": "C",
+      "manaCost": "moderate",
+      "user": "cassian-reed",
+      "unlockChapter": "ch-0153",
+      "description": "Short-range teleportation; line-of-sight required",
+      "masteryLevels": [
+        "Novice",
+        "Adept",
+        "Master"
+      ]
+    },
+    {
+      "id": "spatial-pocket",
+      "name": "Spatial Pocket",
+      "type": "spell",
+      "affinity": "spatial",
+      "rank": "D",
+      "manaCost": "low",
+      "user": "cassian-reed",
+      "unlockChapter": "ch-0039",
+      "description": "Store objects in folded space; volume limited by understanding",
+      "masteryLevels": [
+        "Novice",
+        "Adept",
+        "Master",
+        "Grandmaster"
+      ]
+    },
+    {
+      "id": "reality-stitch",
+      "name": "Reality Stitch",
+      "type": "spell",
+      "affinity": "spatial",
+      "rank": "S",
+      "manaCost": "extreme",
+      "user": "cassian-reed",
+      "unlockChapter": "ch-1100",
+      "description": "Mend localized reality fractures; Seventh Gate stabilization",
+      "masteryLevels": [
+        "Master",
+        "Grandmaster",
+        "Legend"
+      ]
+    },
+    {
+      "id": "guardian-stance",
+      "name": "Guardian Stance",
+      "type": "technique",
+      "affinity": "none",
+      "rank": "C",
+      "manaCost": "low",
+      "user": "adrian-hale",
+      "unlockChapter": "ch-0200",
+      "description": "Defensive posture amplifying protection of allies in radius"
+    },
+    {
+      "id": "horizon-sight",
+      "name": "Horizon Sight",
+      "type": "passive",
+      "affinity": "wind",
+      "rank": "B",
+      "manaCost": "passive",
+      "user": "nora-winters",
+      "unlockChapter": "ch-0400",
+      "description": "Extended visual range; maps terrain anomalies"
+    },
+    {
+      "id": "iron-wall",
+      "name": "Iron Wall",
+      "type": "spell",
+      "affinity": "earth",
+      "rank": "C",
+      "manaCost": "moderate",
+      "user": "rowan-hale",
+      "unlockChapter": "ch-0300",
+      "description": "Temporary earth barrier; firefighter-trained instinct channel"
+    },
+    {
+      "id": "beast-call",
+      "name": "Beast Call",
+      "type": "contract",
+      "affinity": "beast",
+      "rank": "B",
+      "manaCost": "bond",
+      "description": "Voluntary beast contract initiation; unstable if forced"
+    },
+    {
+      "id": "dragon-breath-resist",
+      "name": "Dragon Breath Resist",
+      "type": "rune",
+      "affinity": "rune",
+      "rank": "A",
+      "manaCost": "engraved",
+      "description": "Marcus-tier rune plating; reduces elemental dragon breath damage"
+    },
+    {
+      "id": "void-step",
+      "name": "Void Step",
+      "type": "spell",
+      "affinity": "void",
+      "rank": "A",
+      "manaCost": "high",
+      "description": "Forbidden short blink through void; corruption risk"
+    },
+    {
+      "id": "world-bloom",
+      "name": "World Bloom",
+      "type": "spell",
+      "affinity": "healing",
+      "rank": "S",
+      "manaCost": "life-sacrifice",
+      "user": "elena-hale",
+      "unlockChapter": "ch-0800",
+      "description": "Legendary healing field; costs years of vitality"
+    },
+    {
+      "id": "tempest-wing",
+      "name": "Tempest Wing",
+      "type": "spell",
+      "affinity": "wind",
+      "rank": "A",
+      "manaCost": "high",
+      "description": "Storm drake contract ability; localized hurricane"
+    },
+    {
+      "id": "memory-ward",
+      "name": "Memory Ward",
+      "type": "spell",
+      "affinity": "memory",
+      "rank": "B",
+      "manaCost": "moderate",
+      "description": "Protects against memory theft in Forgotten Palace"
+    },
+    {
+      "id": "ember-strike",
+      "name": "Ember Strike",
+      "type": "spell",
+      "affinity": "fire",
+      "rank": "E",
+      "manaCost": "low",
+      "description": "Short-range flame burst; common Iron guild technique"
+    },
+    {
+      "id": "lifefire-touch",
+      "name": "Lifefire Touch",
+      "type": "spell",
+      "affinity": "healing",
+      "rank": "B",
+      "manaCost": "high-sacrifice",
+      "user": "elena-hale",
+      "description": "Powerful healing; costs healer vitality or borrowed life"
+    },
+    {
+      "id": "storm-call",
+      "name": "Storm Call",
+      "type": "spell",
+      "affinity": "lightning",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Summons localized lightning; requires storm crystal focus"
+    },
+    {
+      "id": "rune-light",
+      "name": "Rune Light",
+      "type": "rune",
+      "affinity": "rune",
+      "rank": "E",
+      "manaCost": "very-low",
+      "user": "marcus-vale",
+      "unlockChapter": "ch-0210",
+      "description": "Persistent illumination rune; Sanctuary infrastructure base"
+    },
+    {
+      "id": "flame-bolt",
+      "name": "Flame Bolt",
+      "type": "spell",
+      "affinity": "fire",
+      "rank": "E",
+      "manaCost": "low",
+      "description": "Basic fire projectile; first spell most awakened learn"
+    },
+    {
+      "id": "fire-wall",
+      "name": "Fire Wall",
+      "type": "spell",
+      "affinity": "fire",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Sheet of flame barrier; blocks corridors and beast charges"
+    },
+    {
+      "id": "inferno-surge",
+      "name": "Inferno Surge",
+      "type": "spell",
+      "affinity": "fire",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Area burst of superheated air; exhaustion follows"
+    },
+    {
+      "id": "dragonfire-channel",
+      "name": "Dragonfire Channel",
+      "type": "spell",
+      "affinity": "fire",
+      "rank": "A",
+      "manaCost": "extreme",
+      "description": "Contract-assisted dragon breath emulation; requires beast bond"
+    },
+    {
+      "id": "water-jet",
+      "name": "Water Jet",
+      "type": "spell",
+      "affinity": "water",
+      "rank": "E",
+      "manaCost": "low",
+      "description": "Pressurized water stream; cuts and blinds"
+    },
+    {
+      "id": "mist-veil",
+      "name": "Mist Veil",
+      "type": "spell",
+      "affinity": "water",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Dense fog concealment; dampens fire affinity nearby"
+    },
+    {
+      "id": "tide-anchor",
+      "name": "Tide Anchor",
+      "type": "spell",
+      "affinity": "water",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Slows enemies in wet terrain; stabilizes boats"
+    },
+    {
+      "id": "deep-current",
+      "name": "Deep Current",
+      "type": "spell",
+      "affinity": "water",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Pulls targets with crushing water pressure"
+    },
+    {
+      "id": "stone-skin",
+      "name": "Stone Skin",
+      "type": "spell",
+      "affinity": "earth",
+      "rank": "E",
+      "manaCost": "low",
+      "description": "Hardens skin briefly; common survival technique"
+    },
+    {
+      "id": "earth-spike",
+      "name": "Earth Spike",
+      "type": "spell",
+      "affinity": "earth",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Raises stone spike from ground; line-of-sight to soil required"
+    },
+    {
+      "id": "seismic-stomp",
+      "name": "Seismic Stomp",
+      "type": "spell",
+      "affinity": "earth",
+      "rank": "C",
+      "manaCost": "high",
+      "description": "Ground shockwave; staggers large beasts"
+    },
+    {
+      "id": "titan-grip",
+      "name": "Titan Grip",
+      "type": "spell",
+      "affinity": "earth",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Gravitational crush via compressed earth; Rowan-tier variant"
+    },
+    {
+      "id": "gale-push",
+      "name": "Gale Push",
+      "type": "spell",
+      "affinity": "wind",
+      "rank": "E",
+      "manaCost": "low",
+      "description": "Concussive gust; knocks back F-rank threats"
+    },
+    {
+      "id": "wind-cut",
+      "name": "Wind Cut",
+      "type": "spell",
+      "affinity": "wind",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Compressed air blade; silent ranged attack"
+    },
+    {
+      "id": "cyclone-veil",
+      "name": "Cyclone Veil",
+      "type": "spell",
+      "affinity": "wind",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Spinning wind barrier deflects projectiles"
+    },
+    {
+      "id": "sky-dominion",
+      "name": "Sky Dominion",
+      "type": "spell",
+      "affinity": "wind",
+      "rank": "A",
+      "manaCost": "extreme",
+      "description": "Regional wind control; storm drake or roc contract assists"
+    },
+    {
+      "id": "static-field",
+      "name": "Static Field",
+      "type": "spell",
+      "affinity": "lightning",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Paralyzing static aura; metal armor conducts"
+    },
+    {
+      "id": "chain-arrest",
+      "name": "Chain Arrest",
+      "type": "spell",
+      "affinity": "lightning",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Lightning jumps between nearby targets"
+    },
+    {
+      "id": "thunder-lance",
+      "name": "Thunder Lance",
+      "type": "spell",
+      "affinity": "lightning",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Focused lightning bolt; Darius-tier offensive line"
+    },
+    {
+      "id": "frost-lance",
+      "name": "Frost Lance",
+      "type": "spell",
+      "affinity": "ice",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Ice projectile; slows on hit"
+    },
+    {
+      "id": "ice-armor",
+      "name": "Ice Armor",
+      "type": "spell",
+      "affinity": "ice",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Crystalline plating; brittle against fire"
+    },
+    {
+      "id": "blizzard-field",
+      "name": "Blizzard Field",
+      "type": "spell",
+      "affinity": "ice",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Localized snowstorm; visibility and movement penalty"
+    },
+    {
+      "id": "shadow-cloak",
+      "name": "Shadow Cloak",
+      "type": "spell",
+      "affinity": "shadow",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Diminished visibility in darkness; not true invisibility"
+    },
+    {
+      "id": "umbra-step",
+      "name": "Umbra Step",
+      "type": "spell",
+      "affinity": "shadow",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Short blink through shadow; requires darkness"
+    },
+    {
+      "id": "nightmare-shroud",
+      "name": "Nightmare Shroud",
+      "type": "spell",
+      "affinity": "shadow",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Induces fear hallucinations; City of Shadows variant"
+    },
+    {
+      "id": "radiance-bolt",
+      "name": "Radiance Bolt",
+      "type": "spell",
+      "affinity": "light",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Holy-light projectile; harms undead and shades"
+    },
+    {
+      "id": "dawn-ward",
+      "name": "Dawn Ward",
+      "type": "spell",
+      "affinity": "light",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Protective light circle; Aria-line technique"
+    },
+    {
+      "id": "solar-pillar",
+      "name": "Solar Pillar",
+      "type": "spell",
+      "affinity": "light",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Column of light; burns shadow aberrations"
+    },
+    {
+      "id": "iron-skin",
+      "name": "Iron Skin",
+      "type": "spell",
+      "affinity": "metal",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Metal-infused skin; conducts lightning"
+    },
+    {
+      "id": "blade-rain",
+      "name": "Blade Rain",
+      "type": "spell",
+      "affinity": "metal",
+      "rank": "C",
+      "manaCost": "high",
+      "description": "Magnetized metal shards; requires scrap or gear"
+    },
+    {
+      "id": "vine-bind",
+      "name": "Vine Bind",
+      "type": "spell",
+      "affinity": "wood",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Entangling vines from soil or wood; World Tree variant stronger"
+    },
+    {
+      "id": "thorn-wall",
+      "name": "Thorn Wall",
+      "type": "spell",
+      "affinity": "wood",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Barrier of thorny growth; damages on contact"
+    },
+    {
+      "id": "venom-touch",
+      "name": "Venom Touch",
+      "type": "spell",
+      "affinity": "poison",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Contact poison; slow acting"
+    },
+    {
+      "id": "miasma-cloud",
+      "name": "Miasma Cloud",
+      "type": "spell",
+      "affinity": "poison",
+      "rank": "C",
+      "manaCost": "high",
+      "description": "Toxic fog; friendly fire risk"
+    },
+    {
+      "id": "prism-shield",
+      "name": "Prism Shield",
+      "type": "spell",
+      "affinity": "crystal",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Refracts elemental attacks; shatters under S-rank"
+    },
+    {
+      "id": "shard-burst",
+      "name": "Shard Burst",
+      "type": "spell",
+      "affinity": "crystal",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Crystal shrapnel explosion"
+    },
+    {
+      "id": "blood-pact",
+      "name": "Blood Pact",
+      "type": "spell",
+      "affinity": "blood",
+      "rank": "B",
+      "manaCost": "life-sacrifice",
+      "description": "Power boost via blood oath; corruption if broken"
+    },
+    {
+      "id": "sanguine-lance",
+      "name": "Sanguine Lance",
+      "type": "spell",
+      "affinity": "blood",
+      "rank": "C",
+      "manaCost": "high",
+      "description": "Blood-shaped projectile; drains caster slightly"
+    },
+    {
+      "id": "weight-crush",
+      "name": "Weight Crush",
+      "type": "spell",
+      "affinity": "gravity",
+      "rank": "C",
+      "manaCost": "high",
+      "description": "Increases local gravity on target"
+    },
+    {
+      "id": "levitation-pulse",
+      "name": "Levitation Pulse",
+      "type": "spell",
+      "affinity": "gravity",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Brief zero-g zone; disorients flyers"
+    },
+    {
+      "id": "echo-blast",
+      "name": "Echo Blast",
+      "type": "spell",
+      "affinity": "sound",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Concussive sonic wave; shatters glass"
+    },
+    {
+      "id": "silence-ward",
+      "name": "Silence Ward",
+      "type": "spell",
+      "affinity": "sound",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Nullifies sound in radius; counters echo servants"
+    },
+    {
+      "id": "dream-walk",
+      "name": "Dream Walk",
+      "type": "spell",
+      "affinity": "dream",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Enter shared dreamscape; Limbo-adjacent risk"
+    },
+    {
+      "id": "nightmare-lure",
+      "name": "Nightmare Lure",
+      "type": "spell",
+      "affinity": "dream",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Pulls target into waking nightmare; mental defense resists"
+    },
+    {
+      "id": "feral-surge",
+      "name": "Feral Surge",
+      "type": "spell",
+      "affinity": "beast",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Temporary physical boost; beast affinity amplifies"
+    },
+    {
+      "id": "primal-roar",
+      "name": "Primal Roar",
+      "type": "spell",
+      "affinity": "beast",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Intimidation wave; lesser beasts flee"
+    },
+    {
+      "id": "ward-sigil",
+      "name": "Ward Sigil",
+      "type": "rune",
+      "affinity": "rune",
+      "rank": "D",
+      "manaCost": "engraved",
+      "description": "Basic protective rune circle; Marcus teaches first"
+    },
+    {
+      "id": "binding-circle",
+      "name": "Binding Circle",
+      "type": "rune",
+      "affinity": "rune",
+      "rank": "C",
+      "manaCost": "engraved",
+      "description": "Restrains summoned or contracted beasts briefly"
+    },
+    {
+      "id": "enchant-weapon",
+      "name": "Enchant Weapon",
+      "type": "rune",
+      "affinity": "rune",
+      "rank": "D",
+      "manaCost": "engraved",
+      "description": "Temporary mana channel on blade; Sanctuary forge standard"
+    },
+    {
+      "id": "mend-wound",
+      "name": "Mend Wound",
+      "type": "spell",
+      "affinity": "healing",
+      "rank": "E",
+      "manaCost": "low",
+      "description": "Closes minor wounds; guild medic staple"
+    },
+    {
+      "id": "purify",
+      "name": "Purify",
+      "type": "spell",
+      "affinity": "healing",
+      "rank": "D",
+      "manaCost": "moderate",
+      "description": "Removes poison and corruption; slow on deep taint"
+    },
+    {
+      "id": "vital-surge",
+      "name": "Vital Surge",
+      "type": "spell",
+      "affinity": "healing",
+      "rank": "C",
+      "manaCost": "high",
+      "description": "Restores stamina and minor injuries; Elena teaches variant"
+    },
+    {
+      "id": "distance-fold",
+      "name": "Distance Fold",
+      "type": "spell",
+      "affinity": "spatial",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Mid-range teleport; precursor to Fold Step"
+    },
+    {
+      "id": "portal-gate",
+      "name": "Portal Gate",
+      "type": "spell",
+      "affinity": "spatial",
+      "rank": "A",
+      "manaCost": "extreme",
+      "description": "Two-way portal between marked anchors; Cassian late-saga"
+    },
+    {
+      "id": "anchor-point",
+      "name": "Anchor Point",
+      "type": "spell",
+      "affinity": "spatial",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Marks location for spatial return; max three anchors"
+    },
+    {
+      "id": "moment-stretch",
+      "name": "Moment Stretch",
+      "type": "spell",
+      "affinity": "temporal",
+      "rank": "B",
+      "manaCost": "extreme",
+      "description": "Subjective time dilation; Hourglass of Stillness assists"
+    },
+    {
+      "id": "time-anchor",
+      "name": "Time Anchor",
+      "type": "spell",
+      "affinity": "temporal",
+      "rank": "A",
+      "manaCost": "extreme",
+      "description": "Freezes small zone briefly; Limbo-only without relic"
+    },
+    {
+      "id": "void-gaze",
+      "name": "Void Gaze",
+      "type": "spell",
+      "affinity": "void",
+      "rank": "B",
+      "manaCost": "high",
+      "description": "Reveals hidden rift entities; sanity strain"
+    },
+    {
+      "id": "entropy-tear",
+      "name": "Entropy Tear",
+      "type": "spell",
+      "affinity": "void",
+      "rank": "A",
+      "manaCost": "extreme",
+      "description": "Localized matter unmaking; forbidden outside council approval"
+    },
+    {
+      "id": "power-strike",
+      "name": "Power Strike",
+      "type": "technique",
+      "affinity": "none",
+      "rank": "E",
+      "manaCost": "low",
+      "description": "Mana-infused melee blow; every explorer learns this"
+    },
+    {
+      "id": "evasion-roll",
+      "name": "Evasion Roll",
+      "type": "technique",
+      "affinity": "none",
+      "rank": "E",
+      "manaCost": "very-low",
+      "description": "Combat dodge with brief mana burst"
+    },
+    {
+      "id": "trap-sense",
+      "name": "Trap Sense",
+      "type": "passive",
+      "affinity": "none",
+      "rank": "D",
+      "manaCost": "passive",
+      "description": "Detects dungeon traps and ambush points"
+    },
+    {
+      "id": "mana-sight",
+      "name": "Mana Sight",
+      "type": "passive",
+      "affinity": "none",
+      "rank": "C",
+      "manaCost": "passive",
+      "user": "leon-hale",
+      "description": "Perceive mana as color and pressure; Leon's teaching line"
+    },
+    {
+      "id": "memory-echo",
+      "name": "Memory Echo",
+      "type": "spell",
+      "affinity": "memory",
+      "rank": "C",
+      "manaCost": "moderate",
+      "description": "Replay surface memories from objects or places"
+    }
+  ]
+}

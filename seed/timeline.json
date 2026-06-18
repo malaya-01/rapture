@@ -1,0 +1,39 @@
+{
+  "events": [
+    {"id": "day-zero", "name": "Day Zero — The Rapture", "chapter": 1, "inWorldDay": 0, "age": "rapture-era", "description": "Sky fractures; mana floods Earth; civilization collapses."},
+    {"id": "we-are-alone", "name": "The Last Broadcast", "chapter": 10, "inWorldDay": 9, "description": "Emergency broadcast ends: humanity is alone."},
+    {"id": "first-dungeon-sighting", "name": "First Dungeon Rises", "chapter": 30, "inWorldDay": 35, "description": "Colossal structure emerges; world changes again."},
+    {"id": "adrian-cassian-meet", "name": "The Hunter", "chapter": 81, "inWorldDay": 120, "description": "Adrian and Cassian meet; friendship begins."},
+    {"id": "dungeon-entered", "name": "The First Step Below", "chapter": 120, "inWorldDay": 180, "description": "Expedition enters first dungeon."},
+    {"id": "were-not-alone", "name": "Connected Worlds Map", "chapter": 180, "inWorldDay": 250, "description": "Map of dozens of connected worlds discovered."},
+    {"id": "highway-camp-named", "name": "Highway Camp Named", "chapter": 200, "inWorldDay": 280},
+    {"id": "sanctuary-founded", "name": "Sanctuary Founded", "chapter": 266, "inWorldDay": 400, "description": "Settlement officially named Sanctuary."},
+    {"id": "founder-council", "name": "Founder Council Created", "chapter": 300, "inWorldDay": 450},
+    {"id": "viktor-introduced", "name": "Iron Dominion Introduced", "chapter": 404, "inWorldDay": 600},
+    {"id": "seventh-gate-warning", "name": "Do Not Open the Seventh Gate", "chapter": 590, "inWorldDay": 850},
+    {"id": "dragon-accords", "name": "Dragon Accords Signed", "chapter": 788, "inWorldDay": 1100},
+    {"id": "golden-years-peak", "name": "Festival of Light", "chapter": 810, "inWorldDay": 1150},
+    {"id": "gate-begins", "name": "It's Begun", "chapter": 800, "inWorldDay": 1140, "description": "Silver fracture on earth; Seventh Gate opening."},
+    {"id": "cassian-disappears", "name": "Cassian Disappears", "chapter": 880, "inWorldDay": 1250},
+    {"id": "three-years-pass", "name": "Three Years Absence", "chapter": 920, "inWorldDay": 1340},
+    {"id": "limbo-aria", "name": "Cassian Meets Aria", "chapter": 921, "inWorldDay": 1341},
+    {"id": "cassian-returns", "name": "Cassian Returns", "chapter": 1041, "inWorldDay": 1500},
+    {"id": "identity-reveal", "name": "Identity Revealed", "chapter": 1090, "inWorldDay": 1550},
+    {"id": "cycle-truth", "name": "Cycle Seven Truth", "chapter": 1140, "inWorldDay": 1600},
+    {"id": "adrian-death", "name": "Adrian Hale Dies", "chapter": 1170, "inWorldDay": 1650, "description": "Peaceful death after final conversation with Cassian."},
+    {"id": "velkarion-sacrifice", "name": "Velkarion Sacrifice", "chapter": 1165, "inWorldDay": 1645},
+    {"id": "seventh-choice", "name": "The Seventh Choice", "chapter": 1175, "inWorldDay": 1660, "description": "Cycle broken; Eighth Cycle begins."},
+    {"id": "series-finale", "name": "The Eighth Dawn", "chapter": 1200, "inWorldDay": 1700}
+  ],
+  "greatAges": [
+    {"id": "age-0", "name": "Silent Creation"},
+    {"id": "age-1", "name": "Age of Titans"},
+    {"id": "age-2", "name": "Age of Dragons"},
+    {"id": "age-3", "name": "Age of Empires"},
+    {"id": "age-4", "name": "Age of Collapse"},
+    {"id": "age-5", "name": "Hidden Age"},
+    {"id": "age-6", "name": "Modern Age"},
+    {"id": "age-7", "name": "Rapture Era"},
+    {"id": "age-8", "name": "Sanctuary Era"}
+  ]
+}

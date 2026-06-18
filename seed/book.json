@@ -1,0 +1,13 @@
+{
+  "id": "rapture-cycle",
+  "title": "Rapture",
+  "subtitle": "The Fractured Sky",
+  "author": "Aether Vale",
+  "description": "When the sky fractures and dragons fall, an ordinary omega named Cassian Reed survives among strangers who will become family, founders, and rivals—while the slow bond between him and alpha Adrian Hale grows across catastrophe, rebuilding, and choice.",
+  "genre": ["Post-Apocalyptic Fantasy", "Survival", "Romance", "Epic Fantasy"],
+  "totalChapters": 1200,
+  "totalVolumes": 21,
+  "targetWordsPerChapter": { "min": 1800, "max": 2400 },
+  "primaryPOV": "Cassian Reed",
+  "codename": "survival-and-romance"
+}

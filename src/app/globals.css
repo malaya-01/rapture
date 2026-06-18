@@ -1,26 +1,316 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg: #090807;
+  --bg-elevated: #12100e;
+  --bg-surface: #1a1714;
+  --paper: #f5efe2;
+  --text: #e7e0d0;
+  --text-muted: #a89f8f;
+  --gold: #d4af37;
+  --gold-dim: #8b6b2e;
+  --accent: #8b6b2e;
+  --danger: #8b2e2e;
+  --magic: #5a6bcf;
+  --success: #4f8b5a;
+  --ink: #2d241a;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-bg: var(--bg);
+  --color-bg-elevated: var(--bg-elevated);
+  --color-bg-surface: var(--bg-surface);
+  --color-paper: var(--paper);
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-gold: var(--gold);
+  --color-gold-dim: var(--gold-dim);
+  --color-accent: var(--accent);
+  --color-danger: var(--danger);
+  --color-magic: var(--magic);
+  --color-success: var(--success);
+  --color-ink: var(--ink);
+  --font-display: var(--font-cinzel);
+  --font-serif: var(--font-cormorant);
+  --font-ui: var(--font-inter);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-cormorant), Georgia, serif;
+}
+
+.text-ui { font-family: var(--font-inter), system-ui, sans-serif; }
+
+/* ── Atmosphere ── */
+.atmosphere {
+  background-color: var(--bg);
+  background-image:
+    radial-gradient(ellipse 70% 45% at 50% -5%, rgba(212, 175, 55, 0.05), transparent 55%),
+    radial-gradient(ellipse 50% 35% at 85% 90%, rgba(90, 107, 207, 0.04), transparent 50%),
+    linear-gradient(180deg, #070605 0%, var(--bg) 35%, #0c0a08 100%);
+}
+
+.vignette::before {
+  content: "";
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  background: radial-gradient(ellipse at center, transparent 45%, rgba(0, 0, 0, 0.55) 100%);
+}
+
+.candle-glow {
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+  background: radial-gradient(
+    circle,
+    rgba(255, 154, 60, 0.12) 0%,
+    rgba(212, 175, 55, 0.05) 35%,
+    transparent 70%
+  );
+  animation: candle-flicker 6s ease-in-out infinite;
+}
+
+@keyframes candle-flicker {
+  0%, 100% { opacity: 0.7; transform: scale(1); }
+  33% { opacity: 0.9; transform: scale(1.03); }
+  66% { opacity: 0.75; transform: scale(0.98); }
+}
+
+/* ── Page shell (clears fixed nav) ── */
+.page-shell {
+  padding-top: 1.5rem;
+  padding-bottom: 5.5rem;
+}
+
+@media (min-width: 768px) {
+  .page-shell {
+    padding-top: 4.5rem;
+    padding-bottom: 2.5rem;
+  }
+}
+
+/* Immersive reader — clears fixed toolbar + mobile bottom nav */
+.reader-shell {
+  padding-bottom: 11.5rem;
+}
+
+@media (min-width: 768px) {
+  .reader-shell {
+    padding-bottom: 6rem;
+  }
+}
+
+/* ── Reader typography ── */
+.reader-prose {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-size: 22px;
+  line-height: 2;
+  color: var(--text);
+}
+
+.reader-prose p {
+  margin-bottom: 1.5rem;
+  text-align: justify;
+  hyphens: auto;
+}
+
+.reader-prose p:last-child { margin-bottom: 0; }
+
+.reader-prose .drop-cap::first-letter {
+  float: left;
+  font-family: var(--font-cinzel), serif;
+  font-size: 4.2rem;
+  line-height: 0.8;
+  margin: 0.08em 0.14em 0 0;
+  color: var(--gold);
+  font-weight: 600;
+}
+
+.reader-prose strong { color: var(--paper); font-weight: 600; }
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.pretext-flow__line {
+  white-space: pre;
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* ── Titles ── */
+.title-legend {
+  font-family: var(--font-cinzel), serif;
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  line-height: 1.1;
+}
+
+.title-chapter {
+  font-family: var(--font-cinzel), serif;
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  line-height: 1.25;
+}
+
+.label-volume {
+  font-family: var(--font-cinzel), serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+}
+
+.embossed-gold {
+  background: linear-gradient(180deg, #f0d060, #d4af37 40%, #8b6b2e 70%, #d4af37);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* ── Artwork frames ── */
+.artwork-frame {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(212, 175, 55, 0.15);
+  background: linear-gradient(160deg, rgba(26, 23, 20, 0.9), rgba(9, 8, 7, 0.95));
+}
+
+.artwork-frame::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 55%, rgba(9, 8, 7, 0.5) 100%);
+  pointer-events: none;
+}
+
+/* ── Scroll progress ── */
+.scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--gold-dim), var(--gold));
+  z-index: 100;
+  transform-origin: left;
+}
+
+/* ── Collector volume ── */
+.volume-spine {
+  background: linear-gradient(135deg, #1a1410 0%, #2a1f18 50%, #1a1410 100%);
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.6s ease;
+}
+
+.volume-spine:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), 0 0 30px rgba(212, 175, 55, 0.08);
+}
+
+/* ── Codex ── */
+.codex-panel {
+  background: linear-gradient(145deg, rgba(18, 16, 14, 0.95), rgba(9, 8, 7, 0.98));
+  border: 1px solid rgba(212, 175, 55, 0.1);
+  transition: border-color 0.5s ease, box-shadow 0.5s ease;
+}
+
+.codex-panel:hover {
+  border-color: rgba(212, 175, 55, 0.28);
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.4);
+}
+
+/* ── Chronicle manuscript ── */
+.manuscript {
+  background: linear-gradient(135deg, rgba(245, 239, 226, 0.03), rgba(18, 16, 14, 0.8));
+  border: 1px solid rgba(212, 175, 55, 0.12);
+}
+
+.manuscript-monumental {
+  border-color: rgba(212, 175, 55, 0.25);
+  box-shadow: 0 0 40px rgba(212, 175, 55, 0.06);
+}
+
+/* ── Map node ── */
+.map-node {
+  cursor: pointer;
+  transition: filter 0.4s ease, transform 0.4s ease;
+}
+
+.map-node:hover {
+  filter: drop-shadow(0 0 12px rgba(212, 175, 55, 0.5));
+  transform: scale(1.08);
+}
+
+::selection {
+  background: rgba(212, 175, 55, 0.25);
+  color: var(--paper);
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.2);
+  border-radius: 3px;
+}
+
+/* ── Reader settings ── */
+.reader-font-sm .reader-prose { font-size: 18px; line-height: 1.9; }
+.reader-font-md .reader-prose { font-size: 22px; line-height: 2; }
+.reader-font-lg .reader-prose { font-size: 26px; line-height: 2.05; }
+
+.reader-theme-sepia {
+  --bg: #1a1610;
+  --text: #e8dcc8;
+  --text-muted: #a89878;
+}
+.reader-theme-sepia .reader-prose { color: #e8dcc8; }
+
+.reader-theme-paper {
+  --bg: #f0e8d8;
+  --text: #2d241a;
+  --text-muted: #5c5040;
+}
+.reader-theme-paper .reader-prose { color: #2d241a; }
+.reader-theme-paper .codex-link { color: #6b4f1d !important; }
+
+.reader-reduced-motion *,
+.reader-reduced-motion *::before,
+.reader-reduced-motion *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+}
+
+.reader-prose .codex-link {
+  text-decoration-thickness: 1px;
+  cursor: pointer;
+}
+
+.reader-reduced-motion .codex-link-tooltip {
+  animation: none !important;
+}
+
+@keyframes codex-tooltip-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.codex-link-tooltip {
+  animation: codex-tooltip-in 0.15s ease-out;
 }

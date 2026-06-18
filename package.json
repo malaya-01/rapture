@@ -6,9 +6,17 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "seed:manifest": "node seed/scripts/generate-manifest.mjs",
+    "seed:vol-01": "node seed/scripts/generate-vol-01-outline.mjs",
+    "seed:encyclopedia": "node seed/scripts/generate-encyclopedia-seed.mjs",
+    "seed:chapters": "node seed/scripts/compile-chapters.mjs",
+    "seed:sync": "node seed/scripts/compile-chapters.mjs && node seed/scripts/sync-app-data.mjs",
+    "seed:audio": "node seed/scripts/generate-placeholder-audio.mjs",
+    "test": "vitest run"
   },
   "dependencies": {
+    "@chenglou/pretext": "^0.0.8",
     "@radix-ui/react-dialog": "^1.1.17",
     "@radix-ui/react-progress": "^1.1.10",
     "@radix-ui/react-scroll-area": "^1.2.12",
@@ -21,6 +29,7 @@
     "framer-motion": "^12.40.0",
     "lucide-react": "^1.20.0",
     "next": "16.2.9",
+    "pdfkit": "^0.19.1",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "tailwind-merge": "^3.6.0",
@@ -29,11 +38,13 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+    "@types/pdfkit": "^0.17.6",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^3.2.6"
   }
 }

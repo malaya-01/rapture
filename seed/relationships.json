@@ -1,0 +1,20 @@
+{
+  "relationships": [
+    {"from": "cassian-reed", "to": "adrian-hale", "type": "slow-burn-romance", "label": "Friends → Partners", "minChapter": 1, "revealedChapter": 1081, "stages": [{"stage": "strangers", "untilChapter": 80}, {"stage": "friends", "untilChapter": 500}, {"stage": "best-friends", "untilChapter": 880}, {"stage": "loss", "untilChapter": 1080}, {"stage": "love", "untilChapter": 1200}]},
+    {"from": "adrian-hale", "to": "selene-arkwright", "type": "romance", "label": "Partners (early)", "minChapter": 3, "endsChapter": 880},
+    {"from": "rowan-hale", "to": "elena-hale", "type": "family", "label": "Spouses", "minChapter": 2},
+    {"from": "rowan-hale", "to": "adrian-hale", "type": "family", "label": "Brothers", "minChapter": 2},
+    {"from": "adrian-hale", "to": "rowan-hale", "type": "family", "label": "Brothers", "minChapter": 2},
+    {"from": "marcus-vale", "to": "iris-vale", "type": "family", "label": "Spouses", "minChapter": 5},
+    {"from": "marcus-vale", "to": "lily-vale", "type": "family", "label": "Parent-Child", "minChapter": 5},
+    {"from": "cassian-reed", "to": "selene-arkwright", "type": "ally", "label": "Friendly → Tragic", "minChapter": 97},
+    {"from": "cassian-reed", "to": "viktor-drake", "type": "rival", "label": "Respect → Ideological conflict", "minChapter": 404},
+    {"from": "adrian-hale", "to": "viktor-drake", "type": "rival", "label": "Professional competition", "minChapter": 412},
+    {"from": "rowan-hale", "to": "viktor-drake", "type": "rival", "label": "Mutual respect", "minChapter": 404},
+    {"from": "cassian-reed", "to": "velkarion", "type": "ally", "label": "Mutual respect", "minChapter": 721},
+    {"from": "nora-winters", "to": "whisper", "type": "companion", "label": "Beast contract", "minChapter": 34},
+    {"from": "atlas-hale", "to": "ash", "type": "companion", "label": "Beast contract", "minChapter": 845},
+    {"from": "cassian-reed", "to": "aria", "type": "romance", "label": "Limbo partnership", "minChapter": 921, "revealedChapter": 1081},
+    {"from": "atlas-hale", "to": "cassian-reed", "type": "mentor", "label": "Mentor", "minChapter": 850}
+  ]
+}

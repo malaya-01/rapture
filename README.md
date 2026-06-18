@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Rapture: The Fractured Sky
+
+Premium immersive novel reader and world codex for the **Rapture** saga (Cycle Seven).
+
+## Features
+
+- **Immersive scroll reader** — Pretext flow figures, auto-save, restore on return, per-chapter URLs (`/read/ch-0001`)
+- **Reader settings** — Font size, line width, sepia/paper themes, reduced motion, progress export/import
+- **Library** — All 1,200 chapters from manifest (locked until published + compiled)
+- **World Codex** — Characters, equipment, artifacts, dungeons, factions, magic (with detail pages)
+- **Spoiler gates** — Relationships and codex entries respect `minChapter` / `firstAppearance`
+- **18+ maturity gate** — Adult content notice on first visit
+- **Bestiary, map, chronicle, lore network** — Illustrated encyclopedia with image prompt workflow
+- **PWA** — Web manifest + basic offline shell
+
+## Tech Stack
+
+- Next.js 16 (App Router)
+- TypeScript, Tailwind CSS v4, Framer Motion, Zustand
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
+cp .env.example .env.local   # optional — set NEXT_PUBLIC_SITE_URL for production
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Seed pipeline
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run seed:manifest      # after arcs.json changes
+npm run seed:encyclopedia  # monsters, equipment, artifacts, dungeons, skills
+npm run seed:chapters      # compile content/chapters/*.md
+npm run seed:sync          # chapters + full app data sync
+npm run seed:audio         # placeholder ambience WAV files (optional)
+```
 
-## Learn More
+## Project structure
 
-To learn more about Next.js, take a look at the following resources:
+```
+content/chapters/     # Prose source (ch-XXXX.md)
+seed/                 # Machine-readable canon JSON
+knowledgebase/        # Story bible & outlines
+src/app/              # Next.js routes
+src/components/       # Reader, codex, map, UI
+src/data/             # Generated from seed (do not hand-edit)
+src/store/            # Reading progress (localStorage)
+public/assets/        # Images, audio, sw.js
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Writing workflow
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+See `knowledgebase/INSTRUCTIONS.md`. After editing a chapter:
 
-## Deploy on Vercel
+1. Save to `content/chapters/ch-XXXX.md`
+2. Run `npm run seed:sync`
+3. Set `status: published` in `seed/chapter-manifest.json` when ready
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Tests & CI
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm test        # vitest unit tests
+npm run lint
+npm run build
+```
+
+GitHub Actions runs lint, typecheck, test, and build on push/PR.
+
+## Assets
+
+- **Images:** `public/assets/images/` — see `/images` repository page
+- **Audio:** `public/assets/audio/` — `library`, `rain`, `wind`, `fireplace`, `music` (mp3/ogg/wav)

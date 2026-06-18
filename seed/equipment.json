@@ -1,0 +1,290 @@
+{
+  "generatedAt": "2026-06-17T15:15:16.923Z",
+  "count": 19,
+  "equipment": [
+    {
+      "id": "rusted-machete",
+      "name": "Rusted Machete",
+      "type": "weapon",
+      "subtype": "blade",
+      "rank": "F",
+      "gearGrade": "scrap",
+      "stats": {
+        "damage": "low",
+        "durability": "poor"
+      },
+      "source": "craft",
+      "imagePath": "assets/images/equipment/rusted-machete.png",
+      "imagePrompt": "A worn rusted machete on concrete rubble, realistic fantasy art"
+    },
+    {
+      "id": "salvage-knife",
+      "name": "Salvage Knife",
+      "type": "weapon",
+      "subtype": "blade",
+      "rank": "E",
+      "gearGrade": "salvaged",
+      "stats": {
+        "damage": "low-moderate"
+      },
+      "source": "loot:general",
+      "imagePath": "assets/images/equipment/salvage-knife.png",
+      "imagePrompt": "A practical survival knife with tape-wrapped handle, realistic fantasy art"
+    },
+    {
+      "id": "ember-hide-jacket",
+      "name": "Ember Hide Jacket",
+      "type": "armor",
+      "subtype": "light",
+      "rank": "E",
+      "gearGrade": "salvaged",
+      "stats": {
+        "defense": "low",
+        "fireResist": "moderate"
+      },
+      "source": "craft:ember-hide",
+      "imagePath": "assets/images/equipment/ember-hide-jacket.png",
+      "imagePrompt": "A jacket made from ember-colored monster hide, realistic fantasy art"
+    },
+    {
+      "id": "rune-forged-blade",
+      "name": "Rune-Forged Blade",
+      "type": "weapon",
+      "subtype": "sword",
+      "rank": "D",
+      "gearGrade": "standard",
+      "stats": {
+        "damage": "moderate",
+        "manaChannel": true
+      },
+      "source": "craft:marcus-workshop",
+      "imagePath": "assets/images/equipment/rune-forged-blade.png",
+      "imagePrompt": "A sword with glowing blue runes along the blade, realistic fantasy art"
+    },
+    {
+      "id": "ironthorn-shield",
+      "name": "Ironthorn Shield",
+      "type": "armor",
+      "subtype": "shield",
+      "rank": "D",
+      "gearGrade": "standard",
+      "stats": {
+        "defense": "moderate",
+        "chargeResist": "high"
+      },
+      "source": "craft:ironthorn-plate",
+      "imagePath": "assets/images/equipment/ironthorn-shield.png",
+      "imagePrompt": "A shield made from metallic boar plates, realistic fantasy art"
+    },
+    {
+      "id": "storm-crystal-staff",
+      "name": "Storm Crystal Staff",
+      "type": "weapon",
+      "subtype": "staff",
+      "rank": "C",
+      "gearGrade": "refined",
+      "affinity": "lightning",
+      "stats": {
+        "damage": "moderate-high",
+        "spellAmp": "lightning"
+      },
+      "source": "craft:storm-crystal",
+      "imagePath": "assets/images/equipment/storm-crystal-staff.png",
+      "imagePrompt": "A wooden staff topped with a glowing lightning crystal, realistic fantasy art"
+    },
+    {
+      "id": "void-silk-cloak",
+      "name": "Void Silk Cloak",
+      "type": "armor",
+      "subtype": "cloak",
+      "rank": "C",
+      "gearGrade": "refined",
+      "stats": {
+        "stealth": "high",
+        "psychicResist": "low"
+      },
+      "source": "craft:void-silk",
+      "imagePath": "assets/images/equipment/void-silk-cloak.png",
+      "imagePrompt": "A dark shimmering cloak that bends light, realistic fantasy art"
+    },
+    {
+      "id": "revenant-plate-vest",
+      "name": "Revenant Plate Vest",
+      "type": "armor",
+      "subtype": "medium",
+      "rank": "B",
+      "gearGrade": "elite",
+      "stats": {
+        "defense": "high",
+        "undeadResist": "moderate"
+      },
+      "source": "loot:dusk-revenant",
+      "imagePath": "assets/images/equipment/revenant-plate-vest.png",
+      "imagePrompt": "Armor forged from undead knight fragments with purple glow, realistic fantasy art"
+    },
+    {
+      "id": "abyssal-harpoon",
+      "name": "Abyssal Harpoon",
+      "type": "weapon",
+      "subtype": "polearm",
+      "rank": "B",
+      "gearGrade": "elite",
+      "stats": {
+        "damage": "high",
+        "aquaticBonus": true
+      },
+      "source": "craft:abyssal-tooth",
+      "imagePath": "assets/images/equipment/abyssal-harpoon.png",
+      "imagePrompt": "A harpoon made from sea monster teeth, realistic fantasy art"
+    },
+    {
+      "id": "roc-wing-bow",
+      "name": "Roc Wing Bow",
+      "type": "weapon",
+      "subtype": "bow",
+      "rank": "A",
+      "gearGrade": "masterwork",
+      "stats": {
+        "damage": "high",
+        "range": "extreme",
+        "windAffinity": true
+      },
+      "source": "craft:roc-plume",
+      "intendedUser": "nora-winters",
+      "imagePath": "assets/images/equipment/roc-wing-bow.png",
+      "imagePrompt": "An elegant bow with storm roc feathers, realistic fantasy art"
+    },
+    {
+      "id": "memory-glass-amulet",
+      "name": "Memory Glass Amulet",
+      "type": "accessory",
+      "subtype": "amulet",
+      "rank": "A",
+      "gearGrade": "masterwork",
+      "stats": {
+        "memoryProtection": "high"
+      },
+      "source": "loot:forgotten-palace",
+      "imagePath": "assets/images/equipment/memory-glass-amulet.png",
+      "imagePrompt": "A crystal amulet containing floating memories, realistic fantasy art"
+    },
+    {
+      "id": "bronze-heart-core-unit",
+      "name": "Bronze Heart Core Unit",
+      "type": "tool",
+      "subtype": "mana-tech",
+      "rank": "S",
+      "gearGrade": "legendary-prototype",
+      "stats": {
+        "powerGeneration": "extreme"
+      },
+      "source": "loot:eternal-machine-core",
+      "imagePath": "assets/images/equipment/bronze-heart-core-unit.png",
+      "imagePrompt": "A bronze mechanical heart pulsing with mana light, realistic fantasy art"
+    },
+    {
+      "id": "salvaged-rations",
+      "name": "Salvaged Rations",
+      "type": "consumable",
+      "subtype": "food",
+      "rank": "F",
+      "gearGrade": "scrap",
+      "stats": {
+        "sustenance": "1-day"
+      },
+      "source": "loot:general",
+      "imagePath": "assets/images/equipment/salvaged-rations.png",
+      "imagePrompt": "Sealed survival rations on rubble, realistic fantasy art"
+    },
+    {
+      "id": "mana-cell-basic",
+      "name": "Basic Mana Cell",
+      "type": "consumable",
+      "subtype": "mana",
+      "rank": "D",
+      "gearGrade": "standard",
+      "stats": {
+        "manaRestore": "moderate"
+      },
+      "source": "craft:marcus-workshop",
+      "imagePath": "assets/images/equipment/mana-cell-basic.png",
+      "imagePrompt": "A glowing blue mana battery crystal, realistic fantasy art"
+    },
+    {
+      "id": "explorer-pack",
+      "name": "Explorer Pack",
+      "type": "tool",
+      "subtype": "bag",
+      "rank": "E",
+      "gearGrade": "salvaged",
+      "stats": {
+        "capacity": "high",
+        "runeSlots": 2
+      },
+      "source": "craft",
+      "imagePath": "assets/images/equipment/explorer-pack.png",
+      "imagePrompt": "A rugged explorer backpack with rune buckles, realistic fantasy art"
+    },
+    {
+      "id": "pale-steel-blade",
+      "name": "Pale Steel Blade",
+      "type": "weapon",
+      "subtype": "sword",
+      "rank": "C",
+      "gearGrade": "refined",
+      "stats": {
+        "damage": "moderate",
+        "memoryResist": "low"
+      },
+      "source": "loot:forgotten-palace",
+      "imagePath": "assets/images/equipment/pale-steel-blade.png",
+      "imagePrompt": "A pale white steel sword from a forgotten palace, realistic fantasy art"
+    },
+    {
+      "id": "hive-chitin-armor",
+      "name": "Hive Chitin Armor",
+      "type": "armor",
+      "subtype": "medium",
+      "rank": "B",
+      "gearGrade": "elite",
+      "stats": {
+        "defense": "high",
+        "acidResist": "moderate"
+      },
+      "source": "craft:hive-chitin",
+      "imagePath": "assets/images/equipment/hive-chitin-armor.png",
+      "imagePrompt": "Armor crafted from crimson insect chitin, realistic fantasy art"
+    },
+    {
+      "id": "iron-dominion-plate",
+      "name": "Iron Dominion Plate",
+      "type": "armor",
+      "subtype": "heavy",
+      "rank": "A",
+      "gearGrade": "masterwork",
+      "stats": {
+        "defense": "very-high",
+        "intimidation": true
+      },
+      "source": "faction:iron-dominion",
+      "imagePath": "assets/images/equipment/iron-dominion-plate.png",
+      "imagePrompt": "Black military plate armor with iron dominion insignia, realistic fantasy art"
+    },
+    {
+      "id": "sanctuary-guard-shield",
+      "name": "Sanctuary Guard Shield",
+      "type": "armor",
+      "subtype": "shield",
+      "rank": "C",
+      "gearGrade": "refined",
+      "stats": {
+        "defense": "moderate",
+        "allyProtection": true
+      },
+      "source": "craft:sanctuary-forge",
+      "intendedUser": "adrian-hale",
+      "imagePath": "assets/images/equipment/sanctuary-guard-shield.png",
+      "imagePrompt": "A white and silver shield with a tree emblem, realistic fantasy art"
+    }
+  ]
+}

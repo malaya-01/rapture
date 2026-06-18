@@ -1,0 +1,290 @@
+{
+  "generatedAt": "2026-06-17T15:15:16.924Z",
+  "count": 8,
+  "dungeons": [
+    {
+      "id": "first-dungeon",
+      "name": "The First Dungeon (Ashford Undercity)",
+      "classification": "major",
+      "theme": "discovery",
+      "floors": 12,
+      "entrance": "Subterranean street door east of Ashford",
+      "appearance": "Preserved underground city; electric amber lights; no bodies",
+      "rule": "Lights activate for visitors; doors seal behind party",
+      "sovereign": null,
+      "dominantMonsters": [
+        "forgotten-knight",
+        "echo-servant",
+        "whisper-shade"
+      ],
+      "floorTable": [
+        {
+          "floors": "1-3",
+          "rank": "E-D",
+          "monsters": [
+            "grave-walker",
+            "glimmer-rat"
+          ],
+          "loot": [
+            "salvaged-rations",
+            "rusted-scrap"
+          ]
+        },
+        {
+          "floors": "4-6",
+          "rank": "D-C",
+          "monsters": [
+            "forgotten-knight",
+            "rift-hound"
+          ],
+          "loot": [
+            "rune-fragment-d",
+            "ancient-coin"
+          ]
+        },
+        {
+          "floors": "7-9",
+          "rank": "C-B",
+          "monsters": [
+            "echo-servant",
+            "memory-wraith"
+          ],
+          "loot": [
+            "memory-glass-shard",
+            "archive-tablet"
+          ]
+        },
+        {
+          "floors": "10-12",
+          "rank": "B-A",
+          "monsters": [
+            "dungeon-guardian-construct"
+          ],
+          "loot": [
+            "connected-worlds-map",
+            "rune-archive-core"
+          ],
+          "boss": true
+        }
+      ],
+      "rewards": [
+        "Ancient records",
+        "Rune system knowledge",
+        "Connected worlds map"
+      ],
+      "storySignificance": "critical",
+      "firstAppearance": "ch-0030",
+      "clearedChapter": "ch-0180",
+      "imagePath": "assets/images/dungeons/first-dungeon.png",
+      "imagePrompt": "An underground preserved city with amber lights and empty streets, realistic fantasy art, highly detailed"
+    },
+    {
+      "id": "forgotten-palace",
+      "name": "The Forgotten Palace",
+      "classification": "legacy",
+      "theme": "memory",
+      "floors": 33,
+      "rule": "Deeper travel = more memories lost (personal, not plot-critical without consent)",
+      "sovereign": "pale-king",
+      "dominantMonsters": [
+        "memory-wraith",
+        "forgotten-knight",
+        "echo-servant"
+      ],
+      "floorTable": [
+        {
+          "floors": "1-8",
+          "rank": "C",
+          "loot": [
+            "pale-steel-fragment",
+            "memory-glass-shard"
+          ]
+        },
+        {
+          "floors": "9-20",
+          "rank": "B",
+          "loot": [
+            "echo-crystal",
+            "forbidden-scroll"
+          ]
+        },
+        {
+          "floors": "21-32",
+          "rank": "A",
+          "loot": [
+            "memory-shard",
+            "pale-crown-fragment"
+          ]
+        },
+        {
+          "floors": "33",
+          "rank": "S",
+          "boss": "pale-king",
+          "loot": [
+            "memory-shard-legendary",
+            "truth-of-empire-fragment"
+          ]
+        }
+      ],
+      "rewards": [
+        "Lost knowledge",
+        "Forbidden memories",
+        "Identity truths"
+      ],
+      "imagePath": "assets/images/dungeons/forgotten-palace.png",
+      "imagePrompt": "A vast white palace floating in endless fog with broken staircases suspended in the sky, realistic epic fantasy art"
+    },
+    {
+      "id": "eternal-machine",
+      "name": "The Eternal Machine",
+      "classification": "legacy",
+      "theme": "control",
+      "floors": 51,
+      "rule": "All actions follow precise laws; violations trigger Clockwork Soldiers",
+      "sovereign": "clockwork-empress",
+      "dominantMonsters": [
+        "clockwork-soldier",
+        "gear-beast",
+        "bronze-sentinel"
+      ],
+      "floorTable": [
+        {
+          "floors": "1-15",
+          "rank": "C-B",
+          "loot": [
+            "bronze-gear",
+            "law-tablet"
+          ]
+        },
+        {
+          "floors": "16-35",
+          "rank": "B-A",
+          "loot": [
+            "master-gear",
+            "mana-engine-schematic"
+          ]
+        },
+        {
+          "floors": "36-50",
+          "rank": "A-S",
+          "loot": [
+            "bronze-heart-fragment"
+          ]
+        },
+        {
+          "floors": "51",
+          "rank": "S",
+          "boss": "clockwork-empress",
+          "loot": [
+            "bronze-heart-engine"
+          ]
+        }
+      ],
+      "imagePath": "assets/images/dungeons/eternal-machine.png",
+      "imagePrompt": "A massive mechanical world filled with colossal gears and bronze towers, realistic epic fantasy art"
+    },
+    {
+      "id": "crimson-hive",
+      "name": "The Crimson Hive",
+      "classification": "major",
+      "theme": "evolution",
+      "floors": 27,
+      "rule": "Dungeon adapts; repeated strategies stop working after 3 uses",
+      "sovereign": "brood-mother",
+      "dominantMonsters": [
+        "hive-soldier",
+        "brood-hunter",
+        "crimson-swarmer"
+      ],
+      "floorTable": [
+        {
+          "floors": "1-10",
+          "rank": "D-C",
+          "loot": [
+            "hive-chitin",
+            "evolution-ichor"
+          ]
+        },
+        {
+          "floors": "11-22",
+          "rank": "B-A",
+          "loot": [
+            "royal-gel",
+            "hunter-chitin"
+          ]
+        },
+        {
+          "floors": "23-27",
+          "rank": "A-S",
+          "boss": "brood-mother",
+          "loot": [
+            "evolution-core",
+            "hive-crown"
+          ]
+        }
+      ],
+      "imagePath": "assets/images/dungeons/crimson-hive.png",
+      "imagePrompt": "A gigantic living hive with organic tunnels and glowing eggs, realistic fantasy horror art"
+    },
+    {
+      "id": "abyssal-ocean",
+      "name": "The Abyssal Ocean",
+      "classification": "catastrophe",
+      "theme": "fear-of-unknown",
+      "floors": "unknown",
+      "rule": "Maps inaccurate; distances change; navigation fails",
+      "sovereign": null,
+      "dominantMonsters": [
+        "abyssal-maw",
+        "deep-one",
+        "leviathan-serpent"
+      ],
+      "imagePath": "assets/images/dungeons/abyssal-ocean.png",
+      "imagePrompt": "A dark endless ocean beneath a starless sky with massive sea monsters emerging, realistic epic fantasy horror art"
+    },
+    {
+      "id": "city-of-shadows",
+      "name": "The City of Shadows",
+      "classification": "legacy",
+      "theme": "regret",
+      "floors": "city-scale",
+      "rule": "Every visitor encounters manifestations of personal regret",
+      "dominantMonsters": [
+        "shadow-citizen",
+        "twilight-stalker",
+        "regret-spirit"
+      ],
+      "imagePath": "assets/images/dungeons/city-of-shadows.png",
+      "imagePrompt": "An abandoned city frozen in eternal twilight with shadowy figures watching from windows, realistic fantasy art"
+    },
+    {
+      "id": "world-tree",
+      "name": "The World Tree",
+      "classification": "civilization",
+      "theme": "life",
+      "floors": "hundreds-vertical",
+      "rule": "Each level contains different biome",
+      "dominantMonsters": [
+        "forest-guardian",
+        "sky-serpent",
+        "ancient-spirit"
+      ],
+      "imagePath": "assets/images/dungeons/world-tree.png",
+      "imagePrompt": "A colossal world tree rising above clouds with entire forests on its branches, realistic epic fantasy art"
+    },
+    {
+      "id": "limbo",
+      "name": "Limbo",
+      "classification": "unique",
+      "theme": "loneliness",
+      "floors": "infinite-fragmented",
+      "rule": "Time 100:3 inside:outside; identity instability",
+      "timeDistortion": {
+        "insideYears": 100,
+        "outsideYears": 3
+      },
+      "imagePath": "assets/images/dungeons/limbo.png",
+      "imagePrompt": "A surreal realm of floating islands, broken stars, and endless twilight skies, realistic epic fantasy art"
+    }
+  ]
+}

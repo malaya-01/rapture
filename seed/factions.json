@@ -1,0 +1,14 @@
+{
+  "factions": [
+    {"id": "sanctuary", "name": "Sanctuary", "type": "civilization", "alignment": "ally", "leaderIds": ["cassian-reed", "adrian-hale"], "philosophy": "Humanity survives together", "banner": "White Tree on Silver Field", "colors": ["white", "silver", "emerald"], "headquarters": "sanctuary", "firstAppearance": "ch-0266", "question": "Can compassion survive?"},
+    {"id": "iron-dominion", "name": "Iron Dominion", "type": "nation", "alignment": "rival", "leaderIds": ["viktor-drake"], "philosophy": "Order above freedom", "banner": "Black Wolf on Crimson Field", "colors": ["black", "crimson"], "headquarters": "dominion-capital", "firstAppearance": "ch-0380", "question": "Is freedom worth instability?"},
+    {"id": "free-cities", "name": "Free Cities", "type": "trade-alliance", "alignment": "ally", "leaderIds": [], "philosophy": "Prosperity through cooperation", "banner": "Golden Compass on Blue Field", "firstAppearance": "ch-0387"},
+    {"id": "skyborne-league", "name": "Skyborne League", "type": "confederation", "alignment": "ally", "philosophy": "Knowledge belongs to everyone", "firstAppearance": "ch-0393"},
+    {"id": "crimson-faith", "name": "Crimson Ascension", "type": "religion", "alignment": "complicated", "leaderIds": ["mother-seraphine"], "philosophy": "Humanity must evolve", "firstAppearance": "ch-0500", "question": "Do people need belief?"},
+    {"id": "deep-delvers-guild", "name": "Deep Delvers Guild", "type": "guild", "alignment": "ally", "philosophy": "Dungeon exploration and knowledge", "firstAppearance": "ch-0400"},
+    {"id": "golden-exchange", "name": "Golden Exchange", "type": "merchant-consortium", "alignment": "neutral", "philosophy": "Control trade and resources", "firstAppearance": "ch-0390"},
+    {"id": "dragon-conclave", "name": "Dragon Conclave", "type": "monster-civilization", "alignment": "ally", "leaderIds": ["velkarion"], "philosophy": "Dragons steward the world", "firstAppearance": "ch-0691", "question": "Who truly owns Earth?"},
+    {"id": "brood-empire", "name": "Brood Empire", "type": "monster-civilization", "alignment": "hostile", "philosophy": "Expand, adapt, consume", "firstAppearance": "ch-0500"},
+    {"id": "voss-kingdom", "name": "Voss Kingdom", "type": "warlord-state", "alignment": "enemy", "leaderIds": ["adrian-voss"], "firstAppearance": "ch-0650"}
+  ]
+}
