@@ -7,7 +7,6 @@ import {
   BookOpen,
   Library,
   Globe,
-  GitBranch,
   Clock,
   Map,
   Skull,
@@ -22,7 +21,6 @@ const navItems = [
   { href: "/encyclopedia", label: "Codex", icon: Globe },
   { href: "/bestiary", label: "Bestiary", icon: Skull },
   { href: "/map", label: "Map", icon: Map },
-  { href: "/relationships", label: "Lore", icon: GitBranch },
   { href: "/timeline", label: "Chronicle", icon: Clock },
 ];
 

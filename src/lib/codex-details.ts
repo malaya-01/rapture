@@ -107,9 +107,15 @@ export function dungeonDetailConfig(id: string): CodexDetailConfig | null {
   const floorRows = (d.floorTable ?? []).map((f) => [
     f.floors,
     f.rank,
-    f.monsters.map((m) => monsters.find((x) => x.id === m)?.name ?? formatSlugId(m)).join(", "),
+    (f.monsters ?? [])
+      .map((m) => monsters.find((x) => x.id === m)?.name ?? formatSlugId(m))
+      .join(", ") || "—",
     f.loot.map(formatSlugId).join(", "),
-    f.boss ? "Boss floor" : "—",
+    f.boss
+      ? typeof f.boss === "string"
+        ? formatSlugId(f.boss)
+        : "Boss floor"
+      : "—",
   ]);
 
   return {

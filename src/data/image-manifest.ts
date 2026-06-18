@@ -15,7 +15,7 @@ export interface ImageManifestEntry {
 }
 
 export const imageManifest = {
-  generatedAt: "2026-06-18T11:41:01.535Z",
+  generatedAt: "2026-06-18T14:11:46.648Z",
   summary: { total: 369, present: 82, missing: 287 },
   categories: {
     "characters": { folder: "public/assets/images/characters/", naming: "{id}.png" },

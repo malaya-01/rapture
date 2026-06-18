@@ -1,6 +1,7 @@
 import { imageManifest, type ImageCategory } from "@/data/image-manifest";
 import { unlinkSync, existsSync } from "fs";
 import { join } from "path";
+import { projectPath } from "@/lib/project-path";
 
 const ALLOWED_MIME = new Set([
   "image/png",
@@ -34,7 +35,7 @@ export function mimeToExtension(mime: string): ".png" | ".jpg" | ".webp" {
 }
 
 export function imageDirForCategory(category: ImageCategory) {
-  return join(process.cwd(), "public", "assets", "images", category);
+  return projectPath("public", "assets", "images", category);
 }
 
 export function removeSiblingImageFiles(dir: string, id: string, keepExt: string) {

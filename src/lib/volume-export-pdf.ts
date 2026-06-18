@@ -11,6 +11,7 @@ import {
 } from "@/data/chapter-manifest";
 import { bookMeta } from "@/data/book";
 import { getImageEntry } from "@/lib/images";
+import { projectPath } from "@/lib/project-path";
 import type { ChapterBlock, CompiledChapter } from "@/types";
 
 const COMPILED_IDS = new Set(chapters.map((c) => c.id));
@@ -94,7 +95,7 @@ export function htmlToPlainText(html: string): string {
 function imagePathForId(id: string): string | null {
   const entry = getImageEntry(id);
   if (!entry || entry.status !== "present") return null;
-  const filePath = path.join(process.cwd(), "public", entry.relativePath);
+  const filePath = projectPath("public", entry.relativePath);
   return fs.existsSync(filePath) ? filePath : null;
 }
 

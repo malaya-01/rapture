@@ -2,9 +2,9 @@
 export interface DungeonFloor {
   floors: string;
   rank: string;
-  monsters: string[];
+  monsters?: string[];
   loot: string[];
-  boss?: boolean;
+  boss?: boolean | string;
 }
 
 export interface Dungeon {

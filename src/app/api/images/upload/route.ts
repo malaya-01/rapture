@@ -10,6 +10,7 @@ import {
   removeSiblingImageFiles,
   validateUploadMime,
 } from "@/lib/image-upload-server";
+import { projectRoot } from "@/lib/project-path";
 
 export const runtime = "nodejs";
 
@@ -73,11 +74,11 @@ export async function POST(request: Request) {
   writeFileSync(absolutePath, buffer);
   removeSiblingImageFiles(dir, id, ext);
 
-  const sync = spawnSync(
-    "node",
-    [join(process.cwd(), "seed/scripts/sync-app-data.mjs")],
-    { cwd: process.cwd(), encoding: "utf8", timeout: 120_000 }
-  );
+  const sync = spawnSync("node", ["seed/scripts/sync-app-data.mjs"], {
+    cwd: projectRoot(),
+    encoding: "utf8",
+    timeout: 120_000,
+  });
 
   if (sync.status !== 0) {
     return Response.json(
