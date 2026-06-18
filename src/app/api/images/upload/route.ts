@@ -9,7 +9,6 @@ import {
   removeSiblingImageFiles,
   validateUploadMime,
 } from "@/lib/image-upload-server";
-import { runSeedSync } from "@/lib/run-seed-sync";
 
 export const runtime = "nodejs";
 
@@ -73,19 +72,6 @@ export async function POST(request: Request) {
   writeFileSync(absolutePath, buffer);
   removeSiblingImageFiles(dir, id, ext);
 
-  const sync = runSeedSync();
-
-  if (sync.status !== 0) {
-    return Response.json(
-      {
-        error: "Image saved but manifest refresh failed. Run npm run seed:sync manually.",
-        stderr: sync.stderr?.slice(0, 500),
-        savedPath: `public/assets/images/${entry.category}/${filename}`,
-      },
-      { status: 500 }
-    );
-  }
-
   const version = statSync(absolutePath).mtimeMs;
   const publicPath = `/assets/images/${entry.category}/${filename}`;
 
@@ -98,5 +84,7 @@ export async function POST(request: Request) {
     publicPath,
     version,
     cacheBustUrl: `${publicPath}?v=${version}`,
+    manifestNote:
+      "Image saved. Run npm run seed:sync locally to refresh the image manifest.",
   });
 }

@@ -249,7 +249,7 @@ export function ImageRepository() {
           <h2 className="label-volume mb-4">Folder guide</h2>
           <p className="mb-4 font-serif text-sm text-text-muted">
             Accepted formats: PNG, JPEG, WebP. Upload replaces any existing file
-            for that id. PNG is preferred; the manifest updates after each upload.
+            for that id. PNG is preferred; run <code className="text-gold/80">npm run seed:sync</code> after uploads to refresh the manifest.
           </p>
           <div className="grid gap-3 font-mono text-xs text-text-muted sm:grid-cols-2">
             {Object.entries(imageManifest.categories).map(([cat, info]) => (

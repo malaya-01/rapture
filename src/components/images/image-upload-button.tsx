@@ -52,6 +52,7 @@ export function ImageUploadButton({
         version?: number;
         filename?: string;
         relativePath?: string;
+        manifestNote?: string;
       };
 
       if (!res.ok || !data.ok) {
@@ -61,7 +62,7 @@ export function ImageUploadButton({
       }
 
       setState("done");
-      setMessage(data.filename ?? "Uploaded");
+      setMessage(data.manifestNote ?? data.filename ?? "Uploaded");
       onUploaded?.({
         ...entry,
         status: "present",
