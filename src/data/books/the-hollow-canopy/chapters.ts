@@ -46,6 +46,36 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
+        "html": "He had been up since the generator changed its note, a little after four, when the night shift's coffee went bitter and the river started showing a skin of mist. The command cot smelled of mildew and the citrus wipe Mateo forced on anything that touched skin. Calder had read the ORCHID packet under a lamp hooded with a spare shirt. Light was a courtesy. You did not spend it on the tree line for the sake of your own eyes.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Dr. I. Maren. The initial annoyed him on principle. Institutes hid people inside initials until the person became a problem with a bibliography. Omega. Heavy field suppressant, logged, countersigned, the sort of paperwork that meant someone in a dry office had imagined this jungle and then flinched. A line in the Directorate annex, typed and then underlined by a hand that was not his: <em>Protect the knowledge. Recover the asset. Do not recover the site if the site begins to answer.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He had read that twice. People wrote orders like that after they had already lost someone and were trying to make the loss sound like a policy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The photograph he had saved for last, which was a mistake, because last things stuck. A man looking slightly left of the lens. Dark hair. A thin scar through one eyebrow. A mouth at rest the way other people rested their hands, deliberately. Calder had felt a snag behind his sternum, small and insulting. He did not forget faces. He had built a career on not forgetting faces. The snag had no name attached, so he had called it prejudice and laced his boots.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Prejudice was faster than mystery. Mystery made soldiers inventive, and inventive soldiers got civilians killed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He had come up the mast to spend eight minutes being no one's decision. The eight minutes were over. The river below the pad moved like a muscle. A Virelian sentry at the wire coughed into his collar and pretended he had not been watching the major stand in the rain like a man auditioning for a statue. Calder lifted two fingers. The sentry lifted two back, relieved to be returned to the ordinary religion of looking outward.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
         "html": "His earpiece clicked. Nia, who had opinions about men standing in weather as if weather were a personality test.",
         "dropCap": false
       },
@@ -266,12 +296,107 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "\"Positions,\" he said. \"Let's go meet the man who thinks he's the mission.\"",
+        "html": "He closed the packet. The snag stayed where he had put it, which was to say it did not stay put at all.",
         "dropCap": false
       },
       {
         "type": "paragraph",
-        "html": "He stepped into the rain as the sound of the helicopter grew a spine, and the jungle — vast, wet, and uninterested in rank — waited at the wire like a held breath that had been held for a very long time.",
+        "html": "They used the twelve minutes the way a detail used any twelve minutes it might not get again. Harun walked the pad's cable line and kicked a coil that had been trying to become a trap. Jun climbed the sandbag stack at the east corner, settled, and became a fact the rain could not move. Mateo staged a kit where the rotor wash would not eat it: trauma, antiemetic, the confirmation vials for a suppressant draw he would not do on a landing pad unless someone was already dying. Rhee dragged a spare headset to the mast and muttered frequencies like a woman saying grace in a language she had invented to keep from swearing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia fell in beside Calder on the duckboard between the tent and the wire.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're doing the face,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I have several. Be specific.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The one where you've already disliked a man for the crime of needing you.\" She watched the inland dark, not him. That was how she told the truth without making it a ceremony. \"Three years ago I let an asset talk me into a corridor because she was brilliant and I wanted the brilliance to mean she was also careful. She wasn't. The corridor was. I have spent every briefing since being ruder than I am, so that I do not get to bury someone I liked for being right.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder was quiet. The rotors were still a rumor with a pulse. \"You want me rude.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I want you accurate. If he's fragile, carry him. If he's arrogant, fence him. If he's both, do not pick the version that lets you make a joke and call it leadership. And if that photograph is sitting in your head for a reason you can't name, you tell me before the river. Not after a body.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's a photograph of a man who wouldn't look at a camera. That's a personality, not a history.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Histories love a personality.\" She bumped his shoulder with hers, brief, the way you checked a strap. \"Go be tall at them. I'll be the one counting.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable's voice came through the net, breathy with pace, not with fear. \"Loop's clean. I'm four minutes from the wire. Boot-adjacent prints on the north cut, old, and a drag mark I refuse to call a drag mark until I've sworn at it. Do not let the bird land on my head. I just washed this rifle in a spiritual sense.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Copy,\" Calder said. \"Come in on the west gap. Jun has the pad. If you're late, you get the second bird's mud.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Cruelty noted.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He stepped off the duckboard into the pad's open light. Rain needled the scar. He rolled his shoulders once, not because they hurt, because the body liked a signal that the waiting was over and the work had a shape. Behind him the camp did what camps did when aircraft were incoming: voices dropped, weapons stopped being toys, the generator seemed louder because people had stopped competing with it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun grinned at him across the cable. \"You going to smile at the doctor or save it for the widows?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm going to smile at everyone and then do what Nia tells me. It's a system.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's a religion,\" Jun said from the bags, without looking down. \"Don't convert the asset on the pad. They get slippery when they're inspired.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder laughed, once, the real size of it. The sound didn't travel. The canopy took small sounds and spent them on itself.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The helicopter arrived as a change in the rain's grain, then as a light, then as a wind that shoved the puddles sideways and turned the pad into a bright, stupid target. Calder raised his hand, two fingers, not a wave so much as a claim on the ground they were about to share. He could see the cabin glass and, behind it, a shape that might have been a man holding a case as if the case were the only solid argument in the air.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Positions,\" he said, though they were already in them. \"Let's go meet the man who thinks he's the mission.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The skids came down through the wash. The jungle — vast, wet, and uninterested in rank — waited at the wire like a breath it had been holding since before any of them had ranks at all.",
         "dropCap": false
       }
     ]
@@ -2223,6 +2348,14280 @@ export const chapters: CompiledChapter[] = [
         "dropCap": false
       }
     ]
+  },
+  {
+    "id": "ch-0010",
+    "number": 10,
+    "title": "The Same Knot",
+    "arcId": "arc-2",
+    "volumeTitle": "Volume 2 — The Name",
+    "epigraph": "If two meanings share a mouth, do not teach the mouth to speak until you know which meaning is hungry.",
+    "epigraphAttribution": "— Priya Raman, private glossary, unsent page",
+    "summary": "Priya reads a glyph in which ask and finish are the same word, and watches Calder watch Ivo as if the disaster might not be linguistic at all.",
+    "opening": {
+      "id": "hc-ch-0010-opening",
+      "promptId": "hc-ch-0010-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The First Chamber",
+      "caption": "Shadow finds the knot the noon light refuses",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Priya Raman had slept in her boots and woken with a stone cord printed into her palm, which was as close as the city had come to answering her.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The first chamber of Qalen-Sar held the night the way a well holds a coin. Black water lipped the lowest step and did not ripple unless someone breathed too close to it. Above the water, the wall was a braid of carved knots, each one the width of a wrist, meant to be read by fingers and by the angle of a shadow. Noon would have flattened them into decoration. Morning, leaking through a crack where a fig had shouldered the roof, gave her a blade of light thin enough to be honest.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She had been at the wall since the blade appeared. Her lamp was off. Lamps lied. They made every groove equally important, and the Selenqari had not built a language for people in a hurry.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The knot under her thumb was the one she had refused on the causeway. Up close it was worse and better. Worse, because it was finished work, not a ruin's accident. Better, because finished work could be wrong in a way she could prove. Three loops. A cut through the middle loop that was not damage. A second cut, smaller, where a reader would rest a nail if they meant to choose. She had seen the shape in a museum rubbing and in Ivo's old papers and in the wing-dust of a moth Ellis had begged her to look at before breakfast. She had not seen it mean two things at once.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ask.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She said it in her mouth without air. The shadow agreed. The upper loop was the open hand of a question. The grammar of the Concord, as three living people understood it and as she was one of them, put the asking-stroke there and nowhere else.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She moved her thumb a fraction. The same stone, the same cuts, the lower loop catching the light instead of the upper.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Finish.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not a cousin-word. Not a polite euphemism in which a funeral and a question shared a radical the way English let <em>grave</em> be both an adjective and a hole. The knot did not branch. It was one mouth. The difference was which side of it you fed to the dark.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya took her hand off the wall. Her pulse was in her wrist, indignant, as if she had been slapped by a dictionary.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't,\" she said, to the water, to herself, to the part of her training that wanted to announce a discovery before it had survived a second hour. \"Not yet.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Behind her the camp was becoming a camp in the only way stone allowed. Nia had refused fires. Lamps sat in tins. Harun had declared the left-hand ledge a bed and then failed to sleep on it, which Priya knew because his complaints had a range, and the range had been audible through what passed for dawn. Jun was a silence with a rifle at the mouth of the causeway. Rhee's set murmured every nineteen minutes and was, for the moment, a domestic sound, which Priya distrusted on principle. Domestic sounds in a place like this were just warnings that had found a chair.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo came along the ledge with two cups and the expression of a man who had also not slept and intended to invoice the night for it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You look like the wall won,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The wall is illiterate or I am.\" She took the cup. Oversteeped. A crushed cardamom pod knocking the enamel, which meant Ellis had been generous and Ivo had been precise about accepting it. \"Don't drink yours near the glyph. Heat changes the shadow.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not going to steam a translation into existence.\" He stayed a step back anyway, because he had learned her weather. \"Tell me the version you're willing to say out loud.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya looked at the knot. She could feel the other version sitting behind her teeth, the one in which a civilization had asked a question and the grammar had completed them. She did not have the right to that sentence yet. She had a dictionary problem. Dictionaries were how she kept from becoming the sort of linguist who buried people under a beautiful idea.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The gloss we were given for the asking-stroke is wrong,\" she said, \"or the city used one knot for two acts and trusted the reader to know which hand they were using. I can force a split if I want a paper. I won't. Anouk will call it a measure. Hester will call it a prayer. Both of them will be shopping, and I am not selling.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's head tilted, the small measuring motion he pretended was only scientific. \"Which hand finishes?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The lower, if the light is this light. If the light moves, I don't know. That's the point. It isn't a word you can shout across a room. It's a word you have to be standing in.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then we don't shout it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"We don't write it on Rhee's net either.\" She heard how quickly she had said it and did not take it back. \"Not the equivalence. Not until I have a second knot that fails to be the first. If Helix is listening to anything we are stupid enough to call a victory, I will not hand them a verb.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo was quiet. The cardamom clicked against his teeth. \"Agreed. The shared log can say the glyph is unstable under direct light. That's true.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's the smallest true thing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Small true things are how we leave.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She almost told him then. Not the doom. The other thing. The way Major Rhys had stood on the causeway with his weight honest and his face doing a search it didn't have a warrant for, and the way Ivo had looked at the mortar instead of the smile. Priya had promised, on a helicopter, not to say the name. Promises did not expire because a jungle had better lighting.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk arrived as a disagreement already in progress.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If you have been fondling that groove since before rations,\" she said, \"you can let the rest of us be ruined by it. Mateo says your hands are doing the cold thing. I say your hands are doing the secret thing. I dislike both.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester Lang came behind her, slower, a lamp she had not been invited to bring held at her side like a relic she was prepared to be scolded for. The blocker patch behind her ear was peeling at one corner. She smelled, faintly, of clove and paper, which no patch had ever fully defeated. \"Pavel's notes called this chamber a listening stair. If you are going to tell me it's a pantry, Anouk, do it before I take my boots off. I am too old to put them back on for a metaphor.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's a wall,\" Priya said. \"Come in on the left. Lamp off. If you need light, you may have the crack, and you may not move me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They came in on the left. Anouk photographed nothing, which was how Priya knew she was actually looking. Hester put two fingers to the stone and shut her eyes, and Priya let her, because Hester's hands had been in more honest dirt than most of their instruments.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Ritual,\" Hester said, after a minute. \"The double cut is an offering mark. You open the question. You close it with a gift. The lower stroke is the gift.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's a meniscus,\" Anouk said. \"Look at the wear. Thumbs. Repeated. Not a procession once a year. A workshop. They stood here and judged a level. The lower stroke is the line you stop at when the measure is full.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You cannot measure a prayer and then be surprised it has a bottom.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You cannot pray at a waterline and then be surprised it has a number.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya let them spend themselves. It was useful. Anger shook loose the readings people were proud of, and pride was the usual contaminant. When the silence came back she said, \"You're both describing a hand. Hester's hand gives. Anouk's hand stops. The stone didn't carve two hands. It carved one knot that becomes the other when you change where you stand. I don't know yet whether that was theology or engineering. I know the glossary we brought from the coast is embarrassed.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester's mouth did something that was not a smile. \"Pavel would have loved you and then argued with you until one of you starved.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not him,\" Priya said, gently, because the journal was still in Hester's satchel and the satchel had slept against her ribs. \"And I'm not ready to tell the major that his radio has been using a verb.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "That got their attention. She regretted the shape of it at once. Not the fact. The fact was going to have to live in the expedition. The shape had been a story, and stories were how Helix would eventually steal this.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The ghost says don't ask,\" Anouk said. \"If ask is the same knot as finish—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then I am not saying the next sentence in a room with a radio mast folded in a pack ten meters away.\" Priya capped her cup. \"You can hate me for it. You cannot repeat it on the log.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk looked as if she might argue and then, surprisingly, nodded. Archaeologists who had lost sites to looters learned the price of a clever abstract. \"My rubbing stays in the case. The public note will say 'glyph, light-dependent, further study.' If you make me write 'further study' I will die of it, but I will die accurately.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester was slower. Grief wanted witnesses. Priya saw it move through her and stop at the discipline. \"If the city is the thing that finished them,\" Hester said, \"I will not be the person who finishes the sentence for a company. But I will not let you turn Pavel into a puzzle you solve in private and publish without his fear in it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"His fear is the only reason I believe the page,\" Priya said. \"You'll be in the room when I say it properly. Not this room. A room where the water isn't listening.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was a larger promise than she had meant to make. She let it stand. Hester touched the knot once more, a farewell to a colleague who was not the stone, and went back toward the lamps.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk lingered. \"You're frightened.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm employed.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Those aren't mutually exclusive. Mateo is going to make you eat. I am going to agree with him, which you may record as a miracle and then never mention again.\" She glanced toward the causeway, where Calder's voice was doing the easy register it used when he wanted people to move without feeling herded. \"And your doctor is going to pretend the major is weather. If that becomes a safety problem, I expect you to be less linguistic about it than you were on the helicopter.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya's face did not change. She had practiced. \"There is no helicopter story.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"There is a temperature,\" Anouk said. \"I don't need the story to pack the resin where it won't be sat on.\" She left before Priya could decide whether to be grateful.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The blade of light thinned. Priya copied the knot into the private book by touch, eyes half-closed, the way the script wanted. In the shared log she wrote: <em>Glyph at chamber lip. Reading unstable in direct light. Do not reproduce until a second example confirms the hand.</em> She did not write the two words. She closed the book and held it a moment against her sternum, as if paper could be convinced to stay paper.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "By midmorning the chamber had become a workplace, which was Calder's talent and Nia's enforcement. Samples from a break that was already broken. A moth Ellis had followed in, lectured, and released toward the crack with an apology. Jonah's log open on a tin. Sable's loop of the upper gallery, reported in the clipped diction of a woman who had not forgiven the jungle for being interesting.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya sat on a higher step with her boots out of the water and watched the thing she was not supposed to translate.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stood over Ivo's sketch of the mortar, not crowding, which he had learned in one day and would probably call tactics. The scar along his jaw caught the wet light. He asked a question about grit. Ivo answered a half-second late, the pause Priya had heard in conference halls and in one drunken kitchen years ago, when Ivo had described a boy who waited before he spoke and then spent the wait badly. Calder's mouth opened. Closed. He looked at Ivo's hands, not his face, and said something that made Harun snort and Ivo not smile.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The major did not know. That was obvious in the way his attention kept returning, polite and insulted by itself, a man patting his pockets. Ivo knew, and was spending his whole competence on not being known. Priya had thought, on the river, that silence was a strategy. In the chamber it looked like a load-bearing wall. She could see the hairline crack. It ran through the pause. It ran through the way Ivo turned his body when his hands wanted to shake, though they were not shaking now. It ran through Calder's kindness, which was real and therefore dangerous, because real kindness from the wrong man was how a silence failed in public.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She understood the shape of it the way she understood a false cognate. Two people using one sound. Neither of them in the meaning the other was standing in. If the word ever flipped, the way the knot flipped, somebody was going to be finished by a question they had thought was only a question.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia dropped onto the step beside her without asking, which was a captain's privilege and, today, a relief.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're doing the face,\" Nia said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I have several.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The one where the text is fine and the living are not.\" She watched the same pair Priya had been watching, and Priya felt a small, unwelcome kinship. \"I asked him if he knew your doctor. He said he didn't, and his face filed a dissenting opinion. If you have the opinion in a language I can use, I need it before somebody bleeds for it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya turned the private book over so the blank cover was up. \"I don't have a language I'm allowed to use.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That's an answer.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's the one I have.\" She met Nia's eyes. Beta, steady, no romance in the looking. \"If it becomes a hole in the perimeter, I will tell you the hole. I will not tell you the story that dug it. The story isn't mine, and it isn't a weapon I'm willing to hand a command structure because command structures repeat things at volume.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia was quiet long enough for the ghost to speak once, faint, under the stone, the vowel worn the way the knot was worn.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>Don't ask it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"All right,\" Nia said. \"You get to keep your oath. I get to move the major off his own curiosity if the curiosity starts choosing routes. If you see that before I do, you tap me. No poetry.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"No poetry,\" Priya said. \"A tap.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the afternoon she found the second knot.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was not on the grand wall. It was on the underside of a lip where the stair met the water, carved small, for a hand trailing down to check a depth. Ellis saw the moth land there and called her without shouting, which she would remember in his favor. The knot was the same mouth. The light was worse. She lay on the wet stone with her sleeve soaked and her cheek against the cold and read it by the absence of light, the way a cut held a darker dark.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ask, if she came from the stair. Finish, if she came from the water.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She did not laugh. Laughing would have been a kind of ringing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo lay down on the other side of the lip, not touching her, his notebook protected by his body. \"Well?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The dictionary is wrong,\" she said, \"or the city was. I'm not ready to decide which one of those is the kinder mistake.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Kinder for whom?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"For us. For whoever built a grammar that doesn't let you wonder without completing something.\" She kept her voice low. The water was right there, black and patient. \"I won't say the pair of words where it can hear the pairing. You can infer them. You're good at inferring. Be worse at it near the radios.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He inferred. She saw it land behind his eyes, a shutter. He did not speak the words back to her. That was why he was the person she could work beside.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Calder is going to want a threat model by dark,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Give him the model where the verb is dangerous and the definition is withheld. He respects withheld better than he thinks he does. He did it with your name on the pad.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's jaw moved once. \"Don't.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I didn't.\" She pushed herself up, dripping, ordinary, a linguist with a wet sleeve and a secret the size of a city. \"I'm only saying he already lives in a sentence he hasn't parsed. If you want my professional advice, don't make the jungle the thing that parses it for him. Jungles are terrible editors. They cut until something stops moving.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Your professional advice sounds like a friend.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm allowed to be both until one of them gets you killed. Then I will be unbearable, and you will deserve it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He almost smiled. The almost was private. Across the chamber Calder looked up from a map he could not possibly be reading in that light, found Ivo on the wet stone, and took one step before he turned the step into a conversation with Jun. The restraint was competent. It was also, Priya thought, the exact motion of a man who had been decent for three afternoons in some other building and had not yet been asked to pay for the days he hadn't been.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She went back to the shared log. She added a line: <em>Second example confirms the reading is positional. Do not transmit the gloss.</em> She underlined <em>do not</em> once, then, thinking of Rhee's careful hands and of a company that collected glosses the way other people collected teeth, she scratched the underline out. Underlines looked like importance. Importance was a flare.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At dusk the chamber dimmed itself. The fig-crack went gray. The knot on the great wall became a knot again, unreadable, a piece of craft. People ate. Mateo bullied calories into scientists with the moral authority of a man who had married one. Sable and Ellis argued, softly, about whether a hoof that remembered a boot was a hoof. Harun told a story too big for the ledge and Jun let him, which was its own dialect of affection. Hester slept sitting up, the journal under her hand. Nia counted, moving her mouth, not a prayer.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya sat with her back to the wall that had beaten her glossary and watched Calder bring Ivo a second cup without being asked. Ivo took it. Their fingers did not meet. Calder said something about sleep that was an order wearing a joke's coat. Ivo said, \"I'll sleep when the water does,\" and Calder said, \"The water's been asleep for a thousand years and it still looks like trouble,\" and the ledge, treacherously, almost warmed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya opened the private book in her lap and did not write their names. She wrote the knot from memory, both hands, and beside it a question she did not say aloud, because the stone treated questions as a kind of consent.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "If ask and finish were the same word, then the only safe silence was the one you chose, not the one you were cornered into.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She looked at Ivo, who was choosing his, and at Calder, who did not know he was inside it, and she shut the book.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The nineteen-minute voice came up through the rock, faithful, already late to its own advice.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>Don't ask it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya Raman, who had asked with her hands all day and had not yet asked with her mouth, put her palm flat on the cover and kept the pairing where a radio could not love it.\n---",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0011",
+    "number": 11,
+    "title": "Lullaby",
+    "arcId": "arc-2",
+    "volumeTitle": "Volume 2 — The Name",
+    "epigraph": "A lullaby with the grammar torn out is not comfort. It is a door left on the latch.",
+    "epigraphAttribution": "— Dr. I. Maren, field card, chamber two",
+    "summary": "Root nuns sing a broken Keeper lullaby. Ivo's recording and Calder's salt each keep Jun alive, and neither man manages a clean thank-you.",
+    "opening": {
+      "id": "hc-ch-0011-opening",
+      "promptId": "hc-ch-0011-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Nun Court",
+      "caption": "Kneeling shapes where the roots learned a song",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "They had slept, if the word survived contact with stone, in a niche above the listening stair, and the morning had arrived as a change in the drip. Ivo woke with the private fact of Priya's knot still behind his eyes and the public fact of Calder's watch rotation written on a tin. He ate half a bar because Nia looked at him until he did. He logged the hum in his teeth as unchanged. He did not log the way Calder said his title — Doctor, never the other name, because the other name was a vault Ivo had welded shut — with a care that was starting to feel like recognition and was not allowed to be.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The passage to the second chamber was a throat. Tool marks on the left, older than Lantern, newer than the city's pride. Someone had tried to widen a Keeper door with a modern chisel and had given up when the stone answered the chisel with a hairline crack that looked deliberate. Ivo photographed the crack. Calder photographed Ivo photographing it, which was to say he watched, and Ivo let the watching be security.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If you narrate every scratch,\" Calder said, \"we will die of education.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If you rush every throat,\" Ivo said, \"we will die of the thing the scratch was warning you about.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Compromise. You get three scratches. I get a team that is still in the passage when the fourth one bites.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Three,\" Ivo said, and used them, and the fourth scratch was the court.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The second chamber did not announce itself as a threat. It announced itself as a nursery.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo knew that before anyone said the word, and he hated the knowing, because nurseries were where competent people became stupid. The passage from the listening stair narrowed, then opened into a round court sunk a single step below the causeway. Roots had come through the roof in columns. Between the columns, at the height of a kneeling adult, pale shelves of fungus had shaped themselves into hoods and laps. They faced inward. They faced a dry basin carved with the same knot Priya had refused to gloss on the radio. The air was sweet in the way fruit is sweet the hour before it turns.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Hold,\" Calder said, ahead of him, two fingers up.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The team held. Harun's boot stopped a thumb short of the step. Jun, on the right-hand root, had her rifle low and her head cocked, which was not her ordinary cock. Sable was already unhappy. Ellis was already delighted, which Ivo filed as a medical risk of a different order. Nia counted them with her eyes and did not like the number of sightlines. Priya, at Ivo's shoulder, had gone so still he could hear the cloth of her sleeve when she breathed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The song began under the hearing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was not a melody a person would whistle. It was a pressure in the sinus, a kindness with the kindness scooped out, a phrase that wanted the jaw to unclench and the knees to consider the floor. Ivo's suppressants did not argue with it. His training did. He put his tongue against his teeth and tasted the Vein under the song, the same hum as the causeway, wearing a different coat.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Subsonic,\" he said. Quiet. Calder had asked for quiet in any room that hummed, and Ivo had agreed because agreement was cheaper than a drag. \"Not language yet. A carrier. Don't answer it with your body.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Too late for the advice,\" Jun said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Her voice was dreamy, which was worse than a shout. She had taken one step off her root onto the court floor. The rifle hung in her hand as if she had forgotten which end was the argument. Her face had opened into a smile Ivo had never seen on her, small and private and aimed at nothing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun said her name once, the way you say a name when you are trying not to make it a command. She did not turn.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder moved. Ivo caught his sleeve, which was a liberty he would examine later and not apologize for.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If you run at her, you feed it a rhythm,\" Ivo said. \"It's a lullaby. Broken. The grammar that should have told a child <em>you may sleep and also wake</em> is missing the wake. Look at the hoods. They're facing the basin. This was a Keeper song. Someone taught the fungus the song and not the door out.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I don't care what it used to be if it sits her down.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then use what it is. Salt. Irregular noise. Distance. In that order, or the noise just becomes another verse.\" He was already opening the case. Sample salt, not table salt, the coarse sealed bag Jonah had bitched about carrying. \"Priya. If you know the waking line, do not sing it on pitch. Speak it wrong. Off the count.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya's mouth was white. \"I know a gloss. I don't know if the gloss is the line or the grave of the line.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Wrong is the point.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder looked at Jun, at Harun's hands opening and closing on a weapon he had been told not to love more than his partner, at the pale hoods that had not moved except to seem more like laps. The charm was gone. What remained was the officer Ivo had started, against his will, to trust with the geometry of a room.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Harun, you do not cross,\" Calder said. \"You talk to her off any beat you can find. Numbers, insults, the worst song you know. Jun, if you can hear me, you hate this smile and you are going to be furious about it later. Nia, salt line at the step. Ellis, you stay on the safe side of it and you tell me if the fungus breathes. Sable, high root, eyes on the hoods, not on the corporal. Rhee, recorder on, speaker off. Ivo—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm going to the basin edge, not into a lap. I need the phrase at the source or I will be guessing which syllable kneels people.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You go with me. You stop when I stop. If I take your jacket, you are already late.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That is becoming a hobby.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Stay alive and I'll find a new one.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They went in side by side, which was not how Ivo had drawn it and was, annoyingly, better. The song thickened. His knees sent up a suggestion. He declined it by counting prime numbers backward, a childish trick from laboratories that hummed, and by listening to Harun, who had begun to recite the contents of a ration pack as if the raisins had personally betrayed him. The raisins did not scan. The song hated that. Ivo felt the pressure slip, a half-inch, the way a grip slips when the wrist is bored.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun was on one knee now. The smile had not moved. A thread of the pale fungus had found her bootlaces and was learning them with the patience of a nurse.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Salt,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia threw the first handful in a broken arc, not a circle, because circles were a rhythm too. The crystals struck the hood nearest Jun and hissed. The hood collapsed in on itself like a throat deciding not to sing. The subsonic lurched. Jun blinked. The blink was hers.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Again,\" Ivo said. \"Not on my count. On no count.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They salted the court the way you salt a lie, unevenly. Ellis, safe behind the step, called changes in the hoods with a steadiness Ivo would remember: which ones leaned, which ones flinched, which one was only a shelf and not a mouth. Sable shot nothing. Ivo was grateful and did not have time to be.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He reached the basin. The knot was there, worn by knees, and around it a ring of smaller cuts that were not decoration. A score. A Keeper would have hummed the waking clause against those cuts so the child, or the acolyte, or the thing they were growing, had a place to put the last word. The clause was damaged. Two strokes had been filled with the same pale flesh as the hoods. The song, meeting the gap, repeated the sleep and never arrived at the permission to stand.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Priya,\" he said. \"The gloss. Ugly.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She spoke from the step, and she spoke it badly on purpose, stressing the wrong syllable, dropping the verb into a question's shape and then refusing to finish the question. The court flinched. Ivo set the recorder — Rhee's spare, speaker torn out, a stupid brave machine — against the stone and let it drink. He did not sing. He described, aloud, off meter, the way the gap wanted a word, and he put a handful of salt into the filled strokes.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The hood that had Jun's laces recoiled. She made a sound that was almost a swear and was definitely Jun. Harun broke then, not into the court, along the edge, and got a hand under her elbow. Calder let him. The song tried one last time, sweeter, a kindness with teeth, and Calder kicked the basin's rim with the side of his boot, an irregular ugly knock, and said, very clearly, \"No.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was not a translation. It worked because it was not trying to be one.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The pressure dropped. The remaining hoods sank into ordinary fungus, obscene and harmless and smelling of wet bread. Jun stood, shaking, furious, alive. She looked at her rifle as if it had embarrassed her in public.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I smiled,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You did,\" Harun said. His voice was wrecked and trying to be a joke. \"It was unprofessional. I'm going to have it framed.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If you frame it I will shoot the frame.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"There's my partner.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Mateo was already on her, light in the eyes, pulse, the questions he used when he wanted the truth more than the bravery. Jonah hovered with the log and a face like a closed court. Ivo stayed at the basin until the recorder clicked itself full, because leaving a phrase half-captured was how you got killed by the half you had liked. His hands were steady. He checked. Steady. The tremor was waiting, polite, for a room with fewer witnesses.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stood over him. Rain from a roof-crack ticked the major's shoulder and did not seem to have been invited.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You stopped me,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You were going to run a beat into a song that eats beats.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You grabbed an officer.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I grabbed a mistake. The officer remained intact.\" Ivo capped the salt. His voice was level. He was proud of that and tired of the pride. \"Jun is up. The sample is ugly enough to be true. You can write me up or you can move us off this floor before the hoods remember the second verse.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Something moved in Calder's face that was not the write-up. It was the look of a man revising a threat model in public and disliking how much of the revision had another person's fingerprints on it. \"We're moving. You don't sit in a lap to prove a point. Next time the point can be proved from the step.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Next time the corporal may not be on the step.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then you say so, and I hate it, and we do the ugly thing together. That is the schedule. You keep trying to be the only adult in a room that already hired several.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo looked up. The height was the same height it had always been, a fact of bone, not a verdict. Calder's eyes were the eyes from the classroom and not the verdict either, which was the problem. The problem had a new layer today: the man had kicked a lullaby in the teeth and then scolded Ivo for the method, and both acts had kept people breathing. Gratitude was a door. Ivo did not open it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Your salt was late,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Your warning was early. We're even, which means neither of us is saying thank you where the fungus can learn it.\" Calder turned, already placing bodies. \"Nia, court is closed. Harun, she walks even if she hates you for the elbow. Ivo, the recorder rides in my pack until Rhee says the file isn't a hymn. I am not giving a lullaby its own pocket.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Scientifically—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Asset-management-ly. Walk.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They walked. The court let them. At the mouth Ivo glanced back once. The basin held salt like a badly set table. The knot looked, in the new light, like a word that had been put to bed angry. He thought of children who had been sung to here by people who still knew the door, and of the later hands that had fed the song to the roots and forgotten to feed it an ending. He did not say <em>ask</em>. He did not say <em>finish</em>. Priya's rule was a good rule. The stone had been listening all morning and had only gotten salt and a man saying no.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the causeway above, the rain was ordinary again. Jun drank water and glared at anyone who offered her a blanket. Ellis talked to Sable about fungal fruiting bodies until she told him the fruiting bodies could file a report. Hester stood a long time at the threshold, lips moving, not a prayer Ivo recognized. Anouk photographed the collapsed hoods with the grim focus of a woman documenting a crime that had happened to a culture.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya fell in beside Ivo when the path allowed it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The gloss worked because it was wrong,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Most wakes do, if the sleep was a theft.\" He kept his eyes on the stones. \"Don't put the line in the shared book. Put that the carrier collapses under aperiodic noise and salt. Jonah will want the mechanism. Give him the mechanism. Not the nursery.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're shaking.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm walking.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Those are compatible.\" She did not touch him. She had learned. \"He watched your hands after. He doesn't know what he's watching. If you need me to be a wall—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I need you to be a linguist who doesn't sing on pitch. You were. That's the thank-you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She accepted it, which was friendship.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder waited at the next turn with the recorder already in his pack, the strap shortened so it wouldn't knock a rhythm against the frame. He didn't comment on Ivo's hands. He held out a ration bar as if it were a tool and not a kindness.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Eat,\" he said. \"You did the thing where you forget you have a body. Mateo is composing a speech. I'm intercepting it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo took the bar. Their fingers did not meet. \"If I say the salt was the correct call, will you write it down as insubordination?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll write it down as a fact. Don't make it tender.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I wasn't going to.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good.\" Calder's mouth almost did the smaller smile, the one for short distances, and then Jun laughed once, harsh, at something Harun muttered, and the smile went to the team instead, where it was safer. \"Court's behind us. Next room doesn't get a lullaby. If it offers one, we leave.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If it offers one, we learn the door and then we leave.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You are physically incapable of letting a sentence stay closed.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"And you are physically incapable of standing outside one.\" Ivo heard the old accusation in it, the corridor, the cup, the boy who shut doors by walking through them. He sanded the accusation down to work. \"That's why the schedule requires both. Don't thank me. I didn't thank you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Noted,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the next landing Mateo sat Jun on a crate and made her follow a finger she insulted. The insult was the result he wanted. Harun hovered until Nia pointed him at a sightline, and even then he hovered inside the sightline, which everyone permitted and nobody named. Jonah took Ivo's pulse without asking and wrote a number Ivo did not request to see.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're in the band,\" Jonah said. \"Suppressant line is sulking, not breaking. The song wanted a parasympathetic collapse, not a heat. If it had wanted a heat I would be having a different conversation and the major would already be on the far side of a door. Do not make me have that conversation for sport.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I wasn't going to.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You say that every time your curiosity finds a nursery.\" Jonah capped the pen. \"Drink. Then you may be brilliant at a volume that doesn't kneel my patients.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo drank. The tremor arrived, small, in the hand holding the cup, and he turned so the cup hid it from the landing and not from Priya, who had already seen and spent the seeing on silence. Calder, ten feet off, was debriefing Sable about hoods and did not look over at the right moment. The not-looking was luck. Ivo refused to call it mercy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He wrote the card while the landing settled: carrier frequency felt rather than heard; collapse under salt and aperiodic knocks; do not hum; do not answer in meter; Keeper grammar missing its wake-clause. He did not write the gloss. He did not write that for three seconds he had wanted to kneel too, not from the song alone but from the exhaustion of being the person who noticed songs. The card stayed a card. Feelings were how you annotated yourself into a grave.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder dismissed Sable and came back with nothing in his hands, which meant the conversation was not going to be a tool.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Jun says she heard her sister's kitchen,\" he said. \"She doesn't have a sister. Harun knows that. He is trying not to make it a ghost story before dark. Is the song a mimic or a memory?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's a tool that uses whatever softness you brought,\" Ivo said. \"Jun brought a quiet she doesn't show the team. The fungus doesn't know her sister. It knows the shape of a room where a person puts down a weapon. That's why the nursery architecture. You don't have to counterfeit a life if you can counterfeit a lap.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder took that without a joke. The absence of the joke was a kind of respect, and Ivo set it beside the salt and the scolding and refused to total them into a person he was allowed to want.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If it offers me a room,\" Calder said, \"I want you already talking over it. You don't wait to see if I'm susceptible.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Everyone is susceptible. That's the finding.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then put it in the log in words Harun can use when he's scared. Not the poetry. The door.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Aperiodic noise. Salt. Don't match its pace. Don't sit.\" Ivo met his eyes for as long as was professional and one second more, which he would punish himself for later. \"You already did the door. I already did the diagnosis. We remain untender.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Untender,\" Calder said, as if testing a knot. \"I can live in that.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They went on into the city. Behind them the nun court ticked as salt finished what a song had started, and Jun Park walked on her own feet, smile gone, rifle in the right hand, alive because a scientist had refused a rhythm and a soldier had broken one. Neither of them said the clean sentence. The jungle, which preferred clean sentences, did not get to keep them.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0012",
+    "number": 12,
+    "title": "Pencil Shavings",
+    "arcId": "arc-2",
+    "volumeTitle": "Volume 2 — The Name",
+    "epigraph": "Scent is a file. Most people mislabel theirs and then act surprised when someone else opens it.",
+    "epigraphAttribution": "— Sergeant Mateo Solano, suppressant brief",
+    "summary": "Rain lifts Calder's blocker for one breath. A classroom tries to surface, and he cannot hold the face that would not cry.",
+    "opening": {
+      "id": "hc-ch-0012-opening",
+      "promptId": "hc-ch-0012-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Rain Stair",
+      "caption": "One breath of citrus where the patch failed",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "The rain found the patch behind Calder's ear the way rain found every lie that had been asked to last twelve hours.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "They were on a stair that had forgotten it was a stair and become a creek. Water sheeted down the treads. The team climbed in a file Nia had designed and Calder had only had to agree with, which was the correct use of a second-in-command and also, this morning, a relief. He had slept in slices. Jun's borrowed smile had followed him into the slices and sat on the edge of the cot until he got up and made the rotation crueler than it needed to be. People who had been knelt by a fungus did not require a major composing extra vigilance at 0400. He had composed it anyway. Vigilance was a place to put a feeling he refused to name.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Doctor Maren was three bodies ahead, between Rhee and Priya, case hugged to his ribs, hood up. He had not thanked Calder for the salt. Calder had not thanked him for the hand on the sleeve. The untender treaty was holding, which should have felt like discipline and felt, instead, like a splinter.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun slipped. Not a fall. A skate. Jun, still mean about yesterday and therefore excellent, caught his strap and insulted his ancestry in a whisper that carried. Someone laughed, short. The laugh hit the water and the water took it. Calder put his boot where Harun's had failed and felt the stone's polish, old, intentional, a city that had wanted processions to move quietly. His hood dumped a cup of rain down the back of his neck. He swore without invention.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The patch peeled.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He felt it as a temperature first, the adhesive giving up, the little square of chemistry that had been keeping his scent at the level of a closed door suddenly becoming a closed door with the latch off. Rain got under it. He clapped a hand over his ear on instinct, too late by a breath.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Citrus. Bitter, the way peel is bitter when you bite it by mistake. Under it, clean steel, the smell of a weapon that had been wiped and not yet used. His own scent, unedited, for one heartbeat in a stair full of people who had not agreed to meet it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Patch,\" he said, already reaching for the spare in the tin Mateo made them treat like ammunition. His voice came out rougher than the event deserved. Alphas lost patches. It was a write-up, not a confession. It was also, in a mixed detail, a thing you repaired before anyone's hindbrain wrote a story.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He got the spare on. The adhesive bit. The rain kept arguing with it. He pressed until his finger hurt and the scent snapped back down to the flat nothing of a man on duty.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the three seconds between the peel and the press, Doctor Maren stopped walking.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not a stumble. A stop, complete, as if the stair had asked him a question in a language he had sworn not to answer. Priya's hand hovered and did not land. Rhee looked back, confused, professional. Maren's hood was still up. Calder could not see his eyes. He could see the line of the shoulders, which had been a scientist's shoulders a moment ago and were now a boy's, braced, waiting for a hallway to decide what it was.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The image arrived with the smell, ridiculous, specific, and incomplete.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A window. Rain on it, not unlike this rain. The smell of pencil shavings, cedar and graphite, a sharp little sweetness. A desk. A boy at the desk who did not cry. Calder could not see the face. He could see the hands, flat on a wet notebook, and he could hear his own laugh, younger, brighter, the laugh of someone who would be forgiven by tomorrow. The laugh curdled as soon as he recognized it as his. He did not know the room. He knew he had left it. He knew the leaving had been a choice and that the choice had felt, at the time, like survival of a kind he was now ashamed to call by that name.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Major,\" Nia said, from behind him. The word was a hook. He took it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Moving,\" he said. \"Patch is current. Mateo logs it at the landing. Nobody makes it a story.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Maren moved. The shoulders went back under the coat of the adult. He did not look at Calder. The not-looking was so exact it felt like a slap delivered with manners.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They climbed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's pulse was stupid. He hated it with a professional hatred. One breath of his own scent was not a rut, not a threat display, not an excuse. Mateo would say so in the log and would be right. The stair did not care about right. The stair had shown him a window and then taken the face away, and the man three bodies up had reacted as if the citrus had a biography.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the landing he let Mateo re-seat the patch and initial the tin. Jun watched the procedure with the flat attention she gave anything that might kneel her again. Harun offered a joke about officers melting in weather. Calder did not take it. The joke died of exposure, and Harun's face did a small recalculation that Calder would have to repair later, when he trusted his mouth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Levels?\" Mateo asked, quiet, for Calder alone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"One breath. No chase-response. No one's in the dirt. Write it as rain, not as a man.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll write it as a failed adhesive, which is what it is, and I'll write your pulse, which is being dramatic.\" Mateo pressed two fingers to Calder's wrist and snorted. \"Dramatic and coming down. You eat at the next halt or I make it an order in front of the doctor, and you will deserve the audience.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Mateo glanced up the file, to where Maren was drinking from a bottle as if water were a task. \"He stopped. I saw it. I'm not asking. I'm telling you that if your scent and his history are about to have a conversation, the conversation does not happen on a stair, and it does not happen through a patch. You want my clinical version, he's scared of something that fits in a breath. You didn't hear the rest from me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I didn't hear any of it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good. Be less interesting for an hour.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder tried.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He was short with Rhee when she offered a bearing he had already asked for. He was short with Ellis when Ellis wanted to stop for a moth that was only a moth. He was short with Sable, who had done nothing except report a clean loop, and he heard himself doing it and could not find the brake. Nia took the reports after the third one. She did not scold him in front of the team. She waited until the halt, until the others were eating under a root, and she stood with him at the drip-line where the sound of water covered a sentence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're spending people,\" she said. \"Rhee didn't deserve the tone. Ellis was wrong and you were ruder than the wrongness. Sable will forgive you because she likes a chain of command, and that is not a reason to use her forgiveness as a rag.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Noted.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't note me. Tell me what the breath showed you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He looked at the rain. If he lied, she would know, and the knowing would cost more than the truth he actually had, which was almost nothing. \"A window. Pencil shavings. A kid who didn't cry. My laugh. I don't have a face to put in it. I don't have a school I can swear to. I was seventeen and unbearable in several buildings. The memory won't pick one.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia's silence was the working kind. \"And Maren stopped like he'd been named.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Do you know him?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I don't.\" It was true. It felt like a lie he was going to be billed for. \"If I knew him I would know the face. I would know why my own smell made a grown man brace. I don't, Nia. That's the part I can't put in a report without sounding like I've started inventing a past to match a scientist I—\" He stopped before the verb. The verb was not for a drip-line. \"—a scientist I'm responsible for.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You were going to say a worse verb.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I was going to say nothing, and you interrupted nothing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She almost smiled, and didn't, because this was not the day for it. \"Re-patch on a shorter clock until the rain gives up. You don't get to be sharp with juniors because a window scared you. If the window comes back with a face, you bring the face to me before you bring it to him. Conflicts of history kill more details than cats.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You said that at Lantern.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm saying it until it sticks.\" She bumped his arm, brief. \"Go eat. Apologize to Rhee in a way that doesn't make her manage your feelings. Leave the doctor alone unless the stair is actually eating him.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He ate. He apologized to Rhee by giving her the next bearing decision and then following it, which was the dialect she trusted. He told Ellis the moth could be logged from the halt and made the telling sound like a correction of himself, not a gift. Sable got a nod that meant the clean loop had been clean. Harun got the joke back, late, smaller. The team loosened by a degree. Calder felt the degree and did not forgive himself for having spent the earlier ones.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Maren sat apart, notebook open, hood down now that the landing was only dripping. The scar through his eyebrow was a pale comma. Calder looked at it and the window tried to return — shavings, rain, the not-crying — and failed at the face again. He had the absurd, angry certainty that if he said a name he didn't know, the man would answer it. He said nothing. The nothing sat in his mouth like a spare patch, chemical and necessary.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya watched Calder watch. He caught her at it. She did not flinch. She returned her eyes to her own page as if he were a glyph she had decided not to read in company. He added her to the list of people who knew a sentence he didn't. The list was getting long enough to be a perimeter problem. Nia was right. He would not kick the problem open on a stair.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The city offered him work, which was decent of it. A collapsed lintel. Sable wanted a charge under it. Nia wanted a rope over. Calder chose the rope, because charges sang to whatever in this place collected metal-noise, and Rhee had already warned him that the dark below the gallery tickled the radios when anyone racked a bolt. They roped. Harun went first, joking at half volume. Jun stayed on the near side with the sling ready, her pride still bruised from a smile she had not ordered. Calder crossed last but one. Maren crossed last, because the asset did not get to be the experiment on a wet knot.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Halfway over, Maren's boot skated. Calder's hand closed on the strap at the man's chest and held. The hold was nothing, a correction, the kind he had done for twenty soldiers. Maren went rigid under it anyway. Not the rigidity of a fall. The rigidity of a person who had been grabbed on a stair once and had not agreed to be grabbed again.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder let go the instant the boot found stone. \"You're on it,\" he said, and made it ordinary with his teeth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know where my feet are.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then use them. The drop is not interested in your dignity.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"My dignity and I have a working relationship. It doesn't require an audience.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The line was dry enough to be work. Calder took it as work and hated the part of him that wanted to ask which audience Maren was actually refusing. The window flickered — rain, shavings, a hand on a collar or a notebook, he could not tell which — and he shut it by counting the remaining steps aloud, ugly, off any rhythm a lullaby could love.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the far side he checked the patch. Still seated. The scent stayed down. Maren walked ahead without looking back, and the not-looking had a new item in it: the strap. Calder added the strap to a bill he was going to pay without knowing the currency.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the afternoon the creek-stair became a gallery again, drier, carved with vessels and kneeling shapes. Maren worked. Calder ran the security the way he had been trained, which was to say he put his body between the asset and the dark openings and he did not narrate the body. Once, passing close in a narrow, he smelled rain and antiseptic and the absence that had bothered him since the pad. His own scent stayed down. Maren's did not reach for him. The absence was the tell, and Calder did not know how to file a tell that was a lack.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis, irrepressible, tried to give him a moth fact at the water stop. Calder heard himself cut it off in a sentence and a half and saw Ellis's kindness absorb the cut without making Calder into a villain, which was worse than a fight. Sable, who had been waiting for a reason to dislike the biologist less, disliked Calder for a minute instead. He deserved the minute. He spent the next water stop asking Ellis one question about wing-grit and listening to the answer all the way to its end. Repair was not the same as not having broken the thing. Nia watched the repair and did not praise it. Praise would have turned it into a performance.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He kept Maren in the middle of the file and did not trust himself with the rear, where looking was an assignment. Once the doctor paused at a carving of a vessel shaped like a throat. Calder waited. The pause was the old pause, the beat before speech. It dragged a fingernail down the inside of Calder's memory and came up with graphite under the nail. Still no face. Maren said, \"This one is a measure, not a god. Anouk will be unbearable about being right,\" and Anouk, ahead, said, \"I heard that,\" and the file laughed the small laugh of people who intended to live. Calder laughed late. The lateness was noticeable only to him and, he suspected, to Priya, who missed nothing and billed it to a private account.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At dusk he checked the patch twice. Mateo initialed both checks without commentary, which was mercy. Jun took first watch and looked like herself. Harun slept where he could see her boots. The ghost spoke, nineteen minutes, indifferent to adhesive.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before he let himself sit, he walked the landing once, the way he walked any halt he didn't trust. Jun's sector was clean. Rhee's mast was a whisper, not a beacon. Hester slept with Pavel's journal under her wrist, and Calder did not envy her the loyalty. He envied her the certainty. She knew which dead man she was carrying. He was carrying a laugh and a window and a scientist who braced at citrus, and the three facts refused to introduce themselves.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He stopped at Maren's niche because the rotation said the asset got a visual check, not because he wanted the face. Maren was awake, of course. The notebook was open. The hands were still. Tea, somehow, Ellis's doing, steamed in a cup set on a flat stone as if the stone had been built for cups.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Patch is logged,\" Calder said. \"You don't have to report the stair. Nia already has it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I wasn't going to report you.\" Maren's voice was the laboratory voice, precise, a little tired. \"Adhesive fails. Rain is a solvent. The event was chemical.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You stopped.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I stop for a number of reasons. Most of them are professional.\" A beat. The beat. Calder felt it in his teeth and did not chase it. \"If your scent reads as a threat to anyone on this detail, including me, the protocol is the protocol. You fixed it. That's the end of the sentence I'm willing to say tonight.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Understood.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It wasn't. He left before his mouth could ask for the rest of the sentence. Behind him the cup clicked once against the stone, a small sound, a man setting something down so his hand wouldn't show.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder sat with his back to a block and let the window come one more time, on purpose, the way you revisited a contact to see if it had been real.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rain. Cedar. Graphite. A laugh he wanted to put his hand over, too late. Hands on wet paper. No face. A feeling like shame that had been waiting in a cloakroom for fourteen years and had only just been handed its ticket.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He tried, once, to force the face by inventory. Harrowgate had a school. He had attended it because his mother had wanted a son who could sit still, and he had repaid her by becoming a son other boys followed. There had been a science fair. He remembered the gym smelling of varnish and oranges, and he remembered laughing, and the memory slid off the reason for the laugh the way the patch had slid off his ear. He had filed his adolescence under <em>I was a little shit, I grew up.</em> The filing had been neat. Neatness, he was learning, was not the same as truth. Somewhere in the neatness a notebook had been wet. He could not swear to it. He could swear to the feeling of having been forgiven too quickly by everyone except the person on the floor, and to the suspicion that he had never checked whether that person got up.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He could not hold it. The holding required a name, and the name was on the other side of a man who had stopped walking when Calder smelled like himself.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Lights down,\" he told the landing, shorter than he meant, and then, because Nia was listening even when she pretended to be asleep, he added, \"We've done enough for a day. That's not a criticism. That's the order.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "No one answered. The rain kept its own watch. Calder Rhys, patched, armed, and imprecise, closed his eyes and dreamed of pencil shavings without a boy attached, which was not absolution. It was only the mind, refusing, for one more night, to finish a question it had already asked.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0013",
+    "number": 13,
+    "title": "Ask It Something",
+    "arcId": "arc-2",
+    "volumeTitle": "Volume 2 — The Name",
+    "epigraph": "Echoes are loyal to the last thing they heard. They have never been loyal to the truth.",
+    "epigraphAttribution": "— Dr. Ellis Ward, margin of a specimen card",
+    "summary": "A Mirror Hind wears Sable's posture and repeats her last order. Ellis asks it a question, and the mimic fails.",
+    "opening": {
+      "id": "hc-ch-0013-opening",
+      "promptId": "hc-ch-0013-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Hind Path",
+      "caption": "A print that cannot decide if it is a hoof or a boot",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Ellis Ward had been waiting his whole professional life for an animal that was trying to be a sentence, and he had the bad manners to be happy about it before he was afraid.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The path above the gallery was mud over stone, the city's road remembering it was a road only when a boot found the curb. Rain had eased to a mist that beaded on his glasses and made the world kinder than it was. He walked where Sable pointed, which was a new habit and, he suspected, a probation. Since the moth case on the dock she had allowed him a left side and a straight line. He had kept both. He intended to keep them until the jungle offered a reason worth losing them, and he was honest enough to know he would lose them for a reason she would call insufficient.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Print,\" he said, because the print was there and not saying so would have been a lie he couldn't afford with her.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable stopped. She stopped cleanly, which Ellis admired with a warmth he kept out of his voice. The mark in the mud was the cousin of the one she had shown him at Lantern's camp: two slots, deep, and a scuff like a heel, and then the slots again. A stride that belonged to a person. A weight that belonged to something that had more body than a person was supposed to spend on a path. Pale grit in the flex of it, the same family as the moth dust, as the mortar, as the salt-burned lullaby they were all pretending had been a solved problem.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't step in it,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I wasn't going to step in it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You leaned.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Leaning is how eyes work.\" He heard himself echo a conversation he had not been present for, something the doctor and the major had thrown at each other on the boat, and he smiled despite the mud. \"It's the same walker. Or a child of the walker. The grit is fresher. Hours, not weeks. It came through after we salted the court. Salt doesn't interest it. We do.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable's mouth tightened. Alpha, blocker-flat, still somehow taking up more air than the explanation. \"If it is wearing us, I want a distance, not a biography.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If it is wearing us, a biography is the distance. You can't step away from a thing if you don't know which part of you it picked up.\" He crouched, happy, careful, the glasses slipping. \"No claw beyond the slot. No drag of a belly. The heel-scuff is learned. Something watched a boot and thought: I could be that, for a step, if a step got me closer to the noise you make when you give orders.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I don't make noise.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You make decisions out loud. Animals with any sense find that delicious.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She stared at him. He had the uncomfortable impression she was revising a category and resented the revision for being useful. \"Stay on my left. If I say down, you are down before you are curious. Clear?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Clear,\" Ellis said, and meant it, and also meant that curiosity and obedience were going to have to share a body for the next hundred meters. He could do shared bodies. He had been a beta in rooms full of alphas his whole adult life. The trick was not to pretend you were furniture, and not to pretend you were the fire.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They went up. The mist thickened into a room without walls. Shapes of trees. The occasional carved tooth of a roof comb, swallowed. Ellis listened to the expedition below them, a muted industry, and to Sable's breathing, which was a metronome he trusted more than the city's. He was, he realized, a little in love with her competence and irritated that the love had chosen a woman who would rather date a firing solution. He put the realization in the same box as cardamom: true, not for now, possible to act on by being accurate.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The hind stepped out of the mist as if the mist had remembered a shape and was proud of it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was not a deer. It had been near a deer the way a mask is near a face. The legs were too long in the joint that should have been a knee and too sure in the joint that should have been an ankle. Antler-roots, pale, not bone, branched in a way that copied the gallery's knots without understanding them. The head was a suggestion. The eyes were the wrong shine, grit, not moisture. And the body — this was the part Ellis felt in his stomach, delight and dread sharing a room — held itself the way Sable held herself. Weight on the back foot. Shoulder loose. Chin a fraction down. A recon officer's posture worn by something that had never had a shoulder in its life.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable's rifle came up. Ellis's hand came up too, not on the barrel, beside it, a request.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Wait,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It is wearing me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's wearing your last minute. Look at the feet. It hasn't decided to finish the step. If you shoot the body you may be shooting a sentence halfway through, and I don't know where the rest of the sentence goes.\" He swallowed. \"Doctor Maren said, on the boat, when nobody wanted the lecture — I wanted the lecture — that some of the Reach's copies fail when you ask them to do the part of a person that isn't repetition. Statements they can keep. Questions they can't answer, because an answer would require them to be ahead of the last thing they heard instead of behind it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You want me to interview it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I want you not to be the last thing it hears.\" His voice shook and he let it. Shaking was honest. \"Say an order. A short one. Then let me ask.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable's eyes stayed on the hind. The hind's eyes, such as they were, stayed on her posture, adjusting by inches, a student. Ellis loved the animal for half a second and was ashamed, and the shame did not cancel the love. This was a life. It was also a theft. Both could be true, which was the whole miserable privilege of his job.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Down,\" Sable said. Clear. The order she had given him. Not a shout.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The hind's mouth — a seam, then a mouth — shaped the word without air and then with it, a half-beat late, her pitch, her clipped end.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Down.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis felt the path tilt, not physically, morally. It had her. It had her exactly enough to be a weapon if someone panicked, and exactly enough to be a tragedy if someone didn't think. He stepped half out from her left, still not in the print, and he asked the only question he could make simple enough for a test and hard enough for a person.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"What do you want?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The hind held the posture. The seam of the mouth worked. No word came. It tried \"Down\" again, weaker, as if repetition could be hammered into an answer if you struck it twice. The antler-roots shivered. The grit-eyes dulled. One leg remembered it was a leg and not a boot, and the remembering broke the silhouette. The almost-Sable folded into a creature that was only itself: afraid, unfinished, suddenly small in the way mimics are small when the mirror cracks. It made a sound like a hoof on stone and like a sob someone had edited the grief out of. Then it turned, badly, and went into the mist at a gait no officer would claim.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis breathed. His glasses were blind with wet. He took them off and wiped them on a shirt that made them worse.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable had not fired. Her rifle was still up. Her hands, he noticed, because he noticed hands, were steady, and her mouth was not.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It said my order,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It couldn't say anything else. That's the mercy and the insult.\" He heard Ivo in the sentence and didn't take it back. Some sentences were communal property once you had survived them. \"If it had been a person, the question would have been cruel. It isn't a person. It's a road-warden that forgot the difference between a guest and an echo. Asking broke the echo. I'm sorry if you wanted it to be a target. Targets are simpler. This one would have killed us by being you at the wrong moment, and it would have died still being you, which I didn't want for either of you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable lowered the rifle by inches. The mist moved where the hind had been and did not give it back. \"You remembered a lecture nobody wanted.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I want most lectures. It's a character flaw. It paid for itself once. I'd like that noted before someone decides I got lucky in a way that doesn't count.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It counts.\" She looked at him then, really looked, not as an obstacle in her return lane and not as a moth. The look had weather in it. Ellis, who talked to specimens, found he had nothing useful to say to a person who had just decided he might be real. \"You stay on my left. If another one wears me, you ask before I shoot. If I shoot anyway, it's because the question failed, not because I forgot you were right.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That's the most romantic operational guidance I've ever received.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I won't.\" He smiled, small, and put it away. \"But I'm keeping it in the box where I keep true things I'm not spending yet.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They stood in the mist long enough for Ellis's pulse to remember it had a job besides wonder. The path smelled of crushed green and the mineral dust the hind had shed, a scent like a whetstone after rain. No second shape came. Sable's rifle stayed off safe for a count of thirty she did not announce and he did not interrupt. When she finally clicked it safe, the sound was small and enormous.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The last time I trusted a note,\" she said, not looking at him, \"the note said low risk. The nest said otherwise. I carried a private's name in my mouth for a year because I had wanted the paper to be kinder than the ground. You are not that note. I need to say it out here, where the hind already stole one sentence, so I don't have to say it in front of the major like a conversion.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis felt the sentence land in the place he usually reserved for specimens that might still be alive if he was careful. \"I walk toward things. You've hated that since the dock. I'm not going to stop walking toward them. I can stop walking toward them alone, and I can stop asking you to pretend the walking is bravery when it's only recognition. The hind was recognition. The shot would have been a guess. I like you too much to hand you a guess with my face on it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't say like.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"All right. I rate your survival highly. It's a clinical affection.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She made a noise that might have been a laugh if the mist had allowed it. \"Clinical affection is how people get killed in my old unit.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then I'll be affectionately clinical and on your left, which is harder to bury.\" He put his glasses on. The world returned, smeared and precious. \"If I freeze next time, you shoot. I'd rather be wrong and alive than right and a print.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Agreed.\" She rolled one shoulder, putting the officer back on over the woman who had almost been copied. \"Down. And if you lean at another print, announce the lean. My heart has a write-up quota.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, Lieutenant.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They went back down slower than they had gone up. Ellis marked the print with a stick, not a flag, because flags were statements and he was suddenly superstitious about statements. He talked, because silence made his hands want to shake and talking gave them a job: the gait, the grit, the failure mode, the recommendation that anyone copied should be asked a question by someone who was not the original. Sable listened. She asked one question of her own — \"What if it learns to answer?\" — and he said, \"Then it isn't a hind anymore, and we have a different problem, and I will be terrified in a straight line.\" She almost smiled. The almost was a door left unlocked, not open. He did not push it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the gallery mouth the major was a tall piece of impatience. Nia was beside him, already expecting the worst shape of a story. Ellis gave them the true shape. He did not decorate it. When he said he had asked the hind what it wanted, Calder's face did a thing Ellis couldn't parse, a flinch toward Maren, who had come up behind Priya and gone very quiet.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You asked it,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, sir. A question. It repeated Lieutenant Venn's order and then it couldn't. The copy dropped. It left. I don't think we should shoot the next one until we've tried the same failure, unless it's already on someone.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Maren said, \"Don't ask it what it wants if you are standing where the water can hear you phrase it as a gift.\" His voice was low. \"The hind is a local mimic. The city is not. Ellis, your test was correct for the animal. It is not a blanket permission to interview the Reach. Some systems treat a question as consent.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis nodded, the happiness draining into care. \"Then we ask the copies, and we don't ask the stone. I can live in that distinction. I'd like it written where Harun can see it. Harun likes rules that come with a target he is allowed to not shoot.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll write it,\" Nia said. \"Ward, you did not wander. Venn, you did not waste a rifle. Both of those facts are going in the same sentence so neither of you can pretend this was a solo act.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable's ears, what he could see of them under the hood, colored. Ellis pretended to be very interested in his glasses. Calder dismissed them back into the file with a shortness that wasn't about them. Ellis, whose job was patterns, saw the major's eyes snag on Maren and fail to land, the way the hind's mouth had failed to land on an answer. He did not understand the pattern. He understood it was old, and human, and not his to solve. He had a hind. He had a left side. He had a woman who had looked at him as if the jungle had changed genus.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "That was enough miracle for a mist.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Later, when the halt came and Mateo forced calories on everyone, Ellis sat on his crate and wrote the card twice: once for the log, clean, and once for himself, with a sentence he would not show Sable yet. <em>She listened to the end of the answer. That is a rarer specimen than the hind.</em> He closed the notebook. Across the halt she was cleaning the rifle she had not fired. She glanced up. He lifted his cup, not a toast, a report: still here, still on your left. She returned it with a nod that had, if he was not inventing it, a fraction less probation in it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo found him before full dark, which Ellis had expected and dreaded in equal measure. The doctor did not scold. He sat on the next crate with his hands around a cup and said, \"You used the lecture.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I hoped you'd be flattered rather than litigious.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm neither. I'm precise.\" Ivo's pause was the one Ellis had started to hear as a safety on a weapon. \"The hind failed a question. Good. Write that the question must not be the city's question. 'What do you want' is already too close to a prayer if you say it at the water. Next time try something local. What color. Which boot. How many fingers. A copy can fail a small ask as cleanly as a large one, and a small ask doesn't feed the stair.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Understood.\" Ellis hesitated, then spent a smaller truth. \"Sable didn't shoot. I think that cost her. I don't want the cost to be my fault in the log.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It won't be. Nia writes better logs than the rest of us deserve.\" Ivo stood. \"You did the job. Don't turn it into a romance before she's finished being frightened. Frightened people hate being cast as the insight in someone else's chapter.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That's very good advice from a man who is definitely not in a chapter,\" Ellis said, gentle, and Ivo's mouth did not smile and did not deny it. He left the cup's heat behind him like a period.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The mist crawled the gallery mouth and did not bring the hind back. Somewhere in it a creature was practicing how to be only itself, which was hard work, Ellis thought, for anyone. He ate the ration. He did not step in any prints. When Sable said, an hour on, \"Left,\" he was already there.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the dark he dreamed of antler-roots trying to spell a question and failing, kindly, into an animal again. He woke to Sable's boot against his crate, not a kick, a reminder. \"Your glasses,\" she said, and held them out, cleaned, which was a intimacy he did not remark on and would not survive remarking on. He put them on. The gallery was still there. So was she. He decided both facts were worth the ration, and he ate, and he did not ask the stone what it wanted.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0014",
+    "number": 14,
+    "title": "Six Hours",
+    "arcId": "arc-2",
+    "volumeTitle": "Volume 2 — The Name",
+    "epigraph": "Cleverness that does not report is just another kind of ambush, and it belongs to the enemy.",
+    "epigraphAttribution": "— Captain Nia Okonkwo, after-action, unsent",
+    "summary": "Rhee admits she sat on a Helix transmission. The six hours will choose the ridge for the fight still coming.",
+    "opening": {
+      "id": "hc-ch-0014-opening",
+      "promptId": "hc-ch-0014-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Counter-Net",
+      "caption": "A burst she kept in her pocket for six hours",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Rhee Amari had the burst in a folder she had named WEATHER, which was the first lie, and she had known it was a lie while she was naming it.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Six hours. She had counted them the way she counted repeater delays, because numbers were how she stayed brave. At 06:14 the canopy had coughed a packet that was not theirs and not the ghost. Short. Encrypted with a commercial arrogance she recognized from a Helix manual she was not supposed to have memorized and had memorized anyway, because her sister was a journalist and journalists' sisters learned the shape of companies. At 06:17 she had told herself she would crack the header before she woke Nia, so the report would be a fact and not a fright. At 07:40 the header had opened like a cheap lock. A scout net. Two callsigns. A grid that put metal east of the gallery, not on top of it, not yet. At 09:02 she had the voice, scrambled and then not: a woman, calm, telling someone named Cho that the Compact detail was \"ahead and noisy\" and that she would not spend a team on a nursery. At 12:11 Rhee was still the only person alive who knew the woman had said nursery, which meant the woman had heard the lullaby's aftermath through a drone Rhee had not yet killed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She sat on the knowledge through a halt, through Ellis's hind, through the major's patched ear and the doctor's careful distance. She sat on it because she wanted to arrive with the counter-net already built, a gift, a repair performed before the scolding. Her sister would have called that a scoop. Nia was going to call it a hole.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She could still see 06:14 if she shut her eyes, and shutting them did not help, so she kept them open and let the memory play on the wet stone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The gallery had been a blue dark. Jun on watch, a silhouette that did not fidget. Rhee's headset had coughed the packet into her teeth, a private channel she had built so the ghost wouldn't wake the camp every nineteen minutes unless the ghost changed its sentence. The new cough was not the ghost. It had a commercial preamble, a little bow, the sound of a company that thought encryption was a personality. She had looked at Jun. Jun had not turned. The preamble was below the threshold of a shot.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee had told herself: two minutes. Crack the routing, then Nia's boot in the ribs, then the fact. Two minutes became twenty because the hop folded through the canopy the way the ghost did, and she was good at folds, and being good felt like duty until it felt like a theft. She remembered the exact moment it became a theft. The header opened. A grid square she knew. She had smiled. The smile was Jun's lullaby-smile's cousin, private, aimed at her own competence. She had killed the smile and not the delay. She had written WEATHER on the tape so that if someone glanced, the glance would slide off.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At 09:02 the woman's voice arrived, and Rhee had put a hand over her own mouth like a child. <em>Ahead and noisy. I will not spend a team on a nursery.</em> A limit. A person. Rhee, whose sister collected persons and called it news, had wanted the whole person before she handed the voice to a major who would turn it into a target. That want was the six hours. She could dress it as craft. Under the dress it was hunger: to be the one who understood first, to arrive with a solved thing, to not be the specialist who only carried other people's fear to the set.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Her sister's letter was in the dry bag. Rhee did not take it out. She knew the line. <em>If you vanish, I will write around the edges of what you didn't say, and the edges will be enough to get someone fired and not enough to get you home.</em> Rhee had answered with a page of weather. She was, apparently, a family of weather. The thought was ugly enough to be useful. She held it while Jun's rifle spoke and the drone came down, and she was almost grateful to the plastic for ending the lie before another hour could attach itself.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The drone made the confession for her.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It came over the gallery roof at dusk, a whisper of rotors wrong for moths, a glint Ellis would have loved if it had been alive. Jun shot it out of the air with the weary accuracy of a woman who had already smiled at nothing once this week and did not intend to be surprised by plastic. The wreck fell into Harun's sector. Rhee got there first, because guilt is a kind of sprint, and she had the casing open before Calder's shadow joined hers.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Helix,\" she said. The word tasted like the folder. \"And I have to tell you something that will make Jun's shot the second-worst thing today.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder looked at the boards. He looked at her. He did not fill the silence with help. Nia arrived as if summoned by the particular quiet of a specialist about to ruin her own day, and Rhee understood she had been waiting to be caught, which was not the same as being honest.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Six hours,\" Rhee said. She put the recorder on the stone between them, WEATHER written on the tape in her neatest hand, a child's attempt at innocence. \"A burst at 06:14. I cracked it instead of calling it. Scout net, east grid, a woman talking to Cho. She knows we hit a nursery. She knows we're ahead of them. I was going to bring you the counter-net with the confession so the confession would be smaller. That was the vanity. The drone means they have a fresh picture. The six hours are why the picture is fresh instead of old.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia's anger was quiet. Rhee had prepared for volume. Volume would have given her a place to stand and be sorry at. Quiet left her in the open with the tape and the smashed rotors and Jun's bullet hole, a neat professional period at the end of a sentence Rhee had tried to edit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You sat on an enemy net,\" Nia said, \"while I was counting living people, and you called the file weather.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, Captain.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You know what six hours is in this canopy. It is a ridge. It is a line of sight we don't get to choose. It is Jun on a root she hasn't stood on yet.\" Nia's voice did not rise. The not-rising was the punishment. \"I buried a civilian who was standing where a plan said safety was, because I let someone clever talk me out of my own clock. I will not bury another one because you wanted to be the person who solved it alone. Is that understood in a way that survives your next interesting packet?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, Captain.\" Rhee's eyes burned. She refused them the drama of falling. \"I'll build the counter-net in the open. I'll wake you at the first header, not the last. I have a letter to my sister that says nothing prosecutable. I can write this the same way, into the log, ugly, on time.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder crouched and turned a rotor blade over with a nail. When he spoke, the charm was absent and the rank was not unkind. \"The failure is mine on the way up. I run a detail where a specialist thought heroics would be graded higher than speed. That's a command smell. I'll wear it in the report. On the way down, the fix is yours and it is not solitary. You build the net with me in the loop and Nia in the loop. You do not get a private mystery. If you crack something and sit on it again, I will send you to the dock with Ibarra and you can be brilliant where brilliance doesn't choose our graves. Clear?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Clear, sir.\" The mercy of a specific punishment made her throat tight. A vague disappointment would have rotted. This she could carry. \"The woman's callsign isn't in the header. The voice is beta-flat, educated, angry under the calm. She said she wouldn't spend a team on a nursery. That's a limit. Limits are useful. She also said Cho doesn't have the same limit. If we transmit the glyph gloss Priya is sitting on, we feed him a verb. I haven't heard that gloss. I'm telling you I know it exists because the doctor and the linguist go quiet at the same moment, and quiet is a frequency too.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia's eyes flicked, not to Rhee, to the dark where the science team slept. \"You don't hunt your own people's silences for sport.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not. I'm telling you the enemy already hunts noise. Our noise is the lullaby, the shot, the hind, my six hours. Their noise is a woman who still has a line she won't cross and a man who doesn't. I can make us quieter. I can't make us earlier. The earlier was this morning.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then start with quieter,\" Calder said. \"Tonight. You and me. Nia sleeps first and hates it. Jun's drone is a trophy and a warning. Harun doesn't get to keep the rotors as a charm.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun, who had absolutely been about to keep the rotors, sighed from the edge of the lamp and put them in the evidence tin. Jun touched Rhee's shoulder once, a tap, not an absolution. \"Next packet, you wake me too if the captain is asleep. I don't need the contents. I need the time. Six hours is how people become stories.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know,\" Rhee said. \"I wrote my sister a letter that was all time and no facts, and I still managed to delay a fact. The irony is cheap. I'll pay it in gear.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They built the counter-net by lamplight while the gallery dripped. Rhee spread the scheme on a slate: their frequencies, the ghost's nineteen-minute prison, the Helix hop she had stolen, a hole she could open that would make the next drone hear its own rotor and think the canyon was empty. Calder followed it. He was not a signals officer and he did not pretend to be. He asked the questions a rifle would ask. Where does this fail. Who hears the failure. What does Jun shoot if the hole closes. Rhee answered without embroidery. The vanity had burned off somewhere around Nia's quiet, and what remained was the engineer she had been before she decided she was also a protagonist.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia did not sleep. She sat within earshot and cleaned a weapon that was already clean, which was her version of a vigil. Once she said, \"Your sister would have published the burst at 06:20 and called it a public service. I am not your sister. I am the person who has to bring the corporal home. Remember which of us you work for when the packet is pretty.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I work for the corporal,\" Rhee said. \"And for you. The pretty was the mistake.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near midnight the set clicked. Not the ghost. A new cough, shorter, east. Rhee looked at Calder. Calder nodded. She woke the channel the way she should have woken it at dawn.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Live burst,\" she said. \"Header only. I'm not sitting on it. Two seconds.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She cracked those two seconds in the open, mouth moving, Nia hearing the ugly version. A fragment: the same woman's voice, tighter. <em>They know we're close. Hold the ridge. Don't answer their questions if the city asks you anything. Cho wants the bell at dawn whenever dawn is. I want the record. Those are not the same order.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee's hands paused. \"She's warning her own scouts about questions. She knows something about the ask. Not all of it. Enough to be afraid.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Log it,\" Nia said. \"Word for word. Then shut the hop so they don't feel us listening. We are not clever in their ear tonight.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee logged it. She shut the hop. The gallery felt, for a moment, like a room that had been given back its door. She knew the feeling was a lie. Six hours had already walked east and sat down on a ridge. Somewhere a woman with a dead brother and a limit was telling a man without a limit that the expedition was ahead, noisy, and wounded in its trust. The trust-wound was Rhee's. She could feel it in the way Jun checked the mast twice, in the way Harun didn't joke about the tin, in the way Calder's report voice had gone plain.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She wrote the addendum on the tape in block letters: NO PRIVATE MYSTERIES. She stuck it to the set where her eye would hit it at 06:14 tomorrow, if tomorrow still used clocks.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sleep was a theory. Calder made her say the ugly version once more, to him alone, without Nia's quiet in it, so he would know which sentences were shame and which were signal. Rhee gave him the grid, the woman's limit, Cho's name said like a delivery date, the nursery. He repeated the nursery back. His jaw worked.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"They heard us salt a song,\" he said. \"That's on the court, not only on you. The six hours are yours. The noise is the expedition's. Don't carry both or you'll carry neither well.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That's kinder than the report will be.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The report will be accurate. Accurate isn't the same as leaving you on the ridge alone when the ridge arrives.\" He capped the slate. \"Get an hour. If you're still awake at the next ghost, you're on watch with Jun and you can be punctual in person.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She was still awake at the next ghost. Jun let her sit. They didn't talk about the drone. Jun said, \"Harun is composing a song about rotors. I've forbidden the chorus.\" Rhee laughed once, small, and the laugh did not fix the six hours and did not pretend to. It only proved her mouth still worked for something besides confession.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before she slept — a lie, a doze — she found Priya awake, because of course the linguist was awake, and she did not ask for the gloss. She said, \"If you are holding a word off the air, hold it. Helix is collecting verbs. I gave them six hours of our noise. I won't give them your dictionary.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya studied her, then nodded. \"The word stays in a paper book. If I die, the book is in the red tin, and the red tin lies. Don't be heroic about the tin either.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I've used up heroic,\" Rhee said. \"I'm on punctual.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Morning came as a paler drip. Rhee briefed the file in sentences short enough to survive fear. East grid. A woman with a limit. A man named Cho without one. A drone already dead. A rule: packets wake the captain, not a private folder. Harun asked if the woman could be shot. Jun said, \"Not for having a limit.\" Calder said, \"Not until she spends the limit. If she spends it on us, Jun shoots the spend, not the biography.\" Nia watched Rhee while the others watched the major, and Rhee understood she was on a shorter leash and a real one, which was better than being trusted in the way that had produced WEATHER.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya's red tin stayed shut. Rhee walked past it twice and did not heroically open it, which she counted as growth and Nia would have counted as the minimum. In the east the grid square she had hoarded sat on the slate like a tooth. Calder assigned Sable a loop that would see the ridge without standing on it. Sable took Ellis, because the left side was no longer a joke, and Rhee gave them a frequency that would sound like water if Helix was listening. \"If you hear a woman who doesn't want to spend you,\" Rhee said, \"you still come home. Sympathy is not a corridor.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I don't do sympathy,\" Sable said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You do accuracy. Bring me the accurate shape of their camp and not a prisoner. Prisoners ask questions. This city treats questions as a kind of permission, and I have used up permissions.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis nodded as if she had handed him a live moth. \"We'll ask the mud. Mud answers without grammar.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They went. Rhee watched the mist close and felt the six hours walk with them, an invisible scout of her own making. She could not call them back without spending the quiet she had just bought. She could only be on time from this breath forward, which was a small religion and the only one she trusted.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She dismantled the folder name. She wrote HELIX-EAST on the tape and the time 06:14 and the words SIX HOURS LATE. The ugliness was the point. Pretty labels had cost them a ridge they had not stood on yet. When Ellis offered her tea she took it and did not deserve it and drank it anyway, because Mateo was watching calories with the expression of a man who would make punctuality into a sandwich if he had to.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She lay down at last with the recorder against her ribs, not as a comfort, as a penance with a strap. The ghost spoke once, nineteen minutes, a dead man still faster at warnings than she had been. Rhee Amari listened to him and did not answer, and in the east a ridge she had not seen yet took the shape of her delay and waited, patient as a company, for the expedition to walk up into the hour she had spent being clever.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0015",
+    "number": 15,
+    "title": "Cardamom",
+    "arcId": "arc-2",
+    "volumeTitle": "Volume 2 — The Name",
+    "epigraph": "Care is easy to disguise as procedure until the procedure starts remembering how someone takes their tea.",
+    "epigraphAttribution": "— Captain Nia Okonkwo, private margin",
+    "summary": "Ivo sleeps on his notes. Calder covers him with a jacket and calls it asset management, and only Nia is qualified to grade the lie.",
+    "opening": {
+      "id": "hc-ch-0015-opening",
+      "promptId": "hc-ch-0015-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Halt",
+      "caption": "A jacket, a notebook, a pod of cardamom",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "The morning before the kindness was a climb. Calder put Maren in the middle of the file and put himself where he could see the middle without staring, which was a geometry Nia had started to mock by lifting one eyebrow. The city smelled of wet mineral and the faint green of Ellis's tea tin opening and closing like a nervous habit. Rhee's new rule held: a hop coughed once, she called it in the same breath, and the breath was a grid square they would not walk today. Sable and Ellis went wide and came back with mud on their knees and no prisoners. \"Camp is a scar on the ridge, not a wall,\" Sable said. \"They're waiting for us to be louder.\" Calder thanked her by changing the route, not by a speech. Speeches were how you became louder.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Maren worked while he walked, which was a vice. He sketched a vessel-carving without stopping his feet, and he was good enough at both that Calder's annoyance couldn't find a grip. At a turn the doctor said, \"The Warden in these panels isn't a soldier. The hands are in the dirt. They're gardening something that bites.\" Calder stored the sentence. He did not know yet that the sentence would matter. He knew the man saying it had slept badly and was using precision as a substitute for rest, and that the substitute would fail by afternoon.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The halt on the twelfth day was a kindness the city had not intended. A side chamber with a draft, a floor that was only mostly wet, a crack of sky the color of tin. Nia called it two hours because Rhee's eyes had gone to the shine of someone who would crack another header out of pride if she wasn't ordered to be horizontal. Calder agreed and then did not lie down, because majors who had spent a morning being short with their own people did penance on their feet.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He walked the posts. Jun had the crack. Harun had the door and a song he was not singing, which was how Calder knew the drone still sat in him. Sable and Ellis were a left-side fact now, not a probation, and Calder logged the fact without teasing it. Teasing would have been the old him. The old him had laughed in rooms he couldn't fully remember, and the laugh had a bill.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Doctor Maren was supposed to be in the draft, sleeping. He was on a block with the notebook open on his knee and his head tipped in the particular angle of a man who had lost an argument with his eyelids. The pencil had fallen. The page was a knot, half-copied, the lines going soft where the hand had stopped believing in them. His mouth was slightly open. The scar through the eyebrow was defenseless. He looked younger only in the way sleep makes everyone a worse liar.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stood over him and felt the window try again. Rain. Shavings. A boy who didn't cry. No face. The sleeping face in front of him refused to be that boy and also refused to be a stranger, which was an insult to both of Calder's professions: the soldier's memory and the commander's indifference.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The chamber was cold where the draft came through. Maren's hands had tucked against the notebook as if paper were warmth. They weren't. Calder had seen those hands shake after the tape and after the nuns and had pretended, with the man's cooperation, not to see. Asleep, the cooperation was off duty. A fine tremor lived in the left thumb and did not know it was being observed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Asset management, Calder told himself. A chilled asset was a stupid asset. Stupid assets wandered into songs.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He took his jacket off. The shirt under it was damp and immediately sorry. He put the jacket over Maren's shoulders and the notebook, careful of the pencil, careful not to let his fingers find the pulse at the neck the way Mateo's would have, because that would have been a different category of care and he was already losing the argument about categories. The jacket smelled like rain and the flat chemical of a fresh patch. It covered the tremor. Maren made a small sound, not a word, and turned his face toward the heat of the cloth the way a person turns toward a known thing. He did not wake.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stepped back. Ellis, on the near post because Sable had sent him for water and the water was a fiction, had seen. Of course he had seen. The biologist's glasses were honest to a fault. He looked at the jacket, at Calder, at the sleeping man, and he arranged his face into the blank of a person who had decided a specimen was not his to tag.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Cardamom's in my tin,\" Ellis said, very quietly, as if offering a fact about moths. \"He takes it crushed, one pod, in tea that's already too strong. If you're doing rounds. I'm not saying you're doing rounds.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm doing a temperature check.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Right. Temperature.\" Ellis pushed his glasses up. \"The tin is the red one. Not Priya's red tin. Mine is dented. If you use the last pod I'll forgive you and then I'll tell him I did, so he doesn't think the jungle grew manners.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't tell him.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I was hoping you'd say that.\" Ellis smiled with only one side of his mouth and took it away. \"Sable says I narrate. I'm trying the other thing. The other thing is silence. It's heavier than it looks.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're doing it adequately. Go back to your left.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, sir.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He went. Calder stood another minute in the draft, jacketless, watching a scientist sleep under a piece of issue clothing as if the clothing had always been a plan. It had not been a plan. Plans were what he put in reports. This was a theft from his own discipline, and the stolen thing looked, from the doorway, like tenderness. He hated the word. Tenderness was how officers got civilians killed, Nia's corridor, Rhee's six hours, every clever softness that arrived before the clock. He picked the word up and put it in the box labeled asset management, and the box did not close.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He used the rest of the halt as work so the jacket would not become a vigil. Rhee's slate needed a second pair of eyes on the hop she had shut. He gave her the eyes. She did not mention the chamber's draft or the missing layer on his shoulders, which meant Ellis's silence was holding and also meant Rhee had decided some data was not signal. He trusted that decision more today than he would have yesterday. Six hours had burned the vanity out of her. What remained was a woman who labeled tapes ugly on purpose. He initialed the hop plan and sent her to horizontal by pointing at a dry patch and waiting until she sat.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun, at the crack, said without turning, \"Your core temperature is a tactical choice.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't start.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not starting. Harun gives me his coat when he thinks I won't shoot him for it. I shoot him a little, verbally, and I keep the coat. The doctor will do a colder version of the same. Don't look wounded when he hands it back. Wounded makes it a proposal.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It was a temperature check.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Harun says that too. Harun is a terrible liar and I married the tell.\" She glanced down, not at Calder's face, at the empty sleeves of his authority. \"If this is the window Nia won't let you narrate, keep your hands where the report can see them. I'll shoot a hind. I won't shoot a feeling. Feelings are your problem until they kneel somebody.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Copy,\" he said, and the copy was not as steady as he wanted.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He stayed in motion. He drank water. He re-seated his patch early, Mateo watching, both of them pretending the patch was the only intimacy on offer in the chamber. The citrus did not escape. The window stayed a window. When the two hours thinned toward their end, the jacket was still where he had put it, and Maren had not moved except to breathe deeper, once, as if the wool had entered a dream and been allowed to stay.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When Maren woke, Calder was across the chamber cleaning a rifle that was already clean, which he had learned from Nia and would not be admitting. The jacket was still there. Maren touched it, understood it, and did not look over. He folded it with the same precision he used on sample bags. He brought it back and held it out, and their fingers did not meet, because both of them had become superstitious about fingers.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You'll freeze performing rescues,\" Maren said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You'll freeze performing literacy. The draft doesn't grade either of us.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Was I drooling on a glyph?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You were annotating it with your face. I intervened.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Almost a smile. The almost hurt, which Calder added to the bill. Maren said, \"Asset management?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't make it a moment.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I wasn't going to.\" He paused. The pause. Calder's memory reached and closed on pencil shavings and rain and nothing he could swear to. \"Thank you is the wrong word. I'm using it anyway, once, where the fungus can't learn it. Thank you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Noted,\" Calder said, and his voice came out lower than the joke required. \"Tea is at the tin. Ellis has opinions about pods. If you skip it he'll narrate, and Sable will make the narration a safety issue.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Ellis has been narrating my tea since a conference in a city that had walls.\" Maren took the jacket's absence back to his block and the cup Ellis had, somehow, already staged. He crushed a pod with the handle of the pencil. The smell was green and warm and utterly out of place, a small civilized violence against the mineral dark. Calder watched the ritual the way he watched a new tell: too long, too hot, the pod, no sugar, the first sip taken as if it might be evidence. He stored it. He told himself storage was the job. The job did not usually feel like a hook under the sternum.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis, later, when Sable was on the far post and could not grade him, showed Calder the crush. \"Flat of the pencil, not the point. If you shred it, the cup goes bitter in a different way and he'll know a stranger did it.\" Calder practiced on a spare pod over a tin of hot water that was not yet an offering. The smell rose. His hands, which could seat a patch in the rain and tie a sling one-handed, were clumsy with a seed. Ellis did not laugh. \"You're allowed to be bad at this. Being bad at it where he can see is the point. Hidden competence is just another jacket.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You are dangerously close to a lecture.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I contain multitudes and also beetles.\" Ellis pocketed the spent pod. \"I won't tell him you practiced. I'll tell him the tin was open. Both of those are true if I open the tin.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder carried the practice in his fingers for the rest of the halt. When he made the real cup he was only slightly less clumsy, and the clumsiness, he realized, was the part Maren trusted. A perfect cup would have looked like surveillance. A slightly wrong crush looked like a man trying, which was more dangerous, and which Maren drank anyway.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia found him at the crack when the two hours were up and the team was becoming a team again.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You gave him your jacket,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He was cold.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You have been cold on nine operations and you gave the jacket to the radio, or to Jun, or to nobody. Don't insult me with asset management. I invented half the phrases you hide in.\" She watched the tin sky. \"I'm not forbidding it. I'm grading it. You're a bad liar, Calder. You get funnier when you're in trouble and you get plainer when you're in this. This is plain. Plain is how I know it's not a joke and not a rut and not a patch failure. If it's a history, I still need the history before it chooses a route. If it's a feeling, you don't get to spend it in a way that makes him smaller. He is not a debt you pay with outerwear.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I don't know the history.\" He heard how tired he sounded. The tired was honest. \"I know the tea now. I know he sleeps like he's guarding the page. I know my scent stops him. I know a window and a laugh I don't want. If I pretend that's nothing, you'll trust me less. If I call it what it might be, I become an officer who wants the asset, and that sentence ends careers for a reason.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Wanting isn't the crime. Using it is. Hiding it until it picks the path is the other crime.\" She was quiet a moment. \"Learn the tea if you must. Do it where he can refuse the cup. The jacket was all right because he was asleep and cold, and you didn't stay to watch him be grateful. Don't stay next time. Gratitude is a room you don't get to furnish.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, Captain.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"And eat. Mateo is one speech away from a coup.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He ate. He made the tea the next halt, in the open, the dented tin, one pod, too strong, and he set the cup where Maren could ignore it. Maren did not ignore it. He looked at the cup, at Calder, at Ellis — who was suddenly fascinated by a beetle — and he took the cup. Their fingers did not meet. The thank-you did not repeat. The not-repeating was its own grammar, and Calder, who had been told not to furnish the room, stood in the doorway of it anyway and called the standing security.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya saw. Of course Priya saw. She wrote something in a book she did not share and then, passing him, said, \"If you learn any more of his rituals, learn the one where he gets to leave.\" It was not a threat. It was a translation. Calder nodded as if he had understood a glyph, which was close enough to the truth to keep him awake.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "That night the ghost spoke, and the jacket was back on Calder's shoulders, warmer by a body that was not his, and he did not mention the warmth in the log. He wrote: <em>Halt. Asset hypothermic risk mitigated. No contact incident.</em> The sentence was accurate and a lie, and Nia, reading it over his shoulder, snorted once.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You'll fail the audit,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll pass the part that matters.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That's what Rhee thought at 06:14.\" She tapped the page. \"Keep the jacket. Lose the myth that you're only counting temperatures. I can work with a major who knows he's lying. I can't work with one who needs me to believe him.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then don't believe me,\" Calder said, and the plainness of it was the truest thing he had said in the chamber. \"Believe the perimeter. I'll keep him alive. I'll keep my hands off the parts of him that aren't the job. If the window ever gives me a face, you'll have it before he does.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll hold you to the order of operations.\" She left him the log and the draft and the smell of cardamom, which had gotten into the wool and would not be briefed out.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder Rhys put his back to the stone and did not sleep for a while. Across the chamber a scientist drank the last of a cup and did not look over, and the not-looking was no longer only a wound. It was a choice they were both practicing, badly, in a city that finished choices if you asked them the wrong way. He thought of the strap on the rope crossing, the rigidity, the way Maren had said dignity as if it were a colleague. He thought of the patch peeling and the stop on the stair. He thought of a jacket that had come back folded like evidence. None of the thoughts were a face. All of them were a direction. Nia had told him not to furnish the room. He was, he admitted, already choosing the chairs. The admission sat beside the cardamom and did not become a speech.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not ask. He counted the posts. He let the jacket remember a weight. Asset management, he thought, and the thought was so thin he could see the feeling through it, green and warm and utterly out of place, and he did not say its name.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0016",
+    "number": 16,
+    "title": "Cache the Metal",
+    "arcId": "arc-2",
+    "volumeTitle": "Volume 2 — The Name",
+    "epigraph": "Fear is not the opposite of the descent. It is the kit you check twice and then carry anyway.",
+    "epigraphAttribution": "— Sergeant Harun Dalca, to Jun, later denied",
+    "summary": "Harun goes down the Cistern Stair without his gun. The eels are guarding silence, and Pavel's voice is still on a bone stylus.",
+    "opening": {
+      "id": "hc-ch-0016-opening",
+      "promptId": "hc-ch-0016-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Cistern Stair",
+      "caption": "Metal sings, and the water answers",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Harun Dalca had made a career out of being the largest calm object in a room, and the stair did not care about his career.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "It went down from a crack behind the gallery, a spiral the city had cut for people who meant to return, and then the spiral had filled. Black water waited three turns below the last dry tread. The air that came up was cold and smelled of iron that had never been a rifle. Jun was already on the second turn. He could see her boots. He could not see her face. The not-seeing put a hand around his throat that had nothing to do with enemies and everything to do with a cousin who had died in a mine when Harun was nineteen, a collapse, a radio that kept talking after the voice stopped being a voice. He had told Jun. He had told no one else. The stair knew anyway. Stairs like this always knew.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Dalca,\" Calder said. \"You're gray.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm picturesque. Don't ruin it.\" The joke came out thin. Jun, below, said his name once, not a question, a place to put his feet. He put them. One tread. Another. The rifle on his back clicked against the wall — a small, stupid, metallic click — and the water below lit up.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not a reflection. A body. Long, luminous, a muscle of pale fire under the black, rising toward the sound the way a hand rises toward a bell. Another followed. Eels, if eels were the size of canoes and hated noise with a personal grudge. The first one struck the wall where the click had been. Stone spat. Harun's heart tried to leave by the mouth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Nobody racks anything,\" Calder said, and the order was quiet, which was how Harun knew it was real. \"Rhee. Off. All of it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee killed the set. The ghost died mid-vowel, offended. The eels did not sink. They circled, light smearing the spiral, waiting for the next rude thing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's voice came from above, level, the voice Harun trusted when the room stopped being a room and became a lesson that could eat you. \"They're not guarding territory. They're guarding quiet. The click was a shout in whatever language this cistern was built to keep. Cache the metal. Guns, radios, tags, anything that can ring. If we go down armed, we go down as a bell.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I am not a bell,\" Harun said. \"I am a sergeant with a legitimate emotional support rifle.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You'll be a sergeant with a legitimate emotional support corpse,\" Jun said from the turn. She had already unslung. He could hear the careful set of her weapon on stone. \"I'm below you. That's the fact. Come be a fact with me or go back up and explain it to my ghost. I don't recommend the second. I'm meaner as a ghost.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He laughed, once, because she had given him the door in their dialect. The laugh shook. He let it. Calder was looking at him with the expression that meant the major had heard the shake and was not going to make it a spectacle.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Cache is here,\" Calder said, pointing at a niche above the waterline that had been carved for offerings or for cowards, Harun didn't care which. \"Rifles, sidearms, Rhee's mast, belt buckles if they sing. Knives if they're not resonant. Ivo, you called it. You don't lead the stack. Harun, you don't have to—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm going,\" Harun said. If he let the sentence finish he would take the exit, and Jun was already a pair of boots in the dark. \"I hate it. I'm saying it so it isn't a surprise later. My cousin died in a hole. This is a hole. Jun is in it. Those are the three facts and only one of them is allowed to win.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia's mouth did something proud and unhappy. \"Then you win it without a performance. No hero breath. You go down, you come up, you don't touch the bright ones.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They cached the metal. Harun's rifle went into the niche last, because he was superstitious and because the weight leaving his back felt like a lie he had told his own spine. His hands were empty. Empty was a country he did not visit. He flexed them. Jun's hand found his wrist when he reached her turn, a squeeze, registered bond and private joke and <em>I know</em>. He squeezed back. They went down together into the smell of old laboratories.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The cistern opened at the bottom into a hall of vats. Not fish tanks. The glass, or whatever the city had used instead of glass, was grown, cloudy, ribbed like the inside of a throat. In the nearest, a residue clung in the shape of a question mark that was not a question mark, a knot, the knot Priya wouldn't say on the air. Racks of bone needles. A stylus the length of a forearm, drilled, stained, resting in a cradle as if someone had meant to come back and finish a recording. The eels' light moved on the ceiling and did not enter the hall. The quiet here was the point. Harun understood it in his body before Ivo said it: this was a place that grew questions the way other places grew rice, and the guards were there so the questions wouldn't be startled into answering themselves.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't talk in a rhythm,\" Ivo whispered. \"Don't ask the vats anything. Describe. Ugly. Off-count.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun described, because describing was a rope. \"Vat. Big. Smells like a hospital that lost a fight. Stylus. Bone. I want to pick it up and I am not picking it up until you say the picking-up won't ring.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The stylus is the record, not the bell,\" Ivo said. \"Lift it from the cradle. Don't tap it. If it starts to play, set it down. Pavel may be on it. Hester is going to want to break the rule about rhythm if she hears him, and you are allowed to put a hand on her strap.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester was already crying without sound. Harun had not noticed her come down. She came down like grief, inevitable, in a coat too fine for a cistern. He did not put a hand on her yet. He lifted the stylus the way he lifted Jun's rifle when she let him, respectful of a thing that knew more than he did.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It played.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not a song. A voice, tired, a man's, the ghost's vowel and then more of the man than the ghost had ever been allowed to be. <em>Don't ask it what it wants. Asking is the finish. If you are hearing this, the rapids did not take us. We asked a small question. It completed the small into the large. Marta, if you find the camp, I upended the pot so you would know I was still choosing. Don't—</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The stylus clicked off, a mechanical mercy, or a wound. The hall stayed quiet. Hester made one sound, ugly, and killed it. Harun set the bone back into a cloth Ivo held open, and their care was a team care, not a speech. Anouk's hand hovered near Hester's sleeve and landed, finally, and Hester allowed it, which scared Harun more than the eels.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Up,\" Calder said. \"We have the voice. We don't have a conversation with the tanks. Rhee gets the stylus in a box that doesn't conduct. Hester, you can hate me on the stairs. Hate me moving.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He made himself look at the vats the way Jun made herself look at a target she did not want. In the second glass a skein of something that was not mold had written half a knot and stopped, as if the question had been embarrassed and died of it. In the third, nothing visible, only a hum against his teeth that matched the ghost's interval when he counted — nineteen, he realized, and stopped counting, because counting was a rhythm and rhythms were how you got eaten. Ivo saw him stop and nodded, a small approval that felt like a hand on the back of the neck, steadying, not pushing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"My cousin's name was Deniz,\" Harun said, off any beat, because if he didn't say it in the hole the hole would say it for him. \"He sang when he was scared. The rock liked the song enough to come down and join it. I don't sing in holes. If I start, you slap me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll slap you,\" Jun said, from the doorway, not entering farther than the light required. \"Deniz isn't here. I am. Keep the distinction ugly and specific.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Ugly and specific is my love language.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's everyone's, down here.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester whispered Pavel's name once and not again. Anouk photographed nothing. The hall punished flashes; Ivo had said so with a look. They worked by eel-glow leaking through slits, a sick moonlight. Harun's empty hands kept reaching for a sling that was in a niche upstairs. Each reach was a small humiliation. He let the humiliations stack. Stacking them was better than running.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They climbed. Harun climbed without the rifle and hated every step and did the steps anyway. Halfway, an eel's light slid past a slit in the wall, curious, not striking, because they were not singing. Jun went ahead. He watched her boots the whole way, a liturgy. At the cache his hands shook when he took the rifle back, and he let them shake where she could see, because hiding it would have made the mine win.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You went,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You were already there. It's a design flaw in the marriage.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's the design.\" She checked his face the way she checked a sight. \"If you need to sit before you joke, sit. I'll shoot anyone who calls it rest.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If I sit I'll think about the cousin. I'd rather joke badly.\" He tried. The joke failed and became the truth. \"He was talking when the rock took the air. The radio kept the last word and played it to people who couldn't dig. I have hated holes since. I will hate this one tomorrow. Today I walked out of it with you, and that is the only sentence I want in Nia's log.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun's forehead touched his, brief, a bond that did not need an audience and had one anyway in the form of a dripping stair. \"Then that's the sentence.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Above, the gallery took them back. Rhee boxed the stylus as if it were a grenade with opinions. Ivo told Calder, in the plain voice, that the vats had been grown to hold questions, not fish, and that the eels were guardians of silence, and that Pavel had said asking was the finish. Priya closed her eyes once, confirmation of a knot she had already met. Calder ordered the gloss off the air again. Tomas Ibarra's channel, distant, asked whether the Reach was still a place a liaison could enter. Calder told him no. The dock would hold. The city had started answering, and answers were not a harbor.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun sat on a block and cleaned a rifle that had not been fired, because his hands needed a metal that was his. Ellis brought him water. Sable nodded at him the way soldiers nod when words would cheapen a thing. Nia wrote the log line he had asked for and showed it to him: <em>Dalca descended unarmed. Returned. Partner accounted for.</em> He nodded. The nod was enough.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the night the eels' light did not reach the gallery, but he dreamed it did, and in the dream the stylus played his cousin's last word in Pavel's mouth. He woke with Jun's hand on his chest, awake, not hovering, present. \"You're here,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm here.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good. Be here loudly in the morning. Quiet heroics make me nervous.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I can be loud,\" he said, and the promise was a small light, not luminous, not an eel, a human light, and he kept it until dawn without asking the dark what it wanted.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At dawn Calder put the boxed stylus in Rhee's pack and the pack on Rhee, not on Hester, because Hester's hands were not done shaking and love was a bad courier. Harun walked the rear with his rifle back and his joke restored at half volume. The city smelled less like a hospital. Jun matched his pace. When the path narrowed she said, \"You can hate the stair out loud now. We're above it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I hate the stair,\" he said, loud enough for Ellis to startle and then grin. \"I hate the eels. I hate bone that talks. I love my wife. That is the after-action.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Acceptable,\" Nia said, from ahead, which meant she had been listening, which meant the log would survive them. Harun laughed, and the laugh did not bring a collapse, and he decided, for the length of a morning, to trust a ceiling again.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0017",
+    "number": 17,
+    "title": "The Gallery",
+    "arcId": "arc-2",
+    "volumeTitle": "Volume 2 — The Name",
+    "epigraph": "Some spans are only a decision that has not fallen yet.",
+    "epigraphAttribution": "— Dr. I. Maren, spoken to the air, then to a man",
+    "summary": "Ivo crosses a cracked span for a verb. The stone goes. In the collapse he tells Calder he has always been like this.",
+    "opening": {
+      "id": "hc-ch-0017-opening",
+      "promptId": "hc-ch-0017-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Flaking Gallery",
+      "caption": "The last panel holds the verb",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "The gallery on the fourteenth day was shedding itself.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo saw it in the dust before he saw it in the architecture: a fine pale grit on the cuffs of everyone who had brushed a wall, the same family as the moth wings, the mortar, the eel-light. Murals that had been sharp at dawn were soft by noon, the pigment lifting as if the city were inhaling its own sentences back. Priya worked fast and angry, copying knots before the knots decided to become weather. Anouk cursed in the dialect of a woman watching evidence evaporate. Hester stood under a procession of gardeners — Wardens, Ivo was almost sure, hands in the dirt — and did not speak Pavel's name, which was its own kind of discipline.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The span was at the far end. A bridge of fitted blocks over a drop that went down toward the cistern's cousin, not the same water, a darker one. The last panel was on the far wall, half-flaked, and what remained was the verb. Ivo knew it from Priya's private book and from the underside of the listening stair and from the vat that had died of embarrassment. Ask. Finish. One mouth. The panel showed a hand choosing which side of the mouth to feed, and the choice was damaged exactly where a reader would need it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I need the far side,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder, who had been a wall all morning in the competent way that made Ivo furious and safe, looked at the span and then at the hairline crack running through the third block. \"No.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The panel will be gone by dusk. The grit is already eating the hand. If I don't read it now, we will guess, and guessing is how Lantern asked a small question.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Guessing is also how you fall into a cistern and become a stylus. The crack is not a suggestion. Nia.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia crouched, sighted along the block, and gave Calder the face that meant she agreed with him and hated the agreement. \"It holds a careful person once. Maybe. It does not hold a rescue. If he goes, he goes alone, and if it sings we do not all sing with it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then I go alone,\" Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You go not at all,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They had this argument in the dialect they had built: ordered, refused, threatened with dragging, answered with the location of the data. It had been almost affectionate on the river, a schedule. Here the drop had removed the affection. Calder's voice was the voice from the kite dusk, the one that arrived when charm was dismissed. Ivo's was quieter, which was how he sounded when he was afraid and would not spend the fear out loud.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You've put your body between me and every dark opening for two weeks,\" Ivo said. \"I am telling you the dark opening with the answer is twenty feet that way, and your body cannot read. Let me do the part of the job you hired.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I was hired to bring you back. The answer is a luxury the span hasn't priced.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The answer is the difference between sealing a mouth and feeding it.\" He heard himself get sharper. The sharpness was old. It had a corridor in it. \"You don't get to decide the price for me because you are taller and sorry in advance.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's head came up. The scar caught the dust-light. Something in the sentence had struck a window Ivo could see from the outside, the man patting his pockets, the almost. Ivo should have stopped. He did not stop. The panel was flaking in real time, a curl of pigment lifting like a page in a draft.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya caught his sleeve, the allowed touch. \"If you fall I will be unprofessional about it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If I fall the verb falls with me and you will be accurate about it. That's better.\" He looked at the panel. A flake lifted, turned, and was gone into the drop like a moth that had decided against wings. \"Three minutes. Maybe less. Calder.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I heard the minutes,\" Calder said. \"They are not a negotiation.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"They are the only clock the city gave us that isn't nineteen minutes of a dead man's fear.\" Ivo heard the anger and recognized its age. Fourteen years. A gym. A cup. A boy who decided the size of someone else's work because his friends were watching. The man in front of him was not only that boy. He was also the salt and the jacket and the patch he had fixed in the rain. Both were on the ledge. Ivo was tired of choosing which one got to hold the rope. \"You can drag me after. You cannot read it for me. That is the division of labor you already agreed to when you called me the authority on the system.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun muttered, \"I hate this span.\" Jun said, \"Then don't stand on it.\" Ellis had his glasses off, wiping grit, and did not offer a lecture. Sable's rifle covered the dark on principle. None of them moved to stop Ivo except Calder, and Calder's hand was a half-second late because he was still a man who believed orders landed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He went.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He went before Calder's hand could find the jacket, light on the balls of his feet, the case left behind because weight was a confession. The first block held. The second held. The third, the cracked one, spoke — a small, dry, final syllable — and Ivo threw himself the rest of the way because stopping was how you fell in the middle. He hit the far ledge on his knees. The panel was an arm's length away. He looked. He saw the hand feed the lower stroke. Finish. Not a theory. A depiction of a person choosing completion and the city, behind them, already becoming the choice. He got three lines into the notebook he had shoved in his shirt. The span behind him gave up.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The sound was not loud. It was structural. Blocks went into the dark like words dropped from a sentence. Dust came up in a wall. Calder was in the dust, which was impossible, which was the man, crossing a thing he had forbidden because Ivo was on the wrong side of it. A hand in the jacket. A haul that yanked Ivo off the ledge and into a stumble that became a fall that became a catch against the near wall as the far wall shrugged and shed the panel, the verb, the proof, into the drop.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They hit stone together. Calder's shoulder took the wall. Ivo's notebook bent. For a moment there was only breath and grit and the major's fist still knotted in cloth, as if letting go would return them to the span.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You don't get to be right and dead,\" Calder said, hoarse, the line from the kites, worn now, furious. \"I told you. I told you the crack was the price.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"And I told you the panel was the price of leaving.\" Ivo shoved at the fist and the fist did not open, and the not-opening broke something he had kept sealed since a fire door that stuck. The dust was in his mouth. His composure, the instrument, the dryness, failed. \"You decide. You always decide. You laugh, or you haul, or you stand in the hall where your friends can see you, and the person on the floor is a problem you solve by being larger. You've always been like this.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The sentence left him. He heard it. He could not call it back. Calder's face, close, grit on the scar, changed — not into charm, not into command. Into a man hit by a tense he hadn't agreed to. Always. The word had a school in it. Ivo saw the school arrive behind Calder's eyes like a light under a door, not open yet, bright enough to panic.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Get off me,\" Ivo said, quieter, the fury already turning into the particular shame of having been exact. \"The panel is gone. You saved the asset. Write it up. Don't—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't what?\" Calder's voice was strange. Young at the edges. \"Maren. What did you mean, always?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I meant the span.\" A lie, thin, already torn. \"Let go of the jacket.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder let go. The absence of the fist was immediate and cold. Around them the team was a noise of names, Nia's, Jun's rifle not firing because there was nothing to shoot, Harun calling the drop clear of bodies, Priya saying his name once in the voice she used when she was not going to say the other name. Ivo got to his feet. His knees were bleeding in a petty way. The notebook held three lines and a smear. The verb was in his head and in the cistern and nowhere Priya could point to anymore.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He looked at Calder and Calder was looking at him as if the face had finally agreed to be attached to the window. Not all the way. Enough. Ivo felt the expedition tilt toward a before and an after, and he hated that he had been the one to push it, in dust, ungentle, the revenge he had not scheduled.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Walk,\" Nia said, and it was the right order. They walked off the gallery mouth while the rest of the span considered its options and then, politely, collapsed. No one asked the drop what it wanted. Ivo's hands shook. He did not hide them. There was no point. Calder had already seen the sentence, and the sentence had seen him back.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0018",
+    "number": 18,
+    "title": "Ivo",
+    "arcId": "arc-2",
+    "volumeTitle": "Volume 2 — The Name",
+    "epigraph": "A name said late is still a theft if you only say it to relieve yourself.",
+    "epigraphAttribution": "— Calder Rhys, unsent, the night after",
+    "summary": "The classroom returns. Calder speaks the name he never used kindly, and Ivo goes still.",
+    "opening": {
+      "id": "hc-ch-0018-opening",
+      "promptId": "hc-ch-0018-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Broken Roof",
+      "caption": "Rain through the gallery, and a name",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "The sentence followed him off the gallery like grit in the lungs.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "You've always been like this.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder put the team under a roof that was only half a roof, because the span's collapse had shaken more than the span and Nia wanted stone over their heads that had already decided not to fall. Rain came through the broken comb in clean lines. People coughed dust. Mateo looked at Maren's knees and was waved off with a sharpness that meant the knees were not the wound. Harun swore at the architecture and then stopped, watching Calder's face. Jun watched Harun watch. The detail knew a charge had been placed even if they didn't know the timer.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stood in the rain line and let the window open all the way.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not a metaphor this time. A room. St. Briony Collegiate, Harrowgate, the east gym smelling of varnish and oranges because the janitor believed in oranges. A science fair. A board with moth wings pinned in a grid, veins drawn by hand, and in the corner a rubbing of an inscription no one in that school was meant to care about. A boy who cared anyway, scholarship-quiet, precise, already in the habit of waiting a beat before he spoke so the room couldn't laugh at the speed. Calder saw his own seventeen-year-old mouth. He heard the laugh. He felt the cup — soda, enough — tip. The wings went to gray lace. The inscription blurred into a bruise on the paper. He heard himself say, bored, which was worse than angry, <em>Stay where you belong. Ghost.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "There was a stair two weeks later, a shove, the east stair, the boy not crying. There were three afternoons in the library before that, a window, pencil shavings, a chapter on vanished cities that Calder had actually read and then pretended, the next day, not to understand, because his friends were in the hall and understanding was a kind of nakedness. He had told a worse boy to walk on, once, and then mocked the quiet one the next morning so no one would smell the kindness. He had been cruel and proud. He had not been in love. The not-being-in-love mattered. He would not dress the cup as a confession the quiet boy had failed to decode. He had ruined a year of work because he had been embarrassed in a classroom, and the embarrassment had felt, at the time, like a debt the other child owed him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The face arrived. It fit the scar through the eyebrow only if you allowed fourteen years and a centrifuge, not a fist. It fit the pause. It fit the stop on the stair when Calder's own scent had come unpatched, citrus and steel, the smell of a boy who had been popular enough to be forgiven by everyone except the person on the floor. It fit the jacket. It fit the way Maren had said <em>always</em> as if the word had been waiting in a notebook that never dried.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He saw the three library afternoons with a clarity that shamed the years he had spent not seeing them. A table by the window. Rain. Calder had known the answer about the vanished city and had said it, quiet, to the boy across from him, and the boy — Ivo, it was Ivo, it had always been Ivo — had looked up as if a door had opened inward. The next day in the hall Calder had shrugged the knowledge off and let his friends fill the shrug with noise. He remembered the shrug from the inside. It had felt like safety. From the outside, from this roof, it looked like a small killing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He remembered the worse boy, the one who had wanted more than a cup, a shove toward a railing, and Calder telling him to walk on. The memory did not absolve. The next morning Calder had called Ivo Ghost in the courtyard so the mercy wouldn't stick to him. He could hear the courtyard. He could hear his mother, somewhere earlier, calling him Cal, and the flinch he had learned, and the way he had spent that flinch on someone who could not afford it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The name was not the one on the packet. The packet said I. Maren, a courtesy, an initial, a locked door. The name was the one the yearbook had not been kind with, the one Calder had not used except to point, except to laugh. He had called him Ghost. He had not earned Ivo. He said it anyway, because not saying it was another version of the hall, another choice to be seen as ignorant by the people who would forgive him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Ivo.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rain between them. Dust in the air. The gallery still ticking as stones found the bottom of the drop. Maren — Ivo — went still in the way he had gone still on the creek-stair, complete, a stop that was not a stumble. His eyes came up. There was no performance in them. There was the boy who had not cried and the man who had hauled a verb out of a flaking wall and the fury of an hour ago, suddenly without anywhere to hide.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "No one in the detail breathed correctly. Priya's face did a terrible, private thing, confirmation, grief, <em>I told you the jungle was a bad editor.</em> Nia went very calm, the calm she used when a history had just become a casualty projection. Calder saw them and could not tend them yet.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I poured out the notebook,\" he said. His voice was not a major's voice. He did not reach for the major. Reaching would have been the larger body solving the person on the floor. \"The wings. The inscription. I laughed. I shoved you on the east stair and I called you Ghost. I was not — this is not a story where I hurt you because I wanted you. I hurt you because I was proud and you made me look slow and my friends laughed, and I decided the laugh had to be paid for by someone who wouldn't hit back. I didn't think about the size of it. I filed it under growing up. That was another cruelty. Ivo. I see you. I'm late.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's throat moved. He did not come closer. The rain marked the shoulders of the jacket Calder had once lent and taken back. \"Don't do this here,\" he said, low. \"You don't get a gallery for it. You don't get an audience that will hear you be sorry and call that the end.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not asking for the end.\" Calder's hands were open, empty, wet. He kept them open so they couldn't become the hand on the strap, the hand on the cup. \"I'm telling you I know who I hauled. If you want me off this detail, say it, and I'll give Nia the command and I'll walk to the dock and I won't make the walking your problem to manage. If you want me to stay and be the wall without pretending the wall is innocent, I can do that too. I don't get to pick which one comforts me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo looked at him for a long time. The pause was the old pause, and now Calder knew the room it belonged to, and the knowing was not intimacy. It was evidence. Priya shifted, ready to be a door if Ivo needed one. He didn't take it. He said, \"You stay. The span already fell. I'm not spending the expedition to punish a route. And you don't say that name like a gift you just thought of. You say it like a man who remembers what he did with it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Ivo,\" Calder said again, not softer, more accurate.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo flinched, a small flinch, and nodded as if the flinch were data. \"Not in front of them again tonight. Not as a speech. I heard you. That's all you get until I decide what hearing costs.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"All right.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia stepped in then, because someone had to be the expedition. \"Posts. Water. Nobody discusses this on a channel. Rhee, if I hear a hint of it on a hop I will ground the hop and the specialist. Priya, you're with him. Major, you're with me at the drip until you can count to ten without looking like a man who has seen a ghost he made.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He called me Ghost,\" Ivo said, almost idly, which was how he sounded when he was holding himself together with spite and precision. \"Don't use the word. It's taken.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia accepted the correction the way she accepted incoming fire, by adjusting. \"Until you can count. Move.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They moved. Calder stood in the drip with his second and let the rain finish what the dust had started. His hands wanted to shake and he allowed it, where she could see, because hiding it would have been the seventeen-year-old again.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You knew at the patch,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I knew a window. I know the room now. I didn't know on the pad. If I had known on the pad I would have taken myself off before the first boat, and he would have been assigned someone worse, and he knew that, and he chose the silence. That's the part I don't get to be angry about.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You don't get to be forgiven for it either. Not by me. Forgiveness isn't in my kit.\" She watched the rain. \"You run the detail. You do not run his feelings. If you use the guilt to hover, I will send you to Ibarra myself. If you use it to be cruel in the other direction, same order. The wall stays a wall. The boy you were does not get a command.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Say his name once more, here, so it doesn't ambush you on a radio.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Ivo,\" Calder said, and the name hurt in the correct way, a true thing, not a kindness.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Across the broken roof, Ivo sat with Priya and did not look over. His knees were bandaged now, Mateo's work, accepted in silence. He held the bent notebook as if three lines were a country. The rain found him and he let it. Calder looked until looking became the hover Nia had forbidden, and then he looked at the posts instead: Jun, Harun, Sable, Ellis, Rhee and her ugly tape, Hester with the stylus boxed like a heart, Anouk counting lost pigment. A team. A city that finished questions. A man he had harmed who had just told him to stay and had not called it mercy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The ghost, somewhere under the stone, kept its nineteen-minute faith. Calder did not answer it. He had spent the day's asking already, and the answer had a name, and the name was not a victory. It was the start of a debt he was not allowed to pay in public, in outerwear, or in the story where the bully had meant it sweetly. He had not meant it sweetly. He stood in the rain and held that, because Ivo had held it for fourteen years without the luxury of forgetting, and the least a wall could do was stop pretending the crack was only in the span.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0019",
+    "number": 19,
+    "title": "After the Name",
+    "arcId": "arc-3",
+    "volumeTitle": "Volume 3 — What He Carries",
+    "epigraph": "A name said aloud is not a confession. It is only the door you finally admit you have been walking through.",
+    "epigraphAttribution": "— Calder Rhys, unsent after-action, Day 15",
+    "summary": "In the broken mouth of the gallery, Calder tries to apologize for a cruelty he has only just sized, and Ivo refuses him a cinematic forgiveness.",
+    "opening": {
+      "id": "hc-ch-0019-opening",
+      "promptId": "hc-ch-0019-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "Gallery Mouth",
+      "caption": "Rain through broken stone, and a silence that knows the word",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Morning in Qalen-Sar did not arrive so much as leak. The gallery roof had shed itself into a jagged lip the night before, and rain came through the wound in long, patient ropes that found the same grooves the Selenqari had cut for a different kind of weather. Calder Rhys stood in the mouth of what was left of the span and watched the jungle beyond it breathe steam into a sky the color of wet slate. His hands smelled of dust and old mortar. His mouth tasted of the name he had said aloud and could not put back.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not Doctor. Not ORCHID. Not the asset designation that lived on Nia's board like a polite lie. The name had come out of him in the collapse the way a bone comes out of a break — wrong angle, undeniable, already known by the body before the mind catches up. Ivo had gone still. Still the way a specimen goes still when it understands the jar. Then the stone had finished falling, and there had been work, and Calder had done the work because doing the work was how he kept from becoming a man who explained himself while people bled.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nobody had bled. That was the mercy. Harun had a bruise the size of a dinner plate and Jun had looked at Calder once with the flat attention of someone filing a fact for later. Nia had asked, in the dark, if he needed a medic or a priest. He had said neither. She had believed neither answer and left him the courtesy of pretending she did.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Now it was morning, and the courtesy had expired, and Ivo Maren was packing a sample case ten meters into the gallery mouth as if the previous day had been weather.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder walked toward him. The stone under his boots was slick with grit and rain-film. Somewhere below, the Vein hummed in his molars — a low, tooth-root thrum he had learned not to name too carefully. The jungle smelled of crushed green and wet iron. His own blocker sat honest behind his ear: citrus and steel, held. He had checked it twice since waking. He would check it a third time before he opened his mouth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo did not look up. He was wrapping a flake of mural pigment in oilcloth with the patience of a man who had decided that pigment was the only conversation worth having. His dark hair was plastered flat by the damp. The scar through his left eyebrow was a white cut against skin that had gone pale under dirt. He smelled, as always, of nothing Calder's hindbrain could hold — rain, antiseptic, a locked door. Calder hated that his hindbrain was still hunting. He hated more that the hunt now had a classroom attached to it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Dr. Maren,\" he said, and heard how useless the title was, and kept it anyway because starting with the first name again felt like putting a hand on a bruise to see if it still hurt.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's hands paused. He finished the knot in the oilcloth before he answered. \"Major.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I need a minute.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You have a team that needs a perimeter and a gallery that needs not to fall on anyone else.\" Ivo set the wrapped flake into the case. \"Take your minute somewhere that isn't inventing itself a stage.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder felt the heat climb his neck and did not let it reach his voice. \"I'm not inventing a stage. I'm asking for a conversation before the day makes us both polite again.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Polite would be an improvement on last night.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Last night I said your name.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I noticed.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The rain thickened, a soft percussion on the broken roof. Calder stepped closer — not into Ivo's space, into the space beside it, where a man could talk without boxing another man in. He had learned that step in the last two weeks. He had not learned it in Harrowgate. In Harrowgate he had taken doorways like they owed him rent.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I remember,\" Calder said. Quiet. The quiet he used when someone was actually about to die, except nobody was dying and the quiet felt like theft. \"St. Briony. The notebook. The stair. I was—\" He stopped. The sentence wanted <em>young</em>. Young was a coat bullies put on themselves after the fact. \"I was cruel. I was proud. I soaked a year's work because you made me look stupid in a room, and I shoved you because I could, and I called you Ghost because it was funny to people who liked me. I did not think about the size of it. I still hadn't, until yesterday, when you shouted that I've always been like this and the whole building came back.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo closed the sample case. The latch clicked like a small, final tooth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You don't get to be forgiven where it's cinematic,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder took that. He took it the way he took bad news on a radio — no flinch for the audience, the flinch later, alone. There was no audience. There was rain and broken stone and a man who had spent fourteen years becoming someone Calder had failed to recognize until the floor dropped out.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not asking for forgiveness,\" Calder said. \"I'm saying what I did, without turning it into a story where I was secretly soft.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good. Don't.\" Ivo's head tilted — that measuring motion Calder had clocked in the briefing tent and misfiled as scientific temperament. \"People like you always want the cruelty to have been a costume. It wasn't. You were the boy who ruined the notebook. You were the boy on the east stair. You were almost decent for three library afternoons and then you were not, and the almost made it worse, because I had to watch you choose.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's jaw worked. He did not say <em>I liked you</em>. The sentence rose and died. He had liked being admired. He had liked winning rooms. He had not liked Ivo in any way that made the soaking less of a soaking. Pretending otherwise would have been another kind of shove.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know,\" Calder said. \"I was cruel and proud and I had not imagined the size of it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo looked at him then. Really looked — eyes the color of wet bark, no romance in them, only a clarity that felt like being audited.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know,\" Ivo said. \"That's the part I can't stand.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The Vein hummed. Calder's teeth ached with it. He wanted, stupidly, to laugh — not because anything was funny, because the body sometimes tried to eject a feeling by converting it to noise. He did not laugh. He stood in the gallery mouth and let the sentence finish landing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Fair,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't say fair. Fair is what you call a game when you've already won it.\" Ivo picked up the case. \"You get to remember. I get to decide what that memory costs you in my vicinity. Those are not the same currency.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Understood.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Do you?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder almost said <em>yes</em>. He said, \"I'm learning. Learning is slower than I'd like. I'll keep it off the log and out of the team's ears unless you tell me otherwise. Priya already knows. I won't ask her to mediate.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Something moved in Ivo's face — not softening. Surprise that Calder had named the right person without fishing. \"She won't.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They stood. Rain found the back of Calder's neck. Beyond the gallery mouth the canopy dripped in layers, each leaf a small betrayal of sky. A bird called once, three notes, and stopped as if it had remembered the city was listening. Calder wanted to ask about the moth wings in the notebook — what they had been, what the inscription had meant to a boy who collected quiet things. He did not ask. Questions were a kind of taking. He had taken enough.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia's boots announced her before her voice did. She came up the rubble slope with her rifle strapped and her expression already halfway through a briefing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Major. Doctor. The ledge is clear. Harun wants a ruling on whether the upper gallery is a ruin or a trap. Sable says both. Ellis says there's a moth that shouldn't be awake in this light.\" She looked between them. Her eyes did the thing they did when she was measuring temperature. \"Am I interrupting a professional disagreement or a personal one?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Professional,\" Ivo said, at the same moment Calder said, \"Personal.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia closed her eyes for half a second. \"Wonderful. Split the difference and move. Doctor, Priya needs your eyes on a flake before the rain eats the pigment. Major, with me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo went. He did not look back. Calder watched the line of his shoulders until the rain took him, then turned to Nia because turning away from watching was the only dignity left.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You said his name last night,\" Nia said. Not a question. \"Jun heard. Harun heard the tone even if he didn't catch the word. I am not asking for the novel. I am asking whether the novel is going to get someone shot.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It might get me shot by you if I keep standing here looking like a man who just remembered a crime.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't be charming. Charming is how you hide when you're in pieces.\" She jerked her chin toward the jungle. \"Walk.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They walked the lip of the broken span. The drop on the left was a throat of green and shadow. The Vein's hum lived in the drop the way cold lived in a well. Calder kept his eyes on the footing and his mouth shut until Nia had enough silence to spend.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I knew him,\" Calder said. \"Fourteen years ago. School. I was the problem. He was the person I practiced being a problem on. I did not know he was ORCHID until the gallery said it for me. That's the whole usable version.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"And the unusable version?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Stays unusable until he decides otherwise.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia nodded once. She had lost an asset three years ago by trusting confidence over perimeter. Calder could see her filing this under the same drawer: histories that grew teeth. \"You will not make the science wait on your guilt. You will not make the science wait on his anger. You will run the day like a day. If you need to fall apart, you fall apart on my watch schedule, not in the middle of a rope.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, Captain.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"And Calder—\" She used his name the way she used a tourniquet: rarely, firmly. \"Do not try to be forgiven in front of a view. Men like you think a vista makes honesty prettier. It doesn't. It just gives the honesty an audience of trees.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He almost smiled. The smile died correctly. \"He already told me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then he's smarter than your remorse. Good. Use that.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They rejoined the camp that had made itself in the broken city's ribs. Lamps in tins. No fire — Nia's standing order, and the stone's preference. Mateo was bullying Hester into a protein bar with the moral authority of a man bonded to an archaeologist who also refused food when the past got interesting. Harun sat with his back to open air and his face arranged into a joke he had not yet told. Jun cleaned a bolt with the attention of someone who trusted metal more than mornings. Rhee's set murmured every nineteen minutes, the ghost's vowel worn soft: <em>Don't ask it.</em> Sable and Ellis argued, softly, about whether a moth that glowed under cloud-cover was a moth or a message. Priya had Ivo's sample case open on a flat stone and was speaking to him in the low register of colleagues who had survived worse rooms than this.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder did not go to them. He went to the cached rifles — metal sealed in resin-wrapped crates thirty meters from the Vein's loudest tooth-thrum — and checked seals he had checked at dusk. The work steadied his hands. His mind did not steady. It kept offering him the east stair: Ivo's shoulder under his palm, the shove, the word <em>Ghost</em> tasting like victory in a mouth that had not yet learned what victory cost other people. It offered him the library: three afternoons of maps and vanished cities, Ivo's pencil moving, Calder almost asking a real question and choosing a joke instead because jokes were safer than being seen wanting anything quiet. It offered him the soaked notebook — moth wings blooming like bruises under water, an inscription bleeding into pulp — and the laughter of two friends whose names he still remembered and did not deserve to forget.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He had told himself, for years, that he had been a little shit and grown up. Growth, it turned out, was not the same as inventory. Inventory hurt. Inventory was supposed to.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah Abebe found him at the cache and did not pretend it was an accident. The medical researcher smelled of suppressant chemistry and wet canvas. Forty years old, beta, no romance in his approach, which Calder appreciated the way he appreciated clean instruments.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Levels are stable across the board,\" Jonah said. \"I'm drawing a confirmation round at noon because this place likes to invent biology. Your patch is holding. His is holding. If either of you starts performing guilt as a vital sign, tell me before the jungle does.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm fine.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're vertical. Vertical is not a lab result.\" Jonah glanced toward the gallery mouth. \"Whatever happened in the collapse is sitting on your face like a subtitle. Nia already yelled at you. I'm not going to yell. I'm going to say: do not use this mission to punish yourself into usefulness. Punished people make bad calls.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll keep the calls clean.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"See that you do.\" Jonah paused. \"And Major — if you need a private medical conversation that is actually a private medical conversation, my tent has a flap that closes. It is not a confession booth. It is a place where your blood pressure can be rude without an audience.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder nodded. Jonah left him with the crates and the rain.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "By midmorning the team had a plan that looked like competence: Sable looping the upper ruin for Helix sign; Rhee tightening the counter-net she had promised after the six-hour sin; Anouk and Hester arguing over a mural panel that had survived the fall by the grace of a buttress and spite; Ellis cataloguing insects with the tenderness of a man who believed naming was a form of protection. Calder assigned routes. He kept his voice pleasant. Pleasant was a tool. Pleasant was also, today, a lid.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo worked with Priya at the pigment table and did not look at Calder except once, when Calder asked — professionally, correctly — whether the flaking sequence changed the timeline they had given Directorate. Ivo answered the question. The answer was precise. The pause before it was the pause Calder now recognized from a classroom where a scholarship boy waited to see if the room was worth the rest of the sentence. Calder had not been worth it then. He was not sure he was worth it now. He thanked Ivo for the answer and moved on before his face could do the bar-fight-with-subtitles thing Nia had named.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At noon the rain eased into a mist that made the canopy look underwater. The Vein hummed harder for ten minutes and then softened, as if the city had checked its own pulse. Calder ate standing up. The food tasted like wet cardboard and duty. Harun told a story about a cousin and a goat that could not possibly have been true. Jun's mouth did its small treacherous almost-smile. Calder laughed in the right place and felt the laugh land wrong in his chest, a sound that belonged to a man who had not spent the morning remembering how to ruin paper.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He found Ivo again in the late afternoon, not by hunting — by logistics. The sample case needed to move to higher ground. The higher ground was a ledge Calder was already walking. Coincidence was a liar. He knew that. He carried the case anyway when Ivo's hands were full of oilcloth and tools, and Ivo let him, which was not kindness and not surrender. It was efficiency. Calder set the case down where Priya pointed and stepped back.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You don't have to perform usefulness at me,\" Ivo said, low enough that only the stone heard.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not performing. I'm carrying a box.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You've always been good at making the box look like the point.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder met his eyes. Held them. Did not flinch into a joke. \"Then tell me when to put the box down.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo was quiet for a long breath. Mist beaded on his lashes. Behind him the broken gallery yawned, a mouth full of rain and unfinished sentences.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Not today,\" Ivo said. \"Today you put it where Priya said and you leave me the work.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"All right.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder left him the work. He walked the perimeter with Sable until his legs ached. He reviewed Rhee's net schematic until the lines blurred. He sat with Mateo over a medical inventory and did not once ask Mateo what it looked like when a man realized he had been the hazard in someone else's childhood. Mateo, bonded and quarrelsome and kind, would have answered. Calder did not want the answer from anyone who loved someone correctly.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Dusk came as a greening of the light. The ghost spoke on schedule. <em>Don't ask it.</em> Calder listened and thought of Pavel Ruiz and of bone styli and of questions that finished people. He thought of Ivo shouting across falling stone. He thought of his own voice saying a name like a key turning in a lock he had pretended was furniture.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia found him at the gallery mouth again as the lamps came up in their tins. She did not ask if he was all right. She stood beside him and watched the dark assemble itself between the trees.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He won't forgive you for a vista,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He might never forgive you at all.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know that too.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Can you run this job knowing that?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder tasted rain, dust, the citrus-steel honesty of his own patch. He watched the place where Ivo's lamp made a small, stubborn gold against the ruin.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes,\" he said. \"That's the work.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia left him there. Calder stayed until his hands cooled and the Vein's hum settled into the ordinary ache of teeth that had learned a new weather. He did not pray. He did not narrate. He stood in the mouth of a broken gallery and practiced the only apology left that was not a performance: he did not go back in and ask to be made clean.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When he finally turned toward camp, Ivo's lamp was still lit, and Priya's voice was a low thread of argument about pigment and light, and the jungle held its breath the way rainforests did when they were beautiful and did not care who suffered under the beauty. Calder walked into that indifference with his shoulders square and his mouth shut and the size of what he had done sitting in his ribs like a stone he had agreed, at last, not to throw at anyone else.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0020",
+    "number": 20,
+    "title": "Technically Correct",
+    "arcId": "arc-3",
+    "volumeTitle": "Volume 3 — What He Carries",
+    "epigraph": "Precision is not mercy. Precision is simply the refusal to let a wound be renamed.",
+    "epigraphAttribution": "— I. Maren, field note, unpublished",
+    "summary": "Ivo takes a small, exact revenge that is neither kindness nor abuse, and Calder, disgusted with himself, likes the attention.",
+    "opening": {
+      "id": "hc-ch-0020-opening",
+      "promptId": "hc-ch-0020-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "Exact Measures",
+      "caption": "A stylus case, a nickname, and the weather between them",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Ivo Maren woke knowing the major's name and wishing, for one unscientific second, that the gallery had finished falling before either of them could speak.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The second passed. He washed his face with water that tasted of stone and old rain. He checked his suppressant patch with Jonah's mirror-habit and found it holding. He drank tea Ellis had left on a tin lid — oversteeped, a crushed green cardamom pod knocking the enamel — and did not ask who had taught Ellis the recipe, because he already knew, and knowing was a heat he refused to feed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Recognition had not made the jungle kinder. Qalen-Sar still dripped. The Vein still hummed in the teeth. The broken gallery still smelled of dust and crushed green. What recognition had done was remove the last useful lie: that Major Calder Rhys was a stranger with an inconvenient face and a scent like citrus and steel that Ivo's body remembered for reasons he could pretend were professional.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder knew. Ivo knew Calder knew. The team knew something had happened in the collapse and were, for now, politely failing to invent the plot. Priya had looked at Ivo once in the morning and said nothing, which was the most expensive kindness she had.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo decided, while tying his boots, what he would do with the day.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He would not scream. He would not forgive. He would not become the soft thing Calder's guilt wanted to bandage. He would be exact. Exactness had kept him alive at St. Briony when exactness was all a scholarship boy owned. Exactness would do for a major who had finally remembered the notebook.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The stylus case sat beside his pack: bone and resin, Pavel Ruiz's warning locked inside a fragment that still said <em>don't ask it what it wants</em> when activated by the right pressure. Heavy for its size. Awkward. The sort of object a commander instinctively offered to carry because commanders liked being useful with their hands.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo smiled, privately, without warmth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He found Calder at the pigment ledge with Nia, reviewing a sketch of Helix approach vectors that Sable had left like a threat assessment written in clean lines. Calder looked up. His face did the open thing it did when he saw Ivo now — not a smile, not a flinch, something hungrier and more careful than either. Ivo watched it happen and filed it under <em>data</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Doctor,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo waited until Nia stepped three paces away to argue with Rhee about mast height. Then, alone enough, he said, \"Cal.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The word landed like a slap made of air. Calder's shoulders went rigid. Color climbed his throat. For a breath he looked seventeen and cornered by a yearbook.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't,\" Calder said, quiet.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't what? It's your name. Your mother used it. The yearbook used it. Page forty-one, third row, second from the left. You hated it then. You still hate it. I'm using the accurate label.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's mouth opened. Closed. He did not say <em>please</em>. He did not make it a fight. He looked, briefly, like a man who had been waiting to be punished and had not expected the punishment to be so small and so clean.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"All right,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo handed him the stylus case. \"Carry this. My hands are full.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "His hands were not full. His hands held a notebook and a pencil. Calder took the case anyway. The weight settled into his palm as if it belonged there. Ivo watched him accept the inconvenience without bargaining and felt a satisfaction so sharp it almost embarrassed him. Almost.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They walked the lower gallery together because the work required it and because Ivo refused to rearrange the science around his own pulse. Priya met them at a buttress where pigment still clung in a knot-shape the rain had not yet finished erasing. She glanced at the case in Calder's hand, at Ivo's face, and became extremely interested in a flake of blue.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Hold the lamp left,\" Priya said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder held the lamp left. He was good at orders. He had always been good at rooms. Ivo asked him, without looking up, whether the humidity reading on Jonah's slate matched the one on Ellis's.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's two points higher on Ellis's,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I asked if it matched.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A pause. \"No.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Thank you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya's mouth did something that might have been pain or might have been admiration. She did not intervene. She had promised, on a helicopter, not to tell the story. She had not promised to stop Ivo from telling it in pieces small enough to cut.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Midmorning brought a false quiet — the kind the Reach used when it wanted people to speak carelessly. Harun filled it first, because Harun treated silence like a dare.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Major,\" Harun called from the ledge, \"if the Vein hums any louder I'm going to file a noise complaint with the trees. You want me on the upper loop with Sable or playing house with the cache?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder opened his mouth for a joke. Ivo saw the joke assemble — easy, charming, the social lubricant of a man who kept teams alive by making fear look optional. Ivo spoke first.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He wants you on the upper loop,\" Ivo said. \"The cache doesn't need a personality.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun blinked. Looked at Calder. Calder, to his credit, did not contradict the science lead in front of a sergeant for the pleasure of winning a moment.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Upper loop,\" Calder said. \"Take Jun's eyes with you if she's free. If she's not, take your own and pretend they're hers.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun grinned and went. Jun, already moving, flicked Calder a look that said she had heard the almost-joke die and would be billing him for it later.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo returned to the pigment. Calder stood holding the stylus case like a man holding evidence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You can put that down,\" Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You told me to carry it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I told you to carry it. I did not tell you to fuse with it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder set it on the stone, gently, as if the bone might bruise. \"Is this going to be every day?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Define <em>this</em>.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You know what I mean.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know what you mean. I'm asking you to say the sentence you mean.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder exhaled through his nose. Rain found the scar along his jaw and made it shine. \"Are you going to keep calling me that when we're alone and answering me like a dictionary with a grudge?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes,\" Ivo said. \"Until it stops being useful.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Useful to whom?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"To me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder nodded once. He looked, against every instinct Ivo had built for fourteen years, almost relieved. That was intolerable. Ivo looked back at the pigment and made his pencil the sharpest object in the ruin.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At noon Mateo forced food into the scientists with the bluntness of a medic who had married an archaeologist and lost the war of attrition. Ivo ate. Calder sat two meters away and did not crowd. Ellis offered cardamom as if it were weather. Ivo took it. Calder watched the pod disappear into the tea and then looked at his own hands as if they had committed a kindness without authorization.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia dropped onto the stone beside Calder with a ration bar and the expression of a woman about to perform surgery without anesthetic.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Get your face under control,\" she said, not quietly enough.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder blinked. \"My face is under control.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Your face is doing the thing where you like being kicked because the kicking means he's looking at you. It is disgusting. It is also loud. Harun has already invented three theories and I have confiscated two of them. Fix it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo heard every word. He kept his eyes on his tea. Heat climbed the back of his neck — anger, or something adjacent that he refused to baptize. Calder muttered something that might have been <em>yes, Captain</em> and rearranged his features into professional neutrality. The neutrality was worse. It made Ivo want to call him Cal again just to watch the crack.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He waited until they were alone on the walk to the cistern overlook — alone meaning Sable was a silhouette fifty meters up-slope and the rain was a curtain. Then he said it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Cal.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stopped. Did not turn fully. \"You're enjoying this.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm being accurate.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're being precise the way a scalpel is precise.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Scalpels are useful.\" Ivo stepped past him, then paused. \"The yearbook photo. You were smiling like you'd already won the room. You had. You always did. I kept a copy for three months because I wanted proof that the boy in the library and the boy in the hall were the same animal. Then I burned it. Burning it didn't help. Seeing you hold a stylus case like penance does not help either. Stop looking at me as if the attention is a gift.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's voice came out rough. \"It isn't a gift. It's a fact. I notice you. I noticed you then and spent the noticing badly. I notice you now and I am trying not to spend it like a thief.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Try harder.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I am.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo almost believed him. Belief was a door. He bricked it, carefully, and walked on.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The afternoon belonged to the bone stylus. Anouk wanted a controlled activation away from the Vein's loudest hum. Hester wanted the voice as witness. Rhee wanted the recording isolated from her net so Helix could not love a dead man's vowel. Calder stood at the edge of the work circle with the case until Ivo held out his hand without looking and Calder placed the case into it like a ritual neither of them would name.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Pavel Ruiz spoke — thin, recorded, already late to his own advice. <em>Don't ask it what it wants.</em> The team listened. Hester's eyes went wet and furious. Anouk swore softly at a civilization that treated questions as consent. Ivo logged the waveform and did not look at Calder when Calder's jaw tightened on the word <em>ask</em>, as if the major had finally understood that some verbs bit back.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When the playback ended, Harun said, \"Well. That's cheerful,\" and Jun said, \"Don't,\" and Calder, out of habit, started a joke about Directorate morale pamphlets.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo tilted his head. \"I don't understand.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stopped mid-setup. \"You don't— it wasn't that funny.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Explain it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A beat. Rain. The Vein's low thrum. Calder looked at him and saw the trap and walked into it anyway, because walking into traps was sometimes how you paid.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It was a joke about pamphlets. Bad joke. Forget it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I didn't ask you to forget it. I asked you to explain it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Ivo—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Doctor,\" Ivo corrected, mild as poison, because they were not alone enough for Cal and he would not waste the nickname on an audience.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's ears went pink. \"The joke was that Directorate morale pamphlets are written by people who have never been eaten. That's the whole animal. It dies in daylight.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then why tell it?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Because I open my mouth when rooms get heavy. Habit. Bad one.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Break it,\" Ivo said, and turned back to the slate.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya, beside him, whispered without moving her lips, \"You're going to make him fall in love with the punishment.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He doesn't get to fall in love with anything that belongs to me,\" Ivo whispered back.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That isn't how love works.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It is how mine works today.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The late day brought a second circuit of small, exact cuts. Ivo asked Calder how many meters to the cache and waited while Calder said <em>about forty</em> and then, catching himself, counted aloud and said <em>thirty-eight</em>. He asked whether the Vein's hum was louder near the cistern stair; Calder said <em>yes</em>; Ivo said <em>louder than what</em>; Calder closed his eyes, listened with his teeth, and said <em>louder than the gallery mouth by a fraction I can't number</em>. Ivo logged the fraction as unnumbered and felt the old classroom pleasure of watching a proud boy do homework correctly for once.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the walk back, alone again under a buttress furred with wet moss, Ivo said, \"Cal.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder did not stop this time. He kept walking, which was smarter. \"Still here.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The yearbook committee spelled your middle name wrong.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You corrected them in ink. You didn't correct anyone who used the short name.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I couldn't correct my mother in ink.\" A breath. \"I could have corrected the friends. I didn't. I grimaced and let it live because grimacing was still a kind of ownership.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo filed that. He did not thank him for it. Gratitude would have softened the edge, and the edge was the point. \"Carry the case to Priya. Then you can go be a major somewhere else.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder carried it. Priya received it without comment and, when Calder had gone, murmured, \"You're going to run out of sharp things before he runs out of willingness.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then I'll invent new ones.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That's what I'm afraid of.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Evening thickened. The canopy became a single dark animal. Lamps came up in tins. Nia posted watches. Calder took the early one without being asked, which Ivo noticed and resented noticing. Jonah drew the confirmation samples and declared the omegas chemically uninteresting, which was the highest compliment his profession offered. Mateo bullied Anouk into sleep with the threat of telling Hester she was being mystical about pigment. Sable and Ellis sat close enough to argue without raising their voices, which was becoming their dialect. Harun told Jun a story about a mine and a cousin and stopped halfway, which meant the story had become true; Jun let the silence finish it for him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo sat with his notebook on his knees and wrote nothing useful for twenty minutes. Then he wrote: <em>Recognition does not equal repair. Repair is not owed on a schedule. Exactness is permitted.</em> He underlined <em>permitted</em> once and scratched the underline out because underlines looked like importance and importance was a flare.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder passed the ledge on his watch loop. He did not stop. He glanced once — professional perimeter check — and his face almost stayed neutral. Almost. Nia, from the far side of camp, made a small killing motion across her own throat. Calder's expression flattened into something that could pass for command. Ivo felt the satisfaction again, bright and ugly, and under it a colder thing: the knowledge that he was being watched by a man who had hurt him and was now arranging his whole competence around not hurting him again. Attention as penance. Attention as hunger. Attention as the one currency Calder had always spent freely in rooms where spending freely meant winning.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo waited until the loop brought Calder past alone, rain whispering on leaves, the rest of camp a constellation of low lamps.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Cal,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder halted. \"Still useful?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Still accurate.\" Ivo closed the notebook. \"Tomorrow you carry the case again. Tomorrow you answer questions as asked. Tomorrow you do not joke the silence into a room you own. If you need forgiveness theater, find a priest. If you need to be useful, be useful where Nia points you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stood in the rain with his rifle slung and his blocker honest and his height made careful. He looked like a wall that had learned it could also be a door. He looked, to Ivo's fury, like the boy in the library who had known the answer and thrown it away in the hall — except the throwing had stopped, and the knowing had stayed, and Ivo did not trust either version.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Understood,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Do you?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm learning.\" A pause. Then, quieter: \"I hate that name.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That's why you're using it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder almost smiled. The almost was self-disgust and something warmer fighting under it. \"Nia's right. My face is a problem.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then solve it away from my work.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, Doctor.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He moved on. Ivo sat until the tea went cold and the cardamom sank. Priya came and sat without asking, boots wet, private glossary under her arm like a shield.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're not being kind,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not required to be.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're also not being cruel the way he was. Don't confuse the two when you invent guilt later.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stared at the dark gallery mouth. \"He likes it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know. That's his problem. Yours is whether the exactness is for you or for the boy who wanted him to notice for a better reason.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"There was no better reason.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya did not argue. She was too good a friend to offer comfort that needed to be false. She touched two fingers to the cover of his notebook — not opening it — and left him the rain.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stayed. The Vein hummed. Somewhere in the ruin a moth beat soft against a lamp tin and found no glory. He thought of moth wings under water, of an inscription bleeding into pulp, of a shove on an east stair, of three library afternoons when Cal — Calder — had been almost decent and then chosen the hall. He thought of the major now, carrying a case because he was told to, answering literally because literal was the only honesty Ivo would accept, flinching at a nickname the yearbook had printed under a smile that had already won.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was not kindness. It was not abuse. It was a small, exact revenge, and it fit in Ivo's hands the way a scalpel did: useful, clean, and temporary if he was careful.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He was not sure he would be careful.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He slept anyway, eventually, with his back to the stone and his patch holding and the word <em>Cal</em> still warm behind his teeth like a tool he intended to use until it went dull.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the last gray before true dark, he rose once more and walked to the pigment ledge alone. The rain had thinned to a mist that beaded on the broken roof and fell in slow, irregular ticks. He opened his notebook and wrote the yearbook line as he remembered it — <em>Calder “Cal” Rhys, Rowing, Debate, inevitable</em> — and then drew a line through <em>inevitable</em> hard enough to score the page beneath. The major in the camp was not inevitable. The major was a man who carried cases and answered literally and flinched on cue. That was power. Ivo tasted it and did not spit it out.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Footsteps behind him. Not Calder — too light. Ellis, with a tin of cardamom pods like a peace offering that did not know it was one.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"For tomorrow,\" Ellis whispered. \"In case the kettle forgets you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The kettle doesn't forget,\" Ivo said. \"People teach it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis's smile was careful. \"Then someone taught it well.\" He set the tin down and retreated before Ivo could decide whether kindness from a biologist counted as conspiracy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo left the tin where it was. He would use it. Using it did not mean surrender. Using it meant the tea would be correct while the revenge remained exact — and exactness, tonight, was the only mercy he was willing to spend on himself.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0021",
+    "number": 21,
+    "title": "Leave the Tent",
+    "arcId": "arc-3",
+    "volumeTitle": "Volume 3 — What He Carries",
+    "epigraph": "Biology is not a morality play. Treat it like one and someone bleeds for the metaphor.",
+    "epigraphAttribution": "— Dr. Jonah Abebe, suppressant ethics brief, revised Day 16",
+    "summary": "Scent-thieves fake heat-signals in two omegas; suppressants hold while protocol empties the tent of alphas, and Calder goes without bargaining.",
+    "opening": {
+      "id": "hc-ch-0021-opening",
+      "promptId": "hc-ch-0021-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "False Signal",
+      "caption": "Gray ribbons in the wet dark, and a tent that must empty",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Jonah Abebe did not believe in omens. He believed in assays, in patches, in the difference between a panic and a hormone, and in the fact that jungles loved to blur that difference until competent people did stupid things for noble reasons.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "He was rewriting the medical protocol by lamp when the first ribbon found the tent mesh.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was gray — not ash-gray, not smoke-gray, a living gray that drank the lamp and gave back a dull sheen like wet silk. It moved with the patience of a thing that had never needed to hurry. It clung to the outer mesh for three seconds, pulsed once, and thinned into nothing that Jonah's eyes could keep. The air inside the science tent changed temperature by a degree he felt in his wrists before he felt it in the thermometer.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo Maren, seated across the crate-table with a slate, went very still.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun Park, on the cot behind the partition where she had been cleaning a bolt in companionable silence with Harun's distant snoring as soundtrack, said, \"Jonah.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "One word. Flat. Her scent — usually locked down to almost nothing under suppressants — spiked wrong. Not heat. The <em>idea</em> of heat. A stolen signature, played back through biology that knew how to be frightened by its own instruments.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah was already moving. \"Don't stand. Don't strip patches. Hands where I can see them. Ivo — look at me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's pupils were wide. His jaw was locked. Sweat stood at his hairline despite the cool. He smelled, abruptly, like someone had opened a door Jonah had never been allowed to open: not invitation, not consent, a chemical scream wearing the costume of readiness. Under it, if Jonah focused past the theft, the suppressant chemistry still held — a bitter pharmaceutical honesty, levels that should have made this impossible.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"False,\" Jonah said, for them and for himself. \"It's false. Your patches are holding. Something is broadcasting a stolen signal.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Another ribbon slid along the tent roof, gray and soft. Then another. They moved like handwriting. Outside, someone swore — Sable — and Ellis's voice rose in the bright, terrified register of a biologist recognizing a genus he had only met in other people's horror stories.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Scent-thieves,\" Ellis called. \"Don't touch them. They harvest thermal-scent signatures and replay — Major, <em>alphas out</em>, now, now—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The protocol lived in Jonah's bones. He had written half of it. Mateo had written the other half with the bluntness of a man who refused to let biology write checks a mission couldn't cash. Alphas clear the cordon. Betas hold watch. No heroism. No bargaining. No alpha deciding that care was the same as proximity.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The tent flap ripped open. Calder Rhys filled it for one second — height, rain, citrus-steel blocker, eyes already finding Ivo — and then Nia's hand was on his chest, not shoving, placing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Out,\" Nia said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's gaze flicked to Ivo's face, to Jun's, to the gray ribbons writing themselves across the mesh. His mouth opened on a sentence Jonah could already hear: <em>I'm fine, I can help, I'm not—</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not say it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He stepped back into the rain as if the rain were an order he respected more than his own hands. \"Nia has the tent. Jonah has medical. Harun, Sable, Mateo — with me. Thirty meters. Cache line. Now.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun was already moving, bonded panic riding him hard, Jun's name half-formed. Calder caught his shoulder without looking cruel about it. \"She's with Jonah. You're with me. Walking is the job.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They went. The tent exhaled alphas. Outside, the gray ribbons thickened, drawn to heat and to the chemicals people wore like stories. Jonah heard Calder posting positions in the rain — short, clean, no jokes. Heard him tell Mateo to stay on the radio and not invent a reason to come back. Heard, under the rain, the sound of a man whose hands wanted to be useful and who had decided usefulness tonight meant absence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Inside, Jun's breathing went careful. Ivo's went quieter — fear that contracted instead of exploded, the scientist's version of a flinch.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Talk to me,\" Jonah said. \"Both of you. Symptoms only.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Skin,\" Jun said. \"Wrong. Like fever under ice. Not—\" She stopped. Omegas who lived on suppressants learned early which sentences got them managed and which got them heard. \"Not mine.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Agreed,\" Ivo said. His voice was low, almost steady. \"Pulse up. Nausea. The urge to—\" He grimaced. \"The urge is present. The urge is not mine. That distinction is currently expensive.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah swabbed, assayed, watched the slate contradict the air. Suppressant metabolites: present, therapeutic. Endogenous cascade: flat where it should have been climbing if this were real. The thieves were playing a recording on the body's speakers while the orchestra sat silent in the pit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're chemically uninteresting,\" Jonah said. \"Congratulations. The panic is allowed. The biology is not running the show.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya shoved through the flap with a lamp tin and a face like a closed glossary. Beta enough for the cordon, omega enough to feel the wrongness as weather. \"Ellis says they harvest from residual heat-scent on cloth and skin-contact surfaces. Anyone's jacket. Anyone's bedding. They're gray because they don't keep what they steal as color. They keep it as signal.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Wonderful,\" Jonah muttered. \"A parasite that plagiarizes intimacy.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo laughed once — short, involuntary, ugly with adrenaline — and then looked furious at himself for the sound. Jun's hands shook on her knees. She did not reach for the rifle. She looked at the place Harun had been and then at Jonah, asking without asking whether the bond-pull would make her mate stupid.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He left,\" Jonah said. \"Calder made him leave. That's the correct animal. You can hate it after.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I hate it now,\" Jun said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Also allowed.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Outside, Rhee's voice cut through rain: she was stringing salt-lines and noise — not the root-nun kind of noise, the ordinary kind, metal on metal, a dish beaten like a cheap bell. Salt and noise and distance had saved Jun once already in this expedition. Jonah filed the rhyme and did not romanticize it. Tools repeated because tools worked.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia took the inner watch with the calm of a beta who had decided panic was a luxury for people with less inventory. She checked the mesh, killed two ribbons with a sealed solvent Ellis shoved through the flap, and spoke to Ivo without softness.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You will not go outside to prove you're fine. You will not invent a sample run. You will sit until Jonah clears you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's eyes flashed. \"The thieves are a datum.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The thieves are a perimeter problem. Ellis and Rhee have them. You have a chair.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo sat. The sitting looked like violence turned inward. Jonah watched the major's silhouette through the mesh — thirty meters out, exactly where he had said, rain sheeting off his shoulders, face turned toward the tent and then away, toward the tent and then away, a metronome of wanting. He did not step closer. His hands hung empty at his sides as if emptiness were a discipline.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah had seen alphas fail this test. He had seen them call protocol cowardice and walk back in with love as their warrant. Calder Rhys, whatever else he was — and Jonah had theories he was not paid to finish — left the tent without bargaining.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Interesting,\" Jonah said under his breath.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"What,\" Ivo snapped.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Your major.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He is not mine.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Figure of speech. He followed the protocol like a man who understands what following costs.\" Jonah changed a swab. \"Most people argue. Arguing feels like care. Leaving feels like abandonment. He chose the feeling that keeps you alive.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stared at the mesh. Rain turned Calder into a watercolor of height and restraint. \"I hate that you're right.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I often am. It's an unpopular hobby.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun exhaled through her teeth. \"Harun's going to climb the air.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Harun can climb the air at thirty meters,\" Nia said. \"If he comes closer I will shoot him in the boot. Affectionately.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The ribbons thinned over the next hour the way a storm thins — not defeated, relocating. Ellis catalogued two dead ones in resin and spoke to them with the grief of a man who hated killing anything that had evolved a cleverness. Sable stood beyond the salt-line with her rifle and her jaw set, watching Ellis more than the trees, which Jonah noted for later gossip he would never actually perform. Mateo stayed on the radio, voice flat, reporting alpha pulse-checks like weather.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Calder's fine,\" Mateo said once, dry. \"He's standing in the rain like a man auditioning for a statue. Tell him statues get trench foot.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah did not tell him. Calder could hear the radio. Calder did not move.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Inside, the false signals ebbed in waves. Each wave left Ivo paler and angrier. Jun went quieter, which was her version of the same weather. Priya translated nothing and held a cup to Ivo's mouth when his hands forgot cups. Jonah logged every reading twice. He rewrote three lines of protocol in the margin while he waited: <em>False heat-signal may present with intact suppressant levels. Trust the assay over the air. Alphas out is not optional comfort; it is the difference between care and contamination.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When the last ribbon failed to return for twenty minutes, Jonah cleared the tent for movement inside the salt-line only. He did not clear alphas back in. Not yet. He wanted a clean hour. He wanted Ivo's hands to stop shaking for a reason that was chemistry and not pride.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You can stand,\" he told Jun. \"Slowly. Drink. If you feel the urge climb again, you sit and you say so. No performances.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun stood. Looked at the flap. \"Harun.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll radio him that you're vertical and rude. That should calm him.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A ghost of humor. \"Tell him I said stay.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah told him. Harun's reply was a single harsh breath and then, \"Copy.\" Calder's voice came after, level: \"Confirm Doctor Maren.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo took the handset before Jonah could. \"I'm here. I'm chemically boring. Stay where you are.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A pause on the line. Rain noise. Then Calder: \"Copy. Thirty meters holds until Jonah sings.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo handed the handset back as if it burned. \"He doesn't get to be perfect at this.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He isn't perfect,\" Jonah said. \"He's correct. Correctness is rarer and less comforting.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo turned away. Priya watched him with the expression of a woman translating a sentence she wished she hadn't been fluent in. Nia posted beta watches and told Rhee to keep the noise going until dawn if she had to. The camp became a machine for waiting.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah stepped outside the tent but inside the salt, rain cold on his scalp, and looked at the major. Calder stood exactly where he had planted himself. Water ran off the scar on his jaw. His hands flexed once, twice, then went still as if he had given them an order they finally obeyed. He did not call out. He did not invent a question that required him closer. He watched the tent the way a wall watches a door — present, useless for entering, essential for the shape of the room.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah walked the salt-line until he was near enough to speak without a radio.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You did it clean,\" Jonah said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's eyes stayed on the mesh. \"Don't congratulate me for not making it worse.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not congratulating you. I'm logging it. Next time someone argues the protocol, I get to say the major left his hands in the rain and the omegas lived.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"They were never going to die of me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"They were going to die of someone deciding proximity was love,\" Jonah said. \"You didn't. That's the whole sermon. Go back to your meter mark before Nia measures you with a stick.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder almost smiled. The almost died in the rain. He stayed on his mark.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The hour before dawn was the worst for the mind and the best for the assay. False signals loved the edge of sleep; suppressants loved consistency. Jonah kept both omegas talking in short loops — colors, numbers, the name of the last thing they had eaten — not because conversation cured anything, but because silence let the stolen urge invent a plot. Jun recited bolt weights. Ivo recited the taxonomic nonsense Ellis had muttered about lumen-moths and then corrected it, because correction was how Ivo remembered he owned his mouth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia rotated beta watches with the ruthlessness of a woman who had lost an asset to confidence. Priya took a turn at the mesh with solvent and a face that promised the ribbons no poetry. Rhee's noise became a domestic irritation, which meant it was working: the thieves hated irregular percussion almost as much as they loved residual heat.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Twice Calder's silhouette shifted as if his boots had argued with his orders. Twice he settled. Jonah watched the second settle with something like respect and refused to say so into a radio Harun could hear. Harun was already vibrating hard enough to register on a seismograph. Affection made alphas stupid; protocol existed to outvote affection until morning.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near dawn the thieves were gone — relocated, Ellis said, toward warmer residual scent on the cached fabric piles, which meant the team would be boiling cloth and resenting laundry for a week. Jonah cleared alphas to the outer cordon first, then, after a final assay, back to ordinary distances. He made Calder wait longest on purpose and hated himself only a little for the theater. Distance had to be proven, not assumed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun reached Jun and stopped a full pace short until she said, \"Come here,\" which was permission and order both. He touched her shoulder with two fingers, counted her pulse against his own, and exhaled like a man surfacing. Mateo checked everyone else like a man counting rosary beads he didn't believe in. Sable told Ellis he was not allowed to name the thieves something poetic. Ellis named them <em>Thermae plagiaris</em> under his breath anyway, then apologized to the resin jar as if taxonomy were a kindness the dead could cash.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder came last to the science tent. He stopped at the flap. Looked at Ivo. Did not enter until Ivo, without looking up from a slate he was not reading, said, \"You're cleared. Stop haunting the doorway.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder entered. He smelled of rain and blocker and the particular exhaustion of a man who had won a fight against his own usefulness. Water still ran from his cuffs. His hands were pink with cold. He set a cup of tea on the crate beside Ivo — oversteeped, cardamom — and stepped back immediately, as if the cup were the only intimacy the protocol would stamp.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stared at the cup. \"I hate that you did the correct thing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm going to trust it later. That's worse.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's throat moved. \"I can live with worse.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't make it a virtue.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not. I'm making it a fact.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun, from the cot, said without looking at either of them, \"Tell Harun I said he did it clean too. Or he'll invent a failure to atone for.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder nodded. \"I'll tell him.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah cleared his throat with professional malice. \"If you three are done converting protocol into literature, I need signatures on the incident log. Nia wants the rewrite by breakfast. I want sleep. Nobody gets what they want until the paper exists.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They signed. Ivo's signature was precise. Calder's was steady. Jun's was a slash that somehow still looked like her. Nia read the log, grunted once in approval of the alphas-out line, and told Calder he looked like a drowned statue and should change his shirt before he invented pneumonia as a personality. She told Jonah his rewrite had better include a sentence even Helix lawyers couldn't romanticize. Jonah promised her ugliness.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Outside, the canopy dripped into ordinary morning. The Vein hummed its tooth-root hymn. Steam rose off stone as if the city were exhaling a held breath. Jonah sat on a crate with his revised protocol and wrote one more line for himself, not for Directorate:",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>He left without bargaining. The doctor hated him for it and will trust him for it. Both reactions are data. Neither is a reason to loosen the rule.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He added, after a moment: <em>Correctness feels like abandonment while it is happening. Log the feeling. Do not obey it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He capped the pen. Somewhere in the wet green, a gray ribbon was digesting a stolen warmth it would try to sell back as truth. Jonah intended to be ready. He intended, also, to remember the shape of a major standing in the rain with empty hands, choosing the cold version of care, while inside a tent two omegas endured a lie their chemistry refused to sign — and to remember Ivo's face when the tea arrived, furious at being kept safe by the one man whose safety he did not want to need.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Breakfast was boiled grain and resentment. Nia made everyone wash again. Rhee reported the counter-net green. Sable reported no Helix on the near loops and did not look comforted by the absence. Hester declared the night a theological insult and ate two protein bars in protest. Anouk told her theology was not a nutrient. Mateo told both of them to chew.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah watched Calder across the circle. The major was pleasant, precise, and slightly too careful with the angle of his body relative to Ivo's — present without pressing. Ivo did not thank him. Ivo asked for the humidity log and received it. The exchange was clean enough to hurt.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah finished his tea, bitter and honest, and closed the protocol book on a sentence he would defend to any board:",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>When the air lies, believe the assay. When the heart lies, believe the distance. Leave the tent.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He stood, knees complaining, and walked the salt-line one last time before the day claimed him for ordinary crises. The mesh still held faint gray smudges where ribbons had pulsed. He scraped a sample for Ellis, labeled it in block letters, and did not flinch when the Vein hummed harder for a breath, as if the city approved of stolen warmth and was disappointed the theft had failed. Jonah told the city, silently, that disappointment was not his problem.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Then he went to find sleep in a cot that smelled of solvent and rain, and dreamed — against his will — of empty hands in weather, holding a perimeter the way some people held prayer.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0022",
+    "number": 22,
+    "title": "The Laugh",
+    "arcId": "arc-3",
+    "volumeTitle": "Volume 3 — What He Carries",
+    "epigraph": "Some recognitions arrive as silence. Some arrive as a sound you were not braced to survive.",
+    "epigraphAttribution": "— Calder Rhys, private, unlogged",
+    "summary": "On a miserable morning Ivo laughs for real, and Calder knows the word for what he feels and does not say it, lying so badly his team starts betting.",
+    "opening": {
+      "id": "hc-ch-0022-opening",
+      "promptId": "hc-ch-0022-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "Lumen-Moth",
+      "caption": "A startled laugh in wet green light, overheard by the wrong man",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "The morning after the scent-thieves was miserable in the ordinary way: wet boots, boiled cloth steaming like a confession, everyone short with everyone because fear had spent itself and left the bill. Calder Rhys woke with his hands still remembering emptiness. He had stood in the rain until the wanting cooled. The wanting had not left. It had only learned manners.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "He hated manners that were made of ice. He used them anyway.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Camp smelled of detergent, crushed cardamom, and the metallic aftertaste of solvent Ellis swore was safe and Sable swore was an insult to fabric. Harun moved through the morning like a man apologizing with volume. Jun moved through it like a woman who had already filed the night and refused to re-open the drawer for spectators. Nia drank something that claimed to be coffee and judged them all in silence. Jonah looked like he had slept inside a protocol.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder assigned routes with a pleasantness so thin Harun squinted at it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You sick?\" Harun asked.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm vertical,\" Calder said. \"Vertical is the brand.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Your brand usually has jokes.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Jokes are rationed today.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun looked at Jun. Jun's eyebrow said <em>later</em>. Calder pretended not to see the transaction.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He lasted until the lumen-moth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis had found it at the edge of the gallery mouth, where broken stone met a shaft of green-filtered light that made the air look underwater. The moth was the size of a palm, wings like thin milk glass with veins of pale gold that brightened when cloud-cover thickened — a contradiction Ellis narrated with delight bordering on scandal. Priya had been drafted because the wing-dust held a knot-shape she refused to call writing until she had hated it for an hour. Ivo had been drafted because Ivo was the reason Ellis believed naming could be protection, and because the moth had landed on Ivo's sleeve as if selecting a translator.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder was not drafted. Calder was walking the perimeter because walking kept his hands from inventing errands that ended near Ivo's tea. He came around the buttress because the buttress was on the route. He stopped because stopping was what happened to his body when Ivo made a sound Calder had not catalogued.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Laughter.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not the short, ugly bark from the false-heat tent. Not the dry almost-humor Ivo weaponized in briefings. A startled laugh — real, bright for half a second, the sound of a man caught off-guard by something living and ridiculous. The moth had walked up his wrist and tapped his knuckle with a tongue like a wet thread. Priya said something Calder did not catch. Ivo laughed, head tipped, eyes creased, the scar through his eyebrow folding into the expression as if even the scar had been invited.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The laugh landed in Calder's ribs like a thrown stone that decided to stay.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He knew the word then. Not as theory. Not as the soft poison teenagers used to excuse cruelty. As a fact with weight and temperature: he loved him. He loved the measuring pause and the locked-door scent and the furious exactness and the way Ivo held a cup as if cups had to earn trust. He loved the boy he had hurt without confusing the love with an excuse. He loved the man who would not forgive him in a vista. He loved the laugh like a man loves a light in a place that has been dark too long — carefully, without grabbing, knowing grabbing puts it out.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not say it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He stood behind the buttress with rain finding his collar and practiced breathing like a professional. When he stepped into view he had arranged his face into something that could pass for mild interest in entomology.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It did not pass.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Major,\" Priya said, without looking up from the wing. \"If you're going to haunt the light, haunt it from the left. You're throwing a shadow on my dust.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Wouldn't want that,\" Calder said, and heard his own voice go wrong — too light, too quick, the joke-shape without the joke. \"How's our glowing friend?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Lumen-capable, temperamental, and currently using Doctor Maren as furniture,\" Ellis said happily. \"Also, Major, you look like you've been shot with a soft bullet.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm fine.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo glanced up. The laugh was gone. The measuring was back. For a moment Calder thought Ivo had heard the word anyway, telepathy of the wounded. Then Ivo returned to the moth as if Calder were weather.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't breathe on it,\" Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I wasn't going to breathe on it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You were going to invent a reason to stand closer. Stand where you are.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stood where he was. The moth pulsed gold. Priya swore softly at a knot that refused to be only decoration. Ellis offered the moth a leaf as if negotiation were possible. Ivo's mouth twitched — not a full laugh this time, a ghost of one — and Calder had to look at the jungle until his eyes stopped doing whatever they were doing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He lasted four minutes. Then he said, \"I'll leave you to the diplomacy,\" and walked away with the careful stride of a man exiting a church he had no right to be in.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun found him at the cache ten minutes later.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"So,\" Harun said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"So nothing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You came around that buttress looking like a man who'd seen God, and you left looking like God had laughed at somebody else.\" Harun leaned on a crate. \"Jun owes me a ration bar if you start lying badly before noon. I owe her one if you make it to dusk. Place your own bet for fairness.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not lying.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You just said <em>I'm fine</em> to Ellis like you were reading it off a hostage card.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder checked a seal that did not need checking. \"The moth is interesting.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The moth.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The moth.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun whistled. \"Jun's going to get rich.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "By noon the bets had diversified. Calder knew because the camp had a temperature, and the temperature was comedy aimed at him with love's cruel accuracy. Jun did not speak bets aloud; she looked at Calder when he answered ordinary questions with extraordinary nonsense and marked invisible tallies. Rhee asked if the counter-net needed his review; Calder said the net looked \"structurally optimistic,\" which made Rhee blink and Nia put her palm over her own face. Mateo asked if he wanted a stimulant; Calder said he was \"metabolically decorative,\" and Mateo told Anouk, loudly, that the major had been replaced by a pamphlet.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia pulled him aside near the salt-line, where boiled cloth hung like surrendered flags.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Stop,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm working.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're vibrating at a frequency that is distracting my perimeter. What happened.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Nothing happened.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Calder.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He looked at the gallery mouth, at the place where a laugh had happened without him. \"He laughed. At a moth. It was—\" He stopped. Naming it to Nia would make it an operational fact. Operational facts got managed. \"It was a sound. I'm fine.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia's eyes narrowed. \"You're in love with him.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The Vein hummed in Calder's teeth. Rain ticked on leaves. He could have denied it. Denial would have been another hostage card.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes,\" he said. \"And if you put that on a log I will desert into the trees and become a cryptid.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not logging your heart. I'm telling you your face is already publishing.\" She exhaled. \"Does he know?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He knows I remember. He knows I'm sorry. He does not know that word, and he will not hear it from me while he's still deciding whether my existence is a threat assessment.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good. Keep it that way until he asks or until the mission ends, whichever comes with less blood.\" Nia paused. \"And for the love of all vertical things, when Harun baits you, do not say <em>metabolically decorative</em> again. I have to live here.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, Captain.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He tried. He failed in small ways. At the midday brief he called the Vein \"a dental weather system\" and watched Hester's eyebrows climb into her hairline. He told Sable her recon loop was \"geometrically flirtatious,\" which made Sable stare as if he had grown a second head and Ellis choke on a laugh he tried to feed to a moth. He answered Jonah's medical check with \"spiritually hydrated,\" and Jonah wrote something vicious in a margin. When Rhee asked for a go/no-go on a relay spike, he said, \"Green like envy,\" and then had to clarify, red-faced, that he meant green like go. Rhee filed the clarification under <em>major compromised</em> without writing it down.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun, passing, murmured, \"Harun wins the noon pot,\" without moving her lips much.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder fled into work that required his hands. He reinforced a brace with Rhee until his shoulders ached and the brace could have held a grudging god. He walked the upper ruin with Sable until his thighs burned and the canopy dripped into his collar like cold fingers. Sable, mercifully competitive, talked only about sightlines and Helix likely hides. She did not ask about moths. She did say, once, \"Your bearing is off by two degrees toward the science ledge,\" which was Sable for <em>I am choosing not to humiliate you in public</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He sat with Anouk over a mural sketch and asked actual questions about flaking sequences, and for ten blessed minutes he was only a commander listening to an archaeologist. Anouk's pencil moved in short, angry strokes. She spoke about binders and humidity and the arrogance of civilizations that painted verbs where water could reach them. Calder nodded in the right places. Then Ivo crossed the ledge with Priya, speaking low about wing-dust and positional grammar, and Calder's attention snagged so hard Anouk snapped her fingers in front of his eyes.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Major,\" Anouk said. \"If you are going to moon over my colleague, warn me so I can invoice the lost minutes.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I wasn't—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You were. Mateo says bonded people can smell longing. I say longing has a posture. You have the posture. Sit up.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He sat up. Anouk softened by a fraction. \"He laughed this morning. I heard it from the stair. It is a good sound. Do not make it about your redemption.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"See that you don't. Redemption is a story people tell when they want the wounded to do unpaid labor.\" She returned to the sketch. \"Ask better questions about pigment if you need to keep your mouth busy.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He asked better questions about pigment. His mouth stayed busy. His ribs kept the stone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Afternoon rain came hard, turning the world into a single drum. Water sheeted off the broken gallery lip and made a curtain you could have walked through into another century. Calder took radio watch under a tarp with Harun and practiced being boring. Boring was a skill. He had neglected it for years in favor of charm. Charm had gotten teams through worse nights than this. Charm today felt like counterfeit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun, merciful for once, talked about Jun's left-handed bracing drills and his own claustrophobia as if confession were weather talk. He described the cistern stair without decorating it. He said Jun had already been below and that loving someone competent was its own kind of terror. Calder listened. Listening helped. It put another person's fear in the room so his own had to share the air.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Then the ghost spoke on schedule — <em>Don't ask it</em> — and Calder thought of questions and finishes and the way Ivo's laugh had asked nothing of him and finished something anyway. He thought of St. Briony hallways where laughter had been a weapon he aimed. He thought of the difference between those laughs and this one, and the difference sat in him like a verdict.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're doing the face,\" Harun said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Nia already yelled at the face.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Nia's not here. I am. Split the difference and tell me if I need to keep Jun from taking a bet that involves you walking into a tree.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Keep her from the tree bet,\" Calder said. \"I'll pay the rest in dignity.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun snorted. \"Dignity's expensive in this climate.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near dusk Ellis released the lumen-moth toward the canopy with an apology and a whispered Latin goodbye. The moth rose like a coin tossed into green water and vanished into leaf-shadow. Priya declared the wing-dust \"suggestive and legally unavailable.\" Ivo packed the documentation with his usual precision — oilcloth, labels, the pencil sharp enough to draw blood if a man were careless. Calder kept his distance and still managed, somehow, to be looking when Ivo glanced over and caught him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's expression did not soften. It sharpened into something like irritation at being observed, then — worse — a flicker of awareness that the observation mattered to him. He looked away first. Calder felt the look-away like a hand on a bruise: not kindly, not cruelly, simply true.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He walked the long way back to the command tarp, past boiled cloth and salt-lines and the place where gray ribbons had written their theft across the mesh. He sat on a crate with his head in his hands for exactly thirty seconds, which was the ration Nia allowed for private collapse. Rain tapped the tarp. The Vein hummed. Somewhere Jun laughed once at something Harun said — a different laugh, bonded and ordinary — and Calder did not confuse it with the one that had ruined him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When he lifted his head, Jun and Harun were watching from the salt-line like bookies at a very wet racetrack.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Dusk pot,\" Jun said softly to Harun.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Split it,\" Harun said. \"He lasted longer than noon and less than integrity.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder raised his voice just enough. \"I can hear you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good,\" Jun said. \"Then hear this: whatever you're not saying is louder than Rhee's noise line. Either say it to the person it belongs to when the time is not stupid, or learn a face that isn't a subtitle. Those are the options.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"There's a third option,\" Calder said. \"I become excellent at my job and die of professionalism.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun grinned. \"That's the spirit. Also that's a lie. Pay up later.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Mateo appeared with a cup and the expression of a medic delivering bad news gently. \"Drink. You're deferred-hydration performing competence again.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If you say <em>fine</em> I will sedate you for peace.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder drank. The liquid tasted like wet cardboard and care. Mateo clapped his shoulder once, bonded-warm, and left before gratitude could become a conversation.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Night assembled itself in greens so dark they were almost black. Lamps in tins made small gold sentences on stone. The Vein's hum was a low animal under the ruin, chewing its own quiet. Calder posted watches. He reviewed Helix approach vectors until the lines stopped meaning anything and became only geometry that might kill them later. He did not invent a reason to bring Ivo tea even though his hands knew the recipe now like a scar knows weather. The knowing sat in his fingers. He put his fingers on a map instead.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Across camp, Ivo sat with Priya under a tarp lip, heads bent over a slate. No laugh. Only work. Calder loved him in the work too — loved him especially there — and the love had nowhere to go that was not a kind of theft if spoken too soon.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia found him at the edge of sleep, which was to say she found him staring at the dark with his eyes open.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Still not saying it?\" she asked.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Still not saying it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good.\" She hesitated. Rain made a curtain behind her. \"For what it's worth — the laugh. I heard it too. It didn't sound like a man who is only made of exactness. Don't use that as permission. Use it as patience.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder nodded. Patience was a foreign country with good roads. He intended to learn the language without demanding citizenship. He intended to keep the word chambered until Ivo's life was not a perimeter problem and Calder's guilt was not hungry for proof.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If Harun asks,\" Calder said, \"tell him I know I lost the pots. I'll buy the ration bars myself. Quietly. No ceremony.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll tell him you lost with style,\" Nia said. \"That's the only dignity left.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When she left, Calder lay back on the cot and watched the tarp breathe. He catalogued the day like an after-action he would never file: moth, laugh, stone in ribs, lies so bad they became camp currency, a team that loved him enough to bet on his face, a scientist who had sounded — for one unprotected second — like someone who might still be reachable by joy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not confuse reachable with owed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When he finally slept, he dreamed of moth wings under water and a classroom window and a laugh that belonged to a man who had survived him. He woke once to the ghost's vowel and once to rain and did not, either time, say the word into the dark where it might have been overheard by a city that finished patterns.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He kept it in his ribs, where the stone had landed, and went back to sleep like a man guarding a live round he refused to chamber — loving, silent, and for once in his charming life, precisely where he was supposed to be: not beside Ivo, not in a vista, only awake enough to know the difference.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before true sleep took him, he heard Harun whisper to Jun across the dark — not words Calder was meant to keep, only the tone of a bet being settled in affection rather than mockery. He smiled into the cot canvas, private and brief, and let the smile die before it could become another subtitle for Nia to confiscate at dawn.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the last edge of waking he catalogued the laugh again, not to spend it, only to store it: the moth's thread-tongue, Priya's dry aside, Ivo's head tipped as if joy had arrived without papers and been admitted anyway. Calder Rhys, who had once soaked moth wings for a room's amusement, held the sound like evidence against his own history and did not ask the city what it meant. Some questions finished you. This one he intended to survive unanswered until the man who had laughed was ready to be asked anything at all.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0023",
+    "number": 23,
+    "title": "Too Close",
+    "arcId": "arc-3",
+    "volumeTitle": "Volume 3 — What He Carries",
+    "epigraph": "Care that does not ask permission is still care. That does not make it gentle to receive.",
+    "epigraphAttribution": "— I. Maren, margin note, Day 17",
+    "summary": "Ivo notices the jacket-pattern, the tea, and Calder's jealousy misfiled toward Priya, then overhears one sentence at night that rearranges the debt.",
+    "opening": {
+      "id": "hc-ch-0023-opening",
+      "promptId": "hc-ch-0023-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "Pattern Recognition",
+      "caption": "A jacket's weave, a cup's steam, a sentence not meant for him",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Ivo Maren had built a career on noticing patterns other people filed under coincidence. It was therefore humiliating — personally, professionally, cosmically — to realize he had been sleeping under Calder Rhys's jacket pattern for days without naming the weave.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The jacket itself was gone from his shoulders each morning, folded with military neatness he refused to find touching. What remained was the imprint: a denser twill where the lining had pressed into his shirt while he worked past sense, a faint citrus-steel ghost in the cloth that his suppressants could not entirely argue with. He had told himself the cold made him invent contact. He had told himself Ellis's cardamom conspiracy was only Ellis being Ellis. He had told himself the tea that appeared at his elbow — oversteeped, pod crushed correctly — was camp logistics.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the seventeenth morning in the Reach, he stopped telling himself convenient lies long enough to watch Calder pour water over black leaves with the concentration of a man defusing a charge.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder did not look up. He finished the steep. He crushed the cardamom against the tin with his thumbnail. He set the cup on the crate beside Ivo's notes and stepped back the exact distance protocol and pride required.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Humidity log,\" Calder said, as if the cup were unrelated weather.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo looked at the cup. Looked at Calder's hands. Looked at the folded jacket on the command tarp's edge — same twill, same lining sheen.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You've been covering me,\" Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's ears went pink. \"You fall asleep on the notes. The stone is cold. It was asset management.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Asset management does not learn the tea.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A pause. Rain ticked on the tarp. \"No,\" Calder admitted. \"It doesn't.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo picked up the cup because refusing it would have been theater, and he was tired of theater that cost him heat. The first sip was correct. Correctness from Calder Rhys was becoming a climate.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't make a habit of narrating it,\" Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I wasn't going to.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You were going to joke it into harmlessness.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's mouth shut on the joke. He nodded once and left Ivo the steam.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya arrived with a slate and the expression of a woman who had watched the whole transaction and filed it under <em>dangerous vernacular</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're glowing,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm drinking tea.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're drinking evidence.\" She sat. \"Work first. Feelings later, or never. Your choice. My glyphs don't care.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They worked. The morning was positional grammar and pigment and the Vein humming in their teeth like a reminder that cities had opinions. Ivo kept his pencil steady. His mind did not. It kept returning to the jacket weave, to rain-slick nights he had half-woken under weight that was not stone, to the fact that Calder had learned his tea the way bullies never learned the interior lives of the people they practiced on — except Calder was no longer only that boy, and the exception was the problem.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near midday the dock radio woke.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee patched it through because coastal check-ins were still law even when the jungle pretended otherwise. Static, then a Virelian voice Ivo recognized with ordinary adult clarity: Captain Tomas Ibarra, back at the river, respectful, a little tired, asking after the science team by name as if names were a kindness he could still afford.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"—and Doctor Maren, if he's in earshot, tell him the moth samples he left labeled at the dock shed are dry and unmolested. Also tell him—\" A pause, faintly embarrassed. \"Tell him I hope the interior is treating him with more courtesy than the river did. Ibarra out.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The tent's air changed temperature. Not biology. Calder.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo did not look up immediately. He finished the line he was writing. Then he looked. Calder stood at the radio lip with his shoulders set in the particular way they set when he was being unpleasant without permission — jaw tight, scar pale, eyes doing a search for an enemy who was not present and therefore could not be ordered away. Nia watched him the way she watched soft ground. Harun pretended to clean a belt. Jun did not pretend; she watched Calder watch the empty frequency as if jealousy were a sightline.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Acknowledge,\" Calder told Rhee, too flat. \"Science team intact. No further personal traffic.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee's eyebrows rose. She acknowledged in clean Directorate diction and killed the channel before Tomas could become a person again.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo set his pencil down. \"He asked after the scientists. That's his job and his manners. You don't get to bristling rights over a dock message.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder turned. Caught himself. The unpleasantness flickered and tried to become professionalism and failed halfway. \"I don't like open channels discussing assets by name.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You don't like Tomas,\" Ivo said. \"You've never liked Tomas. You were unpleasant about him before he left, and you were ashamed after, and somehow both versions are still standing in your posture.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya murmured, \"Ivo—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"No,\" Ivo said, still looking at Calder. \"He stood between me and the <em>idea</em> of Tomas as if courtesy were a raid. Tomas is at the dock. Tomas is decent. I sent him nothing. I will send him nothing. Your jealousy is not a perimeter.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder went very still. \"It isn't jealousy.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then what is it?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's—\" Calder stopped. The Vein hummed. Rain found the tarp seam and dripped onto a tin with the patience of a metronome. \"It's the habit of putting my body between you and anything that wants a piece. Including polite captains. Including myself. I'm aware the habit needs a leash.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Leash it,\" Ivo said. \"Or I will.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia cleared her throat. \"Major. With me. Now. Doctor — drink your tea before it becomes a grievance.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They went. Ivo drank the tea. It tasted correct and infuriating.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The afternoon should have been quieter. It was not. Ivo and Priya took a rubbing to the higher ledge where light came through fig-gaps in blades. Calder posted himself in the sightline below — not crowding, not absent — a wall with opinions. When Priya leaned in to point at a cut in the stone, her shoulder near Ivo's, Calder's attention sharpened in a way Ivo felt on the back of his neck like heat.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo waited until Priya stepped away for a better angle. Then he climbed down the wet stone and stopped in front of Calder with enough distance for dignity and not enough for escape.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Stop watching me with her like that,\" Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder blinked. \"Like what.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Like she's a story you're inventing. She isn't. She's my friend. She knows things you don't get to demand. If you're jealous of <em>Priya</em>, you are misunderstanding the entire grammar of my life, and I am angry at you for the misunderstanding, and I am angrier at myself for caring that you misunderstood.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Color climbed Calder's throat. \"I wasn't—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You were. Your face publishes. Ask Nia. Ask the betting pool.\" Ivo's voice stayed low; fear that went quiet, anger that went precise. \"I am not a prize between an alpha and a linguist. I am not a triangle. I am a scientist in a ruin that eats questions, and you are making my work about your eyes.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder took the hit cleanly. He had gotten better at that. \"You're right. I misread the temperature. I won't invent a romance for Priya to make my own easier to stand. That was ugly. I'm sorry.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The apology landed without romance. Ivo hated how much that mattered.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good,\" Ivo said. \"Go be a major somewhere that isn't my peripheral vision.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder went. Priya, above, did not pretend she hadn't heard. When Ivo climbed back, she handed him the charcoal without commentary for a full minute. Then: \"He's going to die of wanting to be correct.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Let him.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You don't mean that.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Today I do.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya's mouth tilted. \"Today is a short country. Don't build citizenship there.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They went back to the rubbing. The charcoal bit soft into wet paper. Priya's hands were steady; Ivo's were almost. Below them the camp made the sounds of a machine pretending it was not listening to two people on a ledge. Harun laughed once at something Jun did not find funny. Mateo threatened Anouk with calories. Rhee's set murmured its nineteen-minute faith, Pavel Ruiz late to advice that had already failed to save him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo found himself narrating Calder's habits like a field guide he resented writing. The jacket: placed, not draped — weight distributed so it would not slide if the sleeper turned. The tea: steeped past comfort into the bitter register Ivo preferred, cardamom crushed not powdered, pod left in to knock the enamel like a small bell. The body in doorways: not a claim, a reflex, the same reflex that had made Calder unpleasant about Tomas at the river and ashamed afterward in a way that did not erase the unpleasantness. Patterns. Ivo's profession was patterns. Patterns did not care if the observer wanted to remain unobserved by his own conclusions.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're grinding your teeth,\" Priya said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The Vein.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The Vein doesn't grind your molars in that rhythm. That's a person.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stopped. Started again more carefully. \"If he stands between me and every courtesy in a fifty-kilometer radius, I will file him as a hazard.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"File him however you like. Just don't file me as his rival. I will become unbearable.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're already unbearable.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Professionally,\" Priya agreed, and the ledge warmed by a degree that had nothing to do with weather.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They worked until the light failed the glyphs. Evening brought boiled grain, Mateo's tyranny, Hester and Anouk arguing about whether a mural panel was a calendar or a confession. Ellis fed leftover cardamom into Ivo's tin like a man maintaining a shrine he refused to name. Sable cleaned a rifle and watched Ellis's hands as if hands were a recon problem she was finally willing to fail. Jonah posted a new suppressant check schedule on a crate in handwriting that dared anyone to find it romantic. Calder moved through the meal like a man practicing invisibility and failing because height was not a skill you could switch off. He did not bring Ivo a second cup. He glanced once at Ivo's hands as if confirming they held something warm, then looked at Nia instead, which was either growth or cowardice. Ivo declined to grade it in public.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "After the meal Nia assigned watches with the sweetness of a captain who had smelled trouble and decided to schedule it. Calder took mid-watch. Ivo took nothing because scientists were not on the rotation unless the night asked for eyes that could read stone. The night asked for eyes that could stay alive. Ivo walked the salt-line after full dark because his legs wanted motion and his mind wanted fewer people. The jungle beyond the line was a wall of breathing dark. Frogs spoke. Something larger did not. The Vein's hum lived in his molars. He thought of Tomas's voice — decent, distant — and of Calder bristling at a ghost of courtesy, and of a jacket's weave printed into his sleep. Too close. All of it too close. He had survived St. Briony by becoming a locked door. Locked doors did not notice tea recipes. Locked doors did not get angry at being misunderstood, because misunderstanding required that someone else's reading mattered.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He mattered to Calder. That was the weather now. He could hate the weather and still get wet.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the far side of the salt-line a night-insect made a sound like a wet finger on glass. Ivo listened until the sound stopped, then listened to his own pulse as if it were a specimen that might bolt. He rehearsed, silently, the things he would not say to Calder: <em>stop learning my tea</em>; <em>stop putting your jacket where my sleep can find it</em>; <em>stop bristling at decent men on docks</em>; <em>stop looking at Priya and me as if friendship were a siege</em>. The rehearsal was useless. The not-saying still occupied the mouth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He walked further along the line until the command tarp's lamp was a coin in the dark and the science ledge was another. Between them the camp breathed — Harun's low complaint, Jun's shorter answer, Rhee tapping a rhythm that was not the ghost's. Ordinary. Fragile. Ivo had wanted ordinary for fourteen years and had built a career that never stayed in ordinary rooms. Now ordinary included a major who refused to call him a debt, and the inclusion felt like a door he had bricked from the inside while someone stood outside declining to pick the lock.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Voices carried from the command tarp — low, not radio. Nia's cadence. Calder's. Ivo stopped outside the lamp spill because stopping was what careful animals did, and because he was tired of pretending he didn't eavesdrop when the jungle offered him acoustics.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"—not a project,\" Nia was saying. \"You don't get to renovate him.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm not renovating,\" Calder said. Rough. Quiet. \"I'm trying not to treat him like a wound I inflicted that I now own. He isn't a debt. If I pay him like a debt he'll smell it, and he'll be right to hate me for it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stood in the dark with rain finding his collar and the sentence finding the place under his sternum where exactness lived.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>He isn't a debt.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not <em>I owe him</em>. Not <em>I'll make it right</em>. Not the ledger language Ivo had been ready to punish. A refusal of the ledger. A man telling his captain that repair was not ownership.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's eyes stung. He blamed the rain. He turned away before the tarp's lamp could catch the shine and walked back toward the science ledge with his hands in fists and his breath carefully counted.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya was still awake, private glossary open, lamp tin hooded.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You look like you overheard a god,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I overheard a sentence.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Useful?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Infuriating.\" Ivo sat. Water ran from his hair into his collar. \"He told Nia I'm not a debt.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya closed the glossary. \"And?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"And I wanted him to be simpler. Debt is simple. I can refuse debt. I know the shape of being owed. I don't know the shape of—\" He stopped. The Vein hummed. Far off, the ghost spoke its nineteen-minute faith. <em>Don't ask it.</em> Ivo almost laughed. \"I don't know the shape of a man who refuses to collect.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then don't invent the shape tonight,\" Priya said. \"Sleep. Tomorrow the stone will still be difficult and Calder will still be tall and you will still be allowed to be angry without filing it as destiny.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo lay down on his cot with his back to the camp. He did not sleep at once. He catalogued: jacket pattern, tea, Tomas on the radio, Calder's body in a doorway that did not need defending, Priya's shoulder misread as romance, one sentence in the dark that refused the ledger. Too close. The closeness was not scent. It was attention. Attention had always been Calder's native language — spent badly at St. Briony, spent carefully now, still spending.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo pressed his palm to the cot canvas and felt, absurdly, the ghost of twill.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Asset management,\" he whispered to the dark, mocking, and the mockery came out softer than he intended.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Across camp, Calder's lamp stayed lit through the early watch. Ivo watched the gold square without meaning to, angry at the watching, angry at the anger, angry at caring enough to map another person's light. He turned his face into the crook of his arm and waited for sleep like a man waiting for a ceasefire.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sleep came late. When it did, he dreamed of a dock and a decent captain who asked after scientists by name, and of a major who stood between him and the idea of being wanted by anyone else, and of a sentence that said he was not a debt — which meant, terrifyingly, that whatever Calder was carrying was not an account Ivo could close by refusing payment.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He woke once to rain and once to the Vein and did not go to the command tarp. He stayed on his side of the camp like a border he had drawn for his own survival, and hated that the border now had a view.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near dawn he rose and folded his own blanket with unnecessary precision. The jacket still hung on the command tarp's edge, empty of him, full of implication. Ivo did not touch it. He made his own tea wrong on purpose — understeeped, no pod — and drank the mistake like a protest no one else would taste. It was petty. It was exact. It did not erase the sentence from the dark.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>He isn't a debt.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo packed his slate, checked his patch, and walked into the day's work as if work could be a country with stricter borders than wanting. Behind him the rainforest assembled its beauty without asking whether anyone was ready to be seen inside it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya found him at the pigment ledge before the others woke, two cups in hand, one of them made correctly despite his protest tea.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You sabotaged the kettle,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I conducted an experiment.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The experiment failed. You're still thinking about the sentence.\" She held out the proper cup. \"Drink evidence. Then tell me if you need me to keep Calder away from your peripheral vision today or if you're going to punish him with proximity.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo took the cup. Steam rose between them, cardamom and bitter leaf. \"I need the work. He can have the rest of the jungle.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That's not an answer.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's the only one that keeps me functional.\" He sipped. Correctness invaded again. \"If he asks what I overheard, don't confirm. If Nia asks, tell her I sleepwalk. If I start waiting for him to come to the ledge, kick me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya's eyes were kind and merciless. \"I'll kick you. Professionally.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They stood in the wet green morning with the Vein humming and the jacket still hanging empty on a tarp edge Ivo refused to look at directly, and for a moment the expedition felt almost like a life two people might have chosen if the city under their boots had been quieter and the boy in Harrowgate had been kinder and the man on the dock had never asked after scientists by name. The moment passed. Ivo picked up his slate. Priya picked up the glossary. The day began without waiting for anyone to be ready.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0024",
+    "number": 24,
+    "title": "Chapter 24",
+    "arcId": "arc-1",
+    "volumeTitle": "Volume 1 — The Spare Son's Silence",
+    "summary": "",
+    "opening": {
+      "id": "ch-0024-opening",
+      "promptId": "ch-0024-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "Chapter 24",
+      "color": "#8b6b2e"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Jun Park trusted trees more than people until people proved otherwise, and even then she trusted trees first.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The morning of the contact had smelled like boiled cloth and ozone from Rhee's net tests. Jun had checked her patch, checked Harun's eyes for the claustrophobic tightness that meant he needed sky, and taken the ridge assignment because high notches were where she made the most sense. Calder had briefed without jokes — Helix vectors, Varga's likely patience, Cho's likely lack of it. Nia had squeezed Jun's shoulder once, beta-solid, and said, \"Come back rude.\" Jun had promised rudeness like a vow.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The ridge above Qalen-Sar was a ladder of wet trunks and strangler figs, leaf-litter that swallowed sound, and sightlines that lied every ten meters. She had the high notch — left shoulder to bark, cheek weld habitual, breath counted in fours. Harun was below and left, heavy weapon angled for a lane she had chosen because she loved him and refused to let love choose stupid geometry. Sable was a rumor further east. Calder's voice lived in her earpiece at whisper volume. The Vein hummed in her teeth even up here, a reminder that the city beneath them had opinions about noise.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Helix arrived like weather that had paid for a map.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not the tourist route. Never the tourist route. A scout team in matte kit, moving with the patience of people who had bought a guide or a satellite that did not officially exist. Jun marked five, then seven, then the shape of a larger body behind them — enough to make her mouth go dry and her hands go steady. Captain Leona Varga's silhouette was unmistakable once you had studied the brief: beta, precise, no wasted motion, a woman who wanted knowledge the way other people wanted revenge and had learned to make the wanting look like doctrine.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun clicked twice. Calder's reply was one click. Hold. Then Rhee's voice, tight: \"Counter-net ready. If they bloom drones, I bloom teeth.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The six-hour delay lived under that sentence like a scar. Rhee had sat on a Helix burst because she wanted to crack it alone. Helix had learned the expedition was ahead and wounded in its trust. Jun did not hate Rhee for it in the middle of a sight picture. Hate was for after, if they lived. Now she hated only the ridge for being occupied.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The first shot was Helix's — a probe round into leaf, testing return fire. Sable did not give them return. Calder did not give them Calder. Jun gave them nothing until a second scout committed to a trunk that opened his center mass for half a breath.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She took the breath. The scout dropped without poetry. The ridge woke up.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Fire became a language of muzzle flashes stuttering through wet green. Harun's weapon spoke in controlled bursts that made the air smell of hot metal and crushed vegetation. Calder's orders were short: shift, hold, peel left, do not chase. Nia's beta team held the lower path for science evacuation — Ivo and Priya and the rest moving under stone lip with Mateo cursing them into speed. Jun tracked Varga's people as patterns, not faces. Faces made you late.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A drone spat from the canopy like a black seed. Rhee's counter-net answered — a bloom of interference and directed trash-signal that made the drone stutter, list, and die against a trunk with a sound like a cheap toy ending. Jun felt, absurdly, a flicker of respect for Rhee's guilt turned into gear.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"East lane dirty,\" Sable reported, voice clipped. Then a grunt — not a scream — and, \"Clipped. Dizzy. Still shooting.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun did not look east. Looking was how you died for friends. She trusted Sable to be Sable: competitive, upright, furious at being interesting to bullets.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Helix pressed. They were good. Not theatrical. Varga's voice carried once, not loud, cutting her own people into better angles. Jun tracked the voice and found the woman in a notch that mirrored Jun's own — professional recognition across a killing space. For a fraction of a second their scopes might have been cousins.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun shifted to deny her a clean lane at the evacuation path. The shift cost her the perfect trunk. The next Helix round found the space where her perfect trunk had been and continued into her.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Shoulder.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Through-and-through. No bone — she knew the difference the way she knew bolt weights. Heat, then cold, then the bright white fact of being open to air in a place air did not belong. Her left arm stopped being an arm and became a problem. She stayed on the rifle by sheer stubborn geometry, braced wrong, cheek still welded, and fired once more because stopping felt like consent.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Jun's hit,\" she said into the mic, calm because calm was the only useful temperature. \"Left shoulder. Through. Not bone. Still on gun.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun made a sound that was not language. Calder snapped, \"Harun holds lane. Mateo on my mark. Jun, stay put — we come to you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Negative,\" Jun said. \"You come and you die in my notch. I climb down myself.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Jun—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I climb down myself.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She climbed. Bark tore her palms. Blood made the wet wood sincere. The world tilted in soft increments. She thought of Harun's claustrophobia and her own opposite fear — open air with no angle — and told both fears to wait their turn. Halfway down, a Helix shooter acquired her.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona Varga acquired her.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun saw the barrel settle. Saw the woman's eye behind it. Saw the clear second shot on a downed omega — Jun's boots slipping, left arm useless, body sideways on a trunk like an invitation. The shot did not come.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Varga's muzzle lifted a fraction. Not mercy as theater. A decision with a ledger behind it. Jun had read the brief: a younger brother dead in a classified anomaly, a captain who wanted knowledge so no other family got a redacted sentence. Massacre without justification was a different sin than theft. Varga wanted the Marrow Bell. She did not want Jun's corpse as a footnote she would have to explain to a ghost.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun hit the mud at the ridge base on her knees and laughed once, breathless, furious. \"She didn't take it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Who,\" Harun snarled, arriving anyway, lane be damned, hands already packing her shoulder with a field pad that smelled of Mateo's kit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Varga. Clear shot. Didn't.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun's face did something complicated. Then he became only movement: pressure, strap, the bonded animal choosing function. Calder arrived with cover fire and a face that had lost all jokes. \"Mateo — now. Rhee, keep the net ugly. Sable, talk to me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Dizzy, upright, insulted,\" Sable said. \"Ellis is going to be unbearable about my head.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Ellis can be unbearable after we leave,\" Calder said. \"Peel to the gallery mouth. Science is moving. We are the door.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They became the door. Jun let Harun half-carry her without calling it weakness because Nia had already radioed that if Jun bled out for pride she would kill Harun herself for allowing it. The litter Harun refused to call a litter was a tarp and two poles cut ugly from saplings; Jun used her good hand to hold his sleeve so he would not climb back up the ridge to finish an argument with ghosts.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Stay,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm staying.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Your voice says otherwise.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun exhaled hard. Rain ran into his eyes and he did not wipe it. \"My voice is an idiot. Listen to my feet.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "His feet stayed. His eyes kept flicking upslope anyway. Jun forgave him the eyes. Bonds pulled; protocol outvoted; feet were the vote that counted.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Mateo met them under a buttress with hands that did not shake and a mouth that accused everyone of existing incorrectly. He confirmed through-and-through, no bone, exit clean enough to thank a god Mateo did not believe in. He packed, sealed, shot her with something that made the pain step sideways, and said, \"You will hate me in an hour.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I hate you now,\" Jun said, and meant <em>thank you</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "While he worked, Jun watched a drop of her blood hit a leaf and bead without soaking in, as if even the plant life here had opinions about what it would absorb. The Vein hummed harder for a span of breaths, tooth-root deep, and then softened as if bored. Helix rounds still cracked distant. Calder's voice still cut the channel into usable pieces. Jun catalogued muzzle directions by sound the way some people catalogued birds.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo was there for one second — not crowding — eyes flat with the particular rage of a scientist watching people become samples. \"Pressure schedule,\" he told Mateo, as if Mateo needed telling, and then he was gone again into the evacuation string with Priya and Hester and Anouk and Jonah herding suppressants and slate-cases like they were children.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The firefight compressed into minutes that felt like rooms. Helix tried the east lane and found Rhee's trash-signal waiting like a mouth. Helix tried a high drone and lost it to a bloom of ugly geometry that made Jun, even bleeding, tip an imaginary hat. Helix tried a push on the gallery lip and met Calder and Nia and the kind of crossfire that made professionals reconsider their afternoon. Wet bark exploded into splinters. A round sang off stone near Hester, who swore in a dead language and kept moving because historians who wanted to live learned when to stop narrating. Anouk dragged a case with both hands and snarled at Mateo not to invent a bond-exception; Mateo snarled back that he was inventing a pulse-check and she could invoice him later.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Varga called a withdrawal that was not a rout — a measured step back into deeper trees, the message clear: we know where you are, we will return when the Bell is closer to being a sentence we can steal. Jun heard the call faintly through canopy and blood noise. She filed the cadence. Captains who withdrew clean would return clean. Clean was not kind. Clean was competent.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Smoke from spent powder hung low, trapped under wet leaves, smelling like a factory that had learned to grow moss. Jun's shoulder beat in time with the Vein for a stretch, an unpleasant duet. Harun kept saying her name as if names were tourniquets. She told him to shut up and count her breaths instead. He counted. The counting helped him more than her, which was acceptable.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the broken gallery mouth the team poured into stone shade like liquid finding a basin. Ellis reached Sable and asked her a question — not <em>are you okay</em>, something sharper about double vision and naming colors — and Sable answered with irritated accuracy that made Ellis's shoulders drop in relief. \"Green,\" she said. \"Your face is green. That's not the concussion, that's your personality.\" Ellis laughed too hard and then apologized to her temple as if laughter might bruise. Rhee crouched over her set with hands that shook now that the net had done its work, guilt and competence sharing the same fingers. Calder counted heads twice. Nia counted once and believed her number more. Jonah already had a slate open for wound logs and suppressant cross-checks, because firefights were also chemistry if you were Jonah.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Mateo finished Jun's seal and looked at Calder. \"She needs real clean space by night. No hero shifts. If Harun tries to stand double watch I will sedate him for the marriage.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"She'll have clean space,\" Calder said. He glanced at Jun. \"You did it clean.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Varga did something clean too,\" Jun said. \"Log it. I don't want the brief to say Helix only murders. That lie gets people killed differently.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder nodded. \"Logged. Rhee — your net bought the road. You also bought the ridge by sitting on that burst. Both sentences stay in the after-action. I'm not scrubbing your sin to make your save prettier.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee flinched, then nodded, eyes wet and furious with herself. \"Copy. I'll make the next net uglier.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Make it honest,\" Nia said. \"Ugly follows.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona Varga, somewhere in the trees, was already a problem for tomorrow. Director Adrien Cho would want the Bell with less patience than his captain had shown a wounded sniper. Jun filed both facts under <em>alive to care</em>. She also filed Cho's hunger as the colder threat: men who believed tools could end drought and disease would spend expeditions like coins. Varga's withheld shot was a human weather system inside a corporate one. Weather changed. Corporations did not.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun sat with his back to open air — always open air — and held Jun's right hand while Mateo threatened him with sedation if he hyperventilated into usefulness. Jun watched the canopy drip and listened to the Vein hum through stone and blood loss. She thought of the barrel that had not spoken. She thought of her own first shot that had. She did not confuse Varga's restraint with friendship. She logged it as a human fact in a corporate war.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya passed with a case and paused long enough to say, \"Your breathing is wrong,\" which from Priya was a sonnet. Jun corrected her breathing. Ivo was there for one second — not crowding — eyes flat with the particular rage of a scientist watching people become samples. \"Pressure schedule,\" he told Mateo, as if Mateo needed telling, and then he was gone again into the evacuation string with the rest of the minds that still had to make the ruin mean something other than a grave.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Jun,\" Ivo said from the edge of her vision on a second pass. He had a canteen. He held it for her without fuss. \"Small sips.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She sipped. \"Doctor.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Corporal.\" A pause. \"Thank you for the door.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun almost smiled. \"Thank Rhee for the net. Thank Varga for the missing bullet. Thank me later when I can charge interest.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's mouth twitched. He looked at Calder across the shade — something complicated, unfinished — and then returned to the science string because people who were not bleeding still had work. Calder watched him go with a face that had learned, almost, not to publish. Jun, high on blood loss and drugs, still saw the subtitle. She decided not to bill him for it until she could write left-handed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia knelt. \"Sleep if the drugs let you. If they don't, stare at Harun until he calms down. That's an order with two beneficiaries.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Copy,\" Jun said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She stared at Harun. He stared back, loud man made quiet by a hole in her that had not taken bone. Around them the rainforest continued its oppressive beauty — steam, green dark, the smell of cordite fading under wet leaf. Fear went quiet in Jun's chest and became a list: shoulder, dizzy Sable, Rhee's scar of delay paid in working teeth, a Helix captain who wanted knowledge more than a corpse, a major who had stopped joking the moment the first probe round spoke, a doctor who offered water like a protocol and meant care anyway.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun Park closed her eyes on the list and let the drugs make the ridge into a rumor. Down, she thought. Down from the notch. Down into the hands that refused to leave. Down into a fight that had not finished, only relocated.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When she slept, she dreamed of a scope picture that stayed empty on purpose, and of a brother she had never met belonging to a woman who had decided not to make Jun into a redacted sentence. She woke once to Harun's thumb on her pulse and once to Calder's voice assigning night watches like prayer beads, and both times the trees were still there, trusted first, holding the rain above a city that hummed in everyone's teeth and did not care who had been kind with a trigger.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the deep middle of the night the pain returned as Mateo had promised. Jun stared at the tarp seams and counted. Harun woke at the change in her breathing and did not ask stupid questions. He adjusted the pad. He gave her water. He told her, very quietly, about a joke he would make tomorrow when the joke would not sound like fear. Jun let him rehearse it. Outside, Sable sat her dizzy watch with Ellis nearby pretending to catalogue night-insects while actually counting Sable's balance. Rhee's net ticked self-tests. The ghost spoke on schedule. <em>Don't ask it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun asked nothing of the Vein. She asked her shoulder to remember it was still attached. She asked her hands — one good, one useless — to relearn a rifle later left-handed-braced. She asked the memory of Varga's lifted muzzle to stay accurate and not sweeten into myth. Accuracy was how Jun loved the living.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near dawn Calder checked her without waking Harun, or tried to; Harun woke anyway.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Major,\" Jun whispered.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Corporal.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If Cho sends them back tomorrow, I want the high notch again.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You'll want what Mateo allows.\" Calder's mouth almost found a joke and correctly abandoned it. \"Rest. The door held. That's enough sentence for one day.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun closed her eyes. Enough sentence. She could live with that. The rainforest dripped its oppressive beauty onto stone, and somewhere on the ridge a Helix captain was explaining to herself why an omega sniper still breathed — knowledge, not mercy; ledger, not love — and Jun, who understood ledgers, slept anyway into the wet dark of being not finished. In the last drift before sleep she counted Harun's breaths against her own and found them mismatched, loving, alive — which was, for a corporal who trusted trees first, an acceptable second trust.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "By full morning the ridge smelled washed and dishonest, as if rain could erase cordite. Jun sat propped while Mateo changed the seal and narrated every step like an insult designed to keep her present. Harun fed her water and threatened the trees for existing. Sable walked a straight line for Ellis and hated that she needed the line. Rhee filed the after-action with both her sin and her save in the same paragraph, which Calder refused to let her soften.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia posted a notice on a crate in block letters: NO HEROICS. NO SOLO CLEVERNESS. NO ONE BLEEDS FOR PRIDE.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun read it and snorted. \"She's writing love letters again.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"She's writing law,\" Harun said. \"Same thing, for her.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun flexed the fingers of her good hand and imagined the left-handed brace she would learn. The missing second shot lived behind her eyes without softening. She would not thank Varga. She would not forget her. In Jun's religion, that was the correct altar: memory without debt, survival without myth, trees first, and then the people who came down the trunk with you when coming down was the only victory left.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0025",
+    "number": 25,
+    "title": "Chapter 25",
+    "arcId": "arc-1",
+    "volumeTitle": "Volume 1 — The Spare Son's Silence",
+    "summary": "",
+    "opening": {
+      "id": "ch-0025-opening",
+      "promptId": "ch-0025-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "Chapter 25",
+      "color": "#8b6b2e"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Night watch after a firefight was a special kind of quiet: the quiet of people who had spent their noise and were listening for the next invoice. Calder Rhys walked the inner cordon with his rifle slung and his blocker honest and Jun's blood still a fact in Mateo’s log. Helix had withdrawn clean. Clean withdrawals came back. The Vein hummed in his teeth like a reminder that human guns were not the only unfinished sentence in the ruin.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo was awake on the science ledge with a lamp tin hooded and a notebook open to a page that had more crossings-out than lines. He did not look surprised when Calder's boots stopped at the edge of the light. Night made some meetings inevitable. Calder had stopped pretending otherwise.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're early for the check,\" Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm on watch. Checks are the job.\" Calder kept his distance — two meters, the polite geometry of a man who had learned doors were not invitations. \"Jun's stable. Sable's dizzy and insulted. Rhee's net held. Helix knows where we sleep.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I heard the brief.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know.\" Calder looked at the notebook, then away. Rain made a soft percussion on the broken gallery lip above them. \"I didn't come to brief you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's pencil stilled. \"Then why are you in my light.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Because if I wait for a perfect hour I will invent one that never arrives.\" Calder exhaled. \"The library. St. Briony. Three afternoons. I want to say the part I can say without turning it into an excuse.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's head tilted — measuring. The scar through his eyebrow caught the lamp. \"Say it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stood in the wet dark and found the words the way he found footing on bad stone: carefully, without trusting the first hold.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"We were paired on vanished cities. You knew the material. I knew how to perform knowing. For three afternoons I stopped performing long enough to listen. You showed me a map reconstruction that was better than the textbook. I asked a real question. You answered. I felt—\" He stopped. Feeling was the cliff. \"I felt like a person who could be quiet without disappearing. Then the next day in the hall I mocked you so my friends would not smell that I had liked being taught by the scholarship boy. I told a worse boy to leave you alone once, and then I made sure everyone saw me laugh at you afterward so the kindness wouldn't stick to me. That is incomplete. That is not a defense. That is the inventory I can carry tonight without lying.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo was silent long enough for the ghost to speak once through Rhee's distant set, a vowel worn soft. <em>Don't ask it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You were almost decent,\" Ivo said finally. \"The almost is the knife.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Do you. Or do you know a speech about knowing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's mouth twitched without humor. \"I'm trying to keep the speech shorter than the harm.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo closed the notebook. The lamp made a small gold room of them — not private, not public, the in-between where watches lived. \"Why tell me now.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Because Jun took a round today and Varga didn't take the second, and I am tired of unfinished sentences that aren't mine to finish. Because you called me Cal and made me carry a case and I deserved the precision. Because I covered you with a jacket and learned your tea and stood in the rain when the thieves came and none of that erases a notebook. I am not asking it to.\" Calder's hands flexed empty. \"I am asking you to hear that I see the size of it. Even if seeing changes nothing you owe me — which is nothing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stood. The movement brought him closer without intending to — or intending and refusing to name the intention. Calder did not step back. Stepping back would have been theater. Stepping forward would have been theft. He stayed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They were close enough that Calder could see the damp at Ivo's hairline, the tired red at the edges of his eyes, the mouth that had laughed at a moth and refused forgiveness in a vista. Close enough to kiss. The wanting arrived like weather: sudden, total, not scent-driven, not rank, just the stupid human fact of a mouth near a mouth after too many days of surviving.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder leaned a fraction — not a claim, a question his body asked before his ethics caught up. Ivo did not move away. Ivo's breath caught. The Vein hummed. Rain ticked. Somewhere Harun murmured in sleep and Jun's pain-sound answered and the camp continued being a camp.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stopped.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He stopped the way he had left the tent: without bargaining, with his hands learning emptiness as discipline. He put a palm-width of air back between them and kept it there like a wall he had chosen to be.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Not while I wear this,\" he said, quiet, nodding at the rank tape on his chest, at the rifle, at the whole architecture of command. \"Not while I have the power imbalance and the detail and the fact that you have not asked. I will not take a kiss you haven't requested and call it comfort. I will not let proximity finish a pattern you didn't start.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stared at him. The stillness was absolute — fear gone quiet, something else loud underneath. \"You stopped.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You actually stopped.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes.\" Calder's voice roughened. \"If that surprises you, I deserve the surprise. I have not earned trust. I am practicing the behaviors that might, someday, look like a man who can be trusted with your mouth. Practice is not entitlement.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo laughed once — short, shaken, not kind and not cruel. \"You're impossible.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Frequently.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I was ready for you to take it. I had a whole speech about taking.\" Ivo's hand rose, fell, rose again and scrubbed his face. \"I don't have a speech for stopping.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You don't owe me one.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Stop saying what I don't owe you. I know the ledger. I heard you tell Nia I'm not a debt.\" Color climbed Ivo's throat — anger or embarrassment or both. \"Don't look surprised. The jungle has acoustics. You refused the ledger and then you learned my tea and then you almost kissed me on a watch. Pick a weather system and stay in it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder almost smiled. Stopped that too. \"I'm in the weather where I want you and will not spend the wanting like a thief. If that is inconsistent, welcome to my entire personality.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo looked at his mouth, then his eyes, then the dark beyond the lamp. \"Go finish your watch.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Ivo—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Doctor,\" Ivo corrected automatically, then grimaced. \"Ivo is fine. Just — go. If you stand there being respectable I am going to say something I can't unsay, and I am not ready to unsay or say.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder nodded. He stepped back into the rain beyond the lamp's gold. The cold hit his face like a slap he accepted. \"For what it's worth — the stop is real. It will stay real if you never ask. Asking is not a test I'm waiting to grade.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's voice followed him, thinner: \"Get out of my light.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The nickname landed differently this time — still a blade, less only a blade. Calder took it and walked the cordon until his pulse remembered it was a pulse and not a drum for stupid decisions.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia found him at the north mark twenty minutes later with two cups and the expression of a woman who had smelled almost-disaster and come to invoice it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Your face is doing a new subtitle,\" she said. \"Translate.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I told him about the library. Incomplete. No excuse. We were close. I stopped.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia studied him. Rain beaded on her lashes. \"Good.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He was shaken that I stopped.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Also good. Shaken means he noticed the difference between you and the boy. Don't milk it.\" She handed him a cup. \"Drink. Then be a wall for six more hours. Helix doesn't care about your restraint. I do. The doctor does, whether he wants to. Jun needs a camp that doesn't invent new crises before dawn.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, Captain.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder drank. Walked. Checked seals. Listened to the Vein and the rain and the soft sounds of wounded sleep. He did not return to Ivo's lamp. He passed it once on the circuit and saw Ivo sitting with his head in his hands, notebook closed, lamp still hooded — a man rearranging an interior map after a border had moved.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder kept walking.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near the cache he paused and spoke to no one, a sentence for the dark that would not be logged: \"Not while I wear this.\" The rank. The rifle. The history. The unasked question. He touched the tape on his chest as if it were a reminder and not a crown, and for the first time in days the wanting in his hands felt less like a hunger that needed feeding and more like a dog that had learned to sit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun was awake when Calder passed the medical tarp, Jun asleep against his good side.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You look like you lost a fight with a ghost,\" Harun whispered.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I won one,\" Calder said. \"It doesn't feel like winning.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Winning the right fights never does.\" Harun glanced at Jun. \"She said Varga didn't take the shot. You didn't take something either. Matching weather. Don't make me bet on it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder huffed a breath that was almost a laugh and moved on before the almost could become a subtitle.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the turn of the watch he briefed Sable — still dizzy, still upright, Ellis hovering with a biologist's useless useful presence. Sable took the rifle sling and said, \"Your bearing is back to true.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Is it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Two degrees less toward the science ledge.\" Her mouth twitched. \"Don't ruin it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder returned to the command tarp and sat on the crate that had become his thinking rock. Rain. Hum. The ghost. <em>Don't ask it.</em> He thought of asking Ivo for a kiss and felt the wrongness of the ask like a bad footing. He thought of Ivo asking — someday, maybe never — and felt the rightness of waiting like a clean instrument.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He took the south loop alone while Sable recovered her horizon. The trees dripped in layers. Something with too many joints moved in a bromeliad and thought better of introducing itself. Calder's mind, traitorously, replayed the lean: Ivo's breath catching, the lamp gold, the decision to put air back between them like a wall chosen rather than a wall fled. He named the power imbalance again under his breath so it would stay named: rank, history, detail, unasked. He named the wanting so it would not pretend to be something nobler than wanting. Both names fit in his mouth beside the citrus-steel of his blocker.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the east mark he found Rhee awake over a coil of cable, eyes sanded by guilt and pride in equal grit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Major,\" she said. \"Net's green. If Helix blooms again I can make their drones eat themselves for twenty minutes. After that we're back to geometry and meanness.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Twenty minutes is a lifetime if we spend it correctly.\" Calder crouched. \"You did the ugly thing right today. Keep doing ugly things with witnesses.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee nodded. Her hands did not stop moving. \"Is the doctor—\" She stopped. \"Not my lane.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Correct,\" Calder said, not unkind. \"Sleep when the coil allows.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He moved on. Near the medical tarp Mateo was awake for no good reason except marriage and medicine. Anouk slept with a hand on a rubbing case. Mateo looked at Calder and said, \"You smell like a decision.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I made one.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good. Make another: sit down for ten minutes before you invent a third.\" Mateo pointed at a crate. Calder sat. Mateo checked his pulse like an accusation. \"High. Not dangerous. Stop performing sainthood with your cardiovascular system.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm on watch.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're on a crate. Watch from the crate.\" Mateo glanced at Anouk. \"Bonded advice, free: stopping is only holy if you don't spend the next day making everyone pay for your virtue. Be ordinary tomorrow.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll try.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Try harder than you tried jokes after the moth laugh.\" Mateo's mouth twitched. \"Harun still owes me a bar from that pot. Don't restart the economy.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder sat the ten minutes. Watched rain. Listened to Jun's sleeping breath and Harun's quieter one. Thought of Leona Varga lifting a muzzle and of himself putting air between mouths. Matching weather, Harun had said. Calder did not want to match a Helix captain. He wanted to match the man he was trying to become — which was, inconveniently, a man who could be told no and remain useful.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When Nia's relief came at the true turn, she found him still on the crate.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Report,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Perimeter quiet. Rhee green. Sable upright. Doctor awake earlier; conversation had; stop executed; no further contact.\" Calder stood. \"Helix will come back. Cho wants the Bell. Varga wants a reason that isn't a redacted sentence. We need to move deeper or get harder to find.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Both,\" Nia said. \"Sleep. I'll make the morning ugly enough for two.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He slept in fragments after that, boots still on, dreamless except for a classroom window and a mouth he did not touch. When dawn leaked through the canopy in green blades, he woke knowing the stop had been real, and that real things frightened people who had survived on expecting the worst from him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He intended to keep frightening Ivo that way — with restraint — until restraint became ordinary enough to stop being a shock.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ordinary, Calder thought, tying his boots, would be a miracle. He would not ask the Vein for miracles. He would make coffee that was not coffee, check Jun's color with Mateo, post the day routes, and leave Ivo's light alone until Ivo walked into someone else's on purpose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He slept in fragments after Nia relieved him, boots still on, dreamless except for a classroom window and a mouth he did not touch. When dawn leaked through the canopy in green blades, he woke knowing the stop had been real, and that real things frightened people who had survived on expecting the worst from him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He intended to keep frightening Ivo that way — with restraint — until restraint became ordinary enough to stop being a shock.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ordinary, Calder thought, tying his boots, would be a miracle. He would not ask the Vein for miracles. He would make coffee that was not coffee, check Jun's color with Mateo, post the day routes, and leave Ivo's light alone until Ivo walked into someone else's on purpose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The rainforest steamed. The city under it hummed. Calder Rhys put on his face — not charming, not publishing — and went to work like a man who had almost stolen something precious and had chosen, for once, to keep his hands empty on purpose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Midmorning brought a logistics argument about moving Jun's clean space farther from the Vein's loudest hum. Calder mediated without jokes, which made Harun suspicious and Nia approving. He checked Rhee's net schematic and found only honest ugliness. He stood for three minutes in the gallery mouth where he had tried to apologize and did not invent a sequel. Ivo passed at a distance with Priya, eyes forward, mouth set. Calder did not step into his path. The wanting remained. The stop remained. Both could live in one body if the body was willing to be uncomfortable.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the noon brief he assigned loops, water, watch rotations. When he said Doctor Maren's name it came out even. Jun, from her cot-throne, watched him with one-eyed appraisal and said nothing, which was mercy. Ellis asked if lumen-moths preferred cloud; Calder said he was the wrong priest for that church, and the half-joke was small enough that Nia allowed it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Afterward he found himself alone with the stylus case for a moment — Pavel's warning asleep in bone — and thought of questions that finished people. He had asked Ivo nothing last night except the unspoken ask of a lean. He had withdrawn the ask. He intended to keep withdrawing until an ask came the other way, or never.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Never was a possible country. Calder Rhys, who had once believed rooms belonged to him, practiced the map of a country where he owned nothing that mattered and guarded everything anyway.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis intercepted him near the boiled-cloth line with a tin of cardamom and an expression of conspiracy he was too kind to hide. \"For the kettle,\" Ellis whispered. \"In case the major's hands forget they learned something useful.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"My hands remember,\" Calder said. \"I'm choosing not to use them that way today.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis blinked, then nodded as if taxonomy had just acquired a moral dimension. \"Choosing is a kind of fieldwork.\" He retreated into leaf-shadow before Calder could decide whether to be grateful or embarrassed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder put the tin in the common stores where anyone could find it and where his fingerprints would not turn generosity into a claim. Then he went to count heads like a man rebuilding a religion out of logistics.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun asked, later, if saints got trench foot. Calder told him saints were a Directorate myth and trench foot was a choice. Harun grinned like a man collecting proof that the major still had a pulse under the virtue. Calder let him collect it. Proof, tonight, was allowed to be small.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He checked his blocker one more time before sleep, fingers sure on the patch edge, citrus and steel held honest. The rainforest dripped. Somewhere a lumen-moth — or something that wanted to be one — pulsed once in the canopy and went dark. Calder closed his eyes on the gold of Ivo's distant lamp and did not walk toward it. Empty hands. Full ribs. A stop that stayed a stop until morning made new orders. Harun's earlier grin lingered in memory like proof of pulse. Calder let proof be enough for one night.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0026",
+    "number": 26,
+    "title": "Chapter 26",
+    "arcId": "arc-1",
+    "volumeTitle": "Volume 1 — The Spare Son's Silence",
+    "summary": "",
+    "opening": {
+      "id": "ch-0026-opening",
+      "promptId": "ch-0026-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "Chapter 26",
+      "color": "#8b6b2e"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Ivo Maren spent the morning after the almost-kiss pretending his hands belonged only to science.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "It almost worked. Pigment did not care that Calder had stopped with their mouths close enough to share breath. The Vein did not care that the stop had shaken Ivo harder than a shove on an east stair. Jun's shoulder did not care that Ivo kept replaying the phrase <em>not while I wear this</em> like a specimen under different lights. Care was Ivo's problem. Care had always been Ivo's problem, disguised as competence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya noticed by the second hour. She always did.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're vibrating,\" she said, not looking up from a knot-rubbing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm working.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're working like a man who nearly got kissed by a problem and then got respected by it.\" She set the charcoal down. \"Do you want advice or silence.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Silence.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then take this instead of advice: if he says the word you're afraid of, you are allowed to refuse without becoming a villain in his story. Write that on your arm if you have to.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo did not write it on his arm. He wrote humidity numbers. The numbers were honest. Honesty elsewhere felt like a cliff.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder kept his distance through midday with a politeness so clean it made Nia watch him for fever. He brought no tea. He carried no stylus case unless asked. He did not linger in Ivo's peripheral vision. The absence was its own pressure — the shape of a man practicing emptiness after almost taking.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "After the Helix ridge, the camp had a brittle efficiency. Mateo bullied rest into Jun and dizziness checks into Sable. Rhee rebuilt a net segment with the focus of penance. Harun told quieter jokes. Ellis named nothing poetic within Sable's hearing and then named three things under his breath anyway. Hester and Anouk argued softer, as if volume might attract another drone. The rainforest steamed and dripped and continued being beautiful in a way that refused to console anyone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Late afternoon Calder asked — asked, not arranged — if Ivo would walk the cistern overlook with him for a perimeter check that did not need a scientist and both of them knew it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo went. Because refusing the walk would have been theater. Because the stop had put a question in his mouth he could not swallow. Because he was thirty-one years old and tired of pretending his pulse was only pharmacology.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The overlook was a broken lip of stone above black water that did not ripple unless you breathed wrong. The Vein's hum was louder here, tooth-deep, a reminder of eels and resonant metal and Pavel Ruiz saying don't ask it what it wants. Guns and radios remained cached. Calder stood with his hands visible and empty of tools. Rain misted. The canopy made the light underwater-green.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I should have asked if you wanted the walk for the walk,\" Calder said. \"Not dressed it as a check.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You should have,\" Ivo agreed. \"Say what you came to say.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder looked at the water, then at Ivo, then at the water again as if the water might offer a script. It offered only dark.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I love you,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "No scent push. No rank lean. No bargain dressed as destiny. The words landed plain as rain.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's body went still in the old way — specimen in a jar, door locking from the inside. He waited for the rest: the plea, the rewrite of the bullying into secret affection, the demand to be made clean. It did not come.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder continued, specific, careful, as if specificity were the only honesty left. \"Not as an apology that grew legs. Not as asset management. I love the way you pause before the true sentence. I love that you make tea correctly and lie about sleep. I love that you shouted at me in a falling gallery instead of staying composed for my comfort. I love that you called me Cal like a scalpel and that you laughed at a moth like a person who still has joy somewhere the jungle hasn't eaten. I am not asking you to say it back. I am not asking you to forgive me on a schedule. I am telling you because you deserve the true name of what is standing in your light, and because stopping last night without saying it felt like another kind of lie.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo heard his own breath. Heard frogs. Heard the hum. Heard, under everything, the boy in Harrowgate who had watched Calder be almost decent and then choose the hall.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I can't reciprocate,\" Ivo said. \"Not now.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder nodded once, as if he had expected the shape if not the heat. \"All right.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't <em>all right</em> me yet. Hear why.\" Ivo's voice stayed low. Fear quiet. Anger precise. Grief somewhere neither would name. \"I will not be the proof you turned out good. I am not a certificate. If your love needs me as evidence of your redemption, it is not love I can survive.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It doesn't—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Let me finish.\" Ivo's hands were fists at his sides. He unfist them. \"I am afraid the love is for the calm man — ORCHID, the locked door, the scientist who doesn't flinch in briefings — and not for the boy who was hurt. The boy is still in here. He does not evaporate because I publish as I. Maren. If you love only the composure, then the first time I am ugly and unfinished you will be confused, and I will pay for your confusion.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's jaw worked. He did not interrupt.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I cannot forgive on a schedule,\" Ivo said. \"Not for your comfort. Not for the team's temperature. Not because you stopped a kiss like a gentleman and stood in the rain like a protocol. Those things matter. They are not a timer.\" He swallowed. Rain found his mouth and tasted like stone. \"If I need you — and I am already too close to needing you — I will not survive being wrong about what you are. Needing you and being wrong would finish me harder than a gallery collapse. So I am saying no. I am refusing the word back. I am not your villain for refusing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "His throat hurt. He made the last sentence land anyway, exact:",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I can't reciprocate. Not now. Don't make me the villain of your restraint.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Silence. The Vein hummed. Somewhere far below, water licked stone. Calder's face did the open thing and then closed it into something quieter than charm, quieter than pain performed for an audience.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I won't,\" Calder said. \"You are not the villain of my restraint. Restraint is my job. Your no is information, not an insult. I hear you. I agree. I will not argue you into a softer sentence.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo waited for the argument anyway. Old habit. The boy who corrected answers in class had learned that proud people circled back for a win. Calder did not circle. He stood on the overlook with rain on the scar along his jaw and his hands empty and his love — said, specific, undemanding — sitting between them like a live round neither of them would chamber.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Thank you for not arguing,\" Ivo said, and hated that gratitude was in his mouth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't thank me for basic adulthood.\" Calder's mouth twitched. \"I'll still run the team. I'll still keep you alive if the jungle allows it. I will not punish you with coldness or with pointed kindness. If I fail that, Nia will shoot me in the boot.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"She would.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"She would enjoy it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A breath that might have been almost-laughter moved through Ivo and died. He looked at Calder — tall, careful, the boy and the major occupying one body — and felt the wanting he had refused to baptize rise like nausea and like hunger.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Go,\" Ivo said. \"Before I invent a cruelty to make this easier.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder went. He did not touch Ivo. He did not look back from the path until the fig-gap took him, and then he looked once — not pleading — and disappeared into green shadow.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo sat on the wet stone and shook.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not sobbing. Shaking, as if cold had found a new route into his bones. He pressed his palms to his eyes and saw moth wings under water, an east stair, three library afternoons, a jacket's weave, a cup of correct tea, a muzzle that hadn't fired on Jun, a mouth that had almost touched his and stopped because he had not asked. He had said no to love and meant it and also wanted, viciously, to unsay it for the relief of being held. Both could be true. Truth was often a spoiled sample.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya found him without being called. She always did.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You look like a glossary that lost a fight,\" she said, sitting beside him without touching.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He said he loved me. Specific. No bargain.\" Ivo dropped his hands. \"I refused. I told him I won't be his proof. I told him I'm afraid he loves the calm and not the hurt boy. I told him I can't forgive on a schedule. I told him if I need him I won't survive being wrong. I told him not to make me the villain of his restraint. He agreed. He didn't argue.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya was quiet. Rain misted her hair into curls she never acknowledged. \"Do you want me to say you did the right thing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I want you to say something true.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"True: you protected yourself. Also true: protection can become a room you starve in. Also true: he heard you, which is rarer than love speeches. Also true: you are allowed to be miserable about a correct decision.\" She nudged the private glossary against his knee. \"I'm not going to tell you to reverse it. I'm going to tell you to eat, because Mateo will, and because despair makes bad translations.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo took the glossary like a handhold. \"If he goes cold—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then you get the thing you asked for and you hate it, and we deal with that weather when it arrives.\" Priya stood. \"Come on. The pigment doesn't know you just broke a major's heart with accuracy.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I didn't break—\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You did. Cleanly. He'll live. So will you. Living is the part that feels rude right now.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They walked back through steam and leaf-drip. Camp lights were coming up in tins. Calder was at the command tarp with Nia, posture correct, face unpublished. He glanced once at Ivo across the wet space and nodded as if they had discussed humidity. Then he turned back to the map.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's chest ached with the correctness of it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Evening rations tasted like wet cardboard and aftermath. Harun tried a joke and aborted it when Jun squeezed his wrist. Ellis offered cardamom; Ivo took it and made tea himself, wrong on purpose again, then corrected it halfway because self-sabotage was still attention paid to Calder's lessons. Jonah asked if he needed a sleep aid; Ivo declined. Sleep aids did not fix the problem of a man having said <em>I love you</em> without asking for the word back.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "After dark Ivo lay on his cot and stared at tarp seams. The Vein hummed. The ghost spoke. <em>Don't ask it.</em> Ivo asked himself anyway, silently, what he wanted, and the answer came too fast: Calder's mouth, Calder's careful hands, Calder's ridiculous face when a laugh landed in his ribs, Calder not being a debt and not being a villain and not being the boy on the stair and still being, somehow, all of those and more.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Not now,\" Ivo whispered to the dark, repeating his own verdict so it would harden.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The dark did not argue. Calder, somewhere on watch, did not come to his light. The absence was what Ivo had ordered. It felt like a gallery floor giving way in slow motion — not a collapse, a long tilt toward a drop he had chosen.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He slept eventually, poorly, and dreamed of a library afternoon where Calder asked a real question and then, instead of mocking him in the hall, walked him to the gate in silence. He woke furious at the dream for being soft. Softness was how ledgers got rewritten into romance. He refused the rewrite. He lay awake until dawn with the refusal in his mouth like iron, and when green light finally leaked through the canopy he rose, washed his face, checked his patch, and prepared to survive a day in which love had been named and answered with no — and the no had been respected, which was the most dangerous mercy of all.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Midday was a sequence of tasks that pretended not to be aftermath. Ivo documented a flake Anouk swore was calendrical and Hester swore was liturgical; he wrote both hypotheses down and believed neither until the stone offered a third. He checked Jun's color because Mateo asked for a second pair of eyes, not because he needed to be near pain to avoid thinking about love. Jun looked at him too steadily.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You look like somebody shot you somewhere invisible,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Occupational hazard.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If the major needs shooting, wait until I can use both arms. Fairness.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo almost smiled and then did not. \"Nobody needs shooting.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Everybody needs something,\" Jun said, and closed her eyes on the conversation like a door.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the afternoon the Vein hummed louder for a stretch that made teeth ache and radios — cached — feel like a correct superstition. Ellis reported insects flying wrong circles. Sable reported no Helix on the near loops and did not sound comforted. Calder received the reports, nodded, assigned adjustments, and did not look at Ivo longer than logistics required. The camp cooled by degrees. Not hostility. Something more precise: a commander removing the extra warmth he had been radiating without permission.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo told himself this was what he wanted. The sentence sat true and incomplete, like a translation missing its second hand.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When evening came he helped Priya pack rubbings and caught himself waiting — stupidly, bodily — for Calder to appear with a cup. No cup came. The absence was courteous. Courtesy was a blade when you had asked for it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're waiting,\" Priya said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm packing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're packing while waiting. Don't insult my eyes.\" She tied a knot in oilcloth. \"You refused him. He is obeying. If obedience feels like punishment, that feeling is yours to interrogate, not his to fix on a schedule.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo packed harder. Oilcloth wrinkled. He smoothed it. \"I know.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Knowing isn't the same as not hurting.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm aware of the literature.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya's mouth tilted. \"Then read less and sleep more. Tomorrow the city will still try to finish us, and unfinished people need rest.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before the camp fully woke he walked to the cistern overlook alone and stood where the confession had happened. The water was still black. The hum was still a tooth-ache. He said, quietly, to the dark surface, \"Not now,\" as if the city needed the record. The city did not answer. Cities that finished patterns were not owed explanations.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the path back he met Calder coming the other way — early watch ending, eyes tired, hands empty. They stopped. The Vein hummed between them like a third person.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Doctor,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Major.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A beat. Rain mist. Calder stepped aside first, giving the path, giving the morning, giving the no room to remain a no. Ivo walked past without flinching and hated how much the courtesy hurt. Behind him he heard Calder's boots resume their circuit, steady, unpunishing, a wall returning to wall-work.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya was waiting with tea made correctly. She did not ask how the night had gone. She said, \"Eat,\" and put a protein bar in his hand like a linguist conjugating survival. Ivo ate. The day began. Love sat in the camp like a cached rifle — present, dangerous if mishandled, and for now, by his own order, out of his hands.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah found him at the salt-line after Priya left and did not ask about love. He asked about sleep architecture and suppressant timing and whether Ivo's hands were doing the fine-tremor that meant he was spending adrenaline on thoughts. Ivo lied once, then corrected the lie, because Jonah's face was a laboratory that punished fiction.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I refused him,\" Ivo said. \"He accepted it. I am not fine. I am functional.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Functional is a starting dose,\" Jonah said. \"Take water. Take food. Take the night without inventing a new protocol where misery equals safety. Misery is just misery. It doesn't inoculate you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo drank the water. It tasted like rain and stone and the fact of being believed without being repaired. Across camp Calder's lamp made a square of gold that did not approach. Ivo watched it until watching became a choice he could name, then turned his back on purpose, practicing the no with his spine as well as his mouth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sleep, when it came, was thin. He woke to rain and to the knowledge that Calder would be polite at breakfast and that politeness would feel like a verdict Ivo had written himself. He accepted the verdict the way he accepted assays: as data that hurt and still counted. Then he rose, tied his boots, and went to make tea wrong and correct it halfway — a private ritual for a man who had refused love and could not refuse the fact of having been offered it cleanly. Outside, the camp's lamps were few. Calder's was one of them. Ivo did not walk toward it. The no remained standing. So did the wanting. He carried both into the green morning like twin samples that refused to neutralize.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya met him at the kettle with a look that inventoried the night. \"Functional?\" she asked. \"Starting dose,\" Ivo said, and she accepted the citation without demanding the paper.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The Vein hummed agreement or indifference; Ivo no longer tried to tell the difference. He carried his slate into the green and began the day already tired of being brave about wanting.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0027",
+    "number": 27,
+    "title": "Chapter 27",
+    "arcId": "arc-1",
+    "volumeTitle": "Volume 1 — The Spare Son's Silence",
+    "summary": "",
+    "opening": {
+      "id": "ch-0027-opening",
+      "promptId": "ch-0027-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "Chapter 27",
+      "color": "#8b6b2e"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Nia Okonkwo could diagnose a camp by its jokes.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Healthy camps wasted breath on stupidity. Frightened camps went quiet in clumps. Guilty camps laughed too loud at the wrong times. The morning after whatever had happened between Calder and Doctor Maren — and Nia did not need the novel to know a novel had occurred — the camp sounded like a filing office that had misplaced its sense of humor on purpose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder ran the brief like a man who had put his heart in a locked case and swallowed the key for safekeeping. Pleasant. Precise. No jokes. No extra closeness. No punishment either — Nia watched for punishment the way she watched for soft ground. He assigned Ivo's team routes without frosting the words. He asked after Jun's shoulder in Mateo's language. He thanked Rhee for a net tweak without making gratitude into absolution theater. He stood three meters from Ivo at all times as if three meters had been surveyed by God.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stood inside those three meters like a man who had ordered a winter and was surprised that snow was cold.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Helix will probe again within forty-eight,\" Calder said over the map. \"We tighten the inner cordon. Science stays under stone lip unless Sable clears a walk. Doctor Maren — your call on which glyph work is worth a rooftop. I will not overrule a data need without a death need. Speak early if the two conflict.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Understood,\" Ivo said. Exact. Flat. No Cal. No scalpel. Just a professional vowel.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia filed the temperature. She had told Calder not to renovate the doctor. She had not told him to vacuum-seal himself into a polite machine. The difference was becoming the day's weather.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "After the brief she caught his elbow hard enough to mean it. \"Major. Walk.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They walked the salt-line. Rain made the boiled cloth hang like surrendered flags. The Vein hummed in Nia's teeth; she ignored it with the practice of a beta who refused to let anomalous geology become a personality.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Report the personal version,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He said no.\" Calder's voice was level. \"I said I loved him. Specific. No demand. He refused for true reasons. I agreed. I am not arguing. I am not punishing. I am running the team.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You're running the team like a funeral that learned manners.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Would you prefer I perform cheer.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I would prefer you not suck the oxygen out of my perimeter because your feelings went into a box.\" Nia stopped him with a look. \"Cold is still a weather system people have to live in. If the science gets cleaner because nobody is distracted, good. If the camp gets colder because you're auditioning for statue, I will make you do jokes on a schedule like physical therapy.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder almost smiled. The almost died correctly — too correctly. \"Give me the day. If I'm still a statue at dusk, you can shoot me with humor.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll shoot you with a roster. Same effect.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She let him go. Watched him go. The height that usually filled doorways now filled them without warmth, a wall that had forgotten walls could also be windbreaks people stood near for comfort.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The morning's work proceeded with unpleasant excellence. Anouk and Hester argued at half volume and produced two useful contradictions about a mural panel. Ellis catalogued insects without naming them after emotions. Sable walked her dizzy line straighter. Jun sat upright and dry-fired left-handed-braced with a face that promised the ridge a rematch. Harun hovered until Nia ordered him to the cache, because hovering was love and love was not a sightline. Rhee's set murmured. The ghost kept its faith. <em>Don't ask it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah posted suppressant checks. Mateo bullied calories. Priya and Ivo bent over a slate under a tarp lip, heads close in the way of colleagues, not lovers — Nia had last week's jealousy misfile still in her notes as a closed error. Calder did not look at them longer than logistics. His not-looking was loud.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia took a circuit with Harun and used the sergeant as a thermometer.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"He's weird,\" Harun said, grateful for permission. \"Not mean weird. Priest weird. Jun says priests make her itchy. I say the major makes the camp itchy.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Itchy how.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Like somebody opened a window in winter and called it air quality.\" Harun shifted his weapon. \"Doctor looks like he won an argument and lost a kidney. You want me to invent a task that puts them in the same square meter.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"No,\" Nia said. \"I want you to invent tasks that keep everyone alive. Matchmaking is above your rank and beneath mine.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun grinned despite himself. \"Copy. Alive first. Romance never. Got it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "By noon the science was, in fact, cleaner. Samples labeled. Rubbings dried. A glyph sequence photographed under three light angles without anyone wandering into a soft span. Nia should have been pleased. She was pleased in the part of her that had lost an asset to confidence. She was displeased in the part of her that knew camps were human machines and human machines seized when lubrication froze.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She found Ivo at the pigment ledge during the rain's midday thickening. Priya was three meters off arguing softly with Anouk. Calder was forty meters off reviewing a sketch with Sable. The geometry was a diagram of avoidance.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Captain,\" Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Doctor. Your work product today is excellent. Your face is a hazard briefing. If you need a private medical, Jonah's flap closes. If you need a private linguistic, Priya already knows. If you need me to move the major farther away, say so. If you need me to move him closer, also say so, and then explain yourself to yourself.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's pencil stopped. \"I asked for this.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I know.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then why does it feel like the gallery floor.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Because you asked for winter in a place that was accidentally becoming spring, and winter arrived on time.\" Nia kept her voice practical. \"I am not your counselor. I am the person who keeps this expedition from dying of subtext. Subtext is high today. Lower it or weaponize it into work. Those are the options.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo nodded once. Nia left him the rain.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Afternoon brought a false Helix scare — a branch-fall that Sable almost shot and then cursed for being a branch. Calder's response was clean: hold fire, confirm, stand down, no speeches. The team exhaled. The cold returned. Nia watched Ivo watch Calder's back during the stand-down and saw the waiting in it — not pursuit, not apology-hunger, something worse: the animal expectation that the person you refused would still cross the camp and make refusing hurt less by being near.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya saw it too. Nia knew because Priya's face did the glossary thing: translating a living sentence she wished were stone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near dusk Nia posted watches and forced Calder to eat in the circle instead of performing solitary competence on a crate. He ate. He asked Jun a logistical question about left-handed reload timing. He thanked Ellis for a humidity note. He did not joke. Harun looked at Nia like a man waiting for the humor-physical-therapy to begin. Nia shook her head a fraction: not yet. One day of statue was data. Two would be a problem. Three would be a leadership injury.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "After full dark she walked past the science ledge and heard — without pretending not to — Priya and Ivo under the tarp.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"This is what I wanted,\" Ivo said. Quiet. Tired. Accurate.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya's answer came without mercy and without delay: \"Then why are you waiting for him to come over here?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Silence. Rain. The Vein's hum. A moth beating soft against a lamp tin. Nia did not need to see Ivo's face to know the hit had landed clean. She kept walking, because captains who eavesdropped for safety still owed people the dignity of not becoming an audience.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the command tarp Calder sat with a map and eyes that were doing inventory on nothing. Nia sat opposite him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"She asked him why he's waiting for you,\" Nia said. \"I'm telling you because you will not use it as permission to go to him tonight. You will use it as patience. He refused you. You agreed. Waiting is his weather. Crossing into it unasked is how you become the boy in the hall again.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder flinched — small, real. \"I wasn't going to.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good. Say it harder.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I wasn't going to.\" He looked at the map. \"The camp is colder. I can feel it. I'm trying not to make cold into a punishment. If I am, tell me the correction.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The correction is one ordinary human sentence at breakfast that isn't about love or guilt. Ask him if the pigment needs a dryer tarp. Ask Ellis a stupid moth question. Let the machine remember it has grease.\" Nia stood. \"You locked the case. Fine. Don't lock the whole room.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, Captain.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She left him with the map and took the early watch herself because she slept badly when camps froze. The rainforest breathed its oppressive beauty around the ruin — steam, frog-song, wet leaf-shine under lamp gold. Fear in the company had gone quiet and become competence; competence without warmth was a knife that cut the hand that held it. Nia preferred knives with grips.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She checked Jun: sleeping, Harun a noisy shadow made careful. She checked Sable: awake, Ellis nearby with a slate, their argument soft enough to be courtship in a dialect Nia respected. She checked Rhee: net green, eyes less guilty than yesterday. She checked the science ledge from a distance: Priya's lamp still on, Ivo's profile bent over work or the performance of work. Calder's lamp on the command tarp remained a square that did not migrate.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Good, Nia thought. Painful. Correct for tonight.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the turn she woke Harun for relief and found Calder still upright.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Sleep,\" she ordered.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I will.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That was not a prediction. That was an order.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder lay down on the cot like a man obeying fire code. Nia waited until his breathing slowed. Then she stood in the gallery mouth where Act III had begun with a name and watched the dark assemble itself between the trees.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Volume weather, she thought, unamused at herself for thinking in acts. What he carries. The major carried love without spending it like a weapon. The doctor carried a no that was true and a waiting that betrayed him. The team carried a colder camp and cleaner science and a Helix captain on a ridge who had chosen knowledge over a corpse. Nia carried the roster, the perimeter, the refusal to let subtext dig graves.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She touched the salt-line with her boot, felt grit, felt rain, felt the Vein hum through stone into bone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Hold,\" she told the dark, which was not a prayer so much as a caption.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Behind her the ghost spoke on schedule, faithful, late, unfinished.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>Don't ask it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia Okonkwo, who asked only the questions that kept people breathing, turned back into the camp's fragile gold and began counting heads again — not because she had lost one, but because counting was how she loved a room without needing the room to love her back. Tomorrow she would force one ordinary sentence into Calder's mouth and watch Ivo flinch toward it or away. Tonight she let the cold stand, named, guarded, and temporary if she had anything to say about seasons.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Breakfast tested the ordinary-sentence order. Nia watched Calder over a tin of wet grain and waited. He chewed. He looked at the map. He looked at Ivo's hands — not his face — and said, \"Doctor Maren, does the pigment need a dryer tarp on the upper ledge, or will the lip keep it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo blinked as if the sentence were a moth landing without papers. \"The lip will keep it until noon. After that, a dryer tarp.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll have Rhee rig one,\" Calder said, and returned to his grain.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was nothing. It was grease. The camp exhaled a fraction. Harun mouthed <em>thank you</em> at Nia like a man watching physical therapy work. Ivo's ears went pink. He ate. Priya watched both men with the expression of a translator who had just seen a cognate and refused to celebrate early.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Midday brought real Helix sign — not contact, a scout scrape on bark Sable found and photographed and hated. Calder tightened loops without raising his voice. Ivo deferred a rooftop glyph without being asked, which Nia logged as either growth or fear; she would decide later. The cold did not vanish. It thawed at the edges where logistics forced speech.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the afternoon Nia sat Jun through a left-handed drill and used the corporal as a second thermometer.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Camp feels like a museum,\" Jun said. \"Everything labeled. Nobody touching.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Museums keep things alive by not loving them to death,\" Nia said. \"Temporary exhibit.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If the major stays a label, the doctor will invent a fire to make him move.\" Jun's mouth twitched. \"Don't tell them I said that. I charge for prophecy.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Your rates are noted.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near evening Priya found Nia at the salt-line without preamble. \"I'm not asking you to fix them.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good. I'm not a carpenter.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm telling you the waiting is going to become a safety problem if it lasts into the next contact. He refused. He meant it. He also keeps tracking Calder's lamp like a man checking a door he locked from the inside.\" Priya's voice stayed dry. \"I asked him why. He didn't answer. Answers will arrive as mistakes if we don't leave room for slower ones.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll leave room,\" Nia said. \"I won't build them a hallway.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya nodded once, colleague to captain, and returned to stone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the second dusk of the cold, Nia forced Calder into the meal circle again and made Harun tell a story too large for the ledge. The story failed halfway into truth and became quieter; Jun finished it with a look. Calder laughed once — small, real, not charm theater — and the sound was grease enough for Nia to stand down the humor-physical-therapy for another night.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She walked the gallery mouth afterward and thought of all that was being carried: love unnamed in action, a no that was honest, cleaner science, colder air, Helix hunger, a withheld shot, a paid delay, tea, twill, Cal, a stopped kiss, a debt refused. Nia carried the roster. She would keep carrying it until the weather changed or the city finished trying to finish them.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She touched the wet stone, counted to seven for luck she did not believe in, and went to wake the next watch with a hand on a shoulder that did not flinch — Harun, loud even in waking, human grease in a machine that had frozen and begun, slightly, to move again. Act III could end on a wall. Walls, Nia knew, were also places people leaned when they were not ready to walk through.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before true night on that second cold day, Nia did one more inventory aloud to herself at the cache, because saying it made it operational:",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun alive, shoulder sealed. Sable dizzy less often. Rhee honest on the net. Harun loud on purpose. Mateo and Anouk quarreling kindly. Ellis naming things under his breath. Hester refusing to be mystical while being mystical. Jonah rewriting protocols like scripture. Priya guarding glosses. Ivo working like a man building a wall out of paper. Calder polite as a locked case.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Hold,\" Nia said again, to grit and rain and the hum in her teeth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She returned to the command tarp and found Calder still awake despite orders. She did not scold. She sat. They listened to the ghost together once — <em>Don't ask it</em> — and then she said, \"Tomorrow you ask him about the dryer tarp again if you have to. Ordinary. Repeatable. Until the cold learns it isn't the only season.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes, Captain.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"And Calder — you did not punish him. That's the part I'm grading. Keep grading yourself on that, not on whether he looks at your lamp.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He nodded. Sleep finally took him sitting up. Nia eased him sideways onto the cot like a woman packing fragile cargo, checked the perimeter one last time, and let Act III end on a wall that was still, for now, doing its job: holding, not crushing; present, not pleading; cold, and beginning — just beginning — to remember grease.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Far out in the trees, something large moved and thought better of the camp's salt and noise. Nia marked the sound without raising an alarm. Not Helix. Not yet. The Reach had its own patrols. She preferred animals to corporations; animals, at least, did not want the Marrow Bell for drought speeches.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She finished the circuit at Ivo's ledge from a courteous distance. His lamp was still on. Priya's was not. The doctor wrote with a focus that looked like flight. Nia did not interrupt. She had already overheard the only sentence that mattered for the volume's last page — <em>Then why are you waiting for him to come over here?</em> — and she intended to let that question do its work without a captain's boots in the answer.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When she finally lay down, boots off for once, she dreamed of rosters that sorted themselves into warmer columns. She woke to rain and the Vein and Calder already upright, already polite, already trying. Nia put her boots on and went to make the trying useful. The wall still stood. The camp still breathed. Volume 3 could end there: not healed, not hopeless, carrying what it carried into whatever question the city asked next.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She poured herself the lie that claimed to be coffee, tasted rain and duty, and went to give the machine its grease for another day.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Act III closed on that taste: bitter, necessary, unfinished — and still, somehow, a kind of care.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia drank and went to work before the jungle could invent a better ending.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0028",
+    "number": 28,
+    "title": "He Doesn't Ask",
+    "arcId": "arc-4",
+    "volumeTitle": "Volume 4 — Three Days",
+    "epigraph": "A perimeter held too tightly becomes a cage you built yourself and then forgot how to unlock.",
+    "epigraphAttribution": "— Dr. I. Maren, field notebook margin, later crossed out",
+    "summary": "Calder keeps the silence Ivo asked for. The work gets cleaner. Ivo finds a mural of Wardens who gardened danger, and nearly breaks the quiet he demanded.",
+    "opening": {
+      "id": "hc-ch-0028-opening",
+      "promptId": "hc-ch-0028-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Gardener Wall",
+      "caption": "Paint that remembers hands, not ranks",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Ivo Maren had gotten exactly what he asked for, which was a kind of competence he had never trusted in himself, and it was making him stupid in small, daily ways.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The morning rain came in sheets that sounded like someone sorting gravel on a roof that did not exist. Qalen-Sar held the weather the way a bowl held a bruise — contained, darkening at the edges, nothing dramatic enough to excuse a change of plan. Calder Rhys stood at the north ledge with Nia and a map that had acquired more pencil than paper deserved, and he did not look over when Ivo passed within three meters of his shoulder.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Three meters. Ivo counted them without meaning to. He had always counted distances. Distance was data. Distance used to be a joke Calder made with his body — a step closer when Ivo insulted him, a step between Ivo and a drop, a step that said <em>I am here and you will have to notice</em>. Now the major’s attention stayed on the ridge line as if Ivo were weather that had already been forecast.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Perimeter holds until 0900,” Calder said. His voice was pleasant in the way a clean instrument was pleasant. “Rhee, I want the ghost logged, not chased. Dr. Maren, you have the west gallery with Priya and Hester. Jun stays elevated. Harun, you do not invent a reason to climb after her.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I invent reasons for living,” Harun said. “Climbing is incidental.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun, shoulder wrapped and rifle braced left-handed against a fig root that had learned to be a rest, did not look up. “If you invent a reason that involves my range of motion, I will invent a reason to shoot your boot.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Romantic,” Harun said, softer.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s mouth did not do the thing it had done for weeks when the team’s noise was the right kind of noise. He checked his watch. He nodded once, as if romance were a variable he had already accounted for and set aside. “Mateo, suppressant confirmations before anyone goes below the waterline. Ellis, if the moths start mapping a new node, you tell me before you follow them into a hole. Sable, you have the ridge with Ellis. If you see Helix glass, you do not engage for curiosity.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I do not engage for curiosity,” Sable said. “I engage for insult.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then do not be insulted until I say so.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was all correct. It was all the work. Ivo stood with his case against his hip and waited for the old, irritating addendum — <em>and you eat before you go, doctor, your hands are doing the chemist thing</em> — and it did not come. Calder’s gaze slid across him the way a professional’s gaze slides across equipment: present, noted, not cherished. Then it moved on to Rhee’s radio set, and stayed there.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo tasted iron that was not blood. He had asked for this. He had said the sentences out loud in a tent that still smelled like wet canvas and the end of something. <em>I can’t reciprocate. Not now. Don’t make me the villain of your restraint.</em> Calder had agreed without arguing, which was the worst possible mercy, and then he had become a wall that did not lean.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya found him on the gallery steps before he could invent a reason to invent a reason.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You look like a man who won an argument with a ghost and is now lonely for the ghost,” she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I look like a man who slept four hours.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You always look like that. This is different.” She handed him a cup. Oversteeped. Cardamom. Ellis’s quiet generosity again. “He asked Nia for a logistics brief at 0530 and did not ask whether you had tea. Nia noticed. Nia noticing is weather.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I asked him not to—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I know what you asked.” Priya’s voice stayed mild. Mild was her knife. “I also know you are standing here waiting for him to come over and break his own word so you can be angry at him for it. That is a terrible experiment design.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo drank. The cardamom clicked against his teeth. “I am not waiting.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then why are you facing the ledge instead of the mural corridor?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He turned, because she was right and because arguing with Priya about orientation was a loss even when you were technically facing the correct wall. The west gallery opened like a throat that had learned patience. Water beaded on the carved jambs. Somewhere deeper, the Vein hummed in the bone of the stairs — not loud, not asking, just present the way a second heartbeat was present when you remembered you had one.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Work,” he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Work,” Priya agreed, and did not believe him, and walked beside him anyway.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester Lang was already in the corridor with a lamp she had been told not to use and was therefore using at half power, which she considered compliance. She smelled of clove and paper under the blocker patch that never quite won. At fifty-eight she had the posture of a woman who had outlived several academic fashions and intended to outlive this jungle on spite and footnotes.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You are late,” she said, without heat. “The wall has been waiting longer than either of us. Come look before Anouk arrives and turns it into a laboratory notebook with better lighting.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The mural took the long wall of the gallery in panels that had once been color and were now the memory of color — greens gone to olive, reds to rust, a white that had yellowed into bone. Figures walked the length of it in repeating sets of three. Speaker with a mouth open toward rain. Keeper with a cord of stone in both hands. And the third—",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stopped.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He had seen Warden figures before, in rubbings and in the incomplete panels nearer the causeway: people with spears, people with nets, people standing between a city and a dark that had teeth. The Directorate briefings had liked those. Soldiers liked those. Calder’s callsign had landed on the word like a joke the universe told without asking permission, and Ivo had not found it funny, and then he had, which was worse.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "This panel did not show a soldier.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The Warden figure held a tray. On the tray, shapes that were not weapons — seed cases, a living coil that might have been an eel larva, a moth pinned not for cruelty but for teaching, a vial stoppered with something that still caught light after centuries of damp. The Warden’s other hand rested on a vine that climbed a cistern lip. The vine had thorns. The thorns were drawn with the care of someone who respected what thorns did. Behind the figure, a basin glowed the dull mineral glow that Ellis’s moths loved, and the Warden’s posture was not a ready stance. It was the posture of a gardener checking whether the dangerous thing was still where it belonged.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Oh,” Priya said, soft.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester’s lamp trembled once and steadied. “Pavel would have wept,” she said. “He kept saying the military metaphor was a translation failure. Look at the hands. Look at the tray. This is husbandry. This is containment as care.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stepped closer until the paint’s grain resolved into brushwork that had been confident and then corrected — a second hand, older or younger, adjusting the angle of the moth’s wing. Someone had argued on this wall. Someone had cared enough to argue about a moth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Not soldiers,” he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Not only soldiers,” Hester corrected, because historians hated purity. “But the primary duty is the biology. The spear panels are later, or ceremonial, or both. Anouk will fight me. I am looking forward to it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s throat did something unhelpful. He thought of Calder’s callsign spoken in a tent full of maps. <em>Warden.</em> The joke that had not been a joke. The way Calder stood between people and drops without making speeches about it. The way he had, for weeks, treated Ivo’s wandering as a problem worth complaining about because complaining was a form of keeping. And now Calder treated Ivo’s wandering as a logged itinerary, which was safer, and colder, and exactly what Ivo had demanded when he was afraid of being loved on a schedule.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He wanted, with a violence that embarrassed him, to walk back to the ledge and say: <em>Your callsign is more accurate than you know. They gardened the things that could kill them. They didn’t posture. They kept watch on living systems.</em> He wanted Calder to hear it and smile that stupid, pleased smile that meant the world had handed him a metaphor he could live inside. He wanted the smile the way a thirsty man wanted a cup he had already poured out on purpose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not move.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Document it,” he said instead. “Full spectrum. Shadow angles at this hour and again at noon if the crack allows. Priya — any knot-glyphs along the tray rim?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya was already there, fingers hovering, not touching yet. “Two. One is a measure-mark. One is—” She paused. Her pause was never decorative. “One is the ask-finish knot, small, set into the tray’s lip like a warning label. As if the garden itself was a question you were not supposed to complete carelessly.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Do not say that on the open net,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I am not a child,” Priya said. “And I am not Rhee trying to impress a sister.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester snorted. “Rhee is trying to impress her own conscience. Leave her alone. She is paying.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They worked. Work was the only honest architecture left in Ivo’s day. He photographed. He measured the tray’s painted proportions against the cistern geometry Anouk had logged two chambers back. He took a scraping from a pigment that still held mineral that should not have survived the damp, and labeled it with a hand that did not shake, because shaking was for later, in private, if he allowed later to exist.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk arrived mid-morning with Mateo’s voice still arguing somewhere behind her about hydration and the fact that archaeologists were not plants. She took one look at the mural and made a sound of pure professional delight that would have been undignified in a conference hall and was perfect here.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Gardeners,” she said. “I told you the spear panels were cosplay. Hester—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You told me the spear panels were late ideology,” Hester said. “Do not upgrade yourself retroactively.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I am upgrading the evidence.” Anouk’s camera clicked. “Mateo! Come see before you decide my pulse is more interesting than history.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Mateo appeared in the gallery mouth, kit on his shoulder, expression set to <em>I am surrounded by people who will die of curiosity and I have accepted this</em>. He looked at the mural. He looked at Ivo. He did not ask if Ivo had eaten. People were taking cues from the major now. Competence was contagious. So was absence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Nice plants,” Mateo said. “If any of them bite, call me before you name them.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They are paint,” Anouk said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Paint in this city has opinions.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He left. The gallery felt briefly emptier, which was ridiculous. Ivo had not needed Mateo’s fussing. He had needed — he refused to finish the sentence even in his own head.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "By midday the rain thinned to a mist that made the open courts look like they were remembering being underwater. The team rotated through the gallery in ones and twos. Ellis arrived with a lumen-moth in a jar he swore was temporary and ethical. The moth’s wings held stone dust in veins that matched, roughly, the glow behind the painted Warden’s basin. Ellis talked to it in a low voice about cartography and consent. Sable stood in the doorway and pretended she was only there for security and not because Ellis’s voice did something to the lines of her face.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder came once.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He came with Rhee and a tablet and the exact amount of attention required to confirm that the west gallery was not about to collapse into the cistern below. He listened to Anouk’s thirty-second summary. He listened to Hester’s correction of Anouk’s thirty-second summary. He looked at the mural long enough to understand it was not a threat vector, and then his eyes found Ivo.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Tactics. That was all it was. A check: asset present, asset upright, asset not wandering into a hole without a radio. The look lasted less than two seconds. There was no smile ready for an insult. There was no complaint about the fact that Ivo’s boots were too close to the painted vine, as if the paint might take offense and become real. There was professional sufficiency, and then Calder said, “Good. Keep the net clean. If Helix is listening for discovery noise, do not give them a choir,” and left.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s hands were very steady on his stylus. That was the problem. Steady hands meant the fear had gone quiet, and quiet fear was the kind that lived in the ribs and ate lunch for you.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya said, without looking up from a glyph, “You could still tell him about the gardeners.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“It is not mission-critical.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Neither is tea, and you used to let him bully you into it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“That was not bullying.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya’s mouth tightened. She knew the word’s real weight between them. She did not spend it lightly. “No,” she said. “It wasn’t. Which is why its absence is loud.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo almost told her then that he missed being annoyed. That annoyance had been a room with two people in it, and this silence was a room with one person performing safety for an audience of none. He almost said he was afraid that if he crossed the camp and spoke, Calder would accept it as permission to hope, and hope was a door Ivo had bricked shut with excellent reasons that still felt true and already felt like a mistake.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He said, “Document the second glyph before the light moves.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya documented the second glyph before the light moved.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Afternoon brought a message from Nia on the short set: Helix movement possible on the eastern spur, glass glint unconfirmed, no engagement. Calder’s reply, overheard because Rhee ran the nets loud enough for the gallery when she wanted everyone smart at once, was crisp and almost kind. “Copy. Hold. We do not donate blood to their schedule.” No joke. No edge aimed at anyone in particular. The man who got funnier when he was emotionally compromised had locked the comedy in a case and was running the team on the remaining tools.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo admired it. He hated admiring it. Admiration without access was a museum.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He went to the ledge at 1600 because his notes required a cross-check with the basin geometry visible from above, and because lying to himself about motive had become a full-time job. Calder was there with Jonah, reviewing suppressant logs. Jonah glanced at Ivo, offered a nod that meant <em>medical is watching you whether you like it or not</em>, and returned to the tablet. Calder did not ask if Ivo had eaten. Calder did not say, <em>You’re wandering again, doctor, the jungle is not a conference poster session.</em> Calder said, “West gallery secure?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Secure,” Ivo said. “We have a mural revision. Wardens as husbandry, not primarily martial. It reframes the triad’s risk model.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“File it.” Calder’s eyes were on the eastern spur. “If it changes how we move bodies through the courts, tell Nia. If it changes how we feel about my callsign, tell someone who is not on watch.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was almost a joke. Almost. The ghost of one. Then it died, politely, and Calder turned a page on the tablet as if pages still mattered more than the man standing beside him with a sentence burning a hole in his mouth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo swallowed the sentence. He had asked for this silence. He would not punish Calder for obeying it. That would be another kind of cruelty, and he had spent fourteen years refusing to become the sort of person who returned harm in prettier packaging.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Understood,” he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He went back down the gallery steps with his case and his hunger and the mural’s gardener-hands still bright behind his eyes. In the corridor, alone for ten stolen seconds, he stopped and pressed his forehead to cool stone and breathed like a man counting reagents.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They were gardeners,” he whispered to the paint he could not see from here. “He should know.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The stone did not answer. The Vein hummed, indifferent, completing nothing yet. From the ledge above, Calder’s voice carried once, giving an order about water and watch rotations, steady as rain, and Ivo — safe, correctly left alone, and miserable in a way that had no scientific name he was willing to publish — picked up his case and went back to the work, because the work was still true, and the silence was what he had ordered, and wanting the major to break his word was a desire Ivo would not dignify with a request.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Evening rations were distributed on the south ledge because the north one was wetter and Nia preferred her logistics dry. Ivo took a tin without being told. The food was adequate. He resented the adequacy. Across the space Calder sat with Harun and Jun, shoulders angled toward the dark, talking about angles of fire and the price of glass. When Harun made a joke large enough to bounce, Calder answered with a practical correction and nothing that invited laughter to stay. Jun caught Ivo looking and held his gaze for a second that was almost kindness, then returned to her rifle as if kindness were a resource she rationed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya sat beside Ivo with her own tin and the patience of a woman who had translated worse silences.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You could still walk over,” she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“And say what? That I miss being managed? That the mural made me sentimental about a callsign?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You could say you were afraid and you are still afraid and fear is not the same as absence of wanting.” She speared a piece of something that had once been vegetable. “Or you could say nothing and keep inventing reasons the data is incomplete. Both are available. Only one of them lets you sleep.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo watched Calder stand, stretch once, and move to check Rhee’s set without glancing at the science cluster. The major’s silhouette against the court lamps was competent and alone in the way commanders were alone when they had decided not to spend themselves. Ivo’s chest ached with a quiet that was not peace.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I asked for this,” he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Yes,” Priya said. “And you have it. The question is whether you intended to survive the having.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not answer. He finished the tin. He washed the spoon. He returned to his notes and wrote, in a hand that stayed steady, that the Warden panels of Gallery West indicated husbandry primacy, that the ask-finish knot on the tray lip functioned as a hazard label, and that further correlation with living Vein nodes was required before any doctrinal reframing. He did not write Calder’s name. He did not write that he had almost crossed twenty meters of wet stone to hand a lonely man a better metaphor for his work.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not today.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not while he could still pretend that safety without closeness was the same thing as survival.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0029",
+    "number": 29,
+    "title": "The Unfinished",
+    "arcId": "arc-4",
+    "volumeTitle": "Volume 4 — Three Days",
+    "epigraph": "If a voice knows your name without a mouth you can trust, do not answer until you know whether naming is hospitality or a net.",
+    "epigraphAttribution": "— Prof. Hester Lang, lecture notes, never delivered",
+    "summary": "Partial people speak from the wrong angle and know their names. Hester wants mercy by translation; Ivo wants data; Calder looks at Ivo only as tactics require.",
+    "opening": {
+      "id": "hc-ch-0029-opening",
+      "promptId": "hc-ch-0029-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Mirror Basin",
+      "caption": "Water holds the shadow weapons can touch",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Hester Lang had not come to the Reach to be frightened in ways that flattered her scholarship, but the Reach had never asked her preference.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The basin court sat two levels below Gallery West, a shallow stone bowl half-full of black water that held the morning like a closed eye. Fig roots had shouldered one parapet into a green ruin. The Vein hummed in the wet — not in the air, not as sound you could record cleanly, but in the long bones of the legs, a low insistence that made Hester think of Pavel Ruiz tapping a pencil against a desk when a translation refused to behave. Pavel was eleven years dead on paper and still broadcasting every nineteen minutes somewhere in Rhee’s net, which Hester refused to call closure.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Stay off the waterline until Ellis says the surface is only water,” Major Rhys said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He stood with his weight honest, rifle low, eyes moving in clean arcs. The politeness on him was new enough that Hester, who collected human weather the way she collected footnotes, had already filed it under <em>injury performed as professionalism</em>. He did not look at Dr. Maren except when tactics required a count of bodies. When he did look, it was brief, exact, and empty of the lean that had been there before the tent conversation Hester had not been invited to and had nevertheless smelled on the camp like clove on a sleeve.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stood on the step above the water with Priya and a lamp he was not using. His face was the calm Hester trusted and disliked — trusted because it meant he was thinking, disliked because it meant he was burying something that would eventually set a room on fire.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis crouched at the rim, speaking to the basin as if etiquette still mattered. “If you are only water, stay only water. If you are hosting, announce yourselves without eating us. We are very bad guests when startled.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable, behind him, muttered, “He talks to puddles.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He talks to systems,” Hester said. “You talk to threats. Try not to confuse the two until the puddle chooses.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia’s voice came from the stair above: “If the puddle chooses poorly, I want options that are not philosophy.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Fair. Hester had outlived enough rooms that preferred philosophy to exits. She kept her hand near the salt pouch Mateo had forced on everyone after the root-nun night, and she kept her eyes on the places the light did not quite reach.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The first wrongness was not visual.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was a voice speaking from the angle behind her left shoulder while her left shoulder faced open air and a wall with no niche large enough for a throat.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Hester Lang,” it said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Her name, complete, with the academic cadence of someone reading a conference badge. The consonants were almost right. The vowels sat half a step sideways, as if the mouth producing them had lost a dimension and was approximating from a better memory of speech.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester did not turn toward the empty air. She turned toward the water, because Pavel’s last useful letters — the ones the Directorate had filed under <em>unreliable</em> — had said that incomplete things cast complete shadows if you gave them a surface that could hold a second world.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the black water, a shadow knelt where no body knelt on the stone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It had the outline of a person who had once cared about posture. Knees together. Hands open on the thighs. Head tilted in the listening way the mural Keepers used. Where a face should have resolved, the shadow held a suggestion of features that slid if you stared, like print viewed through water. Around it, faint as breath on glass, other shadows stood in a loose ring — not crowding, waiting.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Do not shoot the empty air,” Ivo said, quiet, already measuring. “If you must strike, strike the shadow on the water.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s hand had already moved, then stopped, then moved again to signal hold. “Copy. Weapons on surface shadows only. Ellis — are they biological?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They’re unfinished,” Ellis said, and his voice had gone thin with wonder and dread in equal measure. “Former people. Partial. Look — the edges don’t agree with themselves.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya’s breath left her in a controlled thread. “Selenqari partials. The completed Concord — the ones the Marrow finished wrong. They’ve been in the literature as metaphor. I did not want them to be literal.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The voice came again, still from the angle Hester was not looking, which meant when she looked at the water it arrived from the parapet, and when she looked at the parapet it arrived from the stair.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Hester Lang,” it repeated. Then, patiently, as if reading a roll: “Ivo Maren. Calder Rhys.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s shoulders tightened once and released. Calder did not flinch. Hester, who had been called by name by ghosts in three languages across a career, still felt her stomach drop, because this was not haunting as theater. This was a system that had overheard introductions and was completing the pattern of being known.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They know us because the Vein repeats what enters it,” she said aloud, for the team and for her own nerves. “Names. Cadences. The way we present ourselves to each other. We have been feeding it etiquette.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun, on the upper step with Jun, whispered, “That’s rude.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“It’s hungry,” Jun said. “Rude is a luxury of the finished.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah had come down behind Nia with a med kit he clearly wished were unnecessary. “If they are former people, do they have physiology we can read? Heat? Respiration? Or are we arguing with a recording that learned manners?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Both,” Ellis said. He held a sensor out over the water and watched numbers refuse to settle. “There’s a thermal smear where the shadow is densest, then nothing, then a smear again, as if the body is visiting from a direction our instruments don’t have a column for. I hate this. I also need five more hours of it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You can have twenty minutes,” Calder said. “Then we reassess whether twenty minutes was arrogance.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk arrived on the stair with clay on her knees and an argument already loaded. “If these are Concord dead, they belong in the record as citizens, not as monsters for a briefing slide.” She saw the water. Her voice dropped. “Oh. They’re real.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They’re partial,” Hester said. “Do not put <em>dead</em> on them until they agree to the noun.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk’s camera stayed down, for once. “Can they consent to being photographed?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The sideways voice answered before anyone else could. “We can be witnessed. Witnessing is a kind of finishing. Be careful what you finish.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk did not raise the camera. Hester loved her for that more than for any paper they had ever coauthored.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester took one step closer to the rim. The salt pouch bumped her wrist. The kneeling shadow on the water did not retreat. Up close she could see that its edges frayed into hairline absences — not wounds, omissions. A person with a piece of personhood subtracted and the subtraction still trying to speak.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“What do you want?” she asked, and hated that the first question out of her mouth was the one the city treated as dangerous.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The answer arrived sideways.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Finish,” said the voice, and then, overlapping itself from another wrong angle, “Ask.” Same knot. Same mouth. The shadow’s hands opened wider on its painted thighs of dark. “We are… stopped mid-sentence. We would like the sentence to end.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo said, carefully, “Ending may mean rest. Ending may mean erasure. Which are you requesting?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Silence that was not silence — the Vein’s hum climbed half a tone in Hester’s shins.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Rest,” the voice said at last. “We were people. We remember enough to miss the rest of ourselves. Complete the question. Let us stop.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester’s eyes stung. She was too old for easy tears and too honest for none. Pavel had written, in a margin she had memorized like scripture, <em>If they are still trying to speak, do not call them monsters until you have tried to call them by name.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Priya,” Hester said. “Can you give them names? Real ones. Selenqari. Not our roll call.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya’s face did the thing it did when a beautiful responsibility landed on her. “If I name them incorrectly I may nail a wrong self to a wrong shadow. If I name them correctly I may give them enough personhood to suffer more clearly.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Suffering clearly is still better than being a smear,” Hester said. “I want to grant them that much.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo did not look at Hester when he answered. He looked at the water, at the incomplete edges, at the scientific shape of a moral disaster. “I want a baseline before mercy becomes a mistake we cannot reverse. If naming stabilizes them into something that can act — not only speak — we may be arming a grief we do not understand. Document first. Translate second. Complete nothing.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s voice cut cleanly across the disagreement without raising. “Both of you get what you can without feeding the basin a verb. Priya — if you have safe names, scraps, titles, use them. If you have the ask-finish knot in your mouth, keep it there. Dr. Maren — instruments, readings, whatever tells me whether these things can cross the waterline. Hester — you are not walking into the bowl to hug a shadow. That is an order dressed as respect for your age.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I dislike being managed,” Hester said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I dislike funerals,” Calder said. “We are negotiating.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He glanced at Ivo then — one second, tactical, counting whether the scientist was about to do something brave and stupid — and looked away before the glance could become anything else. Hester saw Ivo take the withdrawal like a quiet blow. The boy — no, the man; Hester refused to infantilize him even in pity — kept his face still. Only the scar through his eyebrow whitened as his measuring tilt held too long.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "That, Hester thought, guts him more than these ghosts. Interesting. Tragic. Not her circus until it became everyone’s.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya knelt at the rim with her notebook open and her voice low. She spoke Selenqari in the careful register of a woman placing porcelain on a wet ledge. A name — or the fragment of one — left her mouth and settled on the water. The kneeling shadow’s edges stuttered, then sharpened. For an instant Hester saw a face: older, kind, incomplete around one eye as if the eye had been finished into something else and never returned. The shadow’s hands rose, not in threat, in recognition.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Yes,” it said, from behind Hester’s right ear while she watched its mouth on the water not move. “That was… near. Near is a gift.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Another shadow edged forward on the surface. Priya tried a second name. This one landed wrong; the shadow flinched as if struck and thinned until Hester could see stone through it. Priya stopped, breath shaking, and wrote <em>incorrect assignment — do not repeat</em> with a hand that wanted to be steadier than it was.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Enough,” Ivo said, not unkind. “You gave one of them a scrap. That is data and mercy both. Do not spend the rest of your dictionary on hope.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Hope is not a spendable resource,” Hester said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Everything is,” Ivo said. “Including you.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis had gone very quiet. “Their shadows hold mass the bodies don’t. If we had to — if they turned — the water is the only place a blade or a round would matter.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable’s jaw set. “So we fight reflections. Wonderful. My father wanted me in diplomacy.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You are in diplomacy,” Calder said. “This is what it looks like when the other party is missing a dimension.” He set the watch with Nia’s clipped confirmation from above, posted Harun and Jun on the stair, put Rhee on a recording protocol that captured wrong-angle audio without looping it back into the net. He moved through the problem like a man who had put his heart in a locked case and still refused to let the lock make him careless with other people’s lives.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not look at Ivo longer than the next order required.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester watched Ivo watch that fact and decide, again, to survive it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They stayed through the turning of the light. The Unfinished did not attack. They asked, in overlapping wrong angles, for completion. They recited names they had overheard — Jonah Abebe, Anouk Solano, Mateo Solano, Rhee Amari — until Rhee cursed softly and muted her own earlier introductions from a buffer, too late and still correct to try. Hester spoke to the kneeling one when Priya rested, not in Selenqari she did not own, but in the plain speech of a historian who had loved a dead colleague and refused to call longing unscientific.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I knew a man who warned people not to ask,” she said to the water. “If you can hear patterns, hear that one. Rest may not be on the other side of a finished question. Rest may be on the other side of refusing to complete a hunger that has already eaten a city.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The shadow’s head tilted. “You sound like a Keeper.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I sound like a woman who has buried too many clever friends.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Cleverness finished us,” the voice said, almost gently. “We were very clever. We asked the Marrow to end dying. It ended us into this. We would like someone braver or more foolish to finish what we began so we can stop being the middle of the word.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s stylus scratched. “That is a confession and a threat in the same grammar.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Yes,” Hester said. “Welcome to religion.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder called the withdrawal when the Vein’s hum climbed again and the water began to show shadows that had no matching courtesy left in them — edges sharper, hands less open. “We leave gifts on the rim,” he said. “Salt. Light. No verbs. Priya, seal your naming notes under your own lock. Dr. Maren, I want your risk memo before dark. Non-negotiable.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’ll have it,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before they climbed, Mateo arrived with markers and the expression of a man told the problem was linguistic who had brought string anyway. “If anyone gets a headache that feels like a hymn, tell me. If anyone answers questions they did not hear asked, tell me louder.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun snorted. “Define louder.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Louder than your jokes,” Mateo said. “I know that’s a high bar.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun shifted her wounded shoulder and winced without permitting the wince to become a request. Harun saw it anyway. Their bond was not a spectacle; it was a practice. Hester thought of Pavel’s hand on a journal and of bonds that were only paper and still somehow binding.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "One Unfinished — thinner, near the cracked parapet — spoke Ivo’s name again, then Calder’s, then Hester’s with something like apology. “You will leave. Leaving is unfinished too. We understand leaving. We do not understand why you will not ask the last piece. The Marrow is patient. We are less so.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Patience is a discipline,” Hester said. “You can relearn it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Can we? We have been the middle of a word for longer than your maps admit years.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo closed his case. “Then we will not make you the end of a worse word. Not today.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder nodded once — asset acknowledged — and turned up the stair. He did not wait to see if Ivo followed. He did not complain when Ivo lingered thirty seconds longer at the rim, which he would have done a week ago with a joke about scientists marrying puddles. The absence of the joke was a clean hole in the air.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the climb, Rhee fell into step with Hester, headset half off. “I scrubbed my own voice saying names out of the buffer. Too late. Still. If the Vein is a gossip, I prefer it underfed.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Underfed gossips invent,” Hester said. “Do it anyway.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I am. Also — the major’s running hot-cold and it’s not command stress. Command stress makes him funny. This is the other kind.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I noticed,” Hester said. “I am fifty-eight, not ornamental.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee almost smiled, then didn’t. “Yes, ma’am.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester touched Ivo’s sleeve as they climbed. “You can want data and still look like a man stabbed by professionalism.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I asked for the professionalism.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I know,” Hester said. “That does not make the stab fictional.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the top of the stair, rain found them again, ordinary and insulting in its ordinariness. Behind them the basin kept its shadows. Ahead of them the camp did its competent work. Calder was already with Nia, redrawing a watch that included a water-surface kill rule nobody should ever have needed to write.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia caught Hester’s eye. “Any chance they follow us up?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Everything follows eventually,” Hester said. “Today they asked. Asking is not climbing. Keep the distinction while we still have it. And if Cho’s people hear even a rumor of a population that wants the Bell rung for mercy, they will call slaughter a kindness. We do not hand them that story.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“We won’t,” Nia said. “Write your notes. Sleep if the city lets you.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She took out her notebook and wrote, because writing was how she remained a person when the world preferred her to become a cautionary tale: <em>They know our names. They want the question finished so they can rest. I want to name them back into personhood. Ivo wants proof mercy is not a fuse. Calder will keep us alive and will not look at the doctor as if looking were still allowed. Pavel, if you can hear your own warning in the net, stay with us. We are trying not to ask it. We are trying to remain unfinished on purpose.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She closed the book. The Vein hummed in her knees. Somewhere below, a voice from an angle that did not exist said her name one more time, almost fondly, like a registrar who hated to file a person under <em>incomplete</em> and had not yet been given a better drawer.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0030",
+    "number": 30,
+    "title": "The Empty Side",
+    "arcId": "arc-4",
+    "volumeTitle": "Volume 4 — Three Days",
+    "epigraph": "The opposite of a confession is not silence. It is a silence you requested and then cannot forgive for arriving on time.",
+    "epigraphAttribution": "— Dr. I. Maren, unsent note, destroyed",
+    "summary": "Ivo admits he misses being annoyed with love in it. Ellis and Sable share a careful first kiss. He almost crosses the camp; Helix’s flare answers instead.",
+    "opening": {
+      "id": "hc-ch-0030-opening",
+      "promptId": "hc-ch-0030-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Ridge Watch",
+      "caption": "Two silhouettes learn a smaller bravery",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Ivo admitted it to himself on the third morning after the basin, which was not bravery so much as the failure of every other filing system he owned.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "He missed being annoyed with love in it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not love spoken. Not love demanded. The ordinary friction: Calder complaining that Ivo’s boots were pointed at a hole again; Calder asking whether he had eaten as if appetite were a mutual defense treaty; Calder smiling when Ivo insulted him, that quick, stupid brightness that meant the insult had been received as contact. Annoyance had been a room with two people in it. This silence was a correctly locked door, and Ivo had handed over the key, and he was standing in the hallway resenting the wood for doing its job.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He ate breakfast without being told. Rice, something green, a protein bar that tasted like negotiation. He resented the food for going down. He resented his own hands for being competent at the spoon. Across the court Calder briefed Sable and Ellis on ridge angles and did not glance over to see whether ORCHID was performing the basic animal maintenance of remaining alive. Nia noticed Ivo noticing. Nia’s noticing had weight. She said nothing, which was either mercy or strategy, and Ivo could not tell which he preferred.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya sat on the step below him with tea and the expression of a woman who had already won an argument she had not yet started.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re chewing like the rice insulted you,” she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The rice is innocent.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then stop prosecuting it.” She sipped. “Have you slept?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Enough.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“That is not a unit.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo set the tin down. Rain misted the far parapets. Somewhere below, the Unfinished were still a problem written in water, and Helix was still a problem written in glass and intention, and neither problem required him to invent a new category of misery for a man who had said <em>I love you</em> and then obeyed <em>don’t</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I miss the complaining,” he said, very quietly, to the tin, to Priya, to no one who could make him take it back. “I miss being managed by someone who thought management was affection and was, inconveniently, correct about the affection part.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya did not say <em>I told you so</em>. She was better than that, and crueler in the ways that mattered. “Then you are waiting for him to violate a boundary you set so you can feel safe being angry. That is not science. That is a trap with nice manners.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I know.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Knowing is not crossing the camp.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Crossing the camp is not the same as being sure.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Nothing you want is the same as being sure,” Priya said. “That is why it is want and not a protocol.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He stood before he could answer, because answering would have required a kind of honesty his throat was rationing. “Gallery cross-check. Then the ridge if Ellis has moths.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Coward,” Priya said, fond.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Linguist,” Ivo said, and left her with the tea.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before the gallery he found Jonah in the Keeper hall checking ampules against a list that had grown since the scent-thief night. Jonah did not look up immediately. When he did, his eyes did the medical inventory: pupils, color, the tiny tremor Ivo refused to grant existence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re vibrating,” Jonah said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Priya already used that verb.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then it has peer review.” Jonah capped a vial. “I am not going to ask about the major. I am going to tell you that grief performed as professionalism still metabolizes. Drink water. If you intend to make a decision tonight, make it before your blood sugar turns it into a worse decision.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I don’t intend—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You intend,” Jonah said. “Your shoulders are writing the abstract.” He handed Ivo a bottle. “Also: Ellis left cardamom in the common kit again. Steal it before Harun invents a cocktail.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo almost smiled. “Harun’s cocktails are a war crime.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then you have a civic duty.” Jonah returned to his list, then added, milder, “For what it’s worth, the silence is visible from space. You asked for it. He is complying. Compliance can be a kindness and still feel like weather you ordered and regret.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo drank. The water tasted like stone. “Thank you for not being comforting.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Comfort is Mateo’s hobby. Mine is keeping people from dying of their own plots.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The day did its work. Work was still the cleanest architecture in his life. He correlated the gardener-Warden panels with basin glow readings until the numbers blurred and then clarified again, the way truth sometimes did when you stopped flattering it. In the west gallery the painted tray gleamed under Anouk’s portable light, moth and vial and thorned vine, and Ivo found himself explaining to no one that husbandry was not softness — that keeping dangerous biology alive and contained was a courage with dirt under its nails. Anouk, overhearing, said, “Write that down before you decide it’s too sincere,” and he did.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He argued with her about whether a painted vine was botanical or liturgical and lost the argument in the way that meant both of them were enjoying being alive enough to lose. Hester demanded he read a paragraph of Pavel’s journal aloud so she could hear whether the cadence matched the Unfinished’s sideways speech; it did, faintly, which made Hester sit down hard on a dry step and made Ivo want to put a hand on her shoulder and not know if the hand would be welcome. He put the hand there anyway. Hester patted it once, dismissive and grateful, and told him to stop looking like a funeral.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I am not looking like a funeral,” he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You are looking like a man rehearsing one,” Hester said. “Pavel did that too. It did not improve his outcomes.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the basin overlook — far enough that the Unfinished were only a rumor of wrong-angle hush — Rhee joined him with a headset and a confession she delivered like a parts list. “I’m keeping the flare watch frequencies on a separate channel from the naming logs. If Helix is half as hungry as Cho’s speeches suggest, I will not hand them a glossary of incomplete people who want the Bell rung for rest. That would be… a sentence I don’t want to translate.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Good,” Ivo said. “Keep being the person who pays debts in working gear.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee’s mouth twisted. “I am trying. Trying is not absolution.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Nothing is,” Ivo said. “Do it anyway.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At midday Mateo cornered him with a scanner and the bonded stubbornness of a medic who had promised Anouk he would stay with the bleed when the choice came. “Suppressant levels holding. Sleep markers garbage. Eat the second bar in your kit or I will narrate your electrolytes to the major as a safety issue.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The major is not—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The major is still responsible for whether you fall down a stair,” Mateo said. “Personal weather is not a medical exemption. Eat. And before you ask — Anouk’s fine. She’s arguing with stone. That’s her cardio.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo ate the second bar and hated that it helped. Hate was becoming a versatile tool. He could hate help, hate silence, hate his own excellent reasons, and still take notes that would survive a review board. He watched Calder cross the lower court with Nia, heads together over a tablet, and felt the old, humiliating pull: not pheromone, not heat, just the knowledge of a specific person’s gravity. Calder did not look up. Ivo did not call out. The empty side of the court stayed empty on purpose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Afternoon heat thickened under the canopy until the stone courts sweated. Harun and Jun held a low argument about pain and pride that ended with Jun saying, “If you hover I will shoot your canteen,” and Harun saying, “Romantic,” and meaning it. Ivo walked past them and did not envy the bond so much as the permission it represented — to be known without having to win an appellate hearing first.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable and Ellis took the ridge watch at 1500. Ivo went up with a case of wing samples because Ellis had asked, politely, and because the ridge put him in sight of the eastern spur where Helix liked to glitter, and because if he stayed in the gallery he would invent a reason to walk past Calder’s post and then invent a reason not to speak, and he was tired of inventing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The ridge was a spine of root and broken comb-stone with a view that made the Reach look almost navigable, which was a lie the eye told to keep people moving. Ellis had a moth jar open on a flat rock. Sable stood three meters off with her rifle and the posture of a woman who had decided that liking someone was not the same as letting them die prettily.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Node’s shifted,” Ellis said without looking up. “East-southeast. Not Helix. Vein. The moths are arguing with each other about it. Rude little cartographers.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Can rude cartographers get us killed?” Sable asked.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Everything can. These will only get us lost in an interesting direction.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo crouched, photographed, labeled. He kept his body in the work. His mind, treacherous, kept offering him the empty side of the camp: Calder’s laugh not happening; Calder’s complaints not arriving; Calder’s eyes doing only math.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable’s voice dropped. “Ward. You’re standing in my lane.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m standing in a moth’s opinion,” Ellis said. “Your lane can share.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“My lane does not share with men who narrate insects while Helix owns a spur.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis closed the jar gently. “Then stand closer and narrate the spur. I’ll listen. I’m very trainable.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It should have been banter. It was banter. It was also something else, careful as a first suture. Ivo saw Sable’s mouth fight a smile and lose. He saw Ellis wait without pressing, which was a competence of its own. He should have left them the ridge. He stayed one minute too long because leaving would have required standing up into his own evening, and his own evening was a cliff.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable glanced at him. “Doctor. You need the samples or the gossip?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Samples,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then take them and go be miserable somewhere that isn’t my watch.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis winced. “Sable.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“What? He’s radiating unfinished business. It’s distracting. The moths deserve better focus.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo almost laughed. The laugh stayed in his chest like a held breath. He packed the samples. He stood. He took three steps toward the down-path and then stopped because Ellis had said something too soft to be for him, and Sable had answered by stepping into the shared lane she had just forbidden, and then — carefully, as if the jungle were watching for mistakes — Sable kissed Ellis.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was not dramatic. It was not a heat-cycle story. It was two adults deciding that a ridge in a hostile canopy was still a place where a person could choose another person without blaming biology. Brief. Exact. Ellis’s hand hovered near her elbow and did not claim. Sable pulled back first, ears pink, eyes dangerous with embarrassment and something warmer.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“That didn’t happen if it compromises the watch,” she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“It happened,” Ellis said, dazed and delighted and trying to be professional about both. “And the watch is uncompromised. I can see the spur and also the inside of my own skull. Multitasking.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo looked away. He did not mock them. Mocking would have been easy and false. What he felt was worse: a clean envy, sharp as a slide under glass. They had crossed a small distance without demanding that the past rewrite itself first. He had built a large silence and called it safety and was now starving inside it. On the way down he paused once, palm on wet root, and let himself want — specifically, stupidly — for Calder to complain that he had been on the ridge too long. The want arrived. The complaint did not. He continued down alone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He went down the path with the samples and the envy and the admission still bright in him: he missed being annoyed with love in it. He missed Calder Rhys being too much in his space. He missed the jokes. He missed the wall that leaned.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Camp at dusk was lamps in tins and the smell of wet rope. Calder sat with Rhee over a signal map, polite, precise, a commander without spare warmth. Ivo stood at the edge of the science cluster and measured the distance in steps. Twenty-two. He had counted them twice. He checked his own pulse like a hypocrite and found it elevated for no chemical reason Mateo would respect. He thought of St. Briony’s east stair and the shove and the sentence about ghosts, and he thought of the library afternoons when Calder had almost been decent, and he refused — still refused — to let the decent rewrite the shove. Wanting the man was not the same as erasing the boy’s ledger. That distinction had been the whole point of the rejection. The distinction was still valid. It was also, tonight, incomplete.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He could walk twenty-two steps and say: <em>I miss the annoyance. I am not ready to be your proof. I am ready to stop starving for the sound of you caring badly and specifically.</em> He could walk twenty-two steps and still be afraid. Fear that went quiet had always been his native climate. Quiet did not mean absence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya appeared at his shoulder like a consequence. “If you walk over, walk over. If you don’t, stop vibrating. You’re making Jonah nervous.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah, three meters away, did not look nervous. He looked like a man pretending not to listen. “I am not nervous. I am hydrated. There is a difference.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo took one step. Then another. The fear that usually went quiet in him rose, not loud, just present — the old fear that wanting Calder was unsurvivable if he was wrong, that accepting love meant forgiving on a schedule, that the love might be for the calm man and not for the boy who had been shoved in a stairwell and told to stay where ghosts belong. The fear was still true. It was also no longer the only true thing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He took a third step.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder looked up — not at him, at Nia’s approach from the north ledge — and Nia said, “Eastern spur. Glass. Movement.” Before anyone could convert movement into a plan, the sky above the spur took a color that did not belong to sunset.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Helix’s flare went up.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Red-white, arrogant, a signature written on wet air. It hung long enough to be counted. It said <em>we are here and we want you to know we are here</em>, which was either bait or declaration, and with Director Cho involved it was probably both.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder was standing before the light finished climbing. “All posts. No pursuit. Rhee — are they on our net?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Not yet,” Rhee said, fingers flying. “They’re on their own. Loud on purpose.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then we do not audition for their theater.” Calder’s voice had the calm that arrived when people might die and jokes were locked away for later, if later existed. “Nia, double the south watch. Sable, pull Ellis off the ridge if the flare draws predators — glass kites love spectacle. Harun, Jun stays put; you do not invent a climb. Science team inside the Keeper hall. Dr. Maren—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "His eyes found Ivo. Tactics. Count. Asset location. The look held one beat longer than yesterday, or Ivo imagined it, and then it was gone into the work.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“—you’re with the hall. No gallery runs until we know if that flare is a prelude.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Understood,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not say <em>I was coming to tell you I miss your annoying face</em>. He did not say <em>the ridge has people braver than I am about small distances</em>. He turned toward the Keeper hall with Priya and the samples and the flare’s afterimage burned into his vision, and he understood, with the cold clarity he usually reserved for toxins, that the universe had excellent timing and a vicious sense of humor.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Inside the hall, lamps made a false noon on painted Keepers who had known better questions than Helix. Anouk sealed cases. Hester sat with Pavel’s journal closed under her palm as if paper could be a shield. Jonah counted heads the way medics did when spectacle was about to become triage. Ellis and Sable came in last from the ridge, not touching, not needing to; whatever they had started on the comb-stone had survived the flare without becoming a liability, and Ivo respected that with an envy so clean it almost felt like admiration.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya stopped him near a pillar. “You were three steps in,” she said. “I counted.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The sky interrupted.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The sky always interrupts. That is not a reason to stop counting.” She glanced toward the hall mouth, where Calder’s voice carried orders into rain. “When this becomes shooting — and it will — do not use gunfire as an excuse to keep starving. Fear that goes quiet is still fear. Speak before the quiet writes your will for you.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s hands were steady on the sample case. Steady was not the same as fine. “If I speak and I am wrong—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then you will be wrong while alive and informed,” Priya said. “Which is still better than being correctly lonely.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Behind them, Harun said, “Well. That’s rude.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun said, “Hungry things always are.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder did not laugh. Through the hall mouth Ivo saw him once more — tall, polite, the locked case of him holding, giving Nia a timeline and Rhee a frequency and the night a shape that might keep people breathing. The major’s eyes passed the hall entrance, found Ivo, confirmed the asset was inside stone, and moved on. No smile. No complaint. No <em>have you eaten</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo walked deeper into lamp-light and the empty side of his own choosing, and somewhere above the canopy Helix’s signature faded from the sky like a dare that had already been accepted by the night.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0031",
+    "number": 31,
+    "title": "The Break",
+    "arcId": "arc-4",
+    "volumeTitle": "Volume 4 — Three Days",
+    "epigraph": "When the ground chooses sides, your job is not to argue with geology. Your job is to keep naming the living.",
+    "epigraphAttribution": "— Capt. Nia Okonkwo, after-action draft, later redacted",
+    "summary": "Helix assaults as a Vein-storm hits. The basin collapses and the team splits. Radios die into Pavel’s cadence. Nia does her job without yet knowing Ivo is gone from Calder’s reach.",
+    "opening": {
+      "id": "hc-ch-0031-opening",
+      "promptId": "hc-ch-0031-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Basin Collapse",
+      "caption": "Stone forgets it agreed to be a floor",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Nia Okonkwo had three rules for bad nights, and the Reach violated all of them before the second flare finished dying.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Rule one: know where your people are. Rule two: keep the radios honest. Rule three: do not let the major’s heart write the map. She had already spent a week watching Calder Rhys run the detachment like a man who had locked his heart in a case and swallowed the key, which should have made rule three easier and somehow made it worse. Polite majors still got people killed when the ground moved. Polite majors just apologized cleaner.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Contact east,” Sable’s voice said in her ear, flat. “Not a glint. Shooters. Two teams minimum. They’re using the flare’s afterglow like a hallway light.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Copy,” Nia said. She was already moving across the upper court, boots finding wet stone by memory. “All elements — defensive only until Warden calls push. Science to Keeper hall. Rhee, I want Helix chatter if they sneeze.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee’s answer came half-eaten by static. “They’re not sneezing. They’re singing on a band that shouldn’t— wait. Vein spike. Big.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The Vein spike arrived in Nia’s bones before it arrived in anyone’s instruments: a hum that climbed from reminder to argument, pressure behind the eyes, the taste of metal without blood. The black water in the basin court — two levels down, still holding its unfinished audience — slapped once against stone as if something beneath had turned over in sleep.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Warden,” Nia said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder was at the north ledge with Ivo and a lamp neither of them were using, because of course the scientist had not stayed in the hall like a person who valued ceilings. Calder’s face in the half-light was command first, personal weather sealed. “I see it. Nia — you have the south stair and Rhee. Harun, hold the wound-path if we lose the main. Mateo stays mobile. Anouk, Priya, Hester, Jonah — side stair on my mark. Sable, Ellis, ridge overwatch, do not be heroes.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Define hero,” Ellis started.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Alive,” Sable said for him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Helix came in on the eastern approaches with the confidence of people who believed grief was a logistics plan. Muzzle flashes stitched the fig line. Rounds cracked stone near Jun’s elevated rest; Jun answered left-handed and precise, pain audible only in the half-second delay before her second shot. Harun’s heavier answer made a different argument. Nia counted, sorted, did not pray. Prayer was for after you had done the checklist.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A second Helix element tried the south court — smarter, quieter, the kind of movement that suggested Leona Varga’s hand rather than Cho’s speeches. Nia met them with Rhee flat against a pillar and two controlled bursts that turned ambition into retreat. One of the retreating shapes shouted something about the Bell and the basin; Nia did not shout back. Shouting was how you donated your position to a hungry grammar.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They’re not trying to take the hall,” Rhee said, breath harsh. “They’re trying to pin us while something else—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“While the Vein does their demolition for free,” Nia finished. “Yes. I noticed.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Then the Vein-storm hit properly.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "It was not weather. Weather had manners. This was the city’s under-logic deciding that patterns were behind schedule. Light bent wrong in the basin. Water climbed stairs it had not been invited to climb. The Unfinished’s wrong-angle voices rose in a chorus that was not quite scream and not quite hymn — <em>finish, ask, finish</em> — and the stone under the basin court remembered it had once been a lid over something that completed hungers.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Back!” Nia shouted, already hauling Rhee by the strap as the first comb of roof sheared.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The basin collapsed in sections, not all at once, which was worse because it gave people time to choose wrong. A platform dropped into black water with a sound like a library falling. Dust that smelled of old pollen and older blood punched upward. Radios filled with overlapping breath and then, under the breath, the cadence Nia had learned to hate: nineteen minutes of a dead man, compressed now into the storm’s throat.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>—don’t ask it—</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Pavel Ruiz, still completing his own warning through a system that loved unfinished sentences.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Rhee, seal the open channels,” Nia snapped. “If the net is vomiting ghosts, I want our voices on a private thread or none.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Trying—” Rhee’s hands flew. A round sparked off the parapet beside them. Helix was still shooting while the city ate itself, which Nia filed under <em>professionally unhinged</em>. “Private’s up. Barely. Major—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Static. Then Calder, clipped: “Nia, south stair. I’ve got Maren on the west cut for nine minutes, then we—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The rest became Pavel again. <em>Don’t ask it.</em> The Vein hummed so hard Nia’s teeth ached.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She did her job.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "South stair first: the steps were slick with water that had no business being this high. Rhee slipped; Nia caught her belt and planted her own boots wide. Below, the basin’s throat made sounds like a cathedral learning to vomit. Dust turned lamp beams into solid bars. Nia hated solid light. Solid light lied about distance.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Talk to me,” she told Rhee. “If you’re quiet I assume you’re dying or inventing a cleverness. both are forbidden.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m neither,” Rhee said. “I’m routing around Pavel. He’s — God — he’s on three bands at once. The Marrow’s completing his transmission while the court collapses. That’s not haunting. That’s systems design from hell.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Write the paper later. Survive the design now.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A Helix drone — small, ugly, illegal in three jurisdictions Nia could name — buzzed the stair throat and died against Harun’s shot from below. Harun whooped once, then coughed dust, then said, “Still rude,” as if manners could stabilize stone. Nia loved him for the noise and would fine him for it later if later existed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They took the wound-path because the main stair had become a suggestion. Broken ledges. A gap Nia jumped with Rhee’s wrist in her hand. A corridor that remembered being a laboratory and still smelled faintly of old preservative. Nia put Rhee on the inside wall, put her own body toward the drop, counted steps by feel when dust killed the lamps. A Helix fighter appeared in a gap with a face too young for Cho’s sermons; Nia shot him in the thigh and kept moving, because killing was sometimes optional and stopping was not. The fighter’s scream followed them and then became part of the storm’s general opinion.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Harun?” Nia called.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Pinched, not pinned,” Harun shouted from a turn below, which was language Mateo had taught them so panic would have vocabulary. “Leg’s ugly-looking and still mine. Jun’s above the break — Jun, stay—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun’s voice, thin with pain and absolute: “I am staying. Stop narrating.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Good. Nia marked them on the map in her head: Harun’s side of the collapse, wounded path, not yet Mateo’s problem and about to be. She keyed the private. “Mateo — when you can, Harun’s vector. Anouk is not your vector. She told you. Do not make me drag you by the bond.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Static. Then Mateo, breathless, already choosing: “Copy. Anouk—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk’s voice cut through from somewhere that sounded like a stairwell with better luck: “I am excellent. Go to the bleed, you sentimental disaster. Priya has the glyphs. Hester has the spite. Jonah has the ampules. We are a functioning civilization. Go.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia almost smiled. Smiling was rationed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Somewhere in the west cut — she could not see it, only infer it from the last clean burst of Calder’s voice — the major and ORCHID were moving together. Nine minutes, Calder had said. Nia checked her watch like a woman checking a fuse. Minute one: contact east still hot. Minute three: basin drop secondary. Minute five: Sable reporting kites drawing to Helix’s light like moths with knives. Minute seven: Jonah confirming side stair clear of shooters. Minute nine: Calder’s line tearing into static, and Nia’s stomach doing a thing she did not permit stomachs to do on the clock.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She pushed Rhee through a cleft into a service corridor that still had a ceiling. Behind them something large in the basin water hit stone — Unfinished or eel or the city’s own regret, she did not stop to taxonomize. Ahead, dust and a choice of two doors. Nia took the one that smelled less like open Vein, which was a terrible heuristic and the only one she had.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The team split the way bad nights split teams: not by preference, by physics.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia kept Rhee and the wounded path’s upper half. Harun was already being claimed by the collapse’s geometry toward the lower courts — toward where Mateo would find him because Mateo had promised Anouk he would stay with the bleed, and Harun was the bleed tonight, and Anouk was excellent enough to survive a side stair without her husband’s hovering. Anouk’s group resolved in a burst of Priya’s precise cursing and Hester’s clove-scented stubbornness and Jonah’s calm inventory of who could still walk: side stair, yes, away from the basin’s throat. Sable and Ellis were ridge — Nia heard Sable refuse a retreat that would leave Ellis’s moth jars as an excuse, then hear Ellis refuse the jars, which was growth under fire. Calder and Ivo were together on the west cut for nine minutes.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nine minutes was a lifetime and a nothing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the private, before the net fully failed, Calder’s voice came once more, clear enough to hurt: “If we lose line, rally Keeper hall east antechamber. Nia has south. Do not chase me into a hole.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Copy,” Nia said. “Do not make me chase you into a hole.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not answer. Pavel did. <em>Don’t ask it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia did not know, yet, that after those nine minutes Ivo would not be on any pattern Calder could name. She knew only the work in front of her: get Rhee to a place that was not currently becoming water; keep Helix from turning the south approach into a funnel; keep naming the living so the living stayed countable.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the service corridor she found a trickle of clean runoff and made Rhee drink. Rhee made a face. “Tastes like minerals and bad decisions.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Good. Hydration with commentary means you’re still you.” Nia checked the set again. “Ellis, if you’re still poetic on the ridge, stop. Poetry draws kites.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Copy,” Ellis said, abashed. “Stopping.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable: “He lied. He’s whispering to a moth. I’m allowing it because the moth is facing the correct threat axis.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I allow nothing,” Nia said. “I tolerate. There’s a difference.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A tremor ran through the corridor floor. Somewhere far left — west cut direction — stone screamed. Nia’s mind supplied images she did not authorize: Calder shoving Ivo through a gap; Ivo refusing to leave a sample; both of them being competent at the wrong time. She shut the images down. Imagination was how XOs became liabilities.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Status,” she said into the private, every thirty seconds, like a metronome with a gun.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Ridge clear enough,” Sable. “Kites in the smoke. Ellis says don’t look at the leading edge if you want to keep your face.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Side stair moving,” Jonah. “Hester slow, Anouk furious, Priya translating under her breath like a threat. We’re whole.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Harun visible,” Mateo, later, blessedly later. “Bleeding pride and a gash. Leg intact. Jun’s voice in his ear keeping him rude. I’ve got him.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“South corridor holding,” Nia said. “Rhee?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m here,” Rhee said. Her sister’s unsent letter lived in Nia’s imagination like a debt. “Net’s rotting. Pavel’s eating the bands. If Cho rings anything tonight I will personally—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Cho is not ringing anything tonight,” Nia said. “We are not giving him a clear court and we are not completing his sentence. Move.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They moved. A secondary collapse took the corridor behind them with a roar that made Rhee flinch into Nia’s shoulder. Nia held her upright without making a speech about it. Holding was not the same as boxing a person into the shape that would have saved the last civilian asset; Nia had learned that distinction in blood and was still learning it in practice. Rhee was not a box. Rhee was a specialist with clever hands and a conscience that paid installments.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Helix pressure eased as the Vein-storm made the eastern spur less of a hallway and more of a suggestion. Leona Varga’s people, if Nia guessed right, were professional enough to stop donating bodies to a hungry city. Cho’s philosophy could wait for stable stone. Good. Nia would take professionalism from an enemy if it bought her ten minutes.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She reached the east antechamber of the Keeper hall with Rhee, dust-gray and furious, and began the count that was her real religion.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable: ridge, delayed, coming. Ellis: with Sable. Anouk group: side stair, Jonah confirming. Harun: with Mateo, lower. Jun: elevated fragment, reachable. Calder:—",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Warden,” Nia said into the private.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Static. Pavel. <em>Don’t ask it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Warden, status.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A burst of Calder’s voice, torn: “—cut failed— ORCHID still with me— moving—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Then nothing that was him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia stared at the set as if staring were a tool. Around her the antechamber filled in pieces: Priya first, eyes bright with withheld panic; Hester leaning on a spear she had acquired from somewhere and would not explain; Anouk with clay and blood that was not hers; Jonah already opening kits. Sable and Ellis arrived smelling of smoke and wet leaves. Mateo’s confirmation of Harun came as a blessing with conditions.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder did not arrive.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo did not arrive.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia felt the old, cold anger — not at them, at the pattern. Missing soldiers had patterns. Flooded tunnels, kite nests, burning canopy, known fall-backs. She could work patterns. She could send search grids that did not become suicide. What she could not do was let the major’s silence become a rumor that ate discipline.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun’s voice crackled once more, stubbornly alive: “Tell Warden if he can hear — the south’s ugly but standing. Also tell him I expect a joke when he gets back. The quiet version of him is offending my aesthetics.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He’ll hear it when he hears it,” Nia said. “Until then, stop broadcasting your aesthetics on a dying net.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Copy. Aesthetics offline.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun, dry as bone: “He is lying.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia let herself exhale through her nose. The team was still a team when it could be rude under fire. That mattered. She turned to the antechamber’s center and raised her voice for the living she could see.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Rally holds here,” she said, voice parade-ground clean. “No freelance searches. If Warden is off-net he will come to the antechamber or he will send a runner. Rhee — keep trying the private. If Pavel owns the rest, let him own it. We do not shout questions into a Vein-storm. We do not finish Helix’s work by scattering into their favorite kind of dark.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya’s gaze flicked to the empty doorway. “Ivo.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Is with the major until he isn’t,” Nia said. “And when he isn’t, we will still do this in an order that keeps the rest of you breathing. That is not cold. That is how we still have a team to be warm with later. You want to help him? Keep the ask-finish knot out of every mouth in this hall. If the Vein is listening to collapses, it is listening to panic too.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya nodded once, sharp. “Knot stays in my teeth.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Good. Teeth are storage.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She did not know yet that Ivo was already gone from Calder’s reach — that the nine minutes had ended in a separation the maps did not file under <em>known</em>. She knew only that the basin had become a throat, Helix had become a weather system with guns, and her job was to hold a door while the night finished deciding who got to walk through it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee whispered, “Captain — the major sounded wrong.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The major always sounds wrong when the ground moves,” Nia said. “Get me a clean second of his voice if the storm gives you one. Until then, we count the living we can see, and we do not invent the dead. Inventing the dead is how you stop looking for the living.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee’s eyes shone. “Yes, Captain.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She posted watches: Sable on the antechamber mouth despite the shoulder of smoke in her hair; Ellis on a secondary door with a lamp and instructions not to follow moths; Jonah circulating with suppressant checks because biology did not pause for architecture. She checked Jun by relay through Harun’s channel and heard Jun say, “Tell the captain I can still shoot, and tell Harun if he apologizes for my shoulder again I will invent a new caliber.” She made Harun swear, via Mateo, that his leg was still a leg — ugly, sworn, intact. Mateo’s voice had the particular calm of a man who had kept a promise that hurt and would keep it again.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya cornered Nia near a pillar painted with Keepers who looked too serene for the night. “If Ivo is hurt—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then Calder is already doing something expensive about it,” Nia said. “Which is why I need you translating stones and not inventing searches. You are not a scout. You are the reason we might still understand what not to ask.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya’s jaw worked. “That is unfair and correct.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Welcome to my hobby.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester, from a bench, lifted Pavel’s journal like a toast she refused to complete. “The city is finishing patterns tonight. Try not to be one of them.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Working on it,” Nia said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She looked once at the dark beyond the antechamber — rain, dust, the city’s unfinished hunger — and allowed herself one private sentence she would never put in a report:",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>Calder, you soft disaster, bring the doctor home in one piece.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Then she turned back to the hall, counted the lamps once more for luck she did not believe in, and did her job, and did not yet know how much of the night was already busy trying to answer her.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0032",
+    "number": 32,
+    "title": "Say It",
+    "arcId": "arc-4",
+    "volumeTitle": "Volume 4 — Three Days",
+    "epigraph": "Courage is not the absence of the locked case. Courage is opening it when the map runs out of polite options.",
+    "epigraphAttribution": "— Maj. Calder Rhys, never written down",
+    "summary": "Soldiers go missing in known patterns; Ivo does not. Calder searches anyway, finds him under falling stone, and pays in ribs and forearm to get him out.",
+    "opening": {
+      "id": "hc-ch-0032-opening",
+      "promptId": "hc-ch-0032-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Falling Comb",
+      "caption": "Smoke, glass wings, and a choice that costs bone",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Calder Rhys was calm while his soldiers went missing in known patterns, which was the only usable kind of calm he had left.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun’s vector: lower courts, wound-path, Mateo inbound. Pattern: heavy weapons sergeant with claustrophobia walking into a throat because his bonded was above it telling him not to be stupid. Predicted. Contained.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk’s cluster: side stair, Jonah’s voice counting heads, Priya cursing in two languages, Hester armed with something she should not have. Pattern: civilians who refused to be cargo. Predicted. Contained.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable and Ellis: ridge, kites in smoke, Ellis talking to moths, Sable allowing it under protest. Pattern: reconnaissance with a new soft edge. Predicted. Annoyed. Contained.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia and Rhee: south corridor to east antechamber. Pattern: the XO doing the job that kept the major from becoming a rumor. Predicted. Grateful. Contained. Calder owed her a bottle of something expensive and an apology for every time his face had done the thing she could read like a bar fight with subtitles.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo Maren was not on any pattern.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stood in the wreck of the west cut and ran the inventory again anyway, because inventory was how he kept from becoming a man who only ran. Kit: present. Rifle: present. Left hand: fine. Heart: noisy, contained. The polite version of himself — the one that had stopped asking about meals, stopped complaining about wandering, stopped smiling at insults — wanted to treat ORCHID as a lost asset with a search grid and a time box. The version that had said <em>I love you</em> without demanding an echo wanted to tear the city open with his bare hands. He negotiated a third version: search like a commander, burn like a person, do not spend the team on the burn.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nine minutes they had been together on the west cut — lamp off, boots finding ledges, Calder’s hand once on Ivo’s strap when a slab shifted, Ivo not shaking him off because physics did not care about tent conversations. In those nine minutes Calder had done what the locked case allowed: counted exits, named hazards, spoken only in the grammar of survival. He had not asked if Ivo had eaten. He had not smiled when Ivo muttered that the cut was a geological insult. He had wanted to. Wanting was not spending.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Then the cut failed. Stone shrugged. A gap opened like a mouth between them. Calder went left because left still had a floor. When he looked back, Ivo was not on the right. Ivo was not on the left. Ivo was a silence where a person should have been, and the Vein hummed in Calder’s teeth as if completing an absence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“ORCHID,” Calder said into the private.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nothing of Ivo. A hiss. Then Pavel Ruiz from the grave of a radio band. <em>Don’t ask it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder pressed his forehead to wet stone for one second and used the second to put his face back on. Panic was a tool if you filed it. He filed it under <em>fuel</em> and stood up into the work.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not ask the Marrow anything. He asked the dark for a man.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before he left the failed cut he marked it: chalk on stone, a strip of his own sleeve tied where a searcher would see it, the kind of breadcrumb Nia respected. He gave her the rally point next, because refusal without a hinge was how commanders murdered teams. On a clean splinter of net he said, “East antechamber. You hold. I am offline searching. If I am not back by second dawn, you run the detachment and you do not spend them on my ghost.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Calder—” Nia’s voice, sharp enough to cut rope.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“That’s an order dressed as trust,” he said. “You taught me the outfit. Keep Cho away from anything that rings. Keep Priya from saying the knot like a prayer. Keep Harun rude. I’m going.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You soft disaster,” Nia said, which was love in her dialect, and then the net ate her.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Then he went.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Flooded tunnels first, because water was where the city put its unfinished business. He waded to the thigh in black that held no reflection of him worth trusting. Cold climbed his legs and tried to invent a tremor; he declined. His lamp made a coin of light that showed drowned steps, a floating coil of cable, the pale suggestion of an eel’s interest at the edge of vision. He did not give the eel metal resonance. He had learned that lesson in blood that was not tonight’s.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Glass kite wing-shards floated like cruel ice. He turned one with a knuckle and saw his own distorted face in it — jaw scar, eyes too intent — and looked away. He called Ivo’s name once, low, and hated how the tunnels returned it wrong-angled, Unfinished-fashion, as if the Reach were trying on his voice for size.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Calder Rhys,” said a voice from the angle he was not looking. “Ivo Maren. Finish.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Not you,” Calder told the dark. “Not tonight.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not call again. He listened for breathing that was not his, for the particular quiet of a scientist refusing to panic loudly. He found a Helix boot print half-washed by rising water and a smear of someone else’s blood on a lintel and a lumen-moth beating itself against a knot-glyph as if cartography could still save someone. He cupped the moth gently aside — Ellis would have approved; Sable would have scoffed — and read the glyph’s shadow without speaking it. Ask. Finish. Same mouth. He kept his own mouth shut and moved on.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not find Ivo in the water.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Kite nest next, because nests held heat and heat held bodies. The nest was a cradle of resin and stolen metal high in a broken comb, stinking of ozone and old kills. Calder climbed with his rifle slung and his bad memories filed under <em>later</em>. Resin stuck to his gloves. Below him the storm still argued with Helix’s leftover light. A kite dove from a higher tooth of stone; he watched the leading edge the way Ellis had taught the whole team in a tone that had once irritated Sable into competence. The edge telegraphed. He moved. The kite’s glass wing scored the stone where his head had been and sang a thin note like a finger on crystal.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Not today,” Calder told it, and meant himself as much as the animal.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not stay to win a territory fight. He swept the nest with the lamp: bones that might have been deer, a Helix tag melted into slag, no doctor. A torn strip of ORCHID case webbing was caught on resin like a joke the night was telling. Calder took the strip. His hand shook once. He made it stop. He pressed the webbing to his mouth without quite kissing it, which was a intimacy he would deny under oath, and put it in his pocket next to the part of him that had stopped being polite.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Burning canopy: Helix’s flare-work and the Vein-storm had made a chimney of wet leaves. Smoke that smelled like incense and wiring. Heat that had no right to exist under rain. He moved under it with a wet cloth at his mouth, eyes streaming, calling nothing, reading drag marks and boot scuffs and the absence of the particular narrow tread Ivo preferred. A burning branch fell; he sidestepped; his sleeve smoldered; he smothered it. On a fallen trunk he found Priya’s spare stylus — no, Ivo’s, the one with the worn grip from a thousand labels — and the finding landed in his ribs like a round that had not exited.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re all right,” he told the stylus, which was insane, and then he put it in his pocket because insanity could wait for a man who was breathing. He stood in smoke and let himself want, fully, without spending the want on a joke: he wanted Ivo annoyed at him again. He wanted the insults. He wanted the locked scent and the measuring tilt and the man who had rejected him with reasons that still sounded fair and still felt like a door closing on Calder’s sternum. Wanting did not find the body. Moving might.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nun-court last among the known places, because root nuns sang people into kneeling and Calder would be damned if Ivo died politely. The court was half-collapsed, fungal shapes broken by salt someone — Hester, probably — had thrown in an earlier hour. The lullaby was a fragment, subsonic, trying to tidy his pulse into obedience. Calder broke it further with irregular noise: a canteen struck on stone in a rhythm that refused to become music, then a string of curses in three registers, then the chorus of a barracks song so stupid it could not be sacred. Nothing knelt. No Ivo. Only the smell of salt and old lullaby and Calder’s own breath coming shorter than he liked.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "People tried to stop him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable found him at a junction, smoke in her hair, eyes furious with loyalty. “Major. Rally. Nia’s orders and yours. You’re writing a suicide with better posture.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m writing a search,” Calder said. He kept moving; she matched him for ten paces, which was how he knew she was afraid. “You’re writing a sentence I already heard. Go back. Ellis needs a lane, and you need to not become a second missing pattern I have to invent.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Ellis told me to tell you that missing scientists are not moths. You cannot follow stone-dust to them.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Watch me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable grabbed his sleeve, then released it as if the fabric burned. “If you die, I will have to respect you, and I hate that. Come back rude.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’ll do my best,” Calder said, and meant <em>I’ll do this</em>, which was not the same.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun’s voice on a dying relay, thick with dust and pride: “Warden — if you’re doing the stupid thing, do it with a buddy. I’m half a gash and still better company than a kite. Mateo’s got my hole in me. I can still walk ugly.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re Mateo’s problem,” Calder said, almost fond. “Stay that way. Tell Jun I said her left-handed shooting is showing off.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun, cutting in, pain-thin: “Tell the major if he dies I will be annoyed. Annoyance is my love language. Do not make me fluent in grief.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Copy,” Calder said, throat tight.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Even Jonah, briefly, on a clean second of net: “If you find him, do not carry both of you into shock. Tag and signal. Pressure on chest wounds, elevate if you can, do not be a hero with a collapsed lung you haven’t admitted to. I am not joking with medical humor. I don’t have medical humor.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Copy,” Calder said, and did not copy, not in the way Jonah meant. He would carry what needed carrying. He would apologize to Jonah’s protocols later, from a cot, if the universe issued cots.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia again, last attempt, voice like a blade wrapped in care: “Calder. If you die for him, I will kill you. I will also have been right about your face doing the thing, and I hate being right like that.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Get in line,” he said, and cut the set before her next word could become a reason he obeyed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He was not stupid. Stupid would have been chasing without a rally hinge. Stupid would have been taking half the detachment into smoke. He was something else: a man who had locked his heart in a case because Ivo asked, and who was now discovering that the case still opened when the map ran out of polite options. Love was not a tactic. Search was. He used the one he was allowed. He thought, briefly, of St. Briony — pencil shavings, a boy who never cried, the east stair shove he had not understood as a wound until the wound looked at him from adult eyes and refused to be his redemption arc. He did not get to be forgiven where it was cinematic. He got to keep a person alive in a place that finished people mid-sentence. That would have to be enough for the next hour.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The Vein hummed harder as he pushed west of the failed cut, into galleries the storm had rearranged. Stone combs hung like teeth. Water sheeted from a crack in rhythmic pulses that matched no rain Calder knew. He found a glass kite perched on a fallen lintel, translucent and patient, heat-sensing the world. He gave it no heat he could spare — crouched, cooled his breathing, became as much stone as a living man could fake. The kite’s head turned. It lost interest in the false cool and slid away into smoke. Calder moved through what remained with the lamp useless and touch instead — wall, gap, the memory of Ivo’s stride length, the way the doctor paused before important thresholds as if thresholds were specimens.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Ivo,” he said once more, against his own rule, because rules were for when patterns worked.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A sound answered that was not Pavel and not Unfinished: a cough, small, controlled, the cough of a man who refused to waste air on drama.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder went toward it through a curtain of dust and found the falling comb.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A roof section the size of a boat was coming down in slow, dishonest pieces. Under it, in a pocket of jammed stone, Ivo Maren sat with his case clutched to his chest and a cut above the scarred eyebrow adding a new red line to an old argument. Dust painted him gray. His eyes found Calder and did something raw and unscientific — relief, fury, the particular humiliation of being glad.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re late,” Ivo said, voice steady in the way that meant fear had gone quiet.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re under a building,” Calder said. “Critique my schedule later.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He crossed the unstable floor. Glass kite in the smoke above — he saw the leading edge, moved, felt the wind of the dive kiss his hair. Stone gritted under his boots like teeth. He reached Ivo, got an arm around him, hauled. The pocket wanted to keep its specimen. Calder disagreed with geology. Ivo’s breath hitching against his shoulder; Calder smelling rain and antiseptic and blood, the locked door of him cracked by circumstance.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Can you walk?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I can be walked,” Ivo said. “Semantic difference.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’ll take the semantics. Leave the case if—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m not leaving the case.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Of course you’re not.” Calder almost laughed and tasted copper. “On three. One — don’t argue — two—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They moved on two, because arguing with Ivo about numbers was how you died holding a debate. Three steps. Five. The comb came down in earnest with a roar that erased thought.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder shoved Ivo clear through a gap into a lower ledge that still pretended to be floor. The kite came with the collapse — glass and hunger, diving along the heat of two living bodies. Calder turned to cover, felt the wing open his ribs with a precision that made him think, absurdly, of a letter opener. Pain arrived bright and instructional, a curriculum in how much of a wall a person still was when opened. He stayed upright because falling was a luxury. A block sheared down as he dragged himself after Ivo; it caught his left forearm with a sound he would remember in weather for the rest of a life he suddenly wanted very badly to keep. Bone and meat argued. Bone lost a round. His hand stopped obeying in ways that mattered for triggers and tenderness alike.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He got through the gap anyway. He got Ivo under an overhang that was not currently falling. He put his back to stone and his body between the doctor and the open smoke, which was instinct older than rank and older than the locked case and older, even, than the boy who had shoved another boy in a stairwell without knowing the size of what he was doing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s hands were on him — strap, chest, the wet heat of blood. “Calder. Calder — look at me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re all right,” Calder said. He made the words land like orders. “Don’t do the quiet thing.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s face did something that would have ruined Calder if he’d had spare ribs for ruination. “You’re bleeding. You’re — God — your arm—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Occupational.” Calder’s vision narrowed at the edges, polite as a closing door. The polite version of him tried to make a joke and failed, which was information. He wanted to say more: <em>I heard you miss the complaining in the way you stopped eating resentment; I kept the silence because you asked; I would unlock the case if you knocked; I am not asking you to say it back; I am asking you to stay loud enough to be found.</em> He did not have the air. He had the one sentence that mattered for a man who went quieter when afraid.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re all right. Don’t do the quiet thing.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo said his name again, not Major, not Warden, just Calder, like a person, and Calder took that sound with him into the dark like a ration he refused to drop.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He tried to say one more practical thing — rally point, Mateo, litter — and managed only a breath that hurt in new geometries. Ivo’s hand found his uninjured shoulder and held, hard, as if holding could be a medical intervention. Calder catalogued that too. He catalogued the rain starting again beyond the overhang, soft and insulting. He catalogued the kite’s glass note fading as the animal lost interest in cooling prey.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Then unconsciousness took him with surprising courtesy, as if even the Reach preferred good manners at the end of a sentence, and the last professional assessment he managed was simple: the ribs, the forearm, three days if Mateo was kind and the universe less so — and worth it, worth it, worth every quiet day he had given away and would give again.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0033",
+    "number": 33,
+    "title": "Don't You Dare",
+    "arcId": "arc-4",
+    "volumeTitle": "Volume 4 — Three Days",
+    "epigraph": "Curiosity beats fear until someone you love is bleeding. Then the man arrives, badly, and will not be edited.",
+    "epigraphAttribution": "— Dr. I. Maren, true before he admitted it",
+    "summary": "The scientist ends. Ivo says Calder’s name like a person, refuses the rally until Mateo promises a litter, and is left with years of badly kept love.",
+    "opening": {
+      "id": "hc-ch-0033-opening",
+      "promptId": "hc-ch-0033-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "Under the Overhang",
+      "caption": "Blood on stone and a name said properly",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "The scientist ended under a stone overhang that smelled of smoke and wet iron, and what remained was a frightened man with blood on his hands that was not his.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "“Calder,” Ivo said. Not Major. Not Warden. Not the clipped <em>Rhys</em> he had used when precision was a weapon. “Calder. Cal — no. Calder. Open your eyes.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He heard himself reject the childhood nickname even now, even here — <em>Cal</em> had been a pin for revenge and a mother’s ghost and a yearbook cruelty, and this moment was not revenge. This moment was a man on stone. This moment required the name Calder had grown into, the one that fit a major who searched flooded tunnels instead of punishing a rejection.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder did not open his eyes. His chest rose. That was the entire dataset Ivo was willing to accept as survival. Ribs opened by glass — Ivo could see the kite’s work in the torn fabric, the shine, the wrong angle of breath. Forearm sheared by stone — swelling already, a geometry that made Ivo’s stomach perform a nonscientific act. The major’s face had gone slack in a way Ivo had never been permitted to see: the jokes gone, the politeness gone, the locked case open and empty because its contents were busy not dying.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s hands shook. He hated that. Shaking was for people who had not practiced. He had practiced. Practice abandoned him like a fair-weather colleague. He pressed the hands anyway — pack gauze, the emergency seal Mateo forced on every kit, pressure where pressure belonged. He had trained for field trauma the way he trained for toxins: thoroughly, without romance. Romance arrived anyway, stupid and total, in the sound of his own voice breaking on a name.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Don’t you dare,” he told Calder’s stillness. “Don’t you dare do the quiet thing either. That was my trick. You don’t get it. You get to be loud and unbearable and alive. You get to complain about my wandering. You get to ask if I’ve eaten. You get to smile when I insult you, you absolute — you—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The insult would not come. Insults required distance. He had no distance left. He had twenty centimeters of blood-warm air and a pulse he kept verifying as if verification were a sacrament.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He cut Calder’s strap with a knife because the strap was fighting the seal. He packed. He pressed. He timed compressions of fabric with breaths he counted out loud like a madman. “One. Two. You’re all right. You said I was all right. You don’t get to be a hypocrite about all right.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rain found the overhang’s lip and ticked into the blood. Somewhere above, the glass kite’s note faded. The Vein hummed in Ivo’s shins like a spectator. He wanted to scream at the city — at Cho, at Helix, at ask and finish sharing a mouth. He did not. Screaming was energy. Calder needed energy converted into pressure and pathfinding and the refusal to leave.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A thought tried to arrive, tidy and poisonous: <em>If you had crossed the camp before the flare, would he still have searched? Would you still be here?</em> He crushed the thought. Causality was not a knife he was allowed to twist into himself while his hands were busy. Later he could invent guilt with better lighting. Now he inventied only the next seal check.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He tried the radio. Pavel answered, of course. <em>Don’t ask it.</em> Ivo laughed once, a sound with no humor, and said into the set, “I am not asking the Marrow. I am asking for a medic. Mateo. Nia. Anyone with a litter and a pulse. Asset ORCHID requesting — no. Ivo Maren requesting. Do you hear the difference? Hear it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Static chewed his words. He repeated the coordinates. He repeated the injuries. He repeated, quieter, “Please,” and hated how much of his life had become that word in a single hour.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Then, blessed and late, Mateo’s voice, rough from the other collapse: “ORCHID — location.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo gave it as best he could: west of the failed cut, overhang below the falling comb, smoke corridor, kite active earlier. He heard his own words and hated how calm the coordinates sounded. The scientist was trying to come back through the frightened man’s mouth like a hijacker. He shoved the scientist down and kept the frightened man at the microphone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He’s open at the ribs. Forearm crushed. Conscious long enough to tell me not to go quiet. He is not waking for me. I will not move him alone into a secondary collapse. I will not.” His voice cracked on the last refusal. “Promise me a litter. Physically promise me. I am not leaving this overhang for your rally point until I see the straps. Do you understand? I asked him for silence and he gave it. I am not asking him for abandonment. I am not leaving.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Silence that lasted long enough for Ivo to imagine Mateo choosing Anouk after all, breaking a promise, becoming a different story. Then Mateo, who had chosen Harun’s bleed because Anouk had ordered him to, and who understood vows: “I am coming. Litter. I swear on Anouk’s fury and my own license. Stay on him. Pressure. Talk. If he seizes, protect the airway and do not put your fingers in his mouth like a story.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I know,” Ivo said, and realized he was crying.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The tears arrived without permission, hot, humiliating, practical only in that they blurred the blood into something he still had to treat. He did not wipe them for dignity. He wiped them when they interfered with seeing the seal. Calder’s blood was on his wrists. Calder’s blood was under his nails. Calder’s blood was a fact that reorganized every careful reason Ivo had given in a tent when love had been a sentence instead of a body cooling too fast.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He had loved this man badly and for years.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not the cruelty — never the cruelty. The library afternoons when Calder had almost been decent and then chosen the hall’s laughter instead. The adult who complained about wandering because wandering was a way to keep someone. The confession without demand, without scent, without bargain. The silence after rejection that had not been punishment and had still hollowed Ivo out until envy of a ridge kiss felt like a diagnosis. All of it stacked now into a single animal need: <em>stay</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I asked you for quiet,” Ivo said to the slack face, hands steadying through sheer spite. “I asked you and you gave it to me like a professional, and I hated you for the gift, and I was coming to take it back when the flare went up. Three steps. Priya counted. Did you know? Of course you didn’t. You were busy being a wall. You are very good at walls. Be good at lungs now. Be good at not making me invent a life where I have to explain your callsign to a mural without you there to be embarrassed by the accuracy.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s breath hitched. Ivo froze, then resumed pressure. “Yes. That. More of that. Insult me later. Call me ORCHID like it annoys us both. Just—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "His throat closed. He put his forehead to Calder’s uninjured shoulder for one second and stole the second like a thief. The shoulder was warm. Warm was the only religion left. He whispered into fabric that smelled of steel and citrus under blocker and smoke, “Don’t you dare.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Time became elastic. The Vein hummed. Smoke thinned and thickened. Ivo checked pulse at the throat because the wrist was a mess. He talked because Calder had ordered him not to do the quiet thing, and obeying Calder in this one matter felt like the only reciprocity he could still offer without lying about forgiveness schedules.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He talked about moths — lumen-moths with stone in the wing, Ellis’s jar, the way living cartography had seemed like wonder until wonder needed a litter. He talked about the gardener mural and how Wardens held trays instead of spears, and how he had almost crossed a camp to hand Calder a better metaphor for his callsign and had swallowed it because he had ordered the silence himself. “You should have known,” he said. “You would have smiled. I wanted the smile. I am a hypocrite with a doctorate.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He talked about Priya’s ask-finish knot and Hester’s sideways ghosts who knew names because the Vein repeated introductions. “They want to rest,” he said. “I want data. You looked at me like tactics and it hurt worse than they did. Did you know that? Of course you knew. You notice everything except when noticing would be spending what I told you not to spend.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He talked about Ellis kissing Sable on a ridge and how Ivo had not mocked them because envy was not a joke. He described the carefulness of it — the beta who talked to animals, the alpha who distrusted soft sciences and fell anyway — and said, “They crossed a small distance. I built a large silence. Congratulations to me. I win at architecture.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He talked about St. Briony without softening it — the notebook soaked after he corrected an answer, the shove in the east stair, the sentence about staying where ghosts belong — and he did not pretend the cruelty had been flirtation, because that lie was forbidden and false. “You were proud and cruel,” he said. “That is the record. You don’t get to die before I finish being angry at the right volume. You don’t get to make me the soft ending of your growth.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He talked about tea and cardamom and the way Calder’s jokes got better when he was emotionally compromised, and how the absence of jokes had been a weather system Ivo ordered and regretted. He talked about the night Calder stopped before a kiss and named the power imbalance out loud, and how the stop had shaken Ivo more than a push would have, because competence in restraint was a kind of love he had not budgeted for.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I cannot forgive you on a schedule,” he said, quieter. “That is still true. Needing you still feels unsurvivable if I am wrong. That is still true. But if you leave the schedule entirely I will — I will invent a science of haunting you, and I am very good at inventing sciences, so don’t test me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A secondary tremor shook grit onto Calder’s cheek. Ivo brushed it away with fingers that would not steady. He checked the rib seal. He checked the pupil response with a lamp and hated how little the eyes gave back. He recited suppressant protocols and cistern-eel warnings and the Helix flare’s timestamp as if the mission report could keep a heart beating by bureaucracy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Nia will be furious,” he said. “Good. Be alive for the fury. Harun will make a joke too large for the room. Be alive for the joke. Jun will say almost nothing and mean everything. Priya will look at me like I am a translation that finally admitted its other meaning. I am. I have been. I loved you before I had the word, through the cruelty, after the distance, and I rejected you because I was afraid the love was for the calm man and not for the hurt boy — and the hurt boy is still here, Calder, he is the one with blood on his hands, so you do not get to leave him mid-sentence.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "His voice went raw. He drank from his canteen, spilled half, didn’t care. He pressed two fingers to Calder’s throat again and counted. The count held. The count was not enough. Nothing was enough except waking, and waking was not on offer.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When the radio crackled, he lunged for it hard enough to hurt his own scraped palm. “Mateo.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Close,” Mateo said. “Two turns. If you hear shooting it isn’t us — Helix is picking through the east and losing interest. Leona’s not wasting people on a throat. Cho can write a speech about it later.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Litter,” Ivo repeated, like a spell.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Litter,” Mateo said. “I can hear you not believing me. Believe me anyway.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo believed him the way drowning people believed a rope: not with trust, with need. He bent again over Calder and said, almost conversationally, “When you wake up — and you will — you may not use this as proof you are good. Goodness is a practice. This is just you being unable to leave a person under a rock. That is the bare minimum of not being a monster. I still—” He stopped. The word <em>love</em> sat in his mouth. He did not spend it on an unconscious man as if unconsciousness were a cheaper audience. He would spend it later, if later existed, with his eyes open and Calder’s possibly open too. “I still need you to breathe. That is the assignment.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Footsteps. Not Helix — too arrhythmic, too burdened. Mateo came out of smoke with a collapsed litter on his back and a face like a verdict. Harun limped behind him, gash bound, leg intact, eyes finding Calder and going briefly young with fear before the loudness returned as armor.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Jesus,” Harun said. “Warden. You dramatic bastard.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Litter,” Ivo said. He did not stand until the straps were visible, until Mateo snapped the frame open on stone, until the promise was a physical object with buckles and a stained pad. He touched the frame with one bloody finger as if verifying a specimen. “You promised.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I promised,” Mateo said. He was already working — shears, seal check, forearm stabilization with a splint that lived in his kit for nights exactly this ugly. His bonded calm was a tool, not a mood. “Ivo. Look at me. You did the pressure right. You did the not-moving right. Now you let me lift. If you fight me for the chest I’ll sedate you and Anouk will never let me hear the end of it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m not fighting you for the chest,” Ivo said. His hands would not let go until Mateo gently replaced them, finger by finger, like teaching a child to release a railing. “I’m fighting the universe. It’s a broader campaign.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun helped with the transfer, careful of ribs, cursing the city in a language that sounded like prayer’s rude cousin. “If he dies I will be so loud the Unfinished will file a noise complaint.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He isn’t dying,” Mateo said, which was not a guarantee and functioned as one anyway. “On my count. Ivo — his head. Harun — hips. Soft.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder made a sound that was not waking — a body’s protest — and Ivo said his name again, the person-name, as if naming could keep a pattern from completing wrong. Blood welled at the rib seal; Mateo adjusted; Ivo’s vision tunneled and widened again. The frightened man stayed. The scientist remained locked out, banging on the glass of Ivo’s skull with useful facts nobody needed more than the next ten meters of path.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Rally,” Mateo said. “Now. Ivo, you walk at the head and you do not invent a side investigation. Harun, you take rear and you do not invent a joke that jostles him.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I invent quiet jokes,” Harun said, thick. “Silent ones. In my heart.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Your heart is loud,” Mateo said. “Move.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They moved. Ivo walked at the head with a lamp and a path memory carved into him by panic. Every step was a negotiation with stone. He tested ledges with his boot before committing the litter’s weight. He held up a hand for stops when dust plumes suggested secondary drops. He hated how competent the frightened man could still be. Competence without the scientist was just love with a map.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Every sound behind him — litter scrape, Mateo’s breath, Harun’s ugly-walk — was a proof that the night had not finished them yet. Once Harun whispered, “Jun’s going to murder him for the ribs,” and Ivo said, “She can get in line,” and Harun laughed once, wetly, and Mateo told them both to save oxygen.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "When the east antechamber’s light finally showed, Nia’s silhouette filled the doorway like a verdict that might still be kind. Priya appeared beside her, mouth opening on Ivo’s name. Jonah with kits. The whole living count Nia worshipped. Ivo heard himself say, before any report, before any asset designation, before the scientist could reclaim the microphone:",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He’s alive. Help him. Please.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The please was not scientific. It was the whole frightened man, laid bare on the threshold, and he did not take it back. He stepped aside for the litter as if stepping aside were the last useful motion left in him, and when his knees tried to invent a collapse of their own, Priya’s hand found his elbow and held, hard.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’ve got you,” she said. “You’ve got him. Both can be true.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia’s eyes flicked from Calder’s color to Ivo’s face and filed something that would become a conversation later, if later remained kind. “Jonah — table. Mateo stays lead. Harun, sit before you fall and make this a two-litter night.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah was already at the litter with a voice like cold water. “Rib seal holding enough. Forearm needs more than field. He stays under. Ivo — you are not assisting. You are contaminating my sterile field with grief. Sit. Drink. If you faint on my patient I will be unkind.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m not fainting,” Ivo said, and sat because Priya pulled him down onto a dry step that still held the shape of old ceremonies, and drank because Jonah put a bottle in his hand like an order dressed as care, and watched Calder’s chest rise because watching was the only experiment he could still run. The frightened man stayed beside the table they made from a Keeper slab, and Calder did not wake, and Ivo did not leave, and that was the chapter’s whole remaining truth, held without looking away.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0034",
+    "number": 34,
+    "title": "Day One",
+    "arcId": "arc-4",
+    "volumeTitle": "Volume 4 — Three Days",
+    "epigraph": "Stable is a kindness we lend the living so the living can keep working. Do not confuse the loan with a verdict.",
+    "epigraphAttribution": "— Dr. Jonah Abebe, field notes",
+    "summary": "In a Keeper hall field hospital, Calder lies unconscious and stable if the word is kind. Ivo refuses a cot and reports the mission to a man who cannot hear it.",
+    "opening": {
+      "id": "hc-ch-0034-opening",
+      "promptId": "hc-ch-0034-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Keeper Hall",
+      "caption": "Lamps, gauze, and a vigil that refuses furniture",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Jonah Abebe had turned a Keeper hall into a hospital by the simple method of lying to architecture: this slab was a table, that niche was a pharmacy, the painted gods on the wall were witnesses who would not be allowed to vote. The Vein hummed faintly through the floor, a reminder that the building had opinions. Jonah ignored the opinions. Medicine was an argument with nature; the Reach simply made the argument louder.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Major Calder Rhys lay on the slab under a sheet that had once been a tent wall, unconscious, color closer to human than to stone, which Jonah filed under <em>stable if the word is kind</em>. Ribs: kite laceration cleaned, sealed, watched for the wet sounds that meant the lung was writing a worse chapter. He had irrigated until the water ran less red and more like a bad memory. Forearm: reduced as far as field reduction dared, splinted with a cast substitute Anouk had sworn was historically inaccurate and structurally sound — “I can be wrong about centuries and right about torque,” she had said, and Jonah had believed the torque. Circulation checked every twenty minutes by a man who refused to become superstitious and checked every fifteen anyway. Head: no obvious cranial catastrophe, pupils equal when Jonah lifted lids, which did not mean the brain agreed with optimism. Fever: low-grade, the body’s first editorial comment.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He’s out for days if we’re lucky,” Mateo said, voice low, washing blood that was not his from his wrists. “Lucky meaning alive. Not meaning convenient. Three days is my honest window before I start using uglier words.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Convenient left the Reach when Helix brought flares,” Jonah said. “You did good work in the corridor. You chose the bleed. Anouk is alive because she is excellent, not because you hovered. That is going to sit in your marriage like a stone you both agreed to carry. Go sit with her for ten minutes before she invents a mural emergency to check your pulse.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“She already did,” Mateo said. A tired smile cracked his face. “I told her Harun was the bleed. She said she knew. She’s terrifying when she’s proud of me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Good. Terror is a love language in this unit.” Jonah handed him a clean cloth. “Also eat. Bonded alphas who skip food make mistakes that look like heroism.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Yes, Doctor.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Around them the hall held the living in the shapes Nia permitted. Rhee nursed a radio that still coughed Pavel every nineteen minutes like a chronic condition; she had patched three workarounds and looked personally offended that a dead man’s cadence could out-engineer her. Sable slept sitting up with Ellis’s shoulder as an unauthorized pillow; Ellis pretended not to notice he was furniture and, once, mouthed something fond at a moth jar he had insisted on keeping “for morale,” which Jonah allowed because morale was a vital sign with worse paperwork. Hester read Pavel’s journal in a corner and pretended the reading was research rather than grief with better posture; once she laughed at a margin note and then looked furious at herself for laughing. Priya translated nothing aloud and watched Ivo as if Ivo were a text that might self-harm mid-sentence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun’s leg — Jonah checked it himself when Mateo was with Anouk — was gash-ugly and intact. “You will limp for pride,” Jonah told him. “Not for bone. Do not invent a prophecy.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I invent jokes,” Harun said. “Prophecies are Jun’s department.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun, eyes half-lidded, said, “My department is shooting. Stop volunteering me for metaphor.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo Maren refused the cot.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah had offered it twice with clinical neutrality and once with the kind of bluntness that usually moved scientists. “You are post-adrenaline. You will crash. Crashing on stone next to my patient makes you a second patient. Take the cot.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“No,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not rude. Not dramatic. Simply a closed system. He sat on a crate at Calder’s left — the uninjured side — with his elbows on his knees and his eyes on the major’s face as if blinking were a betrayal. He had washed his hands. He had not washed them enough; rust lived in his nail beds. Jonah did not comment. Shame was not antiseptic.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then sleep in the chair,” Jonah said, inventing a chair from two packs and a rolled tarp. “If you will not leave, you will still be a person with a spine. Spines are not optional equipment.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo moved to the tarp chair without calling it obedience. He did not sleep. He began, instead, to report the mission to a man who could not hear it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah listened because listening was how he knew whether ORCHID was dissociating or metabolizing. The report came in fragments, soft enough not to wake anyone who was actually able to sleep, precise enough to be filed. Once Ivo stopped mid-sentence and simply watched Calder breathe for a full minute. Jonah watched Ivo watch. That, too, was data.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Lumen-moths,” Ivo said to Calder’s stillness. “Stone in the wing. They map Vein nodes. Ellis talks to them. I thought it was eccentricity. It’s methodology with manners. You would have made a joke about insect consultants. I would have insulted the joke. That was our ecosystem. I broke it on purpose. Fixing ecosystems is supposed to be my job.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He paused. Counted Calder’s breaths the way Jonah did. Continued.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Glyphs. Ask and finish share a mouth. Priya won’t put the equivalence on the net. She’s right. Helix would call mercy a weapons program. Cho wants the Bell. We don’t let him have a clear sentence. That is still the job even when—” His voice thinned. “Even when the job is a man on a slab. Even when the man searched for me through patterns that didn’t hold. You gave Nia a rally point so your refusal wouldn’t kill the team. That was — that was very you. Competent even when compromised. I hate how much I rely on that sentence.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah adjusted a drip and did not interrupt. Mateo, returning, caught Jonah’s eye: <em>is he all right?</em> Jonah tipped his head: <em>define all right.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Helix,” Ivo went on. “Flare. Assault. Varga didn’t take a second shot on Jun when Jun was down. That matters. People who don’t finish executions can sometimes be argued with. Cho is not Varga. Cho is a speech with a budget. If he comes for the Bell while you’re under, Nia will stop him. I will help. I will not let your ribs be the price of his philosophy.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk brought a cup of broth and set it beside Ivo without asking. “Drink. Mateo says I’m excellent. Excellent people bully scientists. It’s in the literature.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo drank. Anouk squeezed his shoulder once, awkward and sincere, and left before gratitude could become a scene.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun sat against a pillar with Jun beside him, her wounded shoulder braced, his gash re-dressed. They were quiet in the way bonded pairs could be quiet without emptiness. Harun watched Ivo for a long time, then leaned toward Jun and whispered, not quietly enough for Jonah to miss:",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“That’s not an asset.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun’s mouth moved, almost a smile, almost a wound. “It hasn’t been.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah filed that under <em>team consensus</em> and under <em>do not put in the official report unless asked</em>. Official reports liked ORCHID. Official reports were cowards. He also filed the way Jun’s eyes stayed on Calder’s chest for a beat too long — snipers counted breathing without permission.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo kept talking. He told unconscious Calder about the gardener Wardens and the tray with the hazard knot on the lip like a warning label for husbandry. He told him about the Unfinished saying names from wrong angles because the Vein repeated introductions, and about Hester wanting to grant personhood by translation while Ivo wanted a baseline before mercy became a fuse. “You looked at me like tactics,” Ivo said. “It gutted me more than the ghosts. I asked for that look. I am consistent in my disasters.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He told him about the empty side of camp and the three steps toward speaking and the flare that interrupted like a rude god. He told him about Ellis and Sable on the ridge — “a careful kiss, Calder, careful, the kind you would have respected” — and about envy that had no joke attached. He told him about the nine minutes on the west cut and the gap and the overhang and the kite and the block. He told him, voice cracking on the edge of something Jonah pretended not to see, about a laugh he had not meant to give — days earlier, documenting moths with Priya — and how Calder’s face had changed when he heard it, and how Ivo had known even then and run from the knowing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I laughed,” Ivo said. “I didn’t mean to give it to you. You took it anyway. You take things. You took a search into a storm after I asked you for silence. You took glass for me. You don’t get to take death. I am — I am drafting a policy. Policy section one: stay. Section two: wake up and be annoying. Section three: do not make me finish this report alone.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah set a cup of oversteeped tea with cardamom on the crate within Ivo’s reach. Ellis’s doing, delivered via Rhee, who had said nothing and fled as if kindness were contraband. Ivo’s fingers found the cup without looking. He drank. He did not thank anyone. Thanks were for later, when the chest rose without being watched.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia appeared at Jonah’s shoulder like a weather front. “Numbers.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Stable if kind,” Jonah said. “Infection risk real. Pneumothorax risk real. He does not wake today. Maybe not tomorrow. Day three if the body is ambitious. Pain management is a negotiation with what we have left in the kits. Ivo stays. I am allowing it under protest and under the condition that he eats when I say eat and that he lets me check <em>his</em> hands for tremor twice a shift.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He’ll eat,” Nia said, looking at Ivo. “Or I’ll have Priya translate hunger into a language he respects. And if Cho probes the spur again, Sable has the ridge and Harun has the joke volume turned down by force. We are not losing the hall because the major decided to become a legend.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He decided to become a search party of one,” Jonah said. “Legends are your paperwork problem.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He’ll eat,” Nia repeated, louder, for Ivo. “He’ll also sleep in fragments. That is an order from the acting command, which is me until the slab releases him.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I can hear you,” Ivo said, without turning.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Good,” Nia said. “Hearing means you’re still in the room. Stay in the room. Do not invent a gallery run. Cho’s people are licking wounds on the spur. The Unfinished are quieter after the collapse. Quiet is not peace. Quiet is inhalation. If you leave this hall for curiosity I will have Rhee tag your kit with a tracker and I will not apologize.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I won’t leave,” Ivo said, and for once Jonah believed a promise without demanding a signature.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She left. Jonah admired her the way he admired a well-written protocol: not warmly, usefully. He also admired, against his will, the way the whole detachment had reorganized around one unconscious man without becoming useless — watches still stood, science still logged, Helix still monitored. Love had not canceled the mission. Love had simply stopped pretending it was not in the room.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Afternoon rain drummed the hall’s high cracks and made the painted Keepers look as if they were sweating wisdom. Calder’s fingers twitched once; Ivo surged forward; Jonah checked and found nothing that meant waking. “Phantom,” Jonah said. “Bodies rehearse. Don’t write a play. Also: your own hands are doing the chemist tremor. Eat the dried fruit Rhee left or I will narrate your blood sugar to Nia as a command issue.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo ate the fruit with the expression of a man complying under duress. “If he dreams,” he said, suddenly, “do people under like this dream?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Sometimes,” Jonah said. “Sometimes they hear more than we want. Assume anything you say might be filed. That is not a reason to stop talking. That is a reason to mean it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo sat back. His eyes were red. He did not wipe them when Jonah could see. Jonah turned away and gave him the privacy of a medical lie: <em>I am busy with ampules.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun again, to Jun, softer: “When Warden wakes he’s going to make a joke and Ivo’s going to try to murder him, and that’ll mean they’re fine.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“If he wakes,” Jun said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“When,” Harun said, stubborn as a braced door. “I didn’t walk ugly through a collapse to attend a quiet funeral. He owes me a loud recovery.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah did not correct the superstition. Sometimes stubbornness was a clinical adjunct. He checked Jun’s shoulder while he was there — through-and-through healing dirty but honest, shooting still painful, pride still intact — and told her she was banned from inventing a long-range solution to boredom. She told him he was banned from inventing metaphors about her trigger finger. They understood each other.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Evening rations arrived in tins that tasted like compromise. Nia enforced distribution personally, which meant no one escaped calories by looking tragic. Ivo ate half a bar under Mateo’s stare and glared at the second half as if the wrapper had insulted his methodology. Mateo unfolded his arms. Ivo ate the second half. Jonah marked it on a mental chart titled <em>wins</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He returned to the tarp chair. He resumed the report — smaller now, domestic, the kind of talk that kept a vigil from becoming a funeral rehearsal. Outside the hall’s cracked light, rain made the Reach sound almost ordinary. Inside, the painted Keepers watched with pigment eyes that had outlasted empires and would outlast, Jonah hoped, this particular stupidity of glass and stone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You smell like steel and citrus under the blocker,” Ivo said, almost inaudible. “I am not supposed to notice. I notice. Your jokes got worse when you locked them away. Nia clocked it. Everyone clocked it. I asked for it. I am very intelligent and very stupid. Stay so I can be stupid at you in person.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah caught Priya’s eye across the hall. Priya’s face said: <em>finally</em>. Jonah’s face said: <em>not your patient, not your confession to midwife</em>. Priya looked away first, which was grace. Later she brought Ivo a clean shirt from someone’s pack and stood over him until he changed out of the blood-stiff one, clinical as a mother and twice as unyielding.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Priya,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Don’t,” she said. “Don’t thank me. Thank him by being here when he wakes. And sleep in fragments if you won’t sleep in hours.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’ll try.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You won’t,” Priya said. “But I required the sentence.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near midnight the Vein hummed a tone higher and then settled, as if the city had rolled over in sleep. Pavel’s cadence arrived on schedule. Rhee cursed softly and did not cry; she wrote a note to her sister in a book she would never send and then burned the page in a tin because some debts were paid in ash. Hester closed the journal and opened it again. Sable shifted; Ellis woke enough to check her pulse with his fingers and then pretended he had been checking his own watch. Harun snored once; Jun elbowed him; he apologized to her shoulder as if the shoulder were a person.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah did a full check on Calder: seal, color, capillary refill on the uninjured hand, urine output in the field measure, lung sounds that were not yet a crisis. He checked the forearm’s fingers for warmth and got it. He checked Ivo’s pulse without asking and found it elevated, stubborn. “Still kind,” he murmured to Mateo.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Define kind,” Mateo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Breathing. Not septic. Not drowning on the inside. The bar is on the floor and I am still grateful for the bar. If Cho attacks at dawn I will be less grateful and more armed with ampules. That is not a joke.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Nothing you say is a joke,” Mateo said. “That’s why we keep you.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s head had dipped. For a moment Jonah thought sleep had won. Then Ivo jerked awake with a breath like a man who had dreamed of gaps in stone, and his hand found the slab’s edge, and his eyes found Calder’s face, and the vigil continued. Jonah pretended to invent a reason to adjust a lamp so Ivo would not have to admit he had been caught almost resting.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Day one,” Jonah said aloud, to the hall, to the painted Keepers, to the record he would write if they lived. “We hold. We do not ask the Marrow for shortcuts. We do not let Cho invent urgency out of our fear. And we do not call ORCHID an asset where the major can hear it when he wakes — because he will hear it, and he will be right to hate the noun.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun’s voice, dry, from the pillar: “He already hates the noun.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun, half-asleep: “That’s not an asset.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun, again: “It hasn’t been.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Good,” Jonah said. “Hate is a sign of circulation. Consensus is a sign the team still has a center.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He dimmed one lamp, left another for Ivo’s watch, and settled onto his own crate with a thermos and the particular patience of a physician who knew that three days was both a medical estimate and a narrative threat. Before he closed his eyes for a soldier’s twenty minutes, he said — soft, not for Ivo, for the work — “Wake up on day three, Major. The doctor is writing you a report. It would be rude not to receive it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder Rhys slept the sleep of the badly injured. Ivo Maren refused the cot. The hall kept them both, and Jonah kept the kind word <em>stable</em> like a coin on a drowning man’s tongue — not enough to save anyone by itself, enough to taste like continuing.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0035",
+    "number": 35,
+    "title": "Day Three",
+    "arcId": "arc-4",
+    "volumeTitle": "Volume 4 — Three Days",
+    "epigraph": "Some truths only arrive when the listener cannot interrupt. That is not mercy. That is accident. Use it carefully.",
+    "epigraphAttribution": "— anonymous margin, Keeper hall",
+    "summary": "Ivo breaks at Calder’s bedside: years of love, the rejection as fear, the plea to wake. He does not know Calder has been awake since the moths.",
+    "opening": {
+      "id": "hc-ch-0035-opening",
+      "promptId": "hc-ch-0035-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Third Morning",
+      "caption": "A hand on a chest and a truth that finally speaks",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "On the third morning the rain thinned to a mist that made the Keeper hall’s cracks glow like held breath, and Ivo Maren broke.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "He had not planned the breaking. He had planned another report — moths, glyphs, Helix, the laugh — the same loop Jonah pretended not to inventory. Day two had been a blur of the same: watches, broth, Priya forcing a clean shirt, Nia’s updates that Helix was licking wounds and Cho had not moved on the Bell, Hester saying Pavel would have hated the waiting and loved the stubbornness. Ivo had slept in pieces measured in minutes. He had dreamed of gaps in stone and woken reaching for a chest that was not falling.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s color was better on day three. Mateo had said <em>ambitious</em> without smiling. Jonah had said <em>day three if the body wants the plot</em>. The body had not yet signed the plot. Calder’s eyes stayed closed. His chest rose. Ivo’s world had narrowed to that rise until the narrowing itself became unbearable.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya had gone to the basin overlook with Hester under Nia’s reluctant leave — “naming scraps only, no verbs,” Nia had ordered — and Anouk was arguing with stone somewhere audible. The soldiers held watches. Ellis and Sable shared a quiet that no longer needed Ivo’s envy to exist; once Sable had brought Ivo water without commentary, which was her version of a hymn. Jonah slept in fragments on a crate. Mateo checked the forearm, nodded once to himself, and muttered to the splint like it was a subordinate.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before the break, Ivo had walked the hall once on Jonah’s orders — circulation, dignity, the pretense of being a person who could leave a bedside and return. He had passed Rhee’s set as Pavel said <em>don’t ask it</em> and had answered, under his breath, “I am asking a man to wake. Different verb. Different mouth.” Rhee had pretended not to hear and had handed him a protein bar like a sacrament. He had passed Harun and Jun; Harun had said, “Still not an asset,” and Jun had said, “Drink water,” and Ivo had done both the drinking and the not-arguing. He had returned to the slab because returning was the only itinerary that made sense.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo was alone enough.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He started the loop out of habit because habit was how he kept from screaming. “Lumen-moths,” he said. “Stone in the wing. Ellis talks to them. I thought it was eccentricity. It’s methodology with manners.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s breathing changed — a small catch, a deeper draw. Ivo froze, watched the lids, saw nothing he trusted, filed it under Jonah’s word <em>phantom</em>, and kept going because stopping felt like abandoning a post.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Glyphs,” he said. “Ask and finish. Priya’s teeth. Helix’s hunger. The laugh I didn’t mean to give you when the moths were stupid and alive and I forgot, for one second, to be a locked door.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He put his hand on Calder’s chest — careful of the seal, feeling heat and the stubborn engine underneath — and the tears came as if they had been waiting for permission from contact. He did not perform them. He simply failed to stop them. They landed on the sheet. One landed on his own wrist. He laughed once at that, a wrecked sound, and then he spoke the years because the years had nowhere else to go.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I loved you before I had the word,” he said. “That is not romantic. That is a diagnosis delivered late. At St. Briony I watched you know answers in the library and throw them away in the hall for laughter, and I hated the throwing, and I still looked for you in doorways like a fool with a scholarship and no armor. Do you remember the window? Rain like this rain. Pencil shavings. You almost asked a real question about vanished cities and then you swallowed it because your friends were coming. I remember. I have always remembered more than was good for me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He had to stop and breathe. The seal under his palm rose and fell. He continued as if continuing were the only ethical instrument left.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The notebook — you and your friends soaked a year of moth wings and a clumsy inscription after I corrected you in history. That was real harm. It was never flirtation. It was never a secret language for liking me. Do not ever let anyone tell you that story, including the part of you that wants a softer origin myth. I will not tell it. I am telling you this instead: I noticed you anyway. Noticing was the injury that kept growing. The shove in the east stair. The ghost sentence. The three library afternoons when you were almost decent and then chose not to be. I kept the ledger. I also kept looking. That is the part I can’t stand in myself, and it is still true.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "His thumb moved once against fabric, not a caress so much as a check. Alive. Alive. Alive.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Through the cruelty I loved the almost-decent hours and despised myself for the accounting. After the distance — years, cities, papers under I. Maren, blockers like locked doors, Tomas Ibarra being decent at a dock while I felt nothing useful — I built a man who did not need Calder Rhys. I published. I went into anomalous systems. I became ORCHID so thoroughly that even I almost believed the noun. Then you stood in a briefing tent and complained about flowers filing requests, and my body remembered a window in rain, and I hated you for the remembering. I called you Cal when revenge was still a tool. I made you carry the stylus case. I answered literally. It was not kind. It was not the shove returned. It was me proving I could touch the wound without bleeding out in public.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He swallowed. The hall’s Vein-hum sat in his bones, patient, as if interested in confessions the way it was interested in introductions.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You stopped before a kiss and named the power imbalance. That shook me more than a push would have. Then you confessed. Specific. No demand. No scent. No bargain. I’m not asking you to say it back, you said, and I rejected you anyway — because I will not be the proof that you turned out good. Goodness is not a trophy you hang on my neck. Because I was afraid the love was for the calm man — the measuring tilt, the locked scent, the competence — and not for the boy who got shoved and told to stay where ghosts belong. Because I cannot forgive on a schedule, and needing you felt unsurvivable if I was wrong. Because I said don’t make me the villain of your restraint, and you agreed, and the agreement was a door closing that I had ordered and already regretted. All of that is still true. All of that is also incomplete.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "His voice went quieter, the fear-going-quiet that usually meant he was about to do something irreversible in a lab.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I asked for silence and you gave it without punishing me. You ran the team with jokes locked away. You were polite. You did not look at me longer than tactics required. It hollowed me out. Priya asked why I was waiting for you to come over. I lied. I was waiting. I missed being annoyed with love in it. I ate without being told and resented the food. I watched Ellis kiss Sable on a ridge — careful, chosen, no heat-cycle to blame — and I did not mock them because envy is not a joke and because they crossed a small distance while I stood in a hallway I built. I took three steps toward you. Helix’s flare went up like the universe’s punchline. Then the basin broke and you searched for me through flooded tunnels and a kite nest and burning canopy and the nun-court, and people tried to stop you, and you refused and still gave Nia a rally point so the refusal wasn’t team suicide. That is not proof you are good. That is you being unable to leave a person under a rock. It is also the reason I am still breathing enough to say this.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Tears again. He did not wipe them. Wiping would have been composure, and composure had already failed its audit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You told me I was all right. You told me not to do the quiet thing. Then you went under with glass in your ribs and stone in your arm, and I said your name like a person, and my hands shook, and I cried on your blood, and I would not leave for the rally until Mateo showed me a litter with straps I could touch. The scientist ended. This is what was underneath. This has always been underneath. I have loved you badly and for years, Calder — badly meaning imperfectly, meaning with ledgers and fear and silence I weaponized against myself. Wake up. Please. Wake up and be unbearable. Wake up and complain that I’m wandering. Wake up and ask if I’ve eaten. Wake up and smile when I insult you. Wake up and let me be angry at the right volume while still — while still choosing to stay in the room where the truth is.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He pressed his forehead to the back of his own hand on Calder’s chest and breathed like a man counting reagents that would not dissolve. “Don’t you dare finish mid-sentence. Stay unfinished with me. Stay. I am not asking the Marrow. I am asking you. If the Vein wants a pattern, let it pattern itself on someone who keeps waking up when a scientist loses his architecture.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He sat back an inch, then failed at sitting back, and stayed bent over the slab like a question that refused to become a finish. A lumen-moth tapped the high crack again. Ivo watched it without naming it this time. Naming could wait. Waking could not.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not know — could not know — that Calder had been awake since the sentence about the moths.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "There had been that minute: the catch of breath, the flicker under the lid Ivo filed as phantom. Calder had been listening with the ruthless patience of someone who refused to steal a truth by interrupting it — who had already stolen enough in a school stairwell and would not add theft to a bedside. Ivo confessed into what he thought was unconsciousness because unconsciousness felt safer than a face that could answer, and because fear that went quiet still wanted a soft place to put the hardest sentences. If he had known the eyes behind the lids were open in secret, he might have stopped; the stopping would have been another architecture. He was glad, later, that he had not known. Gladness and mortification would arrive together. For now there was only the spent air and the slab and the third morning continuing without applause.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah stirred on his crate. Ivo lifted his head, wiped his face with his clean sleeve too late for dignity, and resumed the posture of a man merely checking vitals. Jonah’s eyes opened, assessed, and — mercifully — pretended to need coffee more than he needed to midwife a confession. He did glance once at Calder’s face with a physician’s suspicion, then chose kindness over exposure, which Ivo would thank him for later if later remained capable of thanks.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Color’s good,” Jonah said, voice rough with fake casualness. “Hand off the chest if you’re going to contaminate my seal with salt water. Or don’t. I’m too tired to win every fight. Drink something that isn’t grief.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’ll wash,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You always say that.” Jonah looked at Calder a moment longer, something unreadable moving through his expression — suspicion, hope, professional refusal to name either — and then he went to invent a task across the hall. Mateo, passing, glanced at Ivo’s face and did not ask. Harun, from the pillar, opened his mouth; Jun’s good hand closed gently over his wrist; Harun shut up, which was love.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo washed his hands in the basin niche. The water shook. He returned to the tarp chair. He sat. He watched. He did not repeat the confession; once was a break, twice would be a performance. The years sat in the air between his mouth and Calder’s stillness, spent. He thought of saying more — about the gardener mural, about callsigns, about wanting to hand Calder a metaphor for husbandry instead of spears — and found the well empty in the way wells were empty after you finally drew from them. Empty was not the same as regret. Empty was a cup that had done its work.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Outside, a lumen-moth tapped the crack of light as if mapping a node called <em>almost</em>. Ivo watched it and did not speak. Speaking had done enough. Waking — if waking came — would have to do the rest. He folded his empty hands in his lap like a man waiting for results, and refused to invent a softer ending than the one the body would choose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not see Calder’s mouth soften, under the cover of a breath, into the ghost of a smile too weak to own itself yet. He did not see the major’s uninjured fingers twitch once toward the sound of his name and then still, choosing patience over theft.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He only sat, hand empty now, chest aching with a quiet that was no longer only fear, and waited for day three to finish deciding whether it was a medical estimate or a door he would have to knock on with his whole remaining courage.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The waiting had shape. Minutes stacked. A watch change at the antechamber: Sable in, Rhee out, Ellis lingering to leave cardamom on the crate without making a speech. Ivo nodded thanks he did not voice. Anouk returned from stone with clay on her knees and stopped when she saw his face.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You look like you finally told the truth to a wall,” she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Something like that.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Good. Walls are poor conversationalists but excellent practice.” She glanced at Calder. “He’s going to wake up unbearable. Try not to invent a reason to take it back before he opens his eyes.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I won’t,” Ivo said, and meant it, and was still afraid, and stayed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester and Priya came back damp from the basin, quiet with the particular exhaustion of people who had given scraps of names to unfinished shadows and refused to give them a verb. Priya took one look at Ivo and knew — not the sentences, the spent quality of him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You spoke,” she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“To a man who couldn’t hear.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Or to a man who could and chose not to steal,” Priya said. “Either way, you spoke. Sit. I’m making tea that will offend you with its strength.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She made the tea. Ivo drank it. The cardamom clicked. Calder’s chest rose. Somewhere in the hall Harun told Jun a quiet joke and Jun did not shoot him, which counted as peace. Nia passed through, checked the perimeter board, checked Ivo once, and said only, “Still day three. Hold.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo held.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He thought of Calder’s smile — the one that used to arrive when insults landed as contact — and wanted it with a clarity that no longer felt unsurvivable, only costly. Cost he could pay. Cost he was already paying in salt on a sheet and a hand that smelled of antiseptic and fear. He did not take the confession back. He did not decorate it. He sat in its aftermath like a man sitting in a room he had finally unlocked from the inside.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah returned later with a fresh check and a frown that was mostly theater. “Still kind. Still under — or still performing under, which I will not speculate about on the record. If he heard you, that’s his ethical problem. If he didn’t, that’s yours for repeating yourself later to a conscious face. Either way, eat the rice.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo ate the rice. He watched. He waited. Between bites he found himself narrating smaller things again, not confession, just presence: the way Harun’s jokes had gone quiet for Jun’s shoulder; the way Mateo had chosen the bleed; the gardener mural’s tray; the Unfinished wanting rest. He did not say <em>won</em>. He did not say <em>love</em> again. He said, once, “I’m still angry,” and then, “I’m still here,” and left both sentences on the sheet like labels on specimens that had finally stopped fighting the pin.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia stopped at the slab on her evening round. “Day three’s almost done. If he wakes tonight I want you to wake Jonah first and me second. If you try to manage a medical event alone because you’re sentimental, I will invent a new kind of court-martial.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Understood,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Also,” Nia added, quieter, “for what it’s worth — the quiet version of him was correct and miserable. You both looked like people who won an argument with a ghost. Try winning something that isn’t a haunting next time.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She left before Ivo could answer. He sat with the rice tin empty and Calder’s hand warm under the sheet’s edge where Ivo’s fingers had drifted without permission. He thought of crossing twenty-two steps on a dusk before a flare. He thought of a ridge kiss he had not mocked. He thought of gardeners on a wall and a callsign that had become accidentally accurate. He did not say any of it aloud again. The confession had spent the main reservoir. What remained was vigil as practice, not as speech: breath count, tea, the refusal to invent a gallery run, the hard peace of having finally been exact.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Day three stretched, thin-lit and unfinished on purpose, and the door — if it was a door — stayed closed just long enough for the truth to finish landing where it belonged.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0036",
+    "number": 36,
+    "title": "Won",
+    "arcId": "arc-4",
+    "volumeTitle": "Volume 4 — Three Days",
+    "epigraph": "Interrupting a truth to claim it is another kind of theft. Wait. Then be unbearable on purpose.",
+    "epigraphAttribution": "— Maj. Calder Rhys, learned the hard way",
+    "summary": "Calder waited through the confession rather than steal it. Weak, smiling, he asks if he finally won. Ivo’s mortification becomes a hug that hurts and does not release.",
+    "opening": {
+      "id": "hc-ch-0036-opening",
+      "promptId": "hc-ch-0036-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Soft Verdict",
+      "caption": "A joke returns, and with it the room where truth lives",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Calder waited because interrupting the truth would have been another theft.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "He had come up through pain like a swimmer through dirty water — ribs screaming a curriculum, forearm a foreign country with bad borders, throat dry as old paper, the Keeper hall resolving in lamp-blurs and the smell of clove and antiseptic and oversteeped tea. For a stretch of time he could not measure, there was only the body’s argument: stay under, stay gone, let the dark be polite. Then Ivo’s voice pulled him the rest of the way up, not by volume, by specificity.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Moths. Stone in the wing. Ellis talking to insects like a man with manners.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder had almost spoken then — a joke, a <em>present</em>, a croak of his own name to prove the search had ended somewhere soft — and had stopped with a discipline that hurt worse than the ribs. Ivo’s hand was on his chest. Ivo’s voice was turning from report into something Calder had asked for once without demanding an echo. Calder Rhys had already taken enough from this man in a stairwell fourteen years ago. He would not take the shape of his honesty by cutting it in half for the comfort of being included sooner.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "So he lay still. He breathed the way injured men breathed when they were pretending to be under — shallow enough to sell the lie, deep enough not to panic the lung. He catalogued pain without performing it. He listened. Listening was work. Listening was the opposite of the east stair. Listening was how a wall learned to be a door without swinging into someone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "St. Briony arrived without soft lies: the notebook as harm, not flirtation; the shove; the ghost sentence; the ledger Ivo kept and the looking Ivo despised in himself. Calder took it. He did not flinch into excuses. Excuses were another shove dressed as explanation. He let the words sit in him like stitches he would not pick at. He saw, unwanted and clear, the boy he had been — proud, athletic, cruel in the casual way of people who thought consequences were for other people’s notebooks — and he did not ask the injured present to wash that boy clean. He only stayed still enough to hear the adult who had survived him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Through the cruelty, Ivo said, and after the distance, and Calder felt each era land: cities, papers, blockers, the building of a man who did not need him. Then the briefing tent. Flowers filing requests. A body remembering a window. Hate for the remembering. <em>Cal</em> as a pin. Stylus cases. Literal answers. Revenge that was not a shove returned. Calder took that too, and loved him for the precision of it, and did not smile yet because smiling would have been interruption.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The rejection arrived as fear, still true, incomplete. The silence as a gift that hollowed. The three steps. The flare. The search seen from the other side of unconsciousness as a story Ivo was giving him like evidence. The name said like a person. The litter. The plea to wake. Calder took every sentence like a ration he had not earned and would not waste by grabbing. When Ivo said <em>I have loved you badly and for years</em>, something in Calder’s chest tried to sit up without permission from the ribs. He held still. He held the tears. He held the stillness through Jonah’s fake casualness and Ivo washing his hands and the moth at the crack of light.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He held it while the hall made ordinary noises: Rhee’s set coughing Pavel on schedule, Harun’s low voice, Nia’s boots, Priya’s tea ritual, Ellis murmuring to a jar, Sable pretending not to listen. He held it until Ivo’s breathing settled into the aftermath of confession — spent, not soft — and the room no longer felt like a trap about to spring on a man mid-sentence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Day three light moved across the painted Keepers. Calder watched it through lashes and practiced patience like a skill he should have learned in a library instead of a stair. He thought of Nia’s face when his own face did the thing. He thought of the rally point he had given her so refusal would not be suicide. He thought of glass opening his ribs and stone shearing his arm and Ivo saying <em>Calder</em> like a person while blood made a map of panic. He thought of the polite days — no meal questions, no wandering complaints, no smiles for insults — and how obedience had felt like drowning in clean water. He thought, with a clarity that was almost funny, that he would trade every decoration he owned for one more hour of this listening, even the parts that hurt, even the parts that named him correctly as cruel and proud and late.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A memory surfaced without permission: Ivo in the briefing tent, declining coffee, accepting nothing, measuring speech like a specimen. Calder had wanted an arrogant eccentric. He had been given a man who made him step back half a pace without a speech. He had filed the bother under professional instinct. He had been wrong about the filing. He let the wrongness stay. Correcting it mid-confession would have been theft with better manners.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He almost coughed and turned the cough into a deeper fake-sleep breath. Ivo’s hand pressed once, checking. Calder hated worrying him and loved being checked in the same spoiled second. He waited through Priya’s return — damp voices, tea, Ivo’s spent quiet — and through Anouk’s clay-voiced advice about walls, and through Jonah’s rice order. He waited until the aftermath had somewhere to sit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Then, at the peak of the quiet, weak, smiling with a mouth that barely obeyed, he opened his eyes.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo was on the tarp chair, face wrecked and trying to be scientific about wreckage, watching Calder’s chest as if chest-watching were a peer-reviewed method. Their eyes met. Ivo’s went wide in a way that made Calder want to apologize and celebrate in the same breath. Calder felt the smile land fully, stupid and alive, the first joke in days that was also a door opening.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“So,” Calder said, voice a ruin with a joke still living in it. “Does this mean I finally won?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The silence that followed was short and absolute.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s face cycled through mortification, fury, relief, and something like murder in a span of seconds that Calder would treasure in worse weather. Color climbed Ivo’s throat. His hands opened and closed. For a moment Calder thought he might actually bolt — old habit, locked door — and then Ivo stood so fast the tarp chair collapsed into a useless soft heap. Somewhere behind Calder’s head a lamp hummed. Somewhere in his ribs a kite’s memory sang. None of it mattered as much as the fact that Ivo was still in the room, pink-eared and lethal with embarrassment, exactly where Calder needed him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You—” Ivo’s voice cracked into a whisper-shout. “You were awake. You were awake for — the moths. Since the moths. You let me — you absolute — Calder.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Moths,” Calder agreed. “I have excellent timing and worse character. Come here before Jonah sedates me for smiling. Also before I pass out mid-gloat and ruin my reputation for dramatic exits.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I will kill you,” Ivo said, and then he was at the slab, hands hovering over ribs he did not dare crush, eyes bright with tears he was done pretending were hypothetical. “You listened. You lay there and let me hand you every — every ugly ledger — and then you open with <em>won</em>?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I waited,” Calder said. Soft. No victory dance in the tone, only the joke’s shell around a serious center. “Stealing that mid-sentence would’ve been another shove. I’m retired from shoving. Mostly. The joke is how I survive knowing you said it. Help me sit a degree or I’ll aspirate my own punchline, and Jonah will write me up as a cautionary tale.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo helped him — careful, competent, furious — a hand behind Calder’s uninjured shoulder, an adjustment of the pad, a muttered inventory of pain scales that fooled no one. Calder hissed when the ribs complained. The forearm pulsed a sick heat. Ivo hissed sympathy and rage in the same breath and wiped at his own face with his wrist like a man offended by salt.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You don’t get to win,” Ivo said. “Winning is a stupid frame. This isn’t a match. This is years. This is still not forgiveness on a schedule. This is me telling the truth because you were dying and I couldn’t keep the architecture.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I know,” Calder said. “I said it anyway. Occupational hazard. Also: you love me. Badly. For years. I heard every clause. I’m keeping it. You can be angry about the keeping after you hydrate. There’s tea. It smells like a threat. Drink it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo made a sound that was almost a laugh and almost a sob and then he gave up on both and folded carefully into Calder’s uninjured side — not quite a hug at first, an approach, a negotiation with bandages and fear of harm — and then a hug that found a way despite the ribs. It hurt with a bright, specific honesty. Calder did not release. Ivo did not release. Calder’s uninjured hand found Ivo’s back and stayed there, palm flat, counting the fact of him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The hall, somewhere at the edges of Calder’s vision, developed sudden intense interest in other walls. Someone dropped a tin softly. Someone else whispered <em>finally</em> in a voice that might have been Priya’s and might have been the Reach itself learning a new word.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Don’t ever do that again,” Ivo said into Calder’s shoulder, voice muffling into fabric and skin.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I won’t,” Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He meant dying. He also meant leaving the room where Ivo was telling the truth. He meant the locked-case politeness that had been obedience and exile both. He meant becoming a search party of one without a hinge, even though some nights the map would run out again and he would have to negotiate with his own worst instincts — but he would try, God he would try, to stay in the room. He pressed his mouth once to Ivo’s hair, not a claim, a confirmation, and felt Ivo shudder and hold harder.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“If you quote the moths at me I will invent a toxin with your name on it,” Ivo said, still not letting go.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Romantic,” Calder whispered.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Clinical,” Ivo said. “And you smell like steel and citrus and blood, which is an offensive combination, and I am still here.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Good,” Calder said. “Stay. That’s an order dressed as begging. You’re better at detecting those than I am.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah arrived like a consequence with a scanner and an expression of professional betrayal. “He’s awake. Of course he’s awake and talking. Major — pain score. Do not say <em>occupational</em>. Do not say <em>I won</em>. Ivo — step back two centimeters so I can hate his vitals properly. Also congratulations to both of you for turning my hospital into a novella. Nia will be informed. Harun will be loud. Mateo will say he knew. I am increasing both of your fluid intakes out of spite.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Seven,” Calder said, of the pain, because honesty was suddenly fashionable. “Copy on the fluids. Does the novella have a sequel where the scientist admits he missed my complaining?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s ears went pink. He stepped back the two centimeters Jonah required and immediately reclaimed Calder’s uninjured hand as if the centimeters were a technicality. “You are unbearable.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You asked me to wake up and be unbearable,” Calder said. “I’m following orders. For once. Don’t get used to the obedience. Get used to the room.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s grip tightened. “The record stands. I don’t forget. I’m still here. That is not your proof of goodness. That is my choice. Do you understand the difference?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I understand,” Calder said. He squeezed back, weak and sure. “I’m here too. That’s the whole win. Stupid word. Accurate enough for a man with broken ribs and a soft verdict and three days of listening to Pavel on a radio he couldn’t throw.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia’s voice from the antechamber, already bracing for impact: “If he’s making jokes I want him alive enough to regret them in a briefing. And I want ORCHID — Ivo — to sit before he falls. That is also an order.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He’s alive,” Jonah called. “Regret pending. Sitting pending.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun whooped once, then apologized to Jun’s shoulder, then whooped again softer. “Warden! You dramatic — Jun, he’s smiling, look—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I see,” Jun said. “Tell him if he dies of punchlines I will be annoyed.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya appeared in the doorway, took in the joined hands, and smiled a small precise smile that meant <em>finally</em> without requiring a translation. “Welcome back to the unfinished sentence,” she said to Calder. “Try not to complete it stupidly.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Working on it,” Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis whispered something to a moth jar about cartography and consent. Sable pretended not to hear and failed to hide her mouth’s traitor curve. Mateo leaned in the frame beside Anouk; Anouk said, “Excellent survival,” to Calder, and Mateo said, “Terrible patient already,” and Calder loved them with the simple gratitude of a man who had been carried out of smoke.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester lifted Pavel’s journal in a half-toast. “He would have hated your joke,” she told Calder. “He would have loved that you waited. Don’t make me write you into a footnote as a cautionary romantic.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“No promises,” Calder said, and then winced, and then laughed under his breath because laughing hurt and was still better than the locked case.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee, from her set, muttered, “If Cho could hear this he’d invent a white paper on morale as a weapon. Good. Let him choke on it.” Nia told her to keep the net clean anyway. Rhee grinned like a woman paying a debt in working gear and did.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo sat when Nia pointed at a crate, still holding Calder’s hand across the gap, still mortified, still not leaving. Calder let the room be a room. He let the pain be pain. He let Ivo’s mortification warm the air like a second lamp. Outside, the Reach still hummed with unfinished hungers and Helix still existed on a spur and Director Cho still wanted a Bell no one in this hall would let him ring this volume or any polite week soon, and none of that was solved by a joke.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Inside, for the end of three days, Calder Rhys held the truth he had not stolen and the man who had finally spent it, and he did not leave the room.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah finished his check and muttered numbers that meant <em>alive loudly enough</em>. Mateo arrived to re-check the forearm and told Calder, without softening, “You scared my husband-by-bond’s favorite loud idiot, and you scared the doctor, and you scared me. Next time you decide to become a one-man search grid, take a second body or take my boot. Clear?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Clear,” Calder said. “Boot noted. Also — thank you for the litter. Tell Anouk her excellence is on the record. Tell Harun his ugly walk saved a better man’s ribs than mine deserved.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Your ribs deserve ordinary care,” Mateo said. “Save the poetry for the doctor.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun, from the pillar: “I’m the loud idiot. I’m honored. Also I’m fine. Leg’s a leg. Don’t make this about me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Everything is about you when you shout,” Jun said, fond.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis lifted the moth jar a fraction, as if toasting. Sable rolled her eyes and did not step away from his shoulder. Rhee’s set stayed quiet for one blessed stretch between Pavel’s appointments. The hall felt, briefly, like a place people could survive long enough to be embarrassed in.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder turned his head carefully toward Ivo again. The mortification had not left; it had simply made room for something steadier. “I missed complaining at you,” Calder said, because the sequel deserved an honest preface. “I missed it like a missing tooth. I kept the silence because you asked. Ask me to stop keeping it and I will make a nuisance of myself by breakfast.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“It’s afternoon,” Ivo said, helplessly precise.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then by dinner,” Calder said. “Technicalities. You’re rubbing off on me. Don’t look so alarmed. Competence is contagious. So is staying.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s mouth twitched. He looked at their joined hands as if the join required peer review and then, failing to find a flaw that mattered, left it in place. “Don’t ever do that again.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I won’t,” Calder said again, and this time Ivo nodded, accepting the double meaning without forcing it into a single gloss, and the Vein hummed once in Calder’s bones like a witness that had learned — for the moment — to leave a sentence unfinished on purpose. Calder closed his eyes for a second of permitted rest, opened them to find Ivo still there, and decided that was the only briefing that mattered.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah threatened another scan. Calder accepted it. Ivo did not let go of his hand during the scan, which made Jonah sigh through his nose and say, “Fine. Contaminate my methodology with affection. I am too old for purity.” Nia posted the next watch with a voice that had stopped bracing for funerals. Priya poured more offensive tea. Outside, rain resumed its ordinary personality. Inside, Calder catalogued one more fact for the after-action he would eventually write badly and Ivo would insult: that winning, if the word must be used, was not the confession and not the joke, but the refusal — mutual, stubborn, adult — to leave the room where the truth had finally been allowed to finish arriving.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Act IV ended there: not with a Bell, not with Helix broken, not with forgiveness scheduled — with a joke that had waited through moths and years, a hug that hurt, and two adults who had finally stopped pretending the empty side of the camp was safer than the truth.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0037",
+    "number": 37,
+    "title": "Still Us",
+    "arcId": "arc-5",
+    "volumeTitle": "Volume 5 — The Last Question",
+    "epigraph": "A wall that loves you is still a wall. Learn the door.",
+    "epigraphAttribution": "— Margin note, Aegis Detachment Seven protection brief, unsigned",
+    "summary": "Bandaged and newly honest, Calder and Ivo argue medicine against the map; both go down toward the Bell, still themselves.",
+    "opening": {
+      "id": "hc-ch-0037-opening",
+      "promptId": "hc-ch-0037-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Keeper Hall",
+      "caption": "Dawn, a sling, and two men who have stopped pretending",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Calder woke to the sound of someone being carefully quiet, which was how he knew it was Ivo and not Harun, who treated silence like a personal insult.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The Keeper hall had been a hospital for three days and a rumor for longer. Jonah had hung lamps in tins. Mateo had drawn chalk lines that meant <em>clean</em> and <em>do not bleed here</em> and <em>I will know if you move</em>. The air smelled of antiseptic, wet stone, and the particular green rot of a forest that had decided architecture was a kind of mulch. Outside, rain practiced its scales on the roof comb. Inside, Calder’s ribs practiced a different music every time he breathed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He was still in the sling. The forearm under the wrap felt like someone else’s problem that had been mailed to him without postage. The ribs were his. He knew them by name now. The kite had opened two of them the way a letter opener opens an envelope you would rather not read. Mateo said <em>cracked</em> when he was being kind and <em>opened</em> when he was being accurate. Calder preferred the second word. It kept him from pretending he was decorative.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo sat on the stool Mateo had forbidden him to sleep on and looked, at first glance, like composure had invented a man. Dark hair cut for humidity. Scar through the eyebrow catching the tin light. Hands folded as if they had never shaken. Calder, who had spent three days half-absent and then one afternoon awake under a confession he had not interrupted, knew better. The composure was a coat. Under it, with Calder alone in the room, Ivo was obvious the way weather was obvious once you stopped arguing with the sky.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re staring,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m inventorying. It’s free. Don’t bill the Directorate.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Your inventory is loud.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Everything about me is loud. You knew that before you hugged my ribs into a new religion.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Something moved at the corner of Ivo’s mouth. Not quite a smile. The almost-thing Calder had been collecting like moths in a jar, except the jar had a hole in it now and the moths came and went as they pleased. Ivo stood, checked the bandage at Calder’s wrist with two fingers that did not ask permission from anyone except the craft, and said, “Mateo will be here in twenty minutes. If you try to stand before that, I will tell Nia you requested a poetry reading.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Cruel.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Effective.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder sat up anyway, because the body wanted to prove it still belonged to him, and the ribs answered with a bright, precise disagreement. He breathed through it. Half volume. The cockiness had to live somewhere. He put it in his voice where it would not tear stitches.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“So,” he said. “Does this mean I finally—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“If you finish that sentence again I will invent a medical reason to sedate you.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You already invented reasons. They were very moving. I particularly enjoyed the part where you cried on my clavicle and accused me of winning.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s head tilted. Measuring. Always measuring. Calder had learned, in the worst way and the best, that the measuring was not contempt. It was how Ivo stayed in the room without becoming the room.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You waited,” Ivo said. “Through the moths. Through Helix. Through the part where I said I loved you before I had the word. You waited until I was finished humiliating myself.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Interrupting would have been another theft.” Calder kept it light because if he did not keep it light the hall would hear how much the waiting had cost. “Also I was enjoying the plot. Rare, for me. Usually I’m the plot.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re still the plot.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m a subplot with a sling. Try to keep your genres straight.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo set a cup within reach of Calder’s good hand. Oversteeped black tea. A crushed green cardamom pod knocking the enamel. Ellis’s generosity, Ivo’s precision. Calder drank and pretended the heat was only tea.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They were together. That was the fact the rain could not revise. They were also still themselves: Calder making jokes at half volume because full volume hurt, Ivo composed for the doorway and transparent for the man on the cot. Not a fade-out. Not a credits reel. Outside the hall, the expedition had not ended. Helix was still a shape in the canopy. The Bell was still a mouth under the Listening Court. The Unfinished still stood in water and asked for names. Love, it turned out, did not cancel geography.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia arrived as if she had been listening for the exact second the private conversation became a public liability. She took in the sling, the tea, the way Ivo stood too close and too carefully, and filed all of it under <em>problems I will not solve with a spreadsheet today</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Briefing in the outer court,” she said. “You can sit. You will sit. If you stand through the whole thing to prove a point, I will prove a counterpoint with a litter.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Captain Okonkwo, you wound me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The kite already did that. I’m just the follow-up correspondence.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stood. Slowly. The room tilted and then remembered its manners. Ivo’s hand hovered near his elbow and did not take it, which was its own kind of respect. Calder walked. Walking was a negotiation with bone. He negotiated.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The outer court held what was left of Detachment Seven and the science team that had not yet been eaten by ethics or stone. Harun sat with his back to a pillar, Jun’s good shoulder against his good side, Jun’s shot shoulder taped and furious about being taped. Sable cleaned a knife she did not need to clean. Ellis had a moth case open on his knee and was speaking to it in the low voice of a man who believed animals deserved better manners than humans. Rhee’s set murmured every nineteen minutes, the ghost still faithful, the vowel worn. Anouk and Hester were already mid-argument about whether a mural was a lab notebook or a liturgy. Priya sat with her private book closed and her face doing the thing it did when language was about to become someone’s problem. Jonah checked Calder’s pupils as if pupils were a moral failing. Mateo looked at the sling and said, “If you lift anything heavier than a pencil I will staple your ego to the floor.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Love you too,” Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Mateo did not smile. “I know.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Maps came out. The Listening Court. The cistern stair already half-mapped in blood and luck. The Bell, marked not with a red circle — red circles had become a joke — but with a blank that Anouk hated and Hester respected. Helix positions, estimated from Leona’s last flare pattern and Cho’s habit of treating dawn like a sacrament. Cho would move. That was not intelligence. That was character assessment.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder talked the room through the next forty hours the way he talked rooms through bad weather: jokes first, then the part where people might die, then the part where he expected them not to. His voice stayed at half volume. The ribs enforced the policy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“We seal the asking-chamber,” he said. “Flood the resonance. Break the wheel. No ringing. No samples that teach a verb. Ecology yes. Grammar no. If anyone has a beautiful reason to disagree, file it with Hester after we are alive.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester’s mouth tightened. Beautiful reasons were her specialty. She did not file one. Not yet.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo waited until the room had rearranged itself into tasks and then said, quiet enough that only Calder and Nia caught the edge, “You’re not going down.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder blinked. “I’m sorry, I think the tea translated that wrong.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Your forearm is sheared. Your ribs are opened. You lost three days. You cannot fight one-armed without cost, and the cost will be someone else’s blood when you pretend otherwise.” Ivo’s composure held for anyone watching from six meters. For Calder it was glass. “Mateo agrees. Jonah agrees. I am agreeing with them, which should alarm you.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“It does. Deeply. Also I’m the commander, and the map doesn’t care about my feelings or yours.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The map can be read by Nia.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia, traitorously, did not leap to defend him. She looked at Calder’s sling as if it had written a memo.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder felt the old heat climb his neck — not scent, not rank, just pride with a bruise on it. He sanded it. Sanding was a skill he had learned late and intended to keep.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Walk with me,” he said to Ivo.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They went to the edge of the court where a fig had broken a lintel and rain made a curtain you could stand behind if you did not mind being slightly drowned. Privacy, jungle style. Calder leaned his good shoulder to stone and let the bad arm hang in its sling like a flag of temporary surrender.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re not wrong about the medicine,” he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s eyes flickered. He had expected a fight shaped like a wall. Calder had offered a door. Dangerous. Attractive.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then sit the descent,” Ivo said. “Command from the hall. Radios. Pattern calls. Be the wall where walls belong.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“If Cho rings that Bell, the wall becomes coastline. You know that. You’ve drawn it. You’ve felt it in your teeth when the Vein shifts.” Calder kept his voice low. Half volume. Still cocky, because that was the coat he wore when he was afraid of being left out of the only work that mattered. “Nia can run the line. She is better than me at not being interesting. I am better than her at the blank on that map — the routes Cho will take because he thinks like a cartographer who hated being told no. I have been that man. I have also been the man who got you out from under a comb of stone. Both of those resumes are current.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You almost died.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I noticed. You hugged me about it. Very thorough. Ribs still filing a complaint.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo looked away, at the rain, at nothing. When he looked back the composure had slipped enough that Calder could see the man who had cried into a confession and then been teased for winning and had not, miraculously, murdered him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I will not watch you do it again for a principle,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“It’s not a principle. It’s a route.” Calder shifted, winced, recovered the joke before the wince could become a speech. “You win on medicine. Mateo gets a veto on anything that looks like me punching a wall for drama. I don’t punch walls. I punch people who deserve it, and even then I use the good arm. In exchange I win on the map. I go. You go. We both go, because the alternative is me sitting up here inventing heroism by radio while you invent restraint in a cistern, and we have already tried inventing things alone. It went poorly.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo was quiet long enough for the ghost on Rhee’s set to speak once through the stone, faint as a bad habit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>Don’t ask it.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re bargaining,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m negotiating with the only person who can make me sit down without a court-martial.” Calder tipped his head. “Also I’m charming. Don’t pretend you haven’t noticed. You’ve been noticing for fourteen years, which is embarrassing for both of us in different fonts.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“That,” Ivo said, “is not charming. That is evidence.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Take the evidence. Leave the joke. Or take both. I’m a package deal with a sling.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s hand came up and stopped short of Calder’s jaw, as if the scar there were a boundary he still respected even when the rest of the boundaries had burned. Then he touched, briefly, the strap of the sling where it crossed Calder’s shoulder — not a caress that asked for anything, a check, a scientist confirming a structure would hold.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You will tell me when the pain changes quality,” Ivo said. “Not when it becomes interesting. When it changes. You will not fight one-armed for pride. You will let Nia call the line. You will let me call the chamber. If I say we leave a beautiful thing unasked, you leave it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“And if I say Cho is thirty meters left of your beautiful thing?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then I move.” Ivo’s mouth almost did the smile again. “I can learn a map. You can learn a rib. Those are compatible if neither of us pretends to be the other’s soul.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder laughed, short, careful of the opened places. “Deal. Partnership. Not possession. Write it on a form so the Directorate can misunderstand it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’d rather write it on you, but your paperwork is already crowded.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "That landed somewhere behind Calder’s sternum that had nothing to do with the kite. He filed it under <em>later, when we are not about to walk into a mouth</em>. Later had become a country he was willing to visit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They went back. Nia took one look at their faces and said, “You’re both going. Of course you are. I’ll adjust the litter budget.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Captain,” Calder said, “your faith sustains me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“My faith is a contingency plan with sarcasm.” She tapped the blank on the map. “Helix will try the west cistern stair at first light if Cho is consistent. Leona may not be. If she offers a parley, you don’t shoot the messenger until the messenger shoots. If she offers a deal, Ivo holds the ecological terms. You hold the trigger discipline. Clear?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Clear,” Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo nodded once. Priya, across the court, watched that nod the way she watched a knot that meant two things.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The afternoon was work. Rhee laid charges that looked like structural honesty and were, in fact, structural honesty with a temper. Sable and Ellis argued about the eel-gate: whether metal-song could be aimed, whether aiming animals was ethics or weather. Harun made Jun rest by inventing a contest Jun could win sitting down. Anouk photographed murals with the grim affection of a woman married to evidence. Hester stood at the edge of the Unfinished’s water and did not speak their names, not yet, because names were a kind of asking and she had learned the hard way what asking cost.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder practiced being useful with one arm. He could hold a radio. He could point. He could put his body in a doorway and make the doorway mean something. He could not climb the way he had climbed three days ago. He could not catch a falling comb of stone. The knowledge sat in him like a second sling: awkward, necessary, not decorative.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Near dusk Mateo changed the wrap and said, without looking up, “You’re going to hurt. Hurt is information. Collapse is a briefing you give too late.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’ve given late briefings.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Give this one early.” Mateo tied the knot with the tenderness of a man who would deny tenderness under oath. “And tell Maren when you’re lying. He’s better at catching it than I am, which is insulting.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He’s better at everything that involves noticing me. It’s a design flaw.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“It’s a feature. Don’t break it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun ambled over as if ambulating were a joke he had invented, Jun a half-step behind with the patient fury of a sniper told to babysit her own shoulder. Harun eyed the sling. “Major. Permission to say you look like a parade float that lost a fight with a kite.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Permission denied. Say it anyway.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You look like a parade float that lost a fight with a kite.” Harun’s grin tilted. “We’re glad you’re loud again. Quiet you was bad for morale. Quiet Maren was worse. The two of you doing silent theater in the same camp was like watching a radio eat itself.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun’s mouth did its almost-smile. “He’s saying thank you for not dying. He’s bad at the soft words.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m excellent at soft words,” Harun said. “I just store them in a bunker.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder tipped two fingers off his brow in a salute that cost him more than he showed. “Bunker appreciated. Keep your bonded disaster on a short leash tomorrow. I need both of you stupidly alive.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Copy,” Jun said, and the word carried more weight than most people’s vows.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Night came as a pressure change more than a color. The Vein hummed in the bone. Calder sat on the cot and watched Ivo pretend to sleep in the chair Jonah had blessed with a shrug. After an hour Ivo’s breathing evened. After another, Calder reached across the gap with his good hand and found Ivo’s wrist, not to wake him, only to confirm the pulse was still a pulse and not a pattern the Marrow had borrowed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s eyes opened. No panic. Assessment, then recognition, then the private softness that did not belong to any dossier.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Still us,” Calder said, quiet.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Still us,” Ivo answered. “Don’t make it a slogan.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Too late. I’m embroidering it on the sling.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re impossible.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You chose me. While conscious. While cruelly honest about moths. I have witnesses.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo turned his hand and laced their fingers, careful of the sheared forearm, careful of everything that still hurt and everything that would. “I chose the man who carried the jacket. Who left the tent when I asked him to stop asking. Who searched tunnels instead of inventing a speech. I am still choosing. That is not the same as forgetting.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder swallowed. The joke rose and he let it rise, because the joke was how he stayed himself while being rewritten.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Good,” he said. “Forgetting would be boring. I intend to be interesting at half volume for years.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Years is optimistic.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Years is a map. You’re good at maps when you stop pretending you’re only good at specimens.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rain thickened. Somewhere below them the cisterns held their quiet like a held breath. Somewhere in the canopy Cho was counting hours until dawn. In the Keeper hall, Calder Rhys — decorated, bandaged, newly partnered, still a little shit in the ways that had survived improvement — closed his eyes with Ivo’s pulse under his thumb and did not ask the dark anything it might be willing to finish.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At 0400 Nia woke them with coffee that tasted like a threat and a plan that tasted like weather. They went down toward the Listening Court together: science and wall, medicine and map, two adults who were good at their jobs and wrong in specific, surviving ways. The adventure had not ended when the feelings peaked. The feelings had only made the next door honest.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder adjusted the sling, set his face to cocky-at-half-volume, and followed Ivo into the green dark as if following were a kind of command he had finally learned how to give himself.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0038",
+    "number": 38,
+    "title": "Her Brother",
+    "arcId": "arc-5",
+    "volumeTitle": "Volume 5 — The Last Question",
+    "epigraph": "Grief is not a clearance. It is a reason that still requires witnesses.",
+    "epigraphAttribution": "— Captain Leona Varga, unsent letter to a redacted file",
+    "summary": "Leona parleys under a fig lintel: Cho rings at dawn; she will help stop him if the ecological record survives without teaching the ask.",
+    "opening": {
+      "id": "hc-ch-0038-opening",
+      "promptId": "hc-ch-0038-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The West Causeway",
+      "caption": "Rain, a white flag that is not white, two commanders who will not forgive each other cleanly",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Leona Varga did not believe in clean parleys. She believed in weather, timing, and the particular stupidity of men who thought dawn was a moral argument.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The night before, on the ridge, she had dreamed Tomas again. Not the anomaly — the anomaly never arrived in dreams with the courtesy of a plot. She dreamed the kitchen in their mother’s house in the dry season, Tomas nineteen and too tall for the doorway, arguing that a coastal thermal buoy was romantic if you squinted. He had wanted to map heat the way other people mapped coastlines. The Compact had given him a badge and a silence. After the event, the silence grew black rectangles. Leona had learned to read around them the way you learned to walk around furniture in the dark. You still bruised your shins. You just stopped announcing the bruises.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She woke before the dream could invent a better ending. Cho’s tent glowed. The cracked bell in its crate made a soft wooden complaint when the wind shifted. She checked her people by habit: two on the north gallery, one watching the Unfinished’s water with salt ready, one pretending sleep while listening to Aegis radios die and resurrect in Pavel Ruiz’s old cadence. Helix Meridian paid for competence. It did not pay for sleep.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re going down,” Cho said when she entered, not looking up from a sketch of the striker approach. “Don’t. Parley is how soft armies invent permission.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Parley is how I keep six of ours from dying on a stair you haven’t walked,” Leona said. “You ring at dawn. You’ve said it enough times that the trees could quote you. I’m buying the shape of their refusal so your dawn isn’t a surprise party with bullets.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He looked at her then. Alpha scent under blocker: dry ink, old paper, the ghost of a man who had once drawn Compact maps and decided private money was a cleaner god. “Leona. If they offer you ethics, remember ethics is what people call it when they want you to remain unarmed.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“If they offer me a record,” she said, “I will listen. Tomas didn’t die so I could become you with better manners.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho’s mouth flattened. He did not rise to it. Rising would have required admitting he heard her. “Take a white flag if it comforts you. Be back before the light changes. If Maren tries to make you feel seen, remember he is paid to see systems, not sisters.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She left without the white flag. White was theater. Theater got people killed when the audience thought it was a contract.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The west causeway of Qalen-Sar ran like a broken spine between two basins that had forgotten they were architecture. Fig roots had shouldered the stone into a series of decisions. Black water stood in the joints. Lumen-moths drifted in slow commas above the wet, stone-dust on their wings making a cartography nobody had asked them to draw. Helix held the ridge. Aegis held the court. Between them was a strip of rain and the kind of quiet that meant both sides had decided, for one hour, that shooting would be less informative than talking.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She went alone because Cho had told her not to, which was as close as their working relationship came to affection. He was fifty-one and still believed maps could be argued into obedience. She was thirty-six and had buried a brother in a sentence the Compact had redacted down to weather. Those were not the same education.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The signal was a strip of pale cloth on a stick, not white — white would have been theater — but the washed gray of a bandage someone had boiled twice. She planted it in a crack where a Warden’s old glyph had worn smooth and waited with her hands visible. Beta scent: steady, hard to counterfeit, useful when alphas on both sides were trying not to invent meanings out of fear. Rain found the collar of her jacket and stayed there like a second opinion.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "While she waited she catalogued what she would not say. She would not say she had watched Park go down and chosen not to finish her. She would not say the choice still felt like a theft from the version of herself that wanted clean victories. She would not say Cho’s cracked bell frightened her more than Aegis rifles, because a rifle ended a person and a bell might end a coastline’s right to remain plural.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They came as a pair, which she had expected and still disliked. Major Rhys with his arm in a sling and his humor sanded down to a working edge. Dr. Maren a half-step off his shoulder, blockers locked, composure so complete it looked like arrogance until you watched his eyes. Leona had watched his eyes on the ridge when her people put a round through Park’s shoulder. Maren had not screamed. He had become quieter. Quiet people were the ones who rearranged rooms.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Behind them, at a polite lethal distance, Captain Okonkwo and a sniper’s patience that Leona recognized as Park’s even with the braced left side. Leona had not taken the second shot. She still dreamed the angle. Mercy was not absolution. It was a ledger entry you had to keep paying interest on.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Captain Varga,” Rhys said. Pleasant. Pleasant was a tool. She respected tools. “You’re early. I hate early. It implies optimism.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Director Cho rings the Bell at dawn,” she said. No preamble. Premables were for people who still thought the jungle negotiated. “Regardless of your Unfinished. Regardless of the coast. Regardless of me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Maren’s head tilted. Measuring. “He’s consistent.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He’s terrified of dying of old ethics,” Leona said. “Consistency is what terror wears when it has a budget.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhys glanced at the ridge, then back. Rain beaded on the scar along his jaw. He looked like a man who had recently lost an argument with stone and was pretending the stone had apologized. “You’re here to warn us. Touching. Or you’re here to buy time while he moves kit. Also touching, in a stabbing way.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m here because my brother died in an anomaly the Compact classified and walked away from.” She kept her voice flat. Flat was how you stopped grief from becoming a performance other people could dismiss. “They gave my mother a paragraph with the middle blacked out. They gave me a career in private contracts because public ones teach you how to love a redaction. Cho thinks the Marrow is a tool that ends drought and disease. I think it is a tool that ends the kind of sentence that ate Tomas.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She had not meant to say the name. The causeway took it anyway. Rain made a soft applause on the fig leaves. Maren did not look away. Rhys’s mouth tightened, not in sympathy — sympathy would have been insulting — but in the recognition of a motive that could not be joked into smaller clothes.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Tomas Varga,” Maren said. Not a question. He had read something, or inferred it, or done that scientist’s trick of treating a person’s posture as a citation. “Classified under coastal thermal event. The file says <em>weather</em>. The file is lying.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The file is tidy,” Leona said. “Tidy is the Compact’s favorite violence.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Okonkwo’s voice carried from the rear, dry. “We’re not the Compact.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re the Directorate’s hands,” Leona answered without turning. “Hands still bury people. They just write better after-action reports.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhys shifted his weight and winced in a way he tried to turn into a shrug. The sling made the shrug honest. “Say the deal before my ribs file a minority report.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona looked at Maren, not at the major. The major was a wall. Walls could be climbed, bribed, or waited out. The scientist was the one who decided what left the basin as knowledge.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I will help you stop the ring,” she said. “My people will not die for Cho’s dawn if I can redirect them. I will give you the west stair timing and the charge pattern he’s using to keep the Unfinished off the approach. In exchange, the ecological record survives. Not a trophy. Not a weapon. A record. Something Tomas’s death can sit next to without being lonely.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Maren was quiet. The quiet had edges. “Define <em>survives</em>.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Notes. Maps of Vein behavior. Creature ecology. How the cisterns store signal. How the moths track nodes. The living system — not the asking grammar. I am not stupid enough to think Helix should own a verb that finishes cities. I am also not holy enough to burn the forest’s diary because a major prefers sealed doors.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhys laughed once, short, careful. “Holy was never in my fitness report.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You sealed things for a living before this canopy,” Leona said. “Don’t pretend containment isn’t your love language.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Containment keeps coasts from becoming sentences,” Rhys said. “Your brother deserved better than a black bar. That doesn’t make every unlocked door a memorial.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Maren lifted a hand — not quite touching Rhys, a check in the air — and Rhys stopped talking, which interested Leona more than any threat display. Partnership already. Fresh. Fragile. Useful.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I can promise a record that cannot teach the ask,” Maren said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona felt something in her chest unclench and immediately hated the feeling. Hope was a liability with good posture. “Say it again without the poetry.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Ecology. Behavior. Hydrology. The Reach as a system that finishes patterns when patterns are fed to it — described as phenomenon, not as method. No asking-wheel stanza. No knot that equates ask and finish in a form a lab can reproduce. No striker geometry. No vat sequence that turns a question into flesh.” His voice stayed level, budget-discussion calm. “You get enough to stop the next family from being told <em>weather</em>. You do not get enough to become the weather.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“And if Cho gets there first?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then we stop him,” Rhys said. “With or without your help. Prefer with. Prefer you alive enough to hate us afterward.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona looked past them at the Listening Court, where stone held rain like a held breath. She thought of Tomas at nineteen, laughing at a coastal buoy, the last photograph before the anomaly made the photograph a relic. She thought of Cho in the ridge tent last night, polishing the cracked bell’s striker as if polish were prayer, saying <em>responsibility</em> the way other men said <em>destiny</em>. She thought of Park on the ground with a through-and-through and the second shot Leona had not taken, and how that mercy would mean nothing if the coast finished into one organism because she wanted a prettier archive.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Furious,” she said aloud.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Maren waited.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I accept,” she said. “Furious and grateful. Those can share a body. Don’t make me explain it to your report.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I won’t,” Maren said. “I’ll put it in mine as terms. Terms survive better than feelings.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhys did not look grateful. He looked like a man smelling a trap he had agreed to walk into because the alternative smelled worse. “I don’t trust you.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Good,” Leona said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I trust his terms.” He jerked his chin at Maren, sling straps shifting. “If you deviate — if you use the stop as cover for a grab — I will not have a philosophical conversation about your brother. I will end the conversation.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Understood.” She almost smiled. Almost. Smiles were currency she spent carefully. “For what it’s worth, Major, I don’t trust you either. You look like the Compact’s favorite kind of handsome problem. But your scientist just refused me a weapon and offered me a diary, and that is the first honest bargain I’ve heard since Tomas’s file grew black rectangles.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Okonkwo called, soft, “Time.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona planted the timing in the air between them like a tool on a table. West cistern stair at first light. Two diversion teams on the north gallery to pull Aegis eyes. Cho himself on the striker approach with a six-person wedge and a cracked bell they had hauled through three ridges because Cho believed cracks were authenticity. Metal cache on the mid-ledge — radios and tags bagged to keep the eels quiet until someone was stupid enough to sing. She gave them the charge pattern for the Unfinished: salt and irregular noise, which her people had learned the expensive way. She did not give them the names of the men who would die if the plan went wrong. Names were another kind of asking.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhys asked two clarifying questions about angles and fallback routes. Good questions. Annoying. She answered them. Maren asked one question that was not tactical at all: whether any of Cho’s people understood that ask and finish shared a mouth. Leona said, “They understand it as a slogan. Slogans are how you get men to carry a cracked bell uphill. Understanding as grammar is rarer. I’m rarer. Don’t make me regret proving it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Maren listened without writing. Writing would have been a second negotiation. When she finished he said, “The notes you take when you leave will be the notes I let you see. Not the stanza. If you steal past that, you become Cho with better grief.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I know what I am,” Leona said. “Sympathetic is not absolved. I read the same manuals you did. The difference is I stopped waiting for the Compact to love a corpse enough to print its name in full.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhys’s mouth twitched. “She’s funny. I hate that.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Hate it on your own time,” Leona said. “Dawn is coming whether you joke at it or not. And Major — if Park’s shoulder still hurts, tell her the second shot stayed on my finger. That isn’t friendship. It’s a fact she can use when she decides whether to put one through me later.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Park, up the slope, did not call down. The silence was answer enough. Leona filed it beside Tomas’s redacted paragraph: another unfinished sentence she would have to live beside without pretending it was closed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She turned back toward the ridge. Halfway up the causeway she stopped, because stopping was how you kept a promise from becoming a performance. Rain ran into her eyes. She did not wipe it. Wiping would have looked like crying, and she was not crying. She was furious. She was grateful. She was a beta field commander who had just agreed to betray a dawn for a record that would not bring Tomas back and might keep the next Tomas from becoming weather.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Behind her, low, Rhys said something she was not meant to hear and heard anyway: “If she’s lying, the terms still bind us. We seal it. We don’t become her brother’s redaction with better fonts.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Maren’s answer was softer. “The terms bind. She can leave with what cannot teach. That is the mercy I can afford.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona climbed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The ridge path took longer going up than coming down. Gravity was a partisan. Her calves burned. She used the burn as a metronome and made herself rehearse the next hour: what she would tell Cho, what she would tell her squad leads, what she would write on the waterproof pages when the sealing was done and she walked toward the river with a theft smaller than the one she had planned. Ecology. Not the stanza. Maren’s mercy was also a leash. She could live with a leash if the leash kept coastlines from becoming one hungry sentence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A Helix scout — Keller, young, too eager — met her at the scrub line. “Captain. The Director wants—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I know what he wants,” Leona said. “Tell the north gallery to hold diversion until my mark, not his. If anyone moves early, they answer to me while they can still answer.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Keller’s eyes widened. He was not stupid. He heard the fracture. “Yes, Captain.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho was waiting in the ridge tent with a lamp that made his face younger and worse. Maps everywhere. The cracked bell in its crate like a saint’s bone. He looked up and read her in one glance, the way cartographers read coastlines for lies.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Well?” he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They’ll fight the ring,” she said. True. “They’ll try to seal.” Also true. “I bought us a clearer picture of their descent.” The lie lived in the spacing, not the words. She had always been good at spacing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho smiled the smile of a man who thought he had taught her. “At dawn we ask the only question worth asking.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“At dawn,” Leona said, “we find out whether the forest answers men who confuse grief with a key.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did not hear the warning. He heard loyalty. She let him. He returned to the striker sketch, humming under his breath a tune that might have been a hymn or a navigation mnemonic. Leona stood a moment longer, watching his hands. Competent hands. Hands that had drawn borders and then decided borders were vanity if living systems could be edited. She thought of Tomas’s hands on a buoy cable. She thought of Maren’s voice promising a diary that could not teach a mouth to speak. She thought of Rhys’s distrust like a clean blade left on a table — not pointed at her yet, but not sheathed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Outside, the Vein hummed one steady note through the water table, finishing nothing yet, waiting for a pattern large enough to love. Leona checked her rifle, checked the packet of blank waterproof pages she would fill with ecology and not with grammar, and prepared to help stop the thing she had spent a career trying to reach.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the dark beyond the tent flap, one of her people laughed at something small. The laugh sounded like a life that still believed tomorrow was a place you walked into upright. Leona did not join it. She filed it under reasons to keep the coast plural.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Furious. Grateful. Not clean.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the causeway below, the gray cloth still fluttered. Nobody had taken it down. In a place like this, even a temporary peace was a specimen worth leaving on the stone until rain decided otherwise.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0039",
+    "number": 39,
+    "title": "The Listening Court",
+    "arcId": "arc-5",
+    "volumeTitle": "Volume 5 — The Last Question",
+    "epigraph": "Mercy that names and mercy that refuses to teach are not the same hand. Use both or become a dictionary with blood in it.",
+    "epigraphAttribution": "— Priya Raman, private glossary, page folded twice",
+    "summary": "Priya walks the murals aloud; some Unfinished reclaim a scrap of name; she decides to break the weapon stanza in the official copy.",
+    "opening": {
+      "id": "hc-ch-0039-opening",
+      "promptId": "hc-ch-0039-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Mural Walk",
+      "caption": "Shadow, water, and names given back by halves",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Priya Raman entered the Listening Court the way she entered any text that could kill her: boots dry where possible, hands empty of certainty, private book closed until the stone earned an opening.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "She had slept badly on purpose. Sleep made her generous, and generosity was a contaminant when a language could finish a coastline. In the Keeper hall before dawn she had recopied three funerary cords by touch alone, eyes shut, checking whether her fingers still agreed with yesterday’s fingers. They did, mostly. The disagreements she circled in pencil soft enough to erase. Erasure was also scholarship. People forgot that when they wanted linguists to be priests. Outside the hall the rain had practiced the same phrase for an hour, and Priya had caught herself translating it, which was when she knew she needed tea more than she needed another theory. She drank standing up, the way she still did before exams that could fail a civilization instead of a student.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo found her there with tea and the expression of a man who recognized a vigil by its posture. “You’re going to give them names.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Some,” she said. “If the cords hold. If the water doesn’t treat a name as an ask.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“If it does?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then I stop, and Hester hates me, and I live with both. Living with both is the job description nobody prints on the grant.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He nodded. He did not offer to carry the moral weight for her. That was why she could still work beside him after years of conferences and one drunken kitchen confession about a boy named Cal.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The chamber was larger than the first cistern stair and quieter in a way that was not peace. Water sheeted the floor in a shallow, intentional flood, black-green, warm against the shin when you misstepped. The walls rose in three registers of carved knot and painted mineral — Speaker, Keeper, Warden — the triad walking left to right as a grammar of government and then, higher, as a grammar of catastrophe. Lumen-moths clung to the upper cornice like living punctuation. The Vein hummed through the water and through Priya’s teeth, a note she had stopped calling beautiful days ago. Beauty was still there. Beauty had become a hazard classification.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Behind her the team arranged itself with the competence of people who had learned which silences were tactical. Calder at the entrance, sling dark with yesterday’s rain, humor filed down to a working edge. Ivo beside the first mural panel, head tilted, measuring the paint as if paint might bolt. Nia counting exits with her mouth. Hester already too close to the water, clove and paper fighting the blocker patch. Anouk with a camera she was not allowed to use until Priya said the light was honest. Ellis whispering an apology to a moth that had landed on his sleeve. Sable watching Ellis as if apology were a combat skill. Jun braced left, Harun a loud quiet at her back. Rhee’s set on a dry ledge, nineteen-minute faith ongoing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The Unfinished stood in the water.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya had seen them before, in the basin after the collapse: partial people, missing a dimension, voices arriving from the angle you were not looking. Weapons passed through unless you struck the shadow they cast on water. Today they had come into the court as if invited by the murals’ attention. Some were almost whole if you did not turn your head. Some were only a pressure where a shoulder should be. One had a child’s height and an old woman’s patience. They wanted the question finished so they could stop. Priya had wanted, for days, to grant them personhood by translation. Ivo had wanted more data before mercy became a mistake. Standing here, with dawn’s Helix problem waiting under the floor, she understood both hungers as the same knot worn from different sides.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“We walk it,” she said. “Aloud. If I stop, nobody finishes my sentence. If the water answers, we do not answer back.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Copy,” Calder said. Soft. The court made soft into a kind of armor.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya began at the Speaker’s register.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The first panel showed a figure with an open hand toward the canopy, mouth shaped around a word the paint had made into light. Knot-glyphs climbed the figure’s forearm like a sleeve of questions. Priya put her fingers to the stone cord — not the painted one, the carved twin beneath — and read by touch and by the angle of the tin light Nia had reluctantly allowed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Speaker,” she translated. “Voice outward. Not a king. A throat the city borrows when it needs the forest to hear a boundary.” She moved along the panel, fingers finding a secondary cord that previous rubbings had treated as ornament. It was not ornament. “Here the Speaker names the Vein as membrane — Listening Rain — and asks the Marrow beneath the water table for weather that does not kill the plantings.” A pause. The Unfinished leaned, a collective almost-motion. “The ask is small. The paint is proud. Pride is a contaminant. Notice the moths in the border — they’re not decoration. They’re a legend key. Stone-dust on the wing marks active nodes. Ellis was right months ago and I hated admitting it in a margin.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis made a small, wounded-happy sound. Sable looked at the ceiling as if the ceiling could save her from fondness.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk made a noise that meant she disagreed with <em>proud</em> and would argue later. Hester’s hand hovered near the water and did not touch.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Keeper next: figures kneeling with cord-books, hyphae of ink, children asleep under a song Priya recognized with a flinch as the root-nun lullaby’s uncorrupted ancestor. She had heard the corrupted version in the dark with hyphae hunting sweat; hearing the clean version in paint made her want to sit down and refuse the rest of her career. She did not sit. “Keeper,” she said. “Memory. Not nostalgia. Inventory. They stored biological signal in cisterns the way other people stored grain. Scent as syntax. Guardians bred to protect quiet, not territory. The eels are in the next panel — wait — yes. Metal is a shout. They hate the shout. If you take nothing else from this wall, take that: quiet was policy, not poetry.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis exhaled. Sable’s jaw eased a millimeter. Data made some people kinder.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Warden: gardeners of dangerous biology, not soldiers first. Calder’s callsign sat in Priya’s mouth like a private joke she refused to serve warm. She translated the panel without looking at him. “Warden. Body of the city. Hands in the root. Permission to cut what grows wrong. Obligation to grow what the Speaker cannot name alone.” One Warden in the paint held a moth the size of a plate. Another held a knife that was also a pruning hook. A third knelt beside a hind with antler-roots and appeared to be teaching it the difference between guest and echo — a lesson the living Mirror Hinds had forgotten. “Your major’s accident is not funny here,” she added, dry, for the room. “It is accurate enough to be rude.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s voice, from the door: “I’ll put rude on my fitness report. Also I’ll put <em>gardener</em> on it if it keeps me from being only a gun.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Don’t recruit the mural,” Nia said. “Translate, Raman. Clock’s cruel.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo did not smile. Priya saw the almost anyway. She climbed the scaffolding Rhee had lashed — temporary, honest, temporary again — to the upper register. The paint changed quality. Earlier panels used mineral that still believed in daylight. These used something that had learned the Vein’s note. The triad stood together now, hands joined over a basin, mouths open on one shared shape.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya’s pulse found her wrist and stayed there, indignant.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They asked how to end death,” she said aloud.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The court took the sentence. The Unfinished made a sound like rain remembering it had been a language. Hester’s breath caught. Anouk swore softly in a dialect she reserved for evidence that hurt. Rhee, at the ledge, turned the radio’s volume down as if volume could be manners; the ghost still spoke under the stone anyway, faithful as wrong weather.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya kept reading. Fingers. Shadow. The private book still closed at her hip because this was not yet the stanza she would decide to break. “Not metaphor. Not prayer alone. Engineering. They fed the Marrow a pattern: life without the closing clause. The Marrow is not a god. It finishes what it is given. Ask and finish — same knot. We knew. Here the mural admits they knew and did it anyway. The triad did not quarrel in the paint. That may be the most frightening competence on this wall.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s voice from below, quiet: “Completed them.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Folded Qalen-Sar into one unfinished organism,” Priya said. “The rainforest is the sentence they did not get to close. The creatures are organs that forgot they belonged to a body. The Unfinished are the people caught mid-grammar.” She looked down into the water. Shadows of the partial stood beside their own absences. “Mercy is partial. I can give some of you names. Not all. Naming is not finishing. Do you hear the difference?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "One Unfinished — the almost-whole one — turned a face that was only a face if you did not insist. A voice arrived from Priya’s left while the figure stood ahead: “We hear. We want the rest.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The rest would finish the coast,” Priya said. Her throat hurt. Linguistics was not supposed to be pastoral care. “I will not give the Marrow a new pattern large enough to love. I will give you what the Keepers left in stone if the stone still knows you. That is the largest mercy I can defend to myself when this is over and I am alone with the official copy.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She climbed down. Kneeling in warm water soaked her trousers to the thigh. She opened the private book at last and found the name-lists she had rebuilt from funerary cords in the side hall — incomplete, argued over with Hester, corrected by moth-dust patterns Ellis insisted were not coincidence. Her hands shook. She did not hide the shake. Shaking was data.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Elqan-tir,” she read, careful of the stress. “Keeper of the second cistern. You tallied rain.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The water darkened under one shadow. The shadow thickened, gained a wrist, a mouth that almost remembered how to close around a vowel. Not whole. A scrap. The Unfinished made a sound that might have been thanks if thanks still had a grammar.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Sera-moun.” A Warden’s garden-name. Another scrap: a shoulder, a pruning-hook callus ghosted onto nothing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Vesh.” Only that. A child’s name or a nickname. The small Unfinished flickered and then stabilized into something that could cast a denser dark. Priya’s eyes stung. She kept her voice clinical because clinical was how she stayed upright.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She gave back seven names. She failed nine. One knot had worn past recovery. One funerary cord contradicted another. One Unfinished refused the name she offered and stood unfinished on purpose, which was its own kind of personhood and frightened her more than gratitude.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Some of you remain unfinished,” she said. “That is not my cruelty. It is the limit of the record. I will not invent you to make myself kind.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester was weeping without sound, which Priya respected more than speeches. Anouk’s camera hung unused. Ivo had gone very still, the stillness of a man rewriting a model while standing in it. Calder watched the water the way he watched a perimeter: ready to strike a shadow if a shadow struck first, unwilling to pretend the moral problem was only tactics.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Between the seventh success and the first failure, Anouk had knelt beside her in the water without asking permission, which would have annoyed Priya in a classroom and steadied her here. “The paint on the Keeper register,” Anouk had murmured. “The pigment binder includes crushed shell from a river that doesn’t reach this basin anymore. They moved materials. This wasn’t provincial mysticism. It was a supply chain.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I know,” Priya had answered. “Supply chains make the catastrophe worse. Competence always does.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Now Hester, face wet, said, “Pavel would have wanted every name.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Pavel asked what was killing them,” Priya answered, not unkindly. “The Marrow is still completing that transmission. Wanting is how we get nineteen-minute ghosts. I am giving what the stone can prove.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She stood. Water ran off her. She returned to the lower register’s final panel — the one she had avoided, the one that showed the asking-wheel in cross-section, vat, cistern, striker geometry, a stanza of knots that was not poetry. It was a method. Helix could learn a method. The Compact could learn a method. Anyone with money and grief could learn a method.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the official copy — the shared log, the one that would go upriver to Puerto Virel and then into rooms with flags — that stanza was supposed to be rendered with Priya’s best care.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She decided, there, with moths above and partial people in the water and Ivo’s eyes on her face as if he already suspected the crime, to break it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not destroy the private book. The private book was for the fear of being the person who handed a god a grammar. The official copy would carry a mistranslation: a rotated hand, a missing cut, a gloss that made the weapon stanza into a agricultural calendar with confident wrongness. Wrongness that would survive peer review long enough to starve a replication. She would tell Ivo. She would not tell the room. The room contained too many kinds of honesty.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She tested the decision the way she tested a gloss: by trying to kill it. Counterargument one: knowledge wanted witnesses, and false witnesses were a different violence. Counterargument two: Leona Varga’s grief deserved a record that was not castrated by Priya’s fear. Counterargument three: if Helix already had fragments, Priya’s accuracy might be the only map that let Aegis seal correctly. She answered each in the quiet of her own skull. One: the private book would remain true; truth was not the same as publication. Two: Leona’s terms with Ivo already excluded the ask; Priya was enforcing the terms in ink. Three: sealing needed the wheel broken and the resonance flooded, not a stanza taught to men with crates. The decision survived its own autopsy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun, from the entrance, spoke for the first time since they arrived, voice low: “The shadows on the left are thickening. Whatever you’re finishing, finish it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya did not look at the left. Looking sometimes invited. “We’re done naming. We’re not done refusing.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Priya,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Later,” she answered. “I need the light to move.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He nodded. He had always known how to hear <em>later</em> when it meant <em>I am about to do something that will follow my career into quiet rooms</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They finished the walk. Speaker, Keeper, Warden, Vein, death’s question, the city’s becoming. Priya translated until her voice went thin and then thinner. When she closed the private book, the Unfinished who had received names stood a fraction more present, and the ones who had not remained a pressure and a hunger and a moral remainder no sealing would tidy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder cleared his throat. “We go under before Cho does. Priya — anything in that last panel we need in our hands versus in our heads?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“In our heads,” she said. “If it leaves this court as a clean diagram, I will resign in a way that makes paperwork scream.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia’s mouth twitched. “I can work with screaming paperwork.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun, trying for lightness and almost achieving it, muttered, “I preferred the moths. Moths don’t want me to be a better person.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Moths already are,” Ellis said, automatic, and Sable’s mouth did something private.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester wiped her face with a sleeve already wet from the air. “You gave them scraps. Scraps are not salvation.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Scraps are what the record can afford,” Priya said. “Salvation was the ask that ate them. I am done confusing the two.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She looked once more at the weapon stanza, memorized the true cuts, and in the same breath memorized the false ones she would write later — rotated, diminished, agriculturally plausible, lethal only to replicability. Fear sat in her stomach like a second pulse. Fear of being the person who handed a god a grammar. Fear, also, of being the person who refused and watched someone else hand it over with better funding.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo touched two fingers to the back of her wrist, brief, colleague to colleague. “Whatever you’re about to do to the official copy,” he murmured, for her alone, “tell me before you sleep. I’ll back it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She almost laughed. He had always been like this: ahead of her confession by a half-step, offering partnership like a clean instrument.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’ll tell you,” she said. “After we refuse the mouth under this floor. If we survive the refusal, the lie will need witnesses.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then we’ll be witnesses,” Ivo said. “Not priests.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The Unfinished shifted in the water. One of the named — Elqan-tir, scrap-thickened — spoke from the wrong angle: “Do not ask it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya closed her eyes. The ghost on Rhee’s set said the same words every nineteen minutes. The mural had said them with a city’s corpse. Now a partial Keeper said them with a scrap of name returned.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“We won’t,” Priya said. “We will finish only the seal.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She led them toward the stair that went down to the Bell chamber, private book shut, official crime already living behind her teeth, mercy partial and chosen and insufficient in the exact way the court required. Behind her the named Unfinished held their scraps like lamps that could not light a whole room, and the unnamed held the dark, and Priya Raman — one of three living readers, temporarily the only one wet to the thigh — carried both facts forward without pretending they were the same kind of light.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0040",
+    "number": 40,
+    "title": "Lantern",
+    "arcId": "arc-5",
+    "volumeTitle": "Volume 5 — The Last Question",
+    "epigraph": "A ghost that keeps its schedule is not haunting you. It is completing a sentence you abandoned.",
+    "epigraphAttribution": "— Dr. Pavel Ruiz, Survey Lantern field notebook, water-warped page",
+    "summary": "Pavel’s full warning still loops on the air; the rapids story dies; Hester votes to seal the Bell and hates agreeing with a major.",
+    "opening": {
+      "id": "hc-ch-0040-opening",
+      "promptId": "hc-ch-0040-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Radio Ledge",
+      "caption": "Nineteen minutes, a dead friend’s voice, a vote that tastes like ash",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Hester Lang had spent eleven years hating a river she had never seen kill a man.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The official story said Survey Lantern was lost to rapids. Rapids were tidy. Rapids required no ethics committee. Rapids let Compact clerks sleep. Hester had known Pavel Ruiz — his clove cigarettes she had forbidden and then stolen, his handwriting that climbed the margins like ivy, his habit of talking to radios as if radios were shy students — and she had never believed water alone could take him while his last packet still smelled like method. She had carried the insult the way other people carried medals. Insults lasted longer.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She remembered the last dinner before he embarked: a coastal restaurant that pretended to be French, rain on the awning, Pavel drawing the Orrocanopy’s river forks on a napkin until the ink bled through to the tablecloth. “If I don’t come back,” he had said, cheerful as a man discussing train schedules, “don’t let them make me picturesque. Picturesque is how institutions digest dissent.” She had told him he was being dramatic. He had told her drama was a field method. He had ordered the fish and then forgotten to eat it while arguing that occult frameworks were just science with the citations ripped out. She had stolen one of his clove cigarettes on the walk home and coughed like a student. He had laughed until a passing couple stared. The napkin had gone into her coat. She still had it, pressed flat in a book she never shelved properly. The ink forks looked like veins. She had not found that funny until today, and even today it was not funny. Funny would have been a mercy she refused on principle.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Now, on a dry ledge above the stair that led to the Marrow Bell, Rhee Amari turned a dial and Pavel’s full loop walked into the stone as if it had been waiting for an audience literate enough to be ashamed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester sat because standing would have looked like courage, and she was not feeling courageous. She was fifty-eight, alpha, blocker patch peeling because she hated the patch more than she hated being readable, smelling faintly of paper and clove even through the chemistry. Around her the team arranged itself into the shape of a decision. Calder with his sling. Ivo with his locked-door scent. Priya wet to the thigh from naming. Nia with a face that had already voted in private. Anouk’s hand in Mateo’s for one second, then not, because bond was not a briefing tool. Jun and Harun a paired silence. Sable and Ellis close enough to share breath and pretending it was tactics. Jonah checking pulses out of habit. Tomas Ibarra’s people were long gone to the river; Hester missed their ordinary fear. Ordinary fear was honest.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before Rhee played the tape, Hester made herself look at each of them. Not for sentiment. For inventory. These were the witnesses who would carry Pavel out of the canopy in their reports, mangled or intact depending on courage. Calder’s humor was at half volume; the kite had rewritten his ribs. Ivo stood as if composure were a load-bearing wall and only Calder was allowed to see the cracks. Priya’s mouth was set in the line of a woman who had already chosen a crime and was waiting for the hour to confess it. Hester approved of crimes that protected coasts. Harun’s jokes had gone quiet in the way that meant he was frightened and refusing to spend the fear on anyone else. Jun’s shoulder wound made a stiff geometry under her shirt; she still looked like the most expensive silence in the room. Sable’s distrust of scientists had softened into something that watched Ellis specifically. Ellis looked like a man who had talked to moths all his life and had just learned moths had been talking back for a civilization. Jonah’s hands were clean. Mateo’s were not. Nia counted exits with her eyes. Hester loved them all with the irritable love of a professor who had not asked for a field family and had received one anyway.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee said, “I’ve had fragments for weeks. The Marrow completes transmissions. That’s why it never degraded into static the way dead men should. I cleaned the overlap. This is the whole warning. Volume low. If it changes mid-sentence, I shut it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Play it,” Hester said. Her voice sounded like a library door.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The set crackled. Then Pavel — not the nineteen-minute scrap from Base Lantern, not the vowel worn smooth by repetition, but Pavel entire, breath and all — spoke out of a eleven-year grave that had never been a grave.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "<em>— Hester, if this reaches anyone who still owns a conscience, do not ask it. We asked what was killing us. Small question. Frightened question. The water table answered by finishing the pattern of the asking. Two of ours began to — I don’t have a clean verb. Partial. Like a sentence that won’t stop conjugating inside the body. The cisterns are not storage. They are mouths. The Bell under the court is an asking-chamber. Ask and finish are the same knot. We thought we were reading theology. We were reading a user manual written by people who became their own mistake. The rapids story is a lie someone will print because lies travel lighter than this. If you find the Reach, seal the mouth. Flood the resonance. Break the wheel. Do not take the cure even if it offers itself in your teeth. Do not let Helix — if Helix still exists by whatever name — teach a lab to speak this. Hester. I am still on the air because the Marrow is completing me. That is not immortality. That is rudeness with a frequency. Don’t ask it. Don’t —</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The loop hit the nineteen-minute seam and began again, and Rhee cut it before the second <em>Hester</em> could become a ritual.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Silence after was a physical object. Hester could have weighed it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun whispered, “Jesus,” and Jun’s fingers found his sleeve without looking. Ellis had gone gray. Sable watched him as if watching could keep a beta biologist from flying apart. Anouk said, very carefully, “The journal contradiction at their camp is no longer a contradiction. It’s corroboration.” Mateo’s jaw worked; he was already translating the warning into medical protocol and hating the translation. Jonah muttered, “Partial conjugation inside the body. I need samples we will not take.” Nia only nodded once, a captain filing a dead man’s orders under living ones.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester wept once. Angrily. One hard push of water from the eyes, wiped with the heel of her hand as if the hand could scold the grief into better manners. She did not sob. Sobbing was for people who still believed the universe negotiated. She had loved Pavel in the complicated, collegial, half-spousal way of two scholars who shared a field and a fury. The Compact had reduced him to weather. The Marrow had reduced him to a completed transmission. Neither reduction was a death she could bury.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“There,” she said. Her voice scraped. “There is your ghost from the first night at Base Lantern. Every nineteen minutes. <em>Don’t ask it.</em> It was never a haunt. It was Pavel being finished by a system that treats a question as consent. I want that sentence in every report. I want the rapids story dead. I want the clerks who printed it to feel me in their throat when they swallow. I want his full name spoken in rooms that preferred him as weather.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk’s face had gone pale under the dirt. “Hester—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Don’t soothe me. Soothe the record.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder did not joke. Hester noticed and filed the noticing under <em>the major can learn</em>. “Professor Lang. I need a vote, not a eulogy. We seal. We break. We refuse. If you have a dissent that isn’t nostalgia, say it now.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nostalgia. The word landed like a slap administered by someone who did not know he was slapping. Hester almost respected him for it. Softness would have been worse.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I have spent my life arguing that burning knowledge is a kind of death,” she said. She looked at Ivo, at Priya, at the stair mouth where the Vein’s hum rose like breath from a sleeping animal that was not sleeping. “I was right about libraries. I was wrong about mouths. The Bell is not a library. Pavel just said it with his own completed throat. If we leave it open because I cannot bear to agree with a soldier, I become the clerk who printed <em>rapids</em>. I will not become that clerk. I will hate myself in a more useful direction.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya’s eyes flicked to her private book. Hester saw the flick and understood, without needing the confession yet, that Priya was already committing a crime against her own perfectionism. Good. Perfectionism had finished a city once.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo spoke carefully, the way he spoke when the specimen was also a person. “The ecological record survives in the form Leona bargained for. Phenomenon without method. Pavel’s warning becomes part of that record — not as a how-to. As a don’t. Hester, if you want his notebook language preserved as language, Priya and I will ring-fence it from the asking geometry.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Put his name on it,” Hester said. “Full. No black bar. If the Directorate redacts him again I will haunt their mailrooms personally. I am old enough to make haunting a second career.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’ll fight the redaction,” Calder said. “I’m decorative on paper and inconvenient in rooms. Use me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia added, “I’ll countersign anything that keeps clerks from inventing rivers.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester almost smiled. Almost. Smiles were expensive today. “Vote, then. Seal the Bell. Break the asking-wheel. Flood the resonance. Refuse any cure that offers itself. Drag Cho out if he rings anyway, because leaving him as a sample would make us Helix with better footnotes. And if Leona takes notes, she takes the notes Ivo allows — ecology, not the stanza. Pavel did not die so a grieving captain could rebuild his mistake with better motives.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Seconded,” Nia said, immediate.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis raised a finger, hesitant. “If the Marrow completes patterns, does sealing… feed it a pattern of sealing?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo answered before Hester could. “Sealing is interruption, not a question. We’ve modeled it as flooding and fracture — noise, not syntax. If I’m wrong, the coast finds out and I live with the modeling error. I’d rather live with that than with a clean ask.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“That’s the most comforting doom I’ve heard all week,” Ellis said, and Sable’s mouth twitched.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hands rose. Not all at once. Democracy in a ruin was theater, but theater could still bind. Anouk’s hand. Mateo’s. Jonah’s. Ellis’s, shaking. Sable’s, steady. Jun’s left. Harun’s both, because Harun did nothing by halves except when stone forced him. Rhee’s, after a breath in which Hester watched the girl forgive herself another inch for the six-hour Helix delay that had cost them surprise weeks ago. Priya’s. Ivo’s. Calder’s good hand.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester raised hers last, and hated the agreement with a major the way she hated clove patches and tidy lies: completely, usefully, without performance.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I hate this,” she told Calder.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I know,” he said. “Hate it on the way down. Hate keeps you sharp.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Don’t manage me.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Wouldn’t dream. You’re scarier than the eels.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun muttered, “Eels have better manners,” and Jun elbowed him with her good side.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before they fully dispersed into the stair, Anouk caught Hester’s sleeve. “I’m sorry I called it stratigraphy when you called it fear.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You were doing your job,” Hester said. “I was doing mine badly while calling it love. We can apologize after the mouth is closed. Apologies are lighter when the radio stops conjugating.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Will it stop?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“No,” Hester said. “Completion doesn’t clock out. But it will stop being the only story anyone is allowed to hear.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk nodded, eyes bright, and went to Mateo, who pretended he had not been watching them with the soft suspicion of a bonded man who tracked tears the way he tracked bleeds.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They moved. The ledge emptied into the stair. Hester lingered one minute with Rhee while the specialist bagged the recording and labeled it in block letters: RUIZ FULL LOOP / MARROW-COMPLETED / DO NOT BROADCAST WITHOUT CONTEXT.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“He said my name,” Hester said, not quite to Rhee. “As if I were still the person who could stop him asking. I wasn’t. I was on a coast grading papers while he conjugated himself into a frequency. I graded a master’s thesis the week the Compact printed <em>rapids</em>. I remember the thesis better than I remember my own hands that month. That is the obscenity. Not the jungle. The tidy substitution.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee’s mouth twisted. “You still are the person who can stop the next ask. Stopping’s late for him. Sealing’s not late for the rest of us. If it helps — when I sat on the Helix burst, I told myself I was being clever. Clever is just fear with a better vocabulary. You’re not being clever today. You’re being correct. Correct feels worse. That’s how you know.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re too young to be wise.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m too young to have sat on a Helix burst for six hours,” Rhee said. “Wisdom is just unpaid debt. I’m paying. You’re paying eleven years of interest. We’re both awful bankers.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester touched the girl’s shoulder once, clove and paper and rain, and followed the others into the throat of the court.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The stair smelled of warm mineral and old quiet. Lumen-moths stitched the dark with brief lamps. Somewhere above, an Unfinished said a scrap-name to itself as if practicing. Hester did not look back. Looking back was how you turned mercy into a second ask.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On the descent she thought of Pavel’s kitchen in the coastal town where Survey Lantern had staged — cheap coffee, maps on the table, his laugh when she called the Orrocanopy a theological swamp. She had been wrong about the theology and right about the swamp. She thought of the Unfinished receiving scraps of name in the water above, mercy partial, and understood Pavel’s loop as the same category: a scrap of personhood completed into rudeness by a system that did not know the difference between love and finishing. She thought of the napkin with river forks, still in her book, and decided that when she reached Puerto Virel she would photograph it and enter it into evidence as the last map he drew before the forest taught him cartography’s cruelest lesson: some lines, once drawn, draw you back.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She also thought, unwelcome and precise, of the years she had spent telling students that occult frameworks were just badly archived science. Occult had been her department’s insult and her private romance. Pavel had lived in the romance with her. The Marrow did not care about departments. It cared about patterns. She had come to Virelia to preserve a site and was leaving it — if leaving was still on the table — having voted to break the site’s heart. That was not hypocrisy. That was updating a model when the model bit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At a landing where the stone wept warm water, Ivo waited for her without making it a rescue. “You don’t have to come into the chamber.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I have to see the mouth,” Hester said. “I have spent eleven years arguing with a rumor. I will not let you seal a rumor. If the Bell is real I will hate it accurately.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Fair.” He hesitated. “For what it’s worth, I believed you about the rapids before I had proof. I just needed the system’s grammar.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Everyone needs grammar until the corpse speaks,” Hester said. “Then they need courage. I am borrowing yours.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Borrow Calder’s. It’s louder.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Loud is not the same as courage.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Today it might be adjacent.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder, a few steps below, called up without turning, “I can hear you recruiting my virtues. They’re unionized. They want tea.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They want a nap,” Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They want both. I’m complex.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya, further down, added without looking up, “Complexity is not a personality. Drink water.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester snorted, which was as close as she would come to affection in a stairwell, and continued down.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In her head the loop still ran, even with Rhee’s set bagged. <em>Do not take the cure even if it offers itself in your teeth.</em> Hester felt her molars ache in sympathy with a warning that had become anatomy. She thought of Cho polishing a cracked bell. She thought of Leona’s furious gratitude. She thought of a major with opened ribs joking at half volume because full volume would tear him, and of a scientist who had cried on those ribs and then stood up into partnership without erasing a school hallway. The expedition was full of people who were good at their jobs and wrong in specific ways. Pavel had been one. She had been one. She was about to be right in a way that felt like betrayal of her own life’s thesis.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Burning knowledge was a kind of death.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leaving a mouth open was another.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She chose the death she could live beside, voted already cast, tears already spent, and walked toward the Bell with Pavel’s completed voice still finishing itself under the water table — not a ghost, not a haunt, a transmission that had finally found listeners literate enough to stop asking. The rapids story, at last, had nowhere left to hide. If the clerks printed it again after this, Hester would become the kind of academic nuisance that made careers into footnotes, and she would do it gladly, clove on her breath, Pavel’s napkin in her book, hate and love sharing a body the way ask and finish shared a knot. She went down as one stubborn, furious old historian who had finally truly met her own primary source at last, and the primary source had told her to close the archive’s mouth before the archive learned to speak again.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0041",
+    "number": 41,
+    "title": "The Mouth",
+    "arcId": "arc-5",
+    "volumeTitle": "Volume 5 — The Last Question",
+    "epigraph": "A question is a door. Some doors open into rooms. Some open into mouths.",
+    "epigraphAttribution": "— I. Maren, field note, unsent",
+    "summary": "In the Bell chamber Ivo maps vats, wheel, and cistern; a cure offers itself in his teeth; he sets his hand down, and Calder does not grab his wrist.",
+    "opening": {
+      "id": "hc-ch-0041-opening",
+      "promptId": "hc-ch-0041-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Asking-Chamber",
+      "caption": "Warm water, bone in the roots, a hand that does not ring",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Ivo Maren had imagined the Bell as a metaphor until the chamber made metaphor look like cowardice.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "On the stair down he had rehearsed a dozen clinical sentences and discarded them all. Clinical sentences were how you kept from loving a machine. This machine had already been loved to death by a civilization smarter than his expedition. He did not intend to compete with their competence, only to interrupt it before dawn taught the water table a new name.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The stair delivered them into a cistern-heart the size of a small cathedral and the temperature of a mouth. Warm water stood knee-deep around a central platform of black stone. Roots descended through the roof comb like the inverted ribs of a whale, and in the roots — not metaphor, not poetry, anatomy — Ivo saw bone. Human bone and not-quite-human bone, fused into lattice, mineralized, grown through with Vein-bright tissue that pulsed on a slow count. Femurs braided with fig. A jawplate opened forever around a silence. Fingerbones arranged like a rosary that had learned photosynthesis. The city’s people. The city’s mistake. The rainforest’s unfinished sentence wearing its own skeleton as scaffolding.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He stopped on the last dry step and made himself breathe until the breath was a measurement and not a flinch. Blockers held. Under them, rain and antiseptic, the locked door Calder’s hindbrain kept hunting. Around him the team spilled into the chamber with the competence of people who had run out of rehearsal. Calder at his shoulder, sling dark, ribs arguing every inhale. Priya already scanning for glyph. Hester looking up as if indictment were a research method. Nia counting exits. The rest arranging themselves into the shapes that kept people alive.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Talk to me, ORCHID,” Calder said. Soft for the acoustics. Soft for the bone. “Prefer science. I’ll translate to bullets later.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“It’s a throat,” Ivo said. He heard how calm he sounded and did not trust the calm; calm was just fear that had found a lab coat. “Give me a minute before anyone touches anything that looks like an invitation.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You have a minute,” Nia said. “Cho has less.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo waded. Water climbed his calves, then his knees, warm as blood that had forgotten whose. The Vein’s note lived in his molars, a pressure that was almost taste. Pavel had warned about teeth. Pavel had been completed into a radio and still found time to be precise. Ivo respected precision even when it arrived as horror.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He began where a scientist begins when the cathedral is also a machine: with the parts that admitted function.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Around the platform, glass-and-ceramic vats stood in a ring, most cracked, some still holding a gel that remembered light. Labels in knot-glyph climbed their rims. Priya was at the nearest before he finished turning, fingers hovering, not touching yet. “Culture vessels,” she murmured. “Not storage. Drafts.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Questions grown as living patterns,” Ivo said, louder, for the room. “The Selenqar didn’t only carve asks into stone. They cultured them — biological signal shaped into a sentence the water table could hear. The gel is a mid-clause. Do not open a vat unless you want the Marrow to treat curiosity as consent.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jonah made a noise of ethical pain. Mateo said, “Anyone opens a vat, I sedate them and invent a reason.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’ll invent a better one,” Nia said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Beyond the vats, set into the platform like a ship’s wheel made for a god who preferred biology to navigation, was the asking-wheel: concentric stone cords, a hub of dark metal that was not metal, a striker cradle empty and waiting. Ivo climbed onto the platform carefully, boots finding purchase that felt like the stone wanted him balanced. Up close the wheel was worse. Beautiful the way certain parasites were beautiful: elegant, inevitable, indifferent. Each cord was a choice-point. Each cut was a grammar. His hands knew how to read it the way they knew how to pipette — not fluency, competence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Above the cradle, suspended on a frame of root and bronze, hung the Marrow Bell itself — not cracked, not yet. Cho’s cracked bell was a portable blasphemy. This one was the original mouth. It did not shine. It absorbed the tin light and gave back a dull, listening dark.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The wheel selects and amplifies,” Ivo continued. He hated lecture-voice and used it anyway; lecture-voice kept his hands from rising. “The cistern couples the draft to the water table. The Bell is the final articulation. Ring it and you feed the Marrow a pattern large enough to finish whatever you asked. The Selenqar asked how to end death. The Marrow completed them into this.” He gestured at the bone-roots without looking away from the wheel. Looking away would have been disrespect. “Ask and finish. Same knot. We knew. Knowing it in a mural is not the same as standing in the mouth.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester made a sound like a book closing. “Pavel called it a mouth.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Pavel was right. Mouths eat. Libraries don’t. We keep confusing them because both make us quiet.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ellis, near the cistern wall, whispered, “The eels are here. Sleeping. Metal cache on the mid-ledge is still sealed — Helix’s work or ours from the earlier map. If someone sings metal, they wake hungry for the shout.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable’s hand rested near the eel-gate latch. “We cut it wrong on purpose when the time comes. Pull them between Helix and the wheel.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Animals as tactics,” Ellis said, unhappy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Alive as ethics,” Sable answered. “Pick one for the next ten minutes.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee was already placing charges along structural joints with the tenderness of a woman apologizing to architecture. “Hub spokes, not the Bell. Fracture the articulation. If I crack the Bell itself we might feed it a dramatic last word. Prefer boring destruction.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Boring destruction is my love language,” Calder said, and then winced when a laugh tried to become a full breath.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s attention snagged on the wheel’s inner cords — the stanza Priya had refused to read aloud upstairs. He could see how a small question would seat itself: not immortality, not a coastline rewritten. A cure. Something modest and greedy. Knit opened ribs. Seal a sheared forearm. Quiet a through-and-through shoulder. Persuade a future away from pinned stone. The Marrow finished patterns. A healing pattern was still a pattern. Small questions had finished Survey Lantern. Small was not safe. Small was how mouths learned your name.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He felt the shape of the cure in his teeth anyway — a sweetness under the enamel, a yes that was not consent and wanted to be mistaken for it. His hand rose toward the striker cradle without his permission and with it. Desire was data. He labeled it. Labeling did not make it leave.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder had come up onto the platform somehow, sling and all, moving like a man bargaining with bone. He stood two meters off, close enough to grab a wrist, far enough to choose not to. Ivo saw the calculation happen in real time: the alpha’s instinct to intervene, the commander’s instinct to control the asset, the partner’s newer instinct to let Ivo be the kind of adult who could refuse without being rescued into refusal.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s good hand flexed once at his side.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder did not grab his wrist.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "That was why Ivo could choose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The sweetness peaked. For a dilating second Ivo saw the other room — Calder’s ribs knitting under invisible hands, the sling empty, Jun’s shoulder a clean history, Harun laughing without a limp waiting in his future, Ivo’s own old injuries from centrifuges and carelessness erased like clerical errors. The Marrow would call it mercy. The Marrow called everything finishing. Pavel’s voice, bagged on Rhee’s set above, still ran under the water table: <em>Do not take the cure even if it offers itself in your teeth.</em>",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo set his hand down on the wet stone beside the cradle. Palm flat. Fingers empty. The sweetness soured into ordinary fear. Ordinary fear he could work with.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m not ringing,” he said, for the room and for Calder and for the part of himself that had loved solutions more than people for too many years. “Not a small ask. Not a clever ask. Not a medical exception. We seal.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s exhale was quiet and enormous. “Copy. For the record, I wanted to stop you. I didn’t. If that was the wrong kindness, bill me later.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“It was the only kindness that worked,” Ivo said. “If you’d grabbed me I would have spent the next decade wondering whether the refusal was mine. I have enough decades already mortgaged to other people’s hands.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s mouth tilted. Half volume. “Then my restraint is finally useful. Put it in the report. Nia will faint.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia, from the ledge: “I heard that. I’m not fainting. I’m updating your file under <em>occasionally teachable</em>.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun muttered, “Frame that,” and Jun’s almost-smile flashed like a suppressed muzzle flare.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo almost smiled too. The almost belonged to Calder now; he let it show. Then he went back to work, because tenderness without labor was just another kind of ask.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He walked the team through the chamber the way he walked students through a dissection: name the part, name the function, name the way it kills you if you admire it too long. Vats: do not open; gel is a draft mid-sentence; if Helix opens one, treat the spill as contagious grammar. Wheel: Rhee’s charges at the hub spokes; Priya and Ivo on flood marks; Calder and Nia on the human problem when the human problem arrived with a cracked portable bell. Cistern: gates mapped from mural cross-sections; open them to drown resonance in noise — interruption, not syntax. Bone-roots: Jonah could take surface scrapings already logged; no deeper sampling; the city’s dead were not a reagent shelf. Eel-gate: wrong cut on purpose; metal-song as misdirection; Ellis to call the timing because Ellis heard animals the way Priya heard knots.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Anouk, unusually quiet, said, “The binder in the vat glaze matches the Listening Court pigment. Same supply chain. Same competence. I hate competence today.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Competence finished them,” Ivo said. “Incompetence would have left a ruin we could romanticize. This is worse. This works.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He left the platform once to walk the cistern rim with Priya, boots careful on slick stone, mapping the flood gates by touch against her mural sketches. The gates were elegant: counterweighted, meant to be opened by Keepers who understood that drowning a resonance was sometimes the same work as feeding one, depending on which knot-hand you used. Ivo marked the release pins with chalk that would wash away and still felt like graffiti on a throat. “When we open these,” he told her, “we make noise. Noise is not a question. If I’m wrong, the model fails in public.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re rarely wrong in public,” Priya said. “You’re wrong in kitchens, quietly, about your own life.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“That was almost kind.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“It wasn’t. Move.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "At the second gate he paused, hand on wet bronze, and let himself invent the speech he would not give: <em>I could heal him. I could heal all of them. One small pattern. Pavel’s warning was for frightened asks, not medical ones.</em> The speech died under its own special pleading. Medical was how Helix would sell it too. Cho’s cracked bell was a medical argument wearing a cartographer’s coat. Ivo took his hand off the bronze.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Back on the platform, Hester stood under the Bell and stared up. “I voted to close it. I am still allowed to grieve the closing.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Grief is allowed. Touching the striker is not.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m not a child, Maren.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re a historian in a throat. Children and historians both reach. So do scientists. I’m speaking from inside the disease.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She snorted. Clove and paper. “Fair. Don’t die being poetic.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I don’t die poetic. I die precise. Preferably later.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun’s voice, low from her angle: “Helix movement on the west stair. Early. Leona’s timing was honest or Cho stopped trusting her.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Both can be true,” Calder said. “Places. Now.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "People moved. Ivo caught Calder’s elbow when Calder’s balance tipped — reciprocity, not rescue — and Calder flashed him a look that said <em>I know, don’t make a speech</em>. Ivo did not make a speech. He made a knot-check on the sling instead, two fingers, professional, and Calder let him, which was its own speech.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder caught Ivo’s elbow a moment later when Ivo’s own balance tipped on a slick patch — one-handed, careful of his own ribs, careful of Ivo’s pride. “You went somewhere again. Behind the eyes.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I went to the version of this room where I ask for your bones to knit and the Marrow says yes and then asks what else I’d like finished.” Ivo kept his voice low. Private. “I preferred this version. The one where your bones stay your problem and my hands stay empty. Empty is ugly. Empty is mine.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“My bones appreciate the insult.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Your bones are terrible conversationalists.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“They’re learning. You’re a bad influence. Also —” Calder’s glance flicked to the cradle and back — “thank you. For not making me the man who stopped you. I don’t deserve clean roles.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Neither do I,” Ivo said. “We can be unclean together. It’s cheaper than absolution. And for the record, if the sweetness comes back mid-fight, you still don’t grab my wrist. You call my name. Names are not asks if you don’t feed them to the wheel.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Ivo,” Calder said, immediately, testing.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Yes. Like that. Annoying. Effective.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Tenderness, then — not heat, not a bond-bite fantasy, not helplessness dressed as romance. Just Calder’s good hand briefly at Ivo’s waist to steady him, and Ivo allowing it, and both of them remaining competent enough to be embarrassed by how much the allowing mattered. They were adults. They had been cruel and kind in the wrong years. The notebook was still wet in memory. The east stair still existed. The jacket on a cold night still existed. All of it could be true at once. Ivo had stopped needing the truths to cancel. Forgiveness remained partial. Partnership did not require amnesia. That was the discovery the Bell could not complete for him: a pattern that stayed open on purpose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya joined them at the wheel, private book shut, official crime waiting behind her teeth. “When we flood, the Unfinished above will feel it. Some of the named ones may thicken. Some may thin. Mercy stays partial.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I know.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“And when we leave, I’m breaking the stanza in the shared copy. Rotated hand. Missing cut. Agricultural gloss with confident wrongness. I’ll tell you the exact falsehoods before I sleep. I need you to back it when someone smarter than a clerk notices.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’ll back it,” Ivo said. “I’d have asked you to do it if you hadn’t decided first. Leona’s terms already exclude the ask. Your crime enforces the terms in ink.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya’s mouth twitched. “Don’t steal my crime. It’s the first one I’ve enjoyed.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I wouldn’t dare. You’re scarier than Hester when you’re righteous.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I heard that,” Hester called, without turning.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee’s voice cut across the chamber: “Charges set. If I blow early we get a sealed chamber and a team-shaped paste. If I blow late we get a speech from Cho. Prefer neither. Prefer on-mark.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“On-mark,” Calder said. He looked at Ivo. “Anything else you need to refuse before the morning gets loud?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo looked at the Bell. The sweetness tried one more time, a last sales pitch in the enamel — smaller now, slyer, offering only Calder’s ribs, only, as if only were a moral category. He thought of Calder under the falling comb of stone saying <em>You’re all right. Don’t do the quiet thing.</em> He thought of his own voice breaking across three days of vigil. He thought of a school hallway and a soaked notebook and a laugh that was still in the record. He thought of a cure that would erase costs and teach a mouth that costs were optional. He thought of Pavel conjugating inside a frequency. He thought of the Unfinished holding scraps of name like lamps that could not light a whole room.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He set his hand down again, unnecessarily, a ritual for himself. Palm flat. Empty.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Nothing else,” he said. “We finish the seal. We do not finish the question.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder nodded once. In the warm dark of the asking-chamber, with bone in the roots and a wheel that wanted grammar, Ivo Maren — omega, scientist, man who had loved badly and been loved aloud — chose emptiness over sweetness, and the choice held because no one had forced his fingers open or closed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Outside the chamber’s throat, dawn was assembling itself for Cho. Inside, the team checked straps, radios, salt, charges, the eel-gate’s wrong cut. Ivo checked Calder’s sling knot with two fingers and found it sound. Calder checked Ivo’s eyes and found them frightened and clear.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Still us,” Calder murmured.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Still us,” Ivo said. “Still not ringing.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“My favorite of your hobbies.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Collect more. I intend to be boringly consistent.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Boringly consistent is a scandal for you. I’ll alert the journals.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They took their places in the mouth without feeding it. Water lapped the platform. Bone pulsed in the roots on its slow count. The Bell listened with the patience of something that had already eaten a civilization and could wait for breakfast. Somewhere above, Rhee’s bagged recording still completed Pavel on a schedule the Marrow respected. Somewhere on the west stair, boots found stone. Ivo stood with empty hands and a partner who had not grabbed his wrist, and waited for the man who would mistake a cracked portable for a key. He did not pray. He checked the flood-pin chalk one last time, found it honest, and kept his teeth closed on sweetness until sweetness learned it had lost. Dawn pressed its cold face to the stair mouth like an unwelcome early witness. The expedition held its empty hands like a hard vow they intended to keep. Cho’s dawn had arrived anyway.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0042",
+    "number": 42,
+    "title": "Cho",
+    "arcId": "arc-5",
+    "volumeTitle": "Volume 5 — The Last Question",
+    "epigraph": "A map is a promise about tomorrow. Dawn is what happens when the promise arrives armed.",
+    "epigraphAttribution": "— Major Calder Rhys, margin of a ripped field sketch",
+    "summary": "One-armed tactics in the Bell chamber; Nia runs the line; eels cut wrong on purpose; Cho reaches the striker.",
+    "opening": {
+      "id": "hc-ch-0042-opening",
+      "promptId": "hc-ch-0042-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The West Stair Mouth",
+      "caption": "Metal-song, warm water, a cracked bell carried like a thesis",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Calder Rhys had fought with worse odds and better arms. He preferred the better arms. The sling disagreed with preference on principle.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "The hour before dawn had been a briefing conducted in whispers and chalk. In the asking-chamber’s warm dark, with bone pulsing in the roots and Ivo’s empty hands still empty, Calder had walked the routes one more time with Nia while the scientists pretended not to listen and listened anyway.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Cho comes west,” Calder said. “He thinks like a man who hated being told a coastline was finished without him. He’ll treat the true Bell as a destination and the cracked portable as authenticity. Leona will flicker. If she helps, we use it. If she doesn’t, Jun drops her. No speeches about her brother mid-firefight.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I don’t speech,” Jun said from her angle.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You silence. It’s worse. I like it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun flexed his shoulders. “Permission to be loudly useful.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Permission to be alive,” Calder said. “Loud is optional. Jun needs you unbroken.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun’s grin tilted. “Copy. Unbroken is my brand.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable and Ellis argued, softly, about the wrong cut — how much metal-song was enough to pull eels without turning the chamber into a blender with teeth. Ellis wanted less. Sable wanted enough. Calder split the difference like a man splitting a bill he couldn’t afford: enough, on his mark, not before. Rhee checked the deadman and muttered calculations that sounded like prayers designed by an engineer. Priya stood with Ivo at the flood pins and said nothing about the stanza she was going to break later; Calder didn’t need the confession to see the crime living behind her eyes. Hester held salt. Anouk held her tongue. Jonah held a kit. Mateo held Calder’s gaze until Calder said, “Informative pain only. I’ll report collapse early like a good boy.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s fingers found the sling knot again, unnecessary, intimate in the way of people who had stopped pretending checks were only medical. “If the sweetness comes back—”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I call your name. I don’t grab. We covered this. I’m teachable. Nia has a file.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s mouth almost did the smile. “Don’t die proving it.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Don’t ring proving anything.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I won’t.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder believed him. Belief was a tactical asset he had spent long years pretending not to need in rooms like this. He spent it carefully now.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Dawn did not so much break as seep into the Bell chamber through the west stair mouth, carrying Helix with it — six-person wedge, wet boots, the portable cracked bell in a crate that made Rhee’s charges look polite by comparison. Cho walked at the point as if cartography were a form of priesthood. Fifty-one, alpha, blocker failing just enough that Calder’s hindbrain registered dry ink and old paper and the particular certainty of a man who had decided the forest owed him an answer. Behind Cho, Leona Varga held the left flank with her face locked. Calder clocked her and did not trust her and trusted Ivo’s terms anyway. That was the shape of the morning.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Nia,” Calder said, half volume because full volume tore the kite’s work. “You have the line.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I have the line,” Nia answered, already moving people with two fingers and a look. “You have the map in your mouth. Spit it carefully.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He did. West approach choke at the second vat. Jun’s angle on the striker cradle — left-braced, furious, alive. Harun as mobile wall between Jun and anything that thought bonded pairs were soft targets. Sable and Ellis on the eel-gate: wrong cut, on Calder’s mark, metal-song to haul guardians into the lane between Helix and the wheel. Rhee on the hub charges, thumb off the deadman until Ivo and Priya flooded. Ivo at the flood pins. Priya with him. Hester and Anouk and Jonah on the high dry ledge with salt and the moral problem of staying out of the way. Mateo in the middle like a threat with gauze.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder’s good hand held a sidearm he would rather not use in a throat. His bad arm hung and hurt and informed him, continuously, that one-armed heroism was a story told by people with two arms. He filed the information under <em>known</em> and kept breathing. Cocky at half volume. The jokes lived in his mouth because his ribs had nationalized the rest of his personality.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "A lumen-moth drifted through the first gunsmoke as if the chamber were still a library. Calder almost laughed and saved the laugh for later, if later existed.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho’s wedge hit the water and the chamber’s acoustics turned every boot into a thesis statement. Cho’s voice carried without shouting. “Major Rhys. Dr. Maren. You are standing in a tool that could end drought and disease. Leaving it sealed is ethics as vanity. Step aside.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Vanity looks better on me than unfinished coastlines,” Calder said. “Also I’m busy. Appointment with a seal. You’re early.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m punctual,” Cho said. “Punctuality is responsibility.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Responsibility looks a lot like a crate with teeth,” Calder said. “Put it down. Walk out. Be a living footnote instead of a completed one.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho’s gaze found the bone-roots, the true Bell, the wheel. Hunger moved across his face and dressed itself as duty. “Survey Lantern asked out of fear. I ask out of stewardship. The difference matters.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“The Marrow doesn’t grade motives,” Ivo called from the pins, voice flat enough to sand wood. “It finishes patterns. Your stewardship is still a sentence.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Then let it be a sentence that ends drought,” Cho said. “Ends wasting diseases. Ends the Compact’s habit of redacting children into weather. Captain Varga understands. Don’t you, Leona?”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona’s eyes flicked to Ivo, then to Calder, then to the crate. Calder saw the calculation: help stop the ring, keep the ecological record, survive Cho’s faith long enough to steal a smaller theft than planned. Sympathetic. Not absolved. If she flickered wrong, Jun would drop her. Jun had permission in the set of her jaw.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I understand grief,” Leona said, loud enough for both sides. “Grief is not a clearance.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho’s mouth tightened. He had wanted loyalty and received a definition. Definitions were how field commanders became problems.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Helix’s left shooter raised. Nia’s people answered with the kind of fire that made a point without emptying the room of oxygen. Rounds sparked off vat rims. Gel trembled in cracked glass and did not spill, for which Calder intended to send the universe a fruit basket if he lived. A Helix body went down thrashing in warm water. Another found a ledge and became a problem for later. Cho did not look at his dead. Cartographers who became directors learned to treat loss as contour.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Gate,” Calder called.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable yanked the eel-gate the wrong way on purpose — not open-to-release-and-flee, open-to-sing. Ellis slammed a metal tag array into the current, a crude shout, radios and barrel-rims and the ugly music cistern eels hated enough to protect quiet with their bodies. The water lit from below. Guardians rose like luminous arguments, massive, wrong-beautiful, and drove into the lane between Helix’s wedge and the asking-wheel with the single-minded politics of animals that had been bred to punish noise.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Helix’s right flank dissolved into screaming and thrashing. One man fired into an eel and learned that bullets were also metal-song. The eel took offense personally. Calder did not enjoy it. He used it. Another Helix tried to climb a vat and slipped into a coil that treated him as punctuation. Ellis made a hurt sound; Sable said, without looking, “Later. Grieve later. Hold the geometry.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Push left!” Nia barked. “Harun — Jun’s pocket. Rhee, stay ugly and patient. Science, stay on pins!”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder moved along the platform’s edge, sling bouncing, ribs writing complaints in bright ink. A Helix cutter came at him with a short blade and the optimism of youth. Calder sidestepped with his good shoulder, used the sling arm as a clumsy brace against a vat, and put the cutter into the water with a knee that cost him a sound he did not permit to become a scream. One-armed fighting was possible. It was also a tax. He paid and kept the receipt for Mateo. The cutter’s blade skittered across stone and sang; an eel’s attention flicked toward the song and then away, already busy with louder sinners.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo’s voice, sharp across the chamber: “Flood pins on my mark — not yet!”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Copy,” Calder answered. He loved that voice when it was sharp. Soft Ivo was for kitchens and confessions. Sharp Ivo kept coasts plural.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho’s wedge reformed with ugly competence. Leona shouted something that redirected two of her people away from Jun’s angle — help, or theater, or both. Calder did not thank her. Thanks were for after. He watched her mouth shape Tomas’s absence into tactics and filed her under <em>useful knife, still a knife</em>. Cho himself drove toward the striker cradle through a gap the eels had not yet closed, cracked-bell crate hauled by two men who looked like they had been promised a future without funerals.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder got in the way with his body because that was still, irritatingly, his best tool. He met the crate team at the platform lip. Good hand on the crate edge. Bad arm screaming in its sling. He shoved. The crate skewed. One bearer slipped. Cho’s face did a thing that was almost human disappointment.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Water sheeted. Calder’s boots fought for purchase. He used the sling as a bumper against the crate’s corner and felt the impact travel into opened ribs like a personal letter from the kite. For a second the chamber narrowed to pain and the smell of bronze. He stayed upright because falling would make Ivo invent a question with his teeth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“You’re injured,” Cho said, as if noticing a typo on a map. “Stand down. Be useful later as a witness to necessity.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“I’m allergic to necessity speeches,” Calder said. “Also to men who carry mouths in boxes. Also to maps that think they’re holy books.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho’s people tried to flank. Harun arrived like weather with a gun, loud even when he wasn’t speaking, and turned the flank into a bad idea. “Major, you’re leaking competence,” Harun called.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Patch me with sarcasm,” Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Jun’s shot took the second crate-bearer in the thigh — nonlethal by choice or angle, Calder couldn’t tell, didn’t care. The crate hit the platform. The cracked bell inside sang a partial note that made every eel in the cistern flinch toward it and then away, confused by a shout that was also a wound. The true Bell above them seemed to lean without moving. Bone pulsed faster in the roots. Calder felt the Vein shift pitch by a fraction that lived in his fillings.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo cursed, soft and filthy, a rare vintage. “Don’t let it speak!”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Working on it,” Calder said through his teeth.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee yelled, “If that cracked thing couples to the hub I will personally invent a new religion just to leave it!”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya, at the wheel: “It’s cracked. Incomplete articulation. Still dangerous. Incomplete is how Lantern died. Incomplete is how we get Cho as weather with a pulse.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho reached the crate himself. For a man of fifty-one he moved like belief had replaced cartilage. He cracked the lid. Rain-smell and old bronze filled the warm air. The portable Bell looked wrong beside the true one — a thesis statement written in a smaller font, still capable of ending a paragraph. Calder saw, with map-clear certainty, that Cho would reach the striker before the eels finished the lane and before Calder’s one good arm could invent a miracle.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He fired anyway. The round sparked off Cho’s shoulder plate and ruined Calder’s aim-opinion of one-handed shooting. Cho did not fall. He smiled the smile of a man who had decided pain was a contour line. Calder’s second thought — after <em>miss</em> — was that contour lines were how Cho had always survived ethics committees: by drawing them around other people’s graves.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona appeared at Cho’s left and, for one stretched second, could have put a round through his spine. She did not. She put a round through the knee of a Helix shooter aiming at Ivo instead, then shouted, “North gallery diversion is blown — commit or extract!” as if she were still Cho’s captain and not a woman mid-betrayal. Calder filed the non-shot beside Park’s spared second shot weeks ago: a pattern of refusals that did not equal innocence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho heard commit. Of course he did.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Nia’s line flexed. A Helix flashbang turned the chamber into white noise and worse water. Calder’s vision sheeted. His ribs seized. Someone — Mateo — hauled him sideways by the good harness strap before he walked into a vat. “Major. Quality of pain.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Informative,” Calder gritted. “Not collapse. Yet. Also tell Nia her litter can wait; I’m still decorative.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Keep yet on a leash. Keep decorative conscious.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The eels surged again, drawn by the flashbang’s metal heart. Ellis screamed timing like a conductor having a religious experience. Sable held the gate geometry with both hands and a diplomat’s daughter’s curse vocabulary that would have made her mother resign from three committees. A Helix body vanished under luminous coil and did not come back useful. The chamber smelled of bronze, blood, warm mineral, and the particular ozone of a question about to be asked badly.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Through it, Cho advanced.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder saw the route the way he had told Ivo he would — cartographer’s pride, left of the beautiful thing, thirty meters of belief. He tried to intercept and his opened ribs vetoed a sprint. He walked instead, ugly, determined, half volume of a man who had been cocky for a living and was now cocky as a medical adaptation. Each step was a negotiation with bone. Each negotiation ended in a grudging yes. Ivo flashed in his peripheral: flood pin, chalk, hands empty of sweetness. Good. Keep empty.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester threw salt into a thickening shadow at the waterline — Unfinished drawn by noise — and Anouk yanked her back before a weapon could pass through the wrong body. Jonah shouted something medical and useless. Mateo kept Calder’s path clear by being large and unwilling to apologize for it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Cal—” Ivo started.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Don’t you dare invent a small ask,” Calder said without looking. “I’m fine. I’m decorative. I’m a wall with a crack.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Walls with cracks still stand until they don’t.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Poetry later. Murder now.”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho reached the asking-wheel’s outer cord. Leona tried to shoulder him off-line and he threw her with the absent strength of someone who had stopped classifying her as people. She hit a vat and slid, breath gone. Calder felt a spike of unwilling respect for the way she got back up anyway, furious and grateful and not clean. Blood at the corner of her mouth. Eyes still calculating the ecological record like a ledger that could outlive a director.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun took a hit meant for Jun — glancing, ugly, keep-moving ugly — and laughed like a man charging interest on fear. “That’s going in the wedding toast,” he told Jun, which was nonsense and necessary. Jun’s next shot forced Cho’s last escort into the eel lane. The escort chose poorly. Luminous coil. A shout cut short. Calder did not look long enough to make it a memory he would have to carry in high resolution.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder was five meters from Cho when Cho’s hands found the portable striker.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The chamber seemed to lean. Bone in the roots pulsed faster. The true Bell above them did not move and somehow listened harder. Calder raised his good hand, aimed at Cho’s elbow, and knew — with the sick clarity of a commander watching a map become weather — that even a perfect shot might be half a second late.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Nia!” he shouted. “Ivo — flood on contact! Rhee — on their flood!”",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "“Copy!” three voices, overlapping, the expedition’s favorite chord.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho lifted the striker.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder fired again — the second shot of a one-handed morning that was rapidly becoming a dissertation on limitation. The round took Cho in the meat of the upper arm and did not stop the lift. Cho’s face was radiant and terrible. He looked like a man finally allowed to ask the only question he thought mattered. Behind him Leona screamed his name like a warning and like a grief. Ahead of him the cradle waited. Above him the true mouth waited. In Calder’s chest the kite’s opened ribs waited for a punchline that was not coming. He thought, absurdly, of Ivo’s tea, of a jacket left in a tent, of a boy in a hallway who had not yet learned that cruelty stayed in the record even when the man improved. He thought, less absurdly, of Nia’s litter budget and hoped he would not spend it by falling now.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho’s hands completed the arc.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He reached the striker.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He seated it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder did not see the strike resolve — only the reach, the seating, the cracked portable poised against grammar older than drought, while eels thrashed and Nia’s line held and Ivo’s empty hands flew toward flood pins and Rhee’s thumb hovered over a deadman and the whole wet cathedral held its breath for a question that had already ruined one city. Time dilated the way it did in convoy ambushes: too much detail, not enough agency. Calder’s good hand was already empty of useful miracles. His bad arm was a flag of surrender he refused to wave. He took one more step anyway, because walls with cracks still leaned toward the fire.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho reached it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "That was the whole of the second.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "That was enough for one chapter of a war.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In the next second the world would become flood and fracture and a half-finished man. Calder did not have the next second yet. He only had this one: Cho at the striker, the mouth open, the cracked portable seated like a bad key in a worse lock, the expedition leaning hard toward a refusal that had to arrive on time or not at all.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0043",
+    "number": 43,
+    "title": "Half",
+    "arcId": "arc-5",
+    "volumeTitle": "Volume 5 — The Last Question",
+    "epigraph": "A partial answer is not mercy. It is a sentence that will not end, wearing a man's mouth.",
+    "epigraphAttribution": "— Dr. I. Maren, seal report, redacted stanza",
+    "summary": "Cho strikes a cracked bell and the Marrow begins to finish him. The wheel is blown, Harun keeps his leg, and Leona leaves with the notes that cannot teach the ask.",
+    "opening": {
+      "id": "hc-ch-0043-opening",
+      "promptId": "hc-ch-0043-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Cracked Bell",
+      "caption": "The striker lands, and the pattern begins",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "The strike was a small sound. That was the obscenity of it.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo had expected thunder. He had expected a cinematic rupture that would make the refusal look like heroism. Instead the cracked portable told the truth the way bad instruments always did: incompletely, faithfully, with enough syntax to start a conjugation and not enough to finish a man cleanly. Cho seated it against the cradle and brought the striker down, and the chamber did not explode. It inhaled. The hum in Ivo's teeth jumped a register and then tried to complete itself, the way a sentence tries to finish when a speaker dies mid-clause. Water climbed the platform in a skin, not a wave. The bone in the roots brightened, a pulse made visible. Cho's face, already radiant, went past radiance into process. Somewhere above the flood line, a lumen-moth folded its stone-dusted wings and fell like a period that had arrived too early.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder was still moving toward him, one good arm, opened ribs, face stripped of jokes. Nia's line held the left. Sable and Ellis held the eel-geometry that had bought them the seconds they were now spending. Priya's chalk marks on the flood pins looked, to Ivo, like a student's underlines under a paragraph that had begun to eat the book. He thought, briefly and uselessly, of the sweetness he had refused and of Calder not grabbing his wrist, and then there was no room left for thought that was not action.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo saw the Marrow begin to finish him.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not a death. A correction. The pattern Cho had offered — end drought, end disease, end the stopping of men — did not arrive as weather. It arrived as Cho's own body being treated as an incomplete question. His struck arm, the one Calder's round had opened, knitted wrong and then righter than flesh, a sheen like the vat-glass, while the other arm stayed meat. His mouth opened on a word and the word came out twice, once in his voice and once in a voice from the angle you were not looking, the Unfinished's angle, eager and horrible. A seam opened along his jaw, not blood, grammar. Root-bright filaments traced his left ribs as if the Marrow were drafting a Warden's garden onto a cartographer's chest and then hesitating at the crack in the instrument. He was being answered. The answer was half. He would live in the half. Ivo understood it in the same cold way he had understood the lullaby: the system was doing what it was built to do, and what it was built to do was not survivable as a person. Pavel's warning lived in the same grammar: partial conjugation inside the body. Survey Lantern had asked what was killing them. Cho had asked how to end death's cousins. The Marrow did not grade motives. It finished patterns. Cracked ask, cracked completion. Fidelity without mercy.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Flood,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Priya was already at the pins. They had chalked them in the night, a sequence that would dump cistern water across the resonance plates and foul the wheel's ability to hear a clean ask. She pulled the first. Ivo pulled the second. Cold water slammed the platform, black, mineral, furious at being used. The hum stuttered. Cho screamed with two mouths and one of them lagged, a half-second echo that made Harun swear in a language he saved for collapses.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Rhee!\" Ivo shouted.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Blowing the wheel,\" Rhee said, and her voice was punctual, the religion she had chosen after six hours. The charge was not on the Bell. The Bell was a mouth; destroying the mouth without drowning the hearing would only make a sharper ruin. The charge was on the asking-wheel's axle, the grown bone-and-stone gear that translated a strike into a pattern the Marrow could complete. She had set it with Nia watching and Calder, one-armed, approving the geometry. She blew it now.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The axle became a white crack and then an absence. The chamber bucked. Stone cords leapt and died mid-grammar. Flood water took the hub fragments and made them ordinary debris, which was the kindest thing water had done all day. Eels, already drawn by the metal-song Sable and Ellis had cut wrong on purpose, thrashed between Helix and the cradle, guardians of quiet suddenly in a room full of shouting metal. A Helix soldier fired and the shot sang and an eel took the singer off the platform with a luminous indifference. Another Helix tried to retrieve the portable striker and learned that bronze was also a shout. Leona, on her feet again, did not fire into the eels. She fired into the cradle's brace, spoiling Cho's second strike before he could teach the Marrow a cleaner sentence. Her face was the face of a woman helping to stop a thing she had escorted to the door. Ivo filed her under the same uncomfortable heading he used for himself: competent, grieving, capable of the right crime for the wrong reasons and the wrong crime for the right ones.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho dropped the striker. It rang once, petty, and an eel hated it. He fell to his knees in the flood and the finishing did not stop because he had stopped. The seam in his jaw worked. He tried to say drought. What came out was drought and then a Keeper word for completion and then a wet click, as if his tongue were being edited. He looked at Ivo with one eye that was still a man's and one eye that had gone grit-bright, moth-dust, city.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You could have asked,\" he said, or the Marrow said, or both, poorly synced. \"A small cure. You felt it. You set the hand down. That was vanity.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"That was a choice,\" Ivo said. He was shaking and his voice was not. \"You don't get the coast. You don't get him. You get a medic and a vault and the rest of your life as a warning we are not going to study like a sample.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He felt the sweetness try again — sly, offering only Calder's ribs, only, as if only were a moral category the Marrow respected. He kept his hands on Cho's collar and his teeth closed. Calder saw the flinch and did not grab his wrist. That fact, absurd in the middle of a half-finished director, still mattered. It was why Ivo could keep choosing emptiness while hauling a man who had chosen the opposite.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Leaving him is the sample,\" Priya said, at his shoulder, soaked, precise. \"We drag. Now. Before the water decides he is a question it should keep. And Ivo — the stanza breaks in the official copy tonight. I'm telling you in a flood because if I wait for dry paper I will talk myself into accuracy.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'll back you,\" Ivo said. \"Break it. Rotated hand. Missing cut. Agricultural gloss. I'll sign the lie.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It's not a lie,\" Priya said. \"It's a refusal wearing ink.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They dragged. Calder could not lift; he could cover, good hand on a pistol, sling bound tight, ribs a private argument he was losing and not mentioning. Nia ran the line with the ruthless clarity of a woman who had once trusted an asset's confidence over a perimeter and would not repeat the math. Jun shot a man who raised a rifle at the drag and did not shoot Leona, because Leona was already turning her remaining people toward the stair with a gesture that meant out. Harun put himself between Jun and a falling brace of stone — the wheel's death throes — and the brace took his leg against the platform lip.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The sound he made was not a joke. It was the sound of claustrophobic history arriving on schedule and being walked through anyway. Jun made a sound that was his name without rank. Ivo was on the pin of Cho's collar and could not be in two places. Mateo was, because Mateo had practiced choosing the wounded over the beloved when both were in danger, and Anouk had told him in advance she would not forgive the other math.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Don't you pull it crooked,\" Mateo said, already in the water, hands on the stone and not on the romance of haste. \"Jun, his hand, not the rifle. Harun, you keep the leg. I am not negotiating with you. On my count the stone shifts and you do not help by thrashing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I hate counts,\" Harun gasped.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Hate them alive.\" Mateo counted off any rhythm a lullaby could love. The stone moved. The leg came free, wrong-angled, bleeding, attached. Harun screamed and then laughed once, insane with relief, and said, \"Still mine,\" and Jun said, \"Yes,\" and Mateo splinted with a strap and a hatred of heroics that saved the limb. He would limp. He would not leave the leg in Qalen-Sar as an offering. Jonah packed the bleed with the grim affection of a man rewriting protocols in real time. Rhee, black with soot from the axle charge, said, \"If anyone calls that blast late, I will invent a new clock,\" and Nia said, \"It was on-mark. Move.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho weighed more than a man should, as if the Marrow had added a clause. Calder got the good shoulder under one side anyway until Nia shoved him off it. \"You pop that seal and Ivo will actually kill you, and I will file it as justified. Walk. Cover. Do not carry.\" Calder walked. He covered. His eyes found Ivo's for a half second: still us. Ivo nodded, hauling, and did not grab his wrist, and did not need to.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Between the platform and the stair they lost seconds to Helix panic and gained them back in Leona's redirects. She spoiled a second cradle attempt that no longer had an axle to serve, then turned her remaining people toward extraction routes that were not Aegis routes. Sympathetic. Not absolved. Ivo watched the packet-shape under her jacket and understood she had already begun the smaller theft he had authorized. Good. Theft with a leash was still theft. He could live with the discomfort.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They made the stair. Behind them the chamber groaned as water and a broken wheel argued about what a mouth was for. The true Bell did not ring. The portable one lay cracked under an eel's passing light, a tool that had told the truth once and been punished for it. The Unfinished were in the lower water, some with names Priya had given back, some without. One of them said, from the wrong angle, \"Not finished,\" in a voice almost Hester's and not, and Hester answered, \"I know,\" and kept climbing, because mercy that stopped to be complete would have died on the step. Anouk muttered about binder chemistry because muttering kept her from praying. Ellis apologized to the water. Sable told him to apologize later and climb now.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona met them at the river mouth of the causeway, breathing hard, a graze on her scalp she ignored. Her people were already a rumor downstream. She looked at Cho, at the half-finished jaw, and her mouth went thin with a grief that was not absolution.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The record,\" she said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo had the packet ready. He had made it ready before dawn: ecology, moths, kite behavior, the lullaby's salt and noise, the hind's failure mode, the eels and metal, Vein phenomenology described as weather with a pulse. Not the knot-pair. Not the weapon stanza Priya would break in the official copy and keep true in the private book. He put the packet in Leona's hand and felt the weight of Tomas Varga's redacted paragraph leave his fingers without becoming lighter.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"It will not teach you to ask,\" he said. \"If you wanted a bell, you escorted the wrong conscience. If you wanted the coast not to be finished by a man's drought plan, this is the part I can give you without becoming him. Take it. Hate me. Do not rebuild a mouth out of grief and call it stewardship.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She weighed it. Rain ticked the paper wrap. \"My brother died in a redacted sentence. You just handed me a paragraph with the verb cut out. I should shoot you.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You won't,\" Calder said. He was gray with pain and still a wall. \"You didn't shoot Jun when she was down. Don't spend the limit on the man who kept the verb out of your pack. And Captain — if you turn that diary into Cho's sermon later, I will not have a philosophical conversation. I will end it. Ivo's terms. My enforcement.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona looked at him, then at Ivo, then at Cho's lagging mouth trying to say thank you and producing only a wet duplicate of the word want. She tucked the packet inside her jacket. \"I'm not your ally. I'm gone. If the Compact asks, I stole this. If Cho asks, he can finish the question in a room with locks. Don't follow me. Following is how you turn a limit into a hunt.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"We won't follow,\" Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "She went. The river took her outline and then the rain took the outline. By the time Rhee got a bearing, the bearing was empty on purpose. Ivo let the emptiness stand. He had promised a record that could not teach the ask. He had kept the promise smaller than her grief and larger than Cho's hunger. It would not bring a brother back. It might keep a city from being copied. Whether that was mercy or a mistake would have to remain uncomfortable, which was the only honest temperature left in the Reach. Ivo did not warm it. He carried Cho instead, and the packet's absence under Leona's jacket was its own kind of weather walking away.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They dragged Cho up into a daylight that offended him. He wept with one eye. The other eye tracked moths that were not there. His lagging mouth kept trying to finish a sentence about drought and responsibility and finally and the words arrived as weather wearing teeth. Mateo sedated what could be sedated and said, quietly, \"We don't study this. We contain it. If anyone in a dry office calls him a breakthrough I will resign in a font they can read from the coast.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Agreed,\" Nia said. \"Move. The hall is not a home anymore. The mouth is shut enough. Harun, you ride. If you walk I will shoot you in the other leg for symmetry and Jun will thank me.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"She would not,\" Harun said, magnificent and wrecked.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I might,\" Jun said, and took his hand, and the expedition climbed toward a river that still knew the way out.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester walked near Cho's tarp for a stretch and spoke to him once, not kindly: \"Pavel warned you in advance by eleven years. You didn't listen. Listening is a skill. Learn it in the vault.\" Cho's human eye flickered. The other did not. Hester wiped her face with a sleeve and went forward to argue with Anouk about nothing that mattered, which was how historians survived exits.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo walked beside Calder because beside was the compromise they had already made. The sling was dark at the edge. The ribs were a tempo. Ivo did not ask him to be fine. Calder did not grab his wrist. Behind them Qalen-Sar held a drowned wheel and a Bell that had not been fed, and a question that remained, unfinished, in the teeth of the man they refused to leave as a sample. Ahead, the canopy opened by degrees toward weather that was only weather.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They rested once under a fig that had shouldered a lintel into a roof. Rain found the gaps and made a soft applause. Mateo checked Harun's foot color and grunted approval that sounded like an insult. Jun sat with her shot shoulder against Harun's good side and did not pretend she was only a sniper. Calder drank water and winced and made a joke at half volume about decorative majors and litter budgets. Ivo took the joke like tea: bitter, necessary, his. Priya sat with the private book open on her knee and the official copy closed, already committing the rotated hand in her head, agricultural gloss humming like a second Vein. Ellis shared dried fruit with Sable and said nothing about moths for a full minute, which was how Ivo knew the day had cost him. Hester pressed Pavel's napkin flat inside her coat as if paper could still be a primary source with a pulse.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Puerto Virel,\" Nia said. \"Lights. Paperwork. Vaults. If anyone asks whether we won, tell them we sealed. Winning is a clerk's word.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Sealed,\" Ivo agreed. He looked at Calder's mouth, at the scar, at the man who had carried a jacket and left a tent and searched tunnels and heard the worst of him without using it. The notebook was still wet in memory — moth-wing studies, a clumsy inscription, the year soaked into illegibility by a boy who would grow into this major. The east stair still existed. The laugh in the hall still existed. He was not fixed. He was partnered. The difference would have to be enough for the walk out. He did not forget. He chose anyway. Those two sentences could share a body the way ask and finish shared a knot, except this time the sharing was chosen and incomplete on purpose, and the incompleteness was the point that kept them human.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's hands shook. He let them. The work of the day was done enough to survive. The choosing of a life could happen in the next miles, when the dragging slowed and the truth did not have to shout over a flood — when he could say, without a Marrow listening for consent in the shape of a question, that he did not forget, and he chose this man anyway. The canopy kept raining without asking. The expedition kept walking without answering. That was enough honest seal for one hard day.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0044",
+    "number": 44,
+    "title": "The Record",
+    "arcId": "arc-5",
+    "volumeTitle": "Volume 5 — The Last Question",
+    "epigraph": "Forgetting is not the price of love. It is a second erasure, and I decline it.",
+    "epigraphAttribution": "— Dr. Ivo Maren, to Calder Rhys, above Puerto Virel",
+    "summary": "On the way out, Ivo tells Calder the truth he can live with: he does not forget the notebook or the stair, and he chooses him anyway.",
+    "opening": {
+      "id": "hc-ch-0044-opening",
+      "promptId": "hc-ch-0044-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The River Out",
+      "caption": "Bandages, a true record, and lights that offend",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "The river took them out the way it had brought them in, except that everyone on the boats was a revised edition.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "Three days of extraction had already rewritten them before the boats: litter relays, river landings, a night under tarps where Cho's unfinished breathing kept the watch honest. Ivo had slept in pieces. Calder had slept less. The canopy had released them by degrees, rain softening from personality into weather, Vein-hum fading from teeth into memory that still flinched when a paddle knocked metal. Once, at a bend where the water ran wrong-warm, an Unfinished pressure stood on the bank without a name and did not follow. Mercy remained partial. Ivo did not invent a name to make himself kind. He raised a hand in acknowledgment and let the boat take him past.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun rode with his leg splinted and his joke restored at low volume, Jun's shoulder a stiff companion to his thigh, the two of them a matched set of damages that had declined to be fatal. \"Still mine,\" Harun told anyone who glanced at the splint. \"Mateo threatened resignation if I donated it to the city. I respect a man's career.\" Jun's mouth did its almost-smile. \"He's unbearable when grateful,\" she said. \"I'm keeping him anyway.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Rhee slept in ten-minute thefts with the set in her lap and the tape that said NO PRIVATE MYSTERIES stuck where her eye would hit it. Once she woke and said, to no one, \"Pavel's loop is quieter. Completion interrupted. Still there. Still a don't.\" Hester, across the gunwale, nodded without looking up from the napkin she had finally photographed and entered into evidence.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Sable and Ellis shared a gunwale and did not call it anything. Ellis's glasses were taped. Sable's hands were nicked from the eel-gate and steady. \"When we get a flat,\" Ellis said, soft, \"I'm building a moth terrarium that isn't a metaphor.\" Sable said, \"If you bond me to a moth I will end you.\" Ellis said, \"Not bonded. Sharing. There's a difference.\" Sable did not disagree aloud.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Hester held the boxed stylus as if it might apologize and did not open it. Anouk argued with Mateo about whether a mural of gardeners counted as a military diagram; Mateo said he was on leave in his soul; Anouk said his soul could still label resin correctly. Priya wrote in the private book and did not write in the shared log, and when she caught Ivo's eye she tapped the red tin, once: the lie is loaded, the truth is kept, I told you.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "That night on the first boat, after the others had found their thin sleeps, Priya sat with Ivo under a lamp hooded by a tin and opened both books. \"Official copy,\" she said. \"Weapon stanza rendered as agricultural calendar. Rotated hand. Missing cut. Confident wrongness. Anyone who tries to build a wheel from this will grow excellent cassava and no mouths.\" She turned a page. \"Private book. True cuts. Locked drawer when we hit the coast. You back me in rooms.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I back you,\" Ivo said. \"If they end us, they end us for the right crime.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good.\" Priya closed the official copy as if closing a door on a god. \"Also — for what it's worth — the school record stays in the private book too, if you ever need a witness who isn't him. I don't forget either. I just don't get to choose him.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You get to choose the coast,\" Ivo said. \"That's enough choosing for one linguist.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Cho lay under a tarp, sedated, breathing in a syncopation that made the medic's jaw tight. One hand looked like a hand. The other had a glassy patience, as if it were waiting for a sentence to come back and finish it. Once, between doses, he tried to say finally and produced a hum that made the boat's metal fittings ring faintly; Rhee muffled the fittings with cloth and cursed under her breath. Nia had posted a beta watch and no alpha closer than the next boat. Protocol, even now. Especially now.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder sat where Ivo could see the sling and the way he favored the ribs, which was everywhere. He had tried, once, at the landing, to take a crate. Nia had removed the crate from his hand without speech. Ivo had said, \"If you open that seal on a boat I will push you in and cite Jonah.\" Calder had said, \"Romantic,\" and sat. The sitting was the bravest thing he had done since the hug, because it was obedience to a limit.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Guilt lived on him without demanding a speech. Ivo saw it in the way Calder watched Harun's litter and Jun's brace and Cho's tarp — a commander totaling costs he could not refund. Ivo did not absolve it. Absolution was a span. Spans finished cities. He let the guilt sit beside the partnership like a third passenger who had paid for a ticket and would not be thrown overboard for comfort. When Calder started a sentence that began with <em>if I hadn't</em>, Ivo said, \"Stop. Conditional heroism is still a speech. Sit. Drink. Be partnered without performing penance for an audience of one scientist who already has the record.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder stopped. Sat. Drank. \"You're mean when you're right.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm precise when I'm tired. Don't romanticize it.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Puerto Virel was still a day away when the canopy thinned enough to show a slice of actual sky, insultingly blue. Ivo felt the Vein drop out of his teeth by degrees, a pressure he had stopped noticing until it left. The absence was loud. He worked anyway. The official report would go to rooms with flags. He wrote the ecology — moths as living cartography, eels as guardians of quiet, hinds that failed questions, root-nuns as corrupted grammar, Unfinished as partial people receiving scraps of name. He wrote the seal — flood, fracture, refusal. He wrote that the asking-wheel was destroyed and the Bell was not fed. He wrote Pavel Ruiz's full name and the death of the rapids story. He did not write the stanza Priya had rotated into a calendar. He wrote, in the private addendum she would lock, that the omission was a decision and would follow his career, and that he accepted the following. He wrote Leona Varga as unfound, terms kept, packet ecology-only. He wrote Cho as half-completed, evacuated, not a sample. He wrote Harun's leg kept. He wrote Jun's shoulder. He wrote Calder's ribs and forearm and three lost days without turning them into romance.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder read over his shoulder only when invited, which was a new discipline and looked like it hurt in a non-medical way. \"You're allowed to say we lived,\" he said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm saying what a hostile reader can't turn into a manual. Living is implied by the byline.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Your byline is an initial. Use the name. You've earned the irritation of being specific.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Ivo Maren,\" he said, testing it on the page, not the I. The letters looked like a man. He did not hate them. \"Don't hover. Read or don't.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I'm reading. You're doing the thing where you make mercy look like redaction. It's good redaction. Leona has the part that keeps people from dying of ignorance and not the part that lets them die of curiosity. That's the jacket in document form.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The jacket was you. This is me refusing to be the person who hands a god a grammar.\" He capped the pen. The boat slapped a wave. Spray tasted like the coast, which was to say like a world that had not been asked to finish itself. \"We should talk before the lights. Lights make people perform. I don't want this performed.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's good hand rested on his knee, not reaching. \"Talk. And if my guilt tries to make a speech, shove me overboard. I don't want absolution as a medical procedure.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I wasn't going to give you one,\" Ivo said. \"Guilt that asks to be erased is just another ask.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo looked at the sling, the scar, the mouth that had said Ivo in the rain and won in a hall and I won't on a slab. He looked at his own hands, steady today, unreliable tomorrow, honest enough.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I don't forget,\" he said. \"The notebook. The moth wings going to lace. The inscription. The east stair. Ghost. The day you told a worse boy to leave and then mocked me so your friends wouldn't smell it. The three afternoons you were almost a person and the morning you chose the hall. The laugh that made the hallway smaller. None of that becomes fine because you carried a jacket or left a tent or heard me cry across three days. If you need it to become fine, get off at the dock and be a better memory. I will survive you. I have practice. Forgiveness, if it arrives, arrives partial and on my schedule. Not as a prize for competence.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder took it without the joke. The pain in his ribs was visible and he did not use it as a plea. Spray caught his jaw-scar and made it a bright line. \"I don't need it to become fine. I need to not lie about the size. I was cruel and proud. I was not in love with you then — that story is forbidden and also false. I am in love with you now, which is not a receipt for the then. If you choose me, you choose a man who did that and then spent fourteen years calling it growing up. I'll spend the rest not calling it that. I won't ask you to absolve the sentence. I'll ask you to tell me when I'm about to repeat it. That's the only command I'm requesting, and you can refuse it. You can also leave. Leaving would be honest. I would hate it and live.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I won't refuse the command,\" Ivo said. The boat moved. He let the next sentences come without a pause-as-armor, which was its own exposure. \"I choose you. Not the boy who poured the cup. Not a cleaned Cal from a yearbook. The man who put the jacket on and left the tent when I asked him to stop asking. Who searched tunnels and a kite nest and a nun-court instead of inventing a speech. Who got me out from under stone and stayed conscious long enough to tell me not to do the quiet thing. Who waited through the moths and Helix and the years and the fear until I was done being true. Who didn't grab my wrist when the Bell offered a cure in my teeth. I don't forget. I choose you anyway. Those are not opposites. If you try to make them opposites I will correct you, and it will sound like this, and you will live. We are not fixed. We are partnered. Fixed is a span. Partnered is a practice.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder's eyes were bright in a way he would have blamed on spray. \"Copy,\" he said, rough. \"I choose you in the version that includes the record. Not a cleaned one. Still us. Still interesting at half volume. Still wrong in specific ways I'll let you name.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Good. Cleaned ones are how cities die.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Harun, from the other boat, called something that might have been encouragement and might have been a request for fruit. Jun shushed him. The river kept its own counsel. Ivo felt the conversation settle into his chest beside the Vein's absence — a different pressure, chosen.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "For a while they said nothing, which was not the old silence. The old silence had been a vault. This one had furniture. Spray dried on Ivo's wrist. Calder shifted and the ribs punished him and he breathed through it without making the breath a bid for care. Ivo noticed anyway, because noticing was his original sin and his profession, and he adjusted the pack behind Calder's back so the seat stopped being a knife. \"Asset management,\" Calder said, testing the old lie.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Partner management,\" Ivo said. \"Don't make me repeat the distinction. I'm spending it on a boat and boats are bad at nuance. Also drink water. Mateo left orders. I'm enforcing them without romance.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Partner,\" Calder repeated, as if the word were a knot he was learning by touch. \"I can live in that. I can live in it better than in trophy. Trophies don't steal tea.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You'd better. Trophies go on shelves. Partners argue about tea strength and whether a wounded man is allowed to carry a crate. The answer, before you ask, remains no. Partners also do not use heat or scent as a shortcut, and do not ask me to pretend the school years were secretly fond. They weren't. They were smaller. I got larger anyway. You're part of the larger on purpose.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Understood,\" Calder said. \"No secret fondness rewrite. No pheromone sermons. Just tea crimes and map arguments and the long way.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They did not kiss on the boat. Harun would have applauded and Jun would have charged admission and Ivo was not ready for an audience that had bled for them to have a scene. Tenderness was enough: he put his hand over Calder's good one, once, a pressure, and took it back. Calder let the taking-back happen. The not-grabbing had become a language. Ivo was fluent in it and still surprised by the fluency. Argument would come later, in kitchens, about reports and sleep and whether a major was allowed to pretend he was fine. Ivo looked forward to the arguments. Arguments were how adults stayed unfinished on purpose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Puerto Virel arrived at dusk as lights on the water, an offense and a mercy. Radios worked without ghosts. A medic team that had not been in the vein of the world tried to separate asset from officer and Nia ended the attempt with a sentence so flat it left a mark. Cho went to a locked bay that would become a medical vault, still trying, under sedation, to finish a sentence with a mouth that wasn't only his. Harun went to a real splint and complained that the real splint lacked poetry. Jun sat through the examination of her through-and-through with the patience of a sniper who had already decided the wound was data, not destiny. Tomas Ibarra met them on the dock, decent, unspent, and looked at Ivo with an ordinary adult interest that had nowhere to land. Ivo was polite. Calder was not unpleasant. The unpleasantness had been spent in a jungle, and what remained was a man too tired to be jealous of a harbor.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Leona was unfound. Rhee's bearings remained empty on purpose. Ivo hoped the packet stayed a diary. Hope was not a verb he fed to water.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "In a room with a door that locked, later, Ivo changed Calder's sling dressing because Mateo had gone to shout at a hospital and Jonah had gone to shout at a formulary. The ribs were ugly and closed. The forearm was a problem for people with machines. Calder watched Ivo's hands and did not narrate them. Outside, generators argued with ordinary night. Inside, the record between them held both the soaked notebook and the carried jacket, both the east stair and the ungrabbed wrist, both the laugh in the hall and the three days of vigil. Ivo did not tidy the record. He lived beside it.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Still us,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Still us,\" Ivo said. \"Still not fine. Don't rush the fine. Fine is a span. We've seen what spans do.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then we walk the long way.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Yes.\" He taped the edge, precise, and sat back. The city outside was loud with generators and ordinary arguments. Somewhere under the noise, if he held still, a hum remained, offshore, not gone. He did not ask it anything. He turned off the lamp they didn't need. Calder's breathing, costly and regular, was a better cadence than nineteen minutes.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Before sleep he said it once more, not as a speech Calder had to absorb like medicine, but as a fact filed where facts belonged: \"I don't forget. I choose you. If the Directorate asks for a cleaner story, they can invent one without my signature.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Copy,\" Calder murmured. \"I'll insult their invention in the morning. Tonight I'm partnered.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo Maren lay on top of the blanket, not yet a life, already a choice, and listened to a man he had not forgotten keep a promise by staying in the room. The lights of Puerto Virel pressed against the shutters like an audience. He declined to perform for them. He kept the record and the man and the unfinished quiet, and that was the seal he could live inside.",
+        "dropCap": false
+      }
+    ]
+  },
+  {
+    "id": "ch-0045",
+    "number": 45,
+    "title": "One Note Higher",
+    "arcId": "arc-5",
+    "volumeTitle": "Volume 5 — The Last Question",
+    "epigraph": "Some questions can wait until the water is ready. The water does not wait. That is not the same as consent.",
+    "epigraphAttribution": "— Major Calder Rhys, kitchen, unfiled",
+    "summary": "Six months later the Vein hums one note higher offshore. Ivo says not tonight. The kettle boils anyway.",
+    "opening": {
+      "id": "hc-ch-0045-opening",
+      "promptId": "hc-ch-0045-opening",
+      "placement": "wide",
+      "orientation": "landscape",
+      "title": "The Kitchen",
+      "caption": "Six months on, a kettle, a hum",
+      "color": "#1e4d3a"
+    },
+    "blocks": [
+      {
+        "type": "paragraph",
+        "html": "Six months later the kitchen was too small for Calder's shoulders and exactly the right size for the argument about tea.",
+        "dropCap": true
+      },
+      {
+        "type": "paragraph",
+        "html": "He had given testimony in three rooms that smelled of polish and fear. Classified hearings with flags and water carafes and people who said <em>anomaly</em> the way other people said <em>weather</em>. He had said Qalen-Sar, and seal, and not a manual. He had said Pavel Ruiz's full name until a clerk flinched. He had not said Ivo's name more than the record required, and the record required it often, because the Directorate liked pairs it could diagram. His forearm worked if he did not ask it to be twenty. His ribs were a weather report that improved on dry days. The sling was gone. The habit of protecting the side remained, a ghost of a ghost. Cocky lived at something closer to three-quarters volume now. Full volume still tore something that wasn't bone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The afternoon's hearing had featured a woman with a flag pin who asked whether the asset's emotional involvement compromised the seal. Calder had said, \"The seal happened because he refused a cure with his hand open. If you call that compromise, recommend a different dictionary.\" Ivo, in the row behind, had not smiled. Later, in the corridor, he had said, \"You used a complete sentence. I'm alarmed.\" Calder had said, \"Don't get used to it. The kettle's at home and I intend to be worse there.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Home was a set of rooms above a street that sold fried plantains and phone cards. Not a trophy flat. A place with a door and a kettle and a tea tin Ivo treated as shared property without filing forms. The windows faced a strip of sea that was not the Reach and still carried, on bad nights, a rumor of hum. Calder had learned to sleep on the side that wasn't a thesis. Ivo had learned to wake without inventing a laboratory before coffee. They argued about reports and sleep and whether a major was allowed to pretend he was fine. The arguments were how they stayed unfinished on purpose.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo stole the good tea. This was a ritual and a crime. He stood at Calder's counter in a shirt that had survived the jungle only as a memory, hair still cut like a man who did not trust humidity, scar through the eyebrow catching a domestic lamp. He insulted the prose of Calder's after-action with the focus he had once given flaking murals.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You wrote 'the asset elected not to query the system,'\" Ivo said. \"That is a sentence committed by a committee. I elected not to ring a bell that finishes people. You may say so. The committee can clutch its pearls in the margin.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The committee signs my leave chits.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Then disappoint them more elegantly. You're capable. I've seen you disappoint a span.\" He crushed a cardamom pod with the flat of a spoon, not a pencil. The smell was green and warm and no longer out of place. Ellis's gift, still arriving in careful packages every few weeks. \"Ellis sent more. He enclosed a note that says the moths are 'settling into urban morality.' Sable added, underneath, 'he means they are fine, stop worrying, also visit.' I assume that is their version of a wedding.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"They're not bonded.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"They're unmistakable. Bonding would be a demotion. They share a flat and a moth terrarium and an argument about whether antennae count as consent. I am not mediating.\" Ivo poured water that was not yet ready and pretended this was science. Calder watched him and did not grab the kettle. Habit. Language.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Harun limps and has a joke about it that Jun has rated as 'tolerated, not renewed.' Her shoulder takes a weight if she chooses the weight. She wrote me two lines: still shooting, still not an asset, tell the major his hug protocol remains medically ill-advised. I framed nothing. I obeyed the spirit. Harun's joke, since you will ask, is that the leg filed for overtime and won. Mateo says the limp is honest. Jun says the overtime joke is not.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder smiled into the kettle. The smile was half volume, which was the volume he could afford and the one Ivo actually liked. \"Mateo and Anouk?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"On leave and at war over a basin carving. He says meniscus. She says meniscus and also you're sitting on the resin. Their marriage will outlive the Directorate. Hester is teaching a seminar in which she calls the rapids story a lie and then gets angry at herself for agreeing with a major. She sent me Pavel's napkin photograph with a note that said <em>primary source, do not tidy</em>. Priya has a locked drawer and a career that looks, from the outside, like caution. The drawer is the bravest thing in her office. She had lunch with me and did not say your childhood name, which is how I know she is well. Rhee writes letters to her sister that say nothing prosecutable and everything frightened, and then she builds clean nets for people who will never know her name.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Nia?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Promoted sideways into a role that lets her keep people out of boxes. She sent a spreadsheet titled <em>Reasons the Major Remains Insufferable</em> with a new tab for domestic tea crimes. I added a row. She approved.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Leona?\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Unfound. On purpose. If she wanted finding she would have left a worse trail. The packet she took has not appeared as a weapon. It has appeared, in one journal, as a very strange paper on mineral-vector moths with the grammar stripped. I choose to read that as her limit holding. I also choose not to sleep easily on that reading. Sympathetic is not absolved. We knew.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"And Cho.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo's hand paused on the tin. \"A medical vault. Alive. Half. He tries to finish sentences with a mouth that isn't only his. They asked me to consult. I said containment, not study. Jonah sent a longer version of the same no. If they turn him into a breakthrough I will burn the breakthrough in print. That is not a metaphor. I have Priya's calendar-lie and my own name on the omission, and I will use both. Last month a technician asked whether the lagging mouth could be interviewed. I said the interview would be an ask. The technician went pale. Good.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Calder leaned his good hip against the counter and let the kitchen hold him. Outside, plantain oil and phone-card arguments. Inside, the smell of cardamom and the small domestic war of water temperature. He thought of the expedition as a shape that still lived in his body: eels, flood, cracked bronze, Ivo's empty hand on wet stone, Harun's scream becoming <em>still mine</em>, Leona vanishing into rain, the Unfinished holding scraps of name. He did not tidy the shape. Tidying was how clerks printed <em>rapids</em>.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The listening post had called while Ivo was still in the shower, and Calder had stood with the handset and watched steam edge the door and felt the old urge to solve the hum before Ivo could be afraid of it. He had killed the urge. Solving first was the jacket without consent. He had written the officer's words on the back of a ration label — offshore, +one, no visual, request expedited — and put the label under the tea tin, where a thief of good tea would find a truth instead of a surprise.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The kettle began its small metal song. Under the song, Calder heard the other thing: offshore, a hum. The Vein, or something that had learned the Vein's handwriting. One note higher than the note they had lived inside for weeks in the Reach. Not a bell. Not yet a question. A pitch change, as if a vast throat had cleared. Somewhere, someone might have asked. The novel did not need to become that someone's sequel tonight.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He had not told Ivo yet. He told him now, because kitchens were where they had agreed not to perform, and because hiding a hum was how you became Rhee sitting on a Helix burst or Calder at seventeen choosing the hall.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"The post called,\" he said. \"Offshore. Same family of sound. A note higher. They want a team. They used the word expedited. I used the word no until morning. Morning is a country I can still visit. Tonight I want the kettle.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo listened to the kitchen the way he listened to stone, head tilted, the pause before the important sentence. He heard it. Calder saw him hear it: the hum under the boil, faint, not in the teeth the way Qalen-Sar had been, but in the room, a guest that had not been invited and was not yet a command. Fear moved across Ivo's face and did not own it. Curiosity arrived and was refused a chair.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Not tonight,\" Ivo said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"No.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"If it's still higher in the morning, we look at the tape. We do not get on a boat because a pitch changed and a committee is lonely. We do not ask it what it wants. We eat food that is not a ration and you sleep on the side that isn't a thesis. We keep the record. We keep the refusal. A new hum does not get to be a new ask by arriving politely.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Bossy.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Accurate.\" He took the good cups, the ones Calder hid from other officers, and poured as if the pouring were a seal. Too strong. One pod. No sugar. He handed Calder his and did not make their fingers a scene. They met anyway, briefly, a choice. \"I don't forget,\" Ivo said, not a speech, a check, the way you check a knot. \"I'm still choosing you. A new question does not get to skip the queue.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I won't either,\" Calder said. \"Die, or leave the room, or call the cup a romance. Whichever one you were auditing.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"All three. Continuous audit. You're passing on a curve that includes a sling and a stolen tea and a hearing where you defended a dictionary.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"I was magnificent.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"You were adequate. Don't inflate. The kitchen can't hold your ego and the kettle.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "They drank. The kettle clicked off. The hum did not. It sat under the ordinary sounds — a neighbor's radio, a pipe, Ivo's swallow — one note higher than the note that had tried to finish a civilization, not yet a mouth, not yet their problem to feed. Calder looked at Ivo. Ivo looked back, frightened and clear, the same eyes as the chamber and the hall and the pad, finally attached to a life that had a door.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Outside, Puerto Virel went on being a city. Inside, two men who had not been fine and were not performing fine stood in a kitchen with a record that still contained a ruined notebook and a sealed bell and a half-finished man in a vault. Jun's shoulder. Harun's limp. Mateo and Anouk's resin war. Sable and Ellis's moth flat. Priya's locked drawer. Leona unfound. Cho unfinished. The novel of the expedition was over. The water was not. Calder set his cup down. Ivo stole another sip of the good tea from Calder's cup, a petty theft, a future.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Still us,\" Calder said.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "\"Still us,\" Ivo said. \"Still not ringing. Still not tonight.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The hum stayed under the kettle, patient, higher, unanswered.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Not tonight.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The kitchen held, and under the kettle the hum went on being only a hum, one note higher, refused for an evening that belonged to tea and the long way and two adults who were good at their jobs and wrong in specific, surviving, chosen ways.",
+        "dropCap": false
+      }
+    ]
   }
 ] as CompiledChapter[];
 
@@ -2362,6 +16761,398 @@ export const chapterSceneRegistry = [
     "sceneType": "opening",
     "description": "The causeway of Qalen-Sar rises out of the roots. Ivo almost says a name. The expedition enters the city.",
     "caption": "The first stones of Qalen-Sar, under the roots",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0010-opening",
+    "chapterId": "ch-0010",
+    "chapterTitle": "The Same Knot",
+    "title": "The Same Knot — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Priya reads a glyph in which ask and finish are the same word, and watches Calder watch Ivo as if the disaster might not be linguistic at all.",
+    "caption": "Shadow finds the knot the noon light refuses",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0011-opening",
+    "chapterId": "ch-0011",
+    "chapterTitle": "Lullaby",
+    "title": "Lullaby — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Root nuns sing a broken Keeper lullaby. Ivo's recording and Calder's salt each keep Jun alive, and neither man manages a clean thank-you.",
+    "caption": "Kneeling shapes where the roots learned a song",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0012-opening",
+    "chapterId": "ch-0012",
+    "chapterTitle": "Pencil Shavings",
+    "title": "Pencil Shavings — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Rain lifts Calder's blocker for one breath. A classroom tries to surface, and he cannot hold the face that would not cry.",
+    "caption": "One breath of citrus where the patch failed",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0013-opening",
+    "chapterId": "ch-0013",
+    "chapterTitle": "Ask It Something",
+    "title": "Ask It Something — Chapter Opening",
+    "sceneType": "opening",
+    "description": "A Mirror Hind wears Sable's posture and repeats her last order. Ellis asks it a question, and the mimic fails.",
+    "caption": "A print that cannot decide if it is a hoof or a boot",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0014-opening",
+    "chapterId": "ch-0014",
+    "chapterTitle": "Six Hours",
+    "title": "Six Hours — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Rhee admits she sat on a Helix transmission. The six hours will choose the ridge for the fight still coming.",
+    "caption": "A burst she kept in her pocket for six hours",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0015-opening",
+    "chapterId": "ch-0015",
+    "chapterTitle": "Cardamom",
+    "title": "Cardamom — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Ivo sleeps on his notes. Calder covers him with a jacket and calls it asset management, and only Nia is qualified to grade the lie.",
+    "caption": "A jacket, a notebook, a pod of cardamom",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0016-opening",
+    "chapterId": "ch-0016",
+    "chapterTitle": "Cache the Metal",
+    "title": "Cache the Metal — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Harun goes down the Cistern Stair without his gun. The eels are guarding silence, and Pavel's voice is still on a bone stylus.",
+    "caption": "Metal sings, and the water answers",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0017-opening",
+    "chapterId": "ch-0017",
+    "chapterTitle": "The Gallery",
+    "title": "The Gallery — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Ivo crosses a cracked span for a verb. The stone goes. In the collapse he tells Calder he has always been like this.",
+    "caption": "The last panel holds the verb",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0018-opening",
+    "chapterId": "ch-0018",
+    "chapterTitle": "Ivo",
+    "title": "Ivo — Chapter Opening",
+    "sceneType": "opening",
+    "description": "The classroom returns. Calder speaks the name he never used kindly, and Ivo goes still.",
+    "caption": "Rain through the gallery, and a name",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0019-opening",
+    "chapterId": "ch-0019",
+    "chapterTitle": "After the Name",
+    "title": "After the Name — Chapter Opening",
+    "sceneType": "opening",
+    "description": "In the broken mouth of the gallery, Calder tries to apologize for a cruelty he has only just sized, and Ivo refuses him a cinematic forgiveness.",
+    "caption": "Rain through broken stone, and a silence that knows the word",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0020-opening",
+    "chapterId": "ch-0020",
+    "chapterTitle": "Technically Correct",
+    "title": "Technically Correct — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Ivo takes a small, exact revenge that is neither kindness nor abuse, and Calder, disgusted with himself, likes the attention.",
+    "caption": "A stylus case, a nickname, and the weather between them",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0021-opening",
+    "chapterId": "ch-0021",
+    "chapterTitle": "Leave the Tent",
+    "title": "Leave the Tent — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Scent-thieves fake heat-signals in two omegas; suppressants hold while protocol empties the tent of alphas, and Calder goes without bargaining.",
+    "caption": "Gray ribbons in the wet dark, and a tent that must empty",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0022-opening",
+    "chapterId": "ch-0022",
+    "chapterTitle": "The Laugh",
+    "title": "The Laugh — Chapter Opening",
+    "sceneType": "opening",
+    "description": "On a miserable morning Ivo laughs for real, and Calder knows the word for what he feels and does not say it, lying so badly his team starts betting.",
+    "caption": "A startled laugh in wet green light, overheard by the wrong man",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0023-opening",
+    "chapterId": "ch-0023",
+    "chapterTitle": "Too Close",
+    "title": "Too Close — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Ivo notices the jacket-pattern, the tea, and Calder's jealousy misfiled toward Priya, then overhears one sentence at night that rearranges the debt.",
+    "caption": "A jacket's weave, a cup's steam, a sentence not meant for him",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "ch-0024-opening",
+    "chapterId": "ch-0024",
+    "chapterTitle": "Chapter 24",
+    "title": "Chapter 24 — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Chapter 24",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "ch-0025-opening",
+    "chapterId": "ch-0025",
+    "chapterTitle": "Chapter 25",
+    "title": "Chapter 25 — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Chapter 25",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "ch-0026-opening",
+    "chapterId": "ch-0026",
+    "chapterTitle": "Chapter 26",
+    "title": "Chapter 26 — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Chapter 26",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "ch-0027-opening",
+    "chapterId": "ch-0027",
+    "chapterTitle": "Chapter 27",
+    "title": "Chapter 27 — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Chapter 27",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0028-opening",
+    "chapterId": "ch-0028",
+    "chapterTitle": "He Doesn't Ask",
+    "title": "He Doesn't Ask — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Calder keeps the silence Ivo asked for. The work gets cleaner. Ivo finds a mural of Wardens who gardened danger, and nearly breaks the quiet he demanded.",
+    "caption": "Paint that remembers hands, not ranks",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0029-opening",
+    "chapterId": "ch-0029",
+    "chapterTitle": "The Unfinished",
+    "title": "The Unfinished — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Partial people speak from the wrong angle and know their names. Hester wants mercy by translation; Ivo wants data; Calder looks at Ivo only as tactics require.",
+    "caption": "Water holds the shadow weapons can touch",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0030-opening",
+    "chapterId": "ch-0030",
+    "chapterTitle": "The Empty Side",
+    "title": "The Empty Side — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Ivo admits he misses being annoyed with love in it. Ellis and Sable share a careful first kiss. He almost crosses the camp; Helix’s flare answers instead.",
+    "caption": "Two silhouettes learn a smaller bravery",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0031-opening",
+    "chapterId": "ch-0031",
+    "chapterTitle": "The Break",
+    "title": "The Break — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Helix assaults as a Vein-storm hits. The basin collapses and the team splits. Radios die into Pavel’s cadence. Nia does her job without yet knowing Ivo is gone from Calder’s reach.",
+    "caption": "Stone forgets it agreed to be a floor",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0032-opening",
+    "chapterId": "ch-0032",
+    "chapterTitle": "Say It",
+    "title": "Say It — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Soldiers go missing in known patterns; Ivo does not. Calder searches anyway, finds him under falling stone, and pays in ribs and forearm to get him out.",
+    "caption": "Smoke, glass wings, and a choice that costs bone",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0033-opening",
+    "chapterId": "ch-0033",
+    "chapterTitle": "Don't You Dare",
+    "title": "Don't You Dare — Chapter Opening",
+    "sceneType": "opening",
+    "description": "The scientist ends. Ivo says Calder’s name like a person, refuses the rally until Mateo promises a litter, and is left with years of badly kept love.",
+    "caption": "Blood on stone and a name said properly",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0034-opening",
+    "chapterId": "ch-0034",
+    "chapterTitle": "Day One",
+    "title": "Day One — Chapter Opening",
+    "sceneType": "opening",
+    "description": "In a Keeper hall field hospital, Calder lies unconscious and stable if the word is kind. Ivo refuses a cot and reports the mission to a man who cannot hear it.",
+    "caption": "Lamps, gauze, and a vigil that refuses furniture",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0035-opening",
+    "chapterId": "ch-0035",
+    "chapterTitle": "Day Three",
+    "title": "Day Three — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Ivo breaks at Calder’s bedside: years of love, the rejection as fear, the plea to wake. He does not know Calder has been awake since the moths.",
+    "caption": "A hand on a chest and a truth that finally speaks",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0036-opening",
+    "chapterId": "ch-0036",
+    "chapterTitle": "Won",
+    "title": "Won — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Calder waited through the confession rather than steal it. Weak, smiling, he asks if he finally won. Ivo’s mortification becomes a hug that hurts and does not release.",
+    "caption": "A joke returns, and with it the room where truth lives",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0037-opening",
+    "chapterId": "ch-0037",
+    "chapterTitle": "Still Us",
+    "title": "Still Us — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Bandaged and newly honest, Calder and Ivo argue medicine against the map; both go down toward the Bell, still themselves.",
+    "caption": "Dawn, a sling, and two men who have stopped pretending",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0038-opening",
+    "chapterId": "ch-0038",
+    "chapterTitle": "Her Brother",
+    "title": "Her Brother — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Leona parleys under a fig lintel: Cho rings at dawn; she will help stop him if the ecological record survives without teaching the ask.",
+    "caption": "Rain, a white flag that is not white, two commanders who will not forgive each other cleanly",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0039-opening",
+    "chapterId": "ch-0039",
+    "chapterTitle": "The Listening Court",
+    "title": "The Listening Court — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Priya walks the murals aloud; some Unfinished reclaim a scrap of name; she decides to break the weapon stanza in the official copy.",
+    "caption": "Shadow, water, and names given back by halves",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0040-opening",
+    "chapterId": "ch-0040",
+    "chapterTitle": "Lantern",
+    "title": "Lantern — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Pavel’s full warning still loops on the air; the rapids story dies; Hester votes to seal the Bell and hates agreeing with a major.",
+    "caption": "Nineteen minutes, a dead friend’s voice, a vote that tastes like ash",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0041-opening",
+    "chapterId": "ch-0041",
+    "chapterTitle": "The Mouth",
+    "title": "The Mouth — Chapter Opening",
+    "sceneType": "opening",
+    "description": "In the Bell chamber Ivo maps vats, wheel, and cistern; a cure offers itself in his teeth; he sets his hand down, and Calder does not grab his wrist.",
+    "caption": "Warm water, bone in the roots, a hand that does not ring",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0042-opening",
+    "chapterId": "ch-0042",
+    "chapterTitle": "Cho",
+    "title": "Cho — Chapter Opening",
+    "sceneType": "opening",
+    "description": "One-armed tactics in the Bell chamber; Nia runs the line; eels cut wrong on purpose; Cho reaches the striker.",
+    "caption": "Metal-song, warm water, a cracked bell carried like a thesis",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0043-opening",
+    "chapterId": "ch-0043",
+    "chapterTitle": "Half",
+    "title": "Half — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Cho strikes a cracked bell and the Marrow begins to finish him. The wheel is blown, Harun keeps his leg, and Leona leaves with the notes that cannot teach the ask.",
+    "caption": "The striker lands, and the pattern begins",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0044-opening",
+    "chapterId": "ch-0044",
+    "chapterTitle": "The Record",
+    "title": "The Record — Chapter Opening",
+    "sceneType": "opening",
+    "description": "On the way out, Ivo tells Calder the truth he can live with: he does not forget the notebook or the stair, and he chooses him anyway.",
+    "caption": "Bandages, a true record, and lights that offend",
+    "orientation": "landscape",
+    "placement": "wide"
+  },
+  {
+    "id": "hc-ch-0045-opening",
+    "chapterId": "ch-0045",
+    "chapterTitle": "One Note Higher",
+    "title": "One Note Higher — Chapter Opening",
+    "sceneType": "opening",
+    "description": "Six months later the Vein hums one note higher offshore. Ivo says not tonight. The kettle boils anyway.",
+    "caption": "Six months on, a kettle, a hum",
     "orientation": "landscape",
     "placement": "wide"
   }

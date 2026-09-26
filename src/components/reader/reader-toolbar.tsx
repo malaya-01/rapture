@@ -9,7 +9,6 @@ import {
   Settings,
   Volume2,
 } from "lucide-react";
-import { chapters } from "@/data/chapters";
 import type { CompiledChapter } from "@/types";
 import type { AmbientTrack } from "@/types";
 import { cn } from "@/lib/utils";
@@ -24,6 +23,7 @@ const AMBIENT_OPTIONS: { id: AmbientTrack; label: string }[] = [
 ];
 
 interface ReaderToolbarProps {
+  chapters: CompiledChapter[];
   chapter: CompiledChapter;
   chapterIndex: number;
   prevChapter: CompiledChapter | null;
@@ -39,6 +39,7 @@ interface ReaderToolbarProps {
 }
 
 export function ReaderToolbar({
+  chapters,
   chapter,
   chapterIndex,
   prevChapter,
@@ -56,6 +57,8 @@ export function ReaderToolbar({
   const [ambienceOpen, setAmbienceOpen] = useState(false);
   const savedAt = bookmarkPercent ?? scrollPercent;
   const hasSavedPlace = savedAt > 0;
+  const total = chapters.length;
+  const position = chapterIndex >= 0 ? chapterIndex + 1 : chapter.number;
 
   const goChapter = useCallback(
     (id: string) => {
@@ -90,11 +93,11 @@ export function ReaderToolbar({
             className="flex w-full items-center justify-center gap-2 rounded-sm border border-gold/15 px-3 py-2 text-xs text-text hover:border-gold/30"
           >
             <List className="h-3.5 w-3.5 shrink-0 text-gold/70" />
-            <span className="truncate">
+            <span className="min-w-0 truncate">
               Ch. {chapter.number} — {chapter.title}
             </span>
-            <span className="shrink-0 text-text-muted/60">
-              {chapterIndex + 1}/{chapters.length}
+            <span className="shrink-0 tabular-nums text-gold/70">
+              {position}/{total}
             </span>
           </button>
 
@@ -106,19 +109,21 @@ export function ReaderToolbar({
                 aria-label="Close chapter list"
                 onClick={() => setChaptersOpen(false)}
               />
-              <div className="absolute bottom-full left-0 right-0 z-50 mb-2 max-h-52 overflow-y-auto rounded-sm border border-gold/15 bg-bg-elevated py-1 shadow-xl md:max-h-64">
-                {chapters.map((ch, i) => (
+              <div className="absolute bottom-full left-0 right-0 z-50 mb-2 max-h-80 overflow-y-auto rounded-sm border border-gold/15 bg-bg-elevated py-1 shadow-xl">
+                {chapters.map((ch) => (
                   <button
                     key={ch.id}
                     type="button"
                     onClick={() => goChapter(ch.id)}
                     className={cn(
-                      "block w-full px-4 py-2 text-left text-xs transition-colors hover:bg-gold/10",
+                      "flex w-full items-baseline gap-2 px-4 py-2 text-left text-xs transition-colors hover:bg-gold/10",
                       ch.id === chapter.id ? "text-gold" : "text-text-muted"
                     )}
                   >
-                    <span className="text-text-muted/50">{i + 1}. </span>
-                    {ch.title}
+                    <span className="w-6 shrink-0 tabular-nums text-text-muted/50">
+                      {ch.number}
+                    </span>
+                    <span className="min-w-0 truncate">{ch.title}</span>
                   </button>
                 ))}
               </div>

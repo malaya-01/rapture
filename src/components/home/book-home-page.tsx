@@ -104,7 +104,11 @@ export function BookHomePage({ bookSlug }: BookHomePageProps) {
 
             <div className="mt-6 flex flex-wrap gap-4 text-ui text-sm text-text-muted">
               <span>{book.totalVolumes} Volumes</span>
-              <span>{book.totalChapters.toLocaleString()} Chapters</span>
+              <span>
+                {data.chapters.length === book.totalChapters
+                  ? `${book.totalChapters.toLocaleString()} Chapters`
+                  : `${data.chapters.length} of ${book.totalChapters.toLocaleString()} Chapters`}
+              </span>
               {hasProgress && <span>{overallProgress}% Read</span>}
             </div>
 

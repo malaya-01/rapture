@@ -164,6 +164,7 @@ export function ImmersiveReader({ bookSlug, chapterId }: ImmersiveReaderProps) {
       </article>
 
       <ReaderToolbar
+        chapters={chapters}
         chapter={chapter}
         chapterIndex={chapterIndex}
         prevChapter={prevChapter}

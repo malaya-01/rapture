@@ -176,7 +176,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-02",
     "volumeNumber": 2,
     "volumeTitle": "The Name",
-    "status": "outlined",
+    "status": "published",
     "pov": "Priya Raman",
     "synopsis": "Priya reads a glyph in which ask and finish are the same word, and watches Calder watch Ivo."
   },
@@ -187,7 +187,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-02",
     "volumeNumber": 2,
     "volumeTitle": "The Name",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "Root nuns sing a broken Keeper lullaby. Science and tactics each save a life, and neither man says thank you cleanly."
   },
@@ -198,7 +198,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-02",
     "volumeNumber": 2,
     "volumeTitle": "The Name",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "Rain lifts Calder's blocker for one breath. A classroom tries to surface. He cannot hold it."
   },
@@ -209,7 +209,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-02",
     "volumeNumber": 2,
     "volumeTitle": "The Name",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ellis Ward",
     "synopsis": "A Mirror Hind wears Sable's posture. Ellis asks it a question, and the mimic fails."
   },
@@ -220,7 +220,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-02",
     "volumeNumber": 2,
     "volumeTitle": "The Name",
-    "status": "outlined",
+    "status": "published",
     "pov": "Rhee Amari",
     "synopsis": "Rhee admits she sat on a Helix transmission. The delay will choose the ground for the fight to come."
   },
@@ -231,7 +231,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-02",
     "volumeNumber": 2,
     "volumeTitle": "The Name",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "Ivo sleeps on his notes. Calder covers him with a jacket and calls it asset management."
   },
@@ -242,7 +242,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-02",
     "volumeNumber": 2,
     "volumeTitle": "The Name",
-    "status": "outlined",
+    "status": "published",
     "pov": "Harun Dalca",
     "synopsis": "Harun goes down the Cistern Stair without his gun. The eels are guarding silence. Pavel's voice is still on the stylus."
   },
@@ -253,7 +253,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-02",
     "volumeNumber": 2,
     "volumeTitle": "The Name",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "Ivo crosses a cracked span for a verb. The stone goes. In the collapse he says Calder has always been like this."
   },
@@ -264,7 +264,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-02",
     "volumeNumber": 2,
     "volumeTitle": "The Name",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "The classroom returns. Calder speaks the name he never used kindly. Ivo goes still."
   },
@@ -275,7 +275,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-03",
     "volumeNumber": 3,
     "volumeTitle": "What He Carries",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "Calder apologizes without romance and without excuse. Ivo refuses to be forgiven where it would look like a scene."
   },
@@ -286,7 +286,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-03",
     "volumeNumber": 3,
     "volumeTitle": "What He Carries",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "Ivo's revenge is precise, petty, and survivable. Calder likes it, and is ashamed of liking it."
   },
@@ -297,7 +297,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-03",
     "volumeNumber": 3,
     "volumeTitle": "What He Carries",
-    "status": "outlined",
+    "status": "published",
     "pov": "Jonah Abebe",
     "synopsis": "Scent-thieves counterfeit a heat. Calder leaves the tent because the protocol is the ethics, and does not bargain his way back."
   },
@@ -308,7 +308,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-03",
     "volumeNumber": 3,
     "volumeTitle": "What He Carries",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "Ivo laughs, unarmed, over a moth. Calder learns the word for what he has been doing and does not say it."
   },
@@ -319,7 +319,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-03",
     "volumeNumber": 3,
     "volumeTitle": "What He Carries",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "Ivo notices the tea, the jacket, the jealousy. He is angry at being misunderstood and angrier that he cares."
   },
@@ -330,7 +330,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-03",
     "volumeNumber": 3,
     "volumeTitle": "What He Carries",
-    "status": "outlined",
+    "status": "published",
     "pov": "Jun Park",
     "synopsis": "Helix makes contact. Jun takes a round. Leona Varga has a second shot and does not take it."
   },
@@ -341,7 +341,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-03",
     "volumeNumber": 3,
     "volumeTitle": "What He Carries",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "They are close enough to kiss. Calder stops, names the rank between them, and waits for a yes he has not been given."
   },
@@ -352,7 +352,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-03",
     "volumeNumber": 3,
     "volumeTitle": "What He Carries",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "Calder confesses with no demand. Ivo refuses because forgiveness is not a schedule and love is not a redemption prize."
   },
@@ -363,7 +363,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-03",
     "volumeNumber": 3,
     "volumeTitle": "What He Carries",
-    "status": "outlined",
+    "status": "published",
     "pov": "Nia Okonkwo",
     "synopsis": "Calder remains an excellent commander and puts the warmth away. Ivo tells himself the quiet is what he asked for."
   },
@@ -374,7 +374,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-04",
     "volumeNumber": 4,
     "volumeTitle": "Three Days",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "No one checks whether Ivo has eaten. The safety feels like a room with the furniture removed."
   },
@@ -385,7 +385,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-04",
     "volumeNumber": 4,
     "volumeTitle": "Three Days",
-    "status": "outlined",
+    "status": "published",
     "pov": "Hester Lang",
     "synopsis": "Partial people know the expedition's names because the Vein repeats patterns. They want the question finished so they can rest."
   },
@@ -396,7 +396,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-04",
     "volumeNumber": 4,
     "volumeTitle": "Three Days",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "Ivo admits he misses being loved at close range. A flare goes up before he can cross the camp."
   },
@@ -407,7 +407,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-04",
     "volumeNumber": 4,
     "volumeTitle": "Three Days",
-    "status": "outlined",
+    "status": "published",
     "pov": "Nia Okonkwo",
     "synopsis": "Helix and a Vein-storm collapse the basin. The team splits. Radios die into a dead man's cadence."
   },
@@ -418,7 +418,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-04",
     "volumeNumber": 4,
     "volumeTitle": "Three Days",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "Ivo is missing. Calder searches until he finds him, and stays between Ivo and the stone long enough to break."
   },
@@ -429,7 +429,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-04",
     "volumeNumber": 4,
     "volumeTitle": "Three Days",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "The composure ends. Ivo says Calder's name like a person and will not leave him."
   },
@@ -440,7 +440,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-04",
     "volumeNumber": 4,
     "volumeTitle": "Three Days",
-    "status": "outlined",
+    "status": "published",
     "pov": "Jonah Abebe",
     "synopsis": "Ivo keeps the vigil and reports the mission to an unconscious man. The team stops pretending this is only duty."
   },
@@ -451,7 +451,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-04",
     "volumeNumber": 4,
     "volumeTitle": "Three Days",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "Believing Calder cannot hear, Ivo confesses the years he spent failing to forget him."
   },
@@ -462,7 +462,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-04",
     "volumeNumber": 4,
     "volumeTitle": "Three Days",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "Calder has been awake. He waits until the truth is finished, then smiles and asks if he finally won."
   },
@@ -473,7 +473,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-05",
     "volumeNumber": 5,
     "volumeTitle": "The Last Question",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "They are together and still themselves. The Bell is ahead. The sling is not a personality."
   },
@@ -484,7 +484,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-05",
     "volumeNumber": 5,
     "volumeTitle": "The Last Question",
-    "status": "outlined",
+    "status": "published",
     "pov": "Leona Varga",
     "synopsis": "Leona parleys. She will help stop Cho if a record survives that cannot teach anyone how to ask."
   },
@@ -495,7 +495,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-05",
     "volumeNumber": 5,
     "volumeTitle": "The Last Question",
-    "status": "outlined",
+    "status": "published",
     "pov": "Priya Raman",
     "synopsis": "Priya walks the murals, gives a few of the Unfinished their names back, and decides to break the weapon stanza."
   },
@@ -506,7 +506,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-05",
     "volumeNumber": 5,
     "volumeTitle": "The Last Question",
-    "status": "outlined",
+    "status": "published",
     "pov": "Hester Lang",
     "synopsis": "Pavel's warning is still broadcasting because the Marrow finishes patterns, including transmissions. The rapids story dies."
   },
@@ -517,7 +517,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-05",
     "volumeNumber": 5,
     "volumeTitle": "The Last Question",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "Ivo understands the Bell and feels the shape of a cure he does not ask for. Calder does not grab his wrist."
   },
@@ -528,7 +528,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-05",
     "volumeNumber": 5,
     "volumeTitle": "The Last Question",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "Helix reaches the striker. Aegis fights with one good arm, a beta who knows animals, and eels that hate metal."
   },
@@ -539,7 +539,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-05",
     "volumeNumber": 5,
     "volumeTitle": "The Last Question",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "Cho is half-answered. The resonance is flooded, the wheel broken, Harun pinned, and the cure left in the dark."
   },
@@ -550,7 +550,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-05",
     "volumeNumber": 5,
     "volumeTitle": "The Last Question",
-    "status": "outlined",
+    "status": "published",
     "pov": "Ivo Maren",
     "synopsis": "They come out of the green. Ivo does not forget. He chooses Calder anyway."
   },
@@ -561,7 +561,7 @@ export const manifestChapters: ManifestChapter[] = [
     "volumeId": "vol-05",
     "volumeNumber": 5,
     "volumeTitle": "The Last Question",
-    "status": "outlined",
+    "status": "published",
     "pov": "Calder Rhys",
     "synopsis": "Six months later the team is alive and altered. A listening post hears the Vein change pitch. Not tonight, Ivo says."
   }

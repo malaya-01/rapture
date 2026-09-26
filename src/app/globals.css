@@ -2062,3 +2062,15 @@ body {
     padding: 3.5rem 3rem 4rem !important;
   }
 }
+
+.reader-parchment .title-legend {
+  font-size: clamp(1.45rem, 4.4vw, 2.75rem);
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+  text-wrap: balance;
+}
+
+.reader-parchment .label-volume {
+  letter-spacing: 0.16em;
+  line-height: 1.7;
+}

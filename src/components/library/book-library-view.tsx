@@ -65,7 +65,9 @@ export function BookLibraryView({ bookSlug }: BookLibraryViewProps) {
           <h1 className="title-legend embossed-gold mt-4">Volume Library</h1>
           <p className="mx-auto mt-4 max-w-lg font-serif text-lg italic text-text-muted">
             {book.subtitle} — {manifestVolumes.length} volumes,{" "}
-            {book.totalChapters} chapters
+            {chapters.length === book.totalChapters
+              ? `${book.totalChapters} chapters`
+              : `${chapters.length} of ${book.totalChapters} chapters`}
           </p>
           <p className="text-ui mt-6 text-sm text-gold/60">
             {overallProgress}% of series explored

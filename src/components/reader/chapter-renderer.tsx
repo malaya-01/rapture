@@ -7,6 +7,7 @@ import { useReadingStore } from "@/store/reading-store";
 import { useStoreHydration } from "@/lib/use-hydration";
 import { getMaxReadChapterNumber } from "@/lib/spoilers";
 import { linkGlossaryTerms } from "@/lib/glossary";
+import { getImageSrc } from "@/lib/images";
 import { CodexLinkLayer } from "./codex-link-tooltip";
 
 function Paragraph({
@@ -156,15 +157,19 @@ export function ChapterHeader({
   bookTitle?: string;
   bookSlug?: string;
 }) {
+  const hasOpening = Boolean(getImageSrc(chapter.opening.promptId, bookSlug));
+
   return (
     <>
-      <ChapterFigureView
-        figure={chapter.opening}
-        placement={chapter.opening.placement}
-        bookSlug={bookSlug}
-      />
+      {hasOpening && (
+        <ChapterFigureView
+          figure={chapter.opening}
+          placement={chapter.opening.placement}
+          bookSlug={bookSlug}
+        />
+      )}
 
-      <header className="mt-12 text-center">
+      <header className={hasOpening ? "mt-12 text-center" : "text-center"}>
         <p className="label-volume">
           {chapter.volumeTitle ?? "Volume I — The Fractured Sky"}
         </p>
