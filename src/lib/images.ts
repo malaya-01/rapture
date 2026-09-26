@@ -1,9 +1,11 @@
 import { imageManifest as raptureManifest } from "@/data/image-manifest";
 import { imageManifest as echoesManifest } from "@/data/books/echoes-of-the-void/image-manifest";
+import { imageManifest as canopyManifest } from "@/data/books/the-hollow-canopy/image-manifest";
 
 const manifests = {
   rapture: raptureManifest,
   "echoes-of-the-void": echoesManifest,
+  "the-hollow-canopy": canopyManifest,
 };
 
 export function getImageEntry(id: string, bookSlug = "rapture") {

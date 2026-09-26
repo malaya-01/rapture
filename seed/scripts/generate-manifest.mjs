@@ -74,6 +74,16 @@ const POV_ROTATIONS = {
     "Riven Valerius",
     "Soren Valerius",
   ],
+  "the-hollow-canopy": [
+    "Calder Rhys",
+    "Ivo Maren",
+    "Nia Okonkwo",
+    "Mateo Solano",
+    "Jun Park",
+    "Sable Venn",
+    "Priya Raman",
+    "Ellis Ward",
+  ],
 };
 
 function povFor(slug, local) {
@@ -96,6 +106,13 @@ function inWorldDayEchoes(globalNum) {
   return Math.floor((globalNum - 1) * 3.5);
 }
 
+function inWorldDayCanopy(globalNum) {
+  if (globalNum <= 9) return globalNum - 1;
+  if (globalNum <= 18) return 8 + (globalNum - 9);
+  if (globalNum <= 36) return 17 + Math.floor((globalNum - 18) * 1.2);
+  return 40 + (globalNum - 36);
+}
+
 function statusFor(slug, globalNum, outlineStatus) {
   if (outlineStatus) return outlineStatus;
   if (slug === "rapture") {
@@ -107,6 +124,10 @@ function statusFor(slug, globalNum, outlineStatus) {
     if (globalNum === 1) return "published";
     if (globalNum <= 45) return "outlined";
     return "seed";
+  }
+  if (slug === "the-hollow-canopy") {
+    if (globalNum <= 9) return "published";
+    return "outlined";
   }
   return "seed";
 }
@@ -127,7 +148,11 @@ function generateForBook(book) {
   const { volumes } = arcs;
   const outlineById = loadOutlineChapters(paths.outlinesDir);
   const inWorldDay =
-    book.slug === "echoes-of-the-void" ? inWorldDayEchoes : inWorldDayRapture;
+    book.slug === "echoes-of-the-void"
+      ? inWorldDayEchoes
+      : book.slug === "the-hollow-canopy"
+        ? inWorldDayCanopy
+        : inWorldDayRapture;
 
   const chapters = [];
   for (const vol of volumes) {
@@ -155,7 +180,11 @@ function generateForBook(book) {
         inWorldDay: outline?.inWorldDay ?? inWorldDay(n),
         wordTarget:
           outline?.wordTarget ??
-          (book.slug === "echoes-of-the-void" ? 5000 : 2100),
+          (book.slug === "echoes-of-the-void"
+            ? 5000
+            : book.slug === "the-hollow-canopy"
+              ? 2800
+              : 2100),
         outlineFile: vol.outlineFile,
       });
     }

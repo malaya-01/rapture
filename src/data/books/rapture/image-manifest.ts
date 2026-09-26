@@ -17,7 +17,7 @@ export interface ImageManifestEntry {
 
 export const imageManifest = {
   bookSlug: "rapture",
-  generatedAt: "2026-06-30T12:41:53.793Z",
+  generatedAt: "2026-09-26T18:27:59.064Z",
   summary: { total: 369, present: 117, missing: 252 },
   categories: {
     "characters": { folder: "public/assets/images/rapture/characters/", naming: "{id}.png" },

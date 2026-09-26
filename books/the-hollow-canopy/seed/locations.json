@@ -1,0 +1,68 @@
+{
+  "locations": [
+    {
+      "id": "base-lantern",
+      "name": "Forward Base Lantern",
+      "region": "Puerto Virel coast, Virelia",
+      "description": "A rusted survey station turned military staging camp, named for an expedition that never came home. The jungle wall starts where the floodlights end.",
+      "firstAppearance": "ch-0001",
+      "minChapter": 1
+    },
+    {
+      "id": "orrocanopy",
+      "name": "The Orrocanopy",
+      "region": "Interior Virelia",
+      "description": "An unmapped rainforest whose rain, rivers, and radios misbehave. The Vein hums in tooth and water the deeper one walks.",
+      "firstAppearance": "ch-0005",
+      "minChapter": 4
+    },
+    {
+      "id": "survey-lantern-camp",
+      "name": "Survey Lantern Camp",
+      "region": "Black Orchid Reach",
+      "description": "The swallowed camp of Pavel Ruiz's expedition. The official file says rapids. The journal does not.",
+      "firstAppearance": "ch-0006",
+      "minChapter": 6
+    },
+    {
+      "id": "qalen-sar",
+      "name": "Qalen-Sar",
+      "region": "Black Orchid Reach",
+      "description": "The Drowned Court of the Selenqar Concord. Stone causeways, roof combs, and plazas strangled by roots and black water.",
+      "firstAppearance": "ch-0009",
+      "minChapter": 9
+    },
+    {
+      "id": "cistern-stair",
+      "name": "The Cistern Stair",
+      "region": "Qalen-Sar",
+      "description": "Flooded laboratories where the Selenqar grew questions. The eels attack anything that shouts in metal.",
+      "firstAppearance": "ch-0016",
+      "minChapter": 16
+    },
+    {
+      "id": "listening-court",
+      "name": "The Listening Court",
+      "region": "Qalen-Sar",
+      "description": "The mural heart of the triad — Speaker, Keeper, Warden — and the path down to the Bell.",
+      "firstAppearance": "ch-0039",
+      "minChapter": 29
+    },
+    {
+      "id": "marrow-bell",
+      "name": "The Marrow Bell",
+      "region": "Beneath Qalen-Sar",
+      "description": "The cistern-heart that can ask the Marrow a new question. To ring it is to hand a pattern to something that finishes patterns in flesh.",
+      "firstAppearance": "ch-0041",
+      "minChapter": 16
+    },
+    {
+      "id": "st-briony",
+      "name": "St. Briony Collegiate",
+      "region": "Harrowgate",
+      "description": "The school where Calder Rhys was admired and Ivo Maren learned how to be quiet. It exists in this story only as memory.",
+      "firstAppearance": "ch-0002",
+      "minChapter": 2
+    }
+  ]
+}

@@ -1,6 +1,5 @@
 "use client";
 
-import dynamic from "next/dynamic";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { ArrowRight, BookOpen, Library } from "lucide-react";
@@ -8,36 +7,23 @@ import { books } from "@/data/books-registry";
 import { getBookBasePath, getLibraryPath, getReadPath } from "@/lib/books/book-data";
 import { useReadingStore } from "@/store/reading-store";
 import { useStoreHydration } from "@/lib/use-hydration";
-import { useReducedMotion } from "@/lib/use-reduced-motion";
 import { Atmosphere } from "@/components/atmosphere/atmosphere";
-import { LandingLoader } from "@/components/landing/landing-loader";
 import { cn } from "@/lib/utils";
-
-const Library3DCanvas = dynamic(
-  () =>
-    import("@/components/library/library-3d-canvas").then((m) => m.Library3DCanvas),
-  { ssr: false, loading: () => <div className="h-full w-full bg-bg" /> }
-);
 
 export function LibraryHub() {
   const hydrated = useStoreHydration();
-  const reducedMotion = useReducedMotion();
 
   return (
     <Atmosphere particles={false}>
       <section className="relative min-h-[85vh] overflow-hidden">
         <div className="absolute inset-0 z-0 min-h-[70vh]">
-          {reducedMotion ? (
-            <div
-              className="h-full w-full"
-              style={{
-                background:
-                  "radial-gradient(ellipse 80% 60% at 50% 40%, #2a1f18 0%, #090807 55%, #050504 100%)",
-              }}
-            />
-          ) : (
-            <Library3DCanvas books={books} />
-          )}
+          <div
+            className="h-full w-full"
+            style={{
+              background:
+                "radial-gradient(ellipse 80% 60% at 50% 40%, #2a1f18 0%, #090807 55%, #050504 100%)",
+            }}
+          />
           <div
             className="pointer-events-none absolute inset-0"
             style={{
@@ -46,7 +32,6 @@ export function LibraryHub() {
             }}
           />
           <div className="pointer-events-none absolute inset-0 vignette opacity-50" />
-          {!reducedMotion && <LandingLoader />}
         </div>
 
         <div className="pointer-events-none relative z-10 flex min-h-screen flex-col items-center justify-center px-6 py-24 text-center">
@@ -62,11 +47,6 @@ export function LibraryHub() {
             <p className="mx-auto mt-6 max-w-2xl font-serif text-xl italic text-[#F5EFE2]/60">
               Every Book Contains A World
             </p>
-            {!reducedMotion && (
-              <p className="text-ui mt-6 text-xs tracking-widest text-text-muted/60 uppercase">
-                Drag to explore the hall · click a tome to enter
-              </p>
-            )}
           </motion.div>
         </div>
       </section>

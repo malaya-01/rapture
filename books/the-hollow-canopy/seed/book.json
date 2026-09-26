@@ -1,0 +1,13 @@
+{
+  "id": "the-hollow-canopy",
+  "title": "The Hollow Canopy",
+  "subtitle": "What the Rain Kept",
+  "author": "Aether Vale",
+  "description": "Fourteen years after St. Briony, Major Calder Rhys is ordered to keep a classified omega scientist alive in an unmapped rainforest. Dr. Ivo Maren recognizes him at once and says nothing. Beneath the canopy, a dead civilization is still trying to finish the question that ended it.",
+  "genre": ["BL Romance", "Omegaverse", "Military Thriller", "Supernatural Mystery", "Expedition"],
+  "totalChapters": 45,
+  "totalVolumes": 5,
+  "targetWordsPerChapter": { "min": 2500, "max": 3200 },
+  "primaryPOV": "Calder Rhys",
+  "codename": "hollow-canopy"
+}

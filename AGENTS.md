@@ -14,6 +14,7 @@ This repo hosts **multiple book series** in one reading app.
 |--------|------|-------|-------|------|
 | **Rapture** | `rapture` | `books/rapture/knowledgebase/INSTRUCTIONS.md` | `books/rapture/content/chapters/` | `books/rapture/seed/` |
 | **Echoes of the Void** | `echoes-of-the-void` | `books/echoes-of-the-void/knowledgebase/INSTRUCTIONS.md` | `books/echoes-of-the-void/content/chapters/` | `books/echoes-of-the-void/seed/` |
+| **The Hollow Canopy** | `the-hollow-canopy` | `books/the-hollow-canopy/knowledgebase/INSTRUCTIONS.md` | `books/the-hollow-canopy/content/chapters/` | `books/the-hollow-canopy/seed/` |
 
 Registry: `seed/books.json` → `src/data/books-registry.ts`
 
@@ -30,6 +31,12 @@ Registry: `seed/books.json` → `src/data/books-registry.ts`
 **Story bible:** `books/echoes-of-the-void/knowledgebase/INSTRUCTIONS.md`  
 **Generation prompt:** `books/echoes-of-the-void/MASTER-NOVEL-PROMPT.md`  
 **8 volumes / 360 chapters** — see `books/echoes-of-the-void/seed/arcs.json`
+
+## The Hollow Canopy
+
+**Story bible:** `books/the-hollow-canopy/knowledgebase/INSTRUCTIONS.md`  
+**Generation prompt:** `books/the-hollow-canopy/MASTER-NOVEL-PROMPT.md`  
+**5 acts / 45 chapters** — see `books/the-hollow-canopy/seed/arcs.json`
 
 ## App routes
 

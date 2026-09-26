@@ -1,0 +1,68 @@
+{
+  "events": [
+    {
+      "id": "st-briony-years",
+      "title": "St. Briony",
+      "era": "Fourteen years before the expedition",
+      "description": "Calder Rhys and Ivo Maren share a school. Calder is admired. Ivo is quiet. The cruelty is real. So are three afternoons in a library that almost became something else.",
+      "chapter": "ch-0002",
+      "minChapter": 2
+    },
+    {
+      "id": "survey-lantern-lost",
+      "title": "Survey Lantern vanishes",
+      "era": "Eleven years before the expedition",
+      "description": "Pavel Ruiz's team asks the wrong kind of question in the Orrocanopy. The Compact files the loss as rapids. The radio never stops repeating the warning.",
+      "chapter": "ch-0006",
+      "minChapter": 1
+    },
+    {
+      "id": "orchid-assignment",
+      "title": "The ORCHID detail",
+      "era": "Present",
+      "description": "Aegis Detachment Seven is sent to protect Dr. I. Maren on a classified descent into the Black Orchid Reach.",
+      "chapter": "ch-0001",
+      "minChapter": 1
+    },
+    {
+      "id": "the-name",
+      "title": "Calder says Ivo",
+      "era": "Present",
+      "description": "In a collapsing gallery Ivo says Calder has always been like this. The classroom returns. Recognition is mutual.",
+      "chapter": "ch-0018",
+      "minChapter": 18
+    },
+    {
+      "id": "the-refusal",
+      "title": "The refusal",
+      "era": "Present",
+      "description": "Calder confesses. Ivo cannot reciprocate yet. Calder accepts and puts the warmth away without punishment.",
+      "chapter": "ch-0026",
+      "minChapter": 26
+    },
+    {
+      "id": "three-days",
+      "title": "Three days",
+      "era": "Present",
+      "description": "Calder is badly hurt shielding Ivo. Ivo keeps a vigil and confesses to a man he thinks cannot hear him.",
+      "chapter": "ch-0035",
+      "minChapter": 32
+    },
+    {
+      "id": "the-seal",
+      "title": "The Bell is sealed",
+      "era": "Present",
+      "description": "Cho rings a cracked bell and is half-answered. The expedition floods the resonance and breaks the asking-wheel rather than take the power.",
+      "chapter": "ch-0043",
+      "minChapter": 41
+    },
+    {
+      "id": "the-hum",
+      "title": "One note higher",
+      "era": "Six months later",
+      "description": "A coastal listening post hears the Vein change pitch. Somewhere else, a new question has been asked.",
+      "chapter": "ch-0045",
+      "minChapter": 45
+    }
+  ]
+}

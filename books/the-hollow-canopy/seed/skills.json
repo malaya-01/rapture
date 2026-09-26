@@ -1,0 +1,36 @@
+{
+  "skills": [
+    {
+      "id": "the-vein",
+      "name": "The Vein",
+      "type": "phenomenon",
+      "rank": "S",
+      "description": "The low hum in water, bone, and radio through the Orrocanopy. It is the Marrow listening for a pattern to finish.",
+      "firstAppearance": "ch-0009"
+    },
+    {
+      "id": "knot-glyph",
+      "name": "Selenqari knot-glyphs",
+      "type": "language",
+      "rank": "A",
+      "description": "A script of stone cords read by touch and shadow-angle. In the city's grammar, ask and finish are the same word.",
+      "firstAppearance": "ch-0010"
+    },
+    {
+      "id": "marrow-bell-skill",
+      "name": "The Marrow Bell",
+      "type": "artifact",
+      "rank": "S",
+      "description": "A cistern-heart that submits a living question to the Marrow. The answer arrives as completion of flesh and system, not as words.",
+      "firstAppearance": "ch-0041"
+    },
+    {
+      "id": "scent-protocol",
+      "name": "Blocker protocol",
+      "type": "military",
+      "rank": "C",
+      "description": "Twelve-hour scent blockers and logged suppressants. An alpha protection officer leaves the tent if an omega's suppressants fail.",
+      "firstAppearance": "ch-0001"
+    }
+  ]
+}

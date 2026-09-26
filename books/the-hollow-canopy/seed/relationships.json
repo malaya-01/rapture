@@ -1,0 +1,76 @@
+{
+  "relationships": [
+    {
+      "id": "calder-ivo",
+      "from": "calder-rhys",
+      "to": "ivo-maren",
+      "type": "romantic",
+      "description": "Protection detail, old cruelty, and a love that is chosen after rejection — not biology and not instant.",
+      "minChapter": 1
+    },
+    {
+      "id": "mateo-anouk",
+      "from": "mateo-solano",
+      "to": "anouk-solano",
+      "type": "romantic",
+      "description": "A six-year bond. Healthy, quarrelsome, and the model of love that already knows how to work.",
+      "minChapter": 4
+    },
+    {
+      "id": "harun-jun",
+      "from": "harun-dalca",
+      "to": "jun-park",
+      "type": "romantic",
+      "description": "Bonded soldiers. Loud and quiet, respectively. The bond is a strength Nia refuses to let become a tactical failure.",
+      "minChapter": 1
+    },
+    {
+      "id": "sable-ellis",
+      "from": "sable-venn",
+      "to": "ellis-ward",
+      "type": "romantic",
+      "description": "Alpha recon and beta biologist. They clash, then trust, then choose each other without a heat to blame.",
+      "minChapter": 4
+    },
+    {
+      "id": "ivo-priya",
+      "from": "ivo-maren",
+      "to": "priya-raman",
+      "type": "friendship",
+      "description": "Priya holds the school story before Calder remembers it. Friendship, not romance.",
+      "minChapter": 2
+    },
+    {
+      "id": "calder-nia",
+      "from": "calder-rhys",
+      "to": "nia-okonkwo",
+      "type": "alliance",
+      "description": "Commander and second. She translates his confidence into plans and will not let him confuse guilt with command.",
+      "minChapter": 1
+    },
+    {
+      "id": "hester-pavel",
+      "from": "hester-lang",
+      "to": "pavel-ruiz",
+      "type": "friendship",
+      "description": "Colleagues. His death was filed as rapids. She never believed the file.",
+      "minChapter": 6
+    },
+    {
+      "id": "cho-leona",
+      "from": "adrien-cho",
+      "to": "leona-varga",
+      "type": "rivalry",
+      "description": "Director and field commander. Same objective, different price. She will not follow him all the way to the Bell.",
+      "minChapter": 24
+    },
+    {
+      "id": "expedition-cho",
+      "from": "calder-rhys",
+      "to": "adrien-cho",
+      "type": "enemy",
+      "description": "The Compact's protection detail against Helix Meridian's attempt to ring the Marrow Bell.",
+      "minChapter": 14
+    }
+  ]
+}

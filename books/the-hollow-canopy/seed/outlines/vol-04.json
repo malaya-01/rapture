@@ -1,0 +1,77 @@
+{
+  "volumeId": "vol-04",
+  "chapters": [
+    {
+      "id": "ch-0028",
+      "title": "He Doesn't Ask",
+      "pov": "Ivo Maren",
+      "synopsis": "No one checks whether Ivo has eaten. The safety feels like a room with the furniture removed.",
+      "status": "outlined",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0029",
+      "title": "The Unfinished",
+      "pov": "Hester Lang",
+      "synopsis": "Partial people know the expedition's names because the Vein repeats patterns. They want the question finished so they can rest.",
+      "status": "outlined",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0030",
+      "title": "The Empty Side",
+      "pov": "Ivo Maren",
+      "synopsis": "Ivo admits he misses being loved at close range. A flare goes up before he can cross the camp.",
+      "status": "outlined",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0031",
+      "title": "The Break",
+      "pov": "Nia Okonkwo",
+      "synopsis": "Helix and a Vein-storm collapse the basin. The team splits. Radios die into a dead man's cadence.",
+      "status": "outlined",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0032",
+      "title": "Say It",
+      "pov": "Calder Rhys",
+      "synopsis": "Ivo is missing. Calder searches until he finds him, and stays between Ivo and the stone long enough to break.",
+      "status": "outlined",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0033",
+      "title": "Don't You Dare",
+      "pov": "Ivo Maren",
+      "synopsis": "The composure ends. Ivo says Calder's name like a person and will not leave him.",
+      "status": "outlined",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0034",
+      "title": "Day One",
+      "pov": "Jonah Abebe",
+      "synopsis": "Ivo keeps the vigil and reports the mission to an unconscious man. The team stops pretending this is only duty.",
+      "status": "outlined",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0035",
+      "title": "Day Three",
+      "pov": "Ivo Maren",
+      "synopsis": "Believing Calder cannot hear, Ivo confesses the years he spent failing to forget him.",
+      "status": "outlined",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0036",
+      "title": "Won",
+      "pov": "Calder Rhys",
+      "synopsis": "Calder has been awake. He waits until the truth is finished, then smiles and asks if he finally won.",
+      "status": "outlined",
+      "wordTarget": 2800
+    }
+  ]
+}

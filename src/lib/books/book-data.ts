@@ -9,6 +9,8 @@ import * as raptureChapters from "@/data/chapters";
 import * as raptureManifest from "@/data/chapter-manifest";
 import * as echoesChapters from "@/data/books/echoes-of-the-void/chapters";
 import * as echoesManifest from "@/data/books/echoes-of-the-void/chapter-manifest";
+import * as canopyChapters from "@/data/books/the-hollow-canopy/chapters";
+import * as canopyManifest from "@/data/books/the-hollow-canopy/chapter-manifest";
 
 export interface BookChapterData {
   chapters: CompiledChapter[];
@@ -112,6 +114,11 @@ const registry: Record<string, BookData> = {
     getBookBySlug("echoes-of-the-void")!,
     echoesChapters,
     echoesManifest
+  ),
+  "the-hollow-canopy": buildBookData(
+    getBookBySlug("the-hollow-canopy")!,
+    canopyChapters,
+    canopyManifest
   ),
 };
 

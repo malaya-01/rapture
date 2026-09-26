@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-09-26T18:40:05.037Z",
+  "scenes": [
+    {
+      "id": "hc-ch-0001-opening",
+      "chapterId": "ch-0001",
+      "chapterTitle": "The Man They Sent",
+      "title": "The Man They Sent — Chapter Opening",
+      "sceneType": "opening",
+      "description": "At Forward Base Lantern, Major Calder Rhys prepares to guard a scientist he has already decided to dislike, while a dead frequency repeats a warning.",
+      "caption": "Floodlights stop where the canopy begins",
+      "orientation": "landscape",
+      "placement": "wide"
+    },
+    {
+      "id": "hc-ch-0002-opening",
+      "chapterId": "ch-0002",
+      "chapterTitle": "The Initial",
+      "title": "The Initial — Chapter Opening",
+      "sceneType": "opening",
+      "description": "Dr. Ivo Maren flies toward a man he has not seen in fourteen years and chooses, with his whole composure, to say nothing.",
+      "caption": "The helicopter follows the river into weather",
+      "orientation": "landscape",
+      "placement": "wide"
+    },
+    {
+      "id": "hc-ch-0003-opening",
+      "chapterId": "ch-0003",
+      "chapterTitle": "Asset Orchid",
+      "title": "Asset Orchid — Chapter Opening",
+      "sceneType": "opening",
+      "description": "The briefing should be simple. The scientist is not fragile, not impressed, and familiar in a way Calder cannot name.",
+      "caption": "Maps, rain, and a man who looks past the camera",
+      "orientation": "landscape",
+      "placement": "wide"
+    },
+    {
+      "id": "hc-ch-0004-opening",
+      "chapterId": "ch-0004",
+      "chapterTitle": "People You Mean to Bring Back",
+      "title": "People You Mean to Bring Back — Chapter Opening",
+      "sceneType": "opening",
+      "description": "Captain Nia Okonkwo counts the living on the river staging and decides the ghost signal is not a bad radio.",
+      "caption": "Two boats at the edge of the last mapped water",
+      "orientation": "landscape",
+      "placement": "wide"
+    },
+    {
+      "id": "hc-ch-0005-opening",
+      "chapterId": "ch-0005",
+      "chapterTitle": "Scientifically Acceptable",
+      "title": "Scientifically Acceptable — Chapter Opening",
+      "sceneType": "opening",
+      "description": "Ivo crosses a perimeter because the moths do, and Calder learns that curiosity is not the same thing as stupidity.",
+      "caption": "Stone-winged moths cross a line the soldiers drew",
+      "orientation": "landscape",
+      "placement": "wide"
+    },
+    {
+      "id": "hc-ch-0006-opening",
+      "chapterId": "ch-0006",
+      "chapterTitle": "What the Rapids Didn't Do",
+      "title": "What the Rapids Didn't Do — Chapter Opening",
+      "sceneType": "opening",
+      "description": "Survey Lantern's camp contradicts its obituary. Lieutenant Sable Venn needs a biologist she does not want to trust.",
+      "caption": "A camp the official file returned to the river",
+      "orientation": "landscape",
+      "placement": "wide"
+    },
+    {
+      "id": "hc-ch-0007-opening",
+      "chapterId": "ch-0007",
+      "chapterTitle": "Look at Its Movement",
+      "title": "Look at Its Movement — Chapter Opening",
+      "sceneType": "opening",
+      "description": "Glass kites hit at dusk. Ivo's eye saves the shot. Calder's hands save Ivo. Respect arrives disguised as anger.",
+      "caption": "The canopy opens, and something transparent falls",
+      "orientation": "landscape",
+      "placement": "wide"
+    },
+    {
+      "id": "hc-ch-0008-opening",
+      "chapterId": "ch-0008",
+      "chapterTitle": "Not on the Chart",
+      "title": "Not on the Chart — Chapter Opening",
+      "sceneType": "opening",
+      "description": "The medic treats the wounded, watches a marriage work under orders, and tells Calder the truth about fear that stays quiet.",
+      "caption": "A lamp, a graze, and a carving nobody agrees about",
+      "orientation": "landscape",
+      "placement": "wide"
+    },
+    {
+      "id": "hc-ch-0009-opening",
+      "chapterId": "ch-0009",
+      "chapterTitle": "The First Stones",
+      "title": "The First Stones — Chapter Opening",
+      "sceneType": "opening",
+      "description": "The causeway of Qalen-Sar rises out of the roots. Ivo almost says a name. The expedition enters the city.",
+      "caption": "The first stones of Qalen-Sar, under the roots",
+      "orientation": "landscape",
+      "placement": "wide"
+    }
+  ]
+}

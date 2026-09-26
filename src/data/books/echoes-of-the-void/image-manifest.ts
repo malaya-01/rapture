@@ -15,7 +15,7 @@ export interface ImageManifestEntry {
 }
 
 export const imageManifest = {
-  generatedAt: "2026-06-30T12:41:53.895Z",
+  generatedAt: "2026-09-26T18:27:59.360Z",
   bookSlug: "echoes-of-the-void",
   summary: { total: 20, present: 15, missing: 5 },
   entries: [
@@ -232,7 +232,7 @@ export const imageManifest = {
     "relativePath": "assets/images/echoes-of-the-void/scenes/eov-ch-0001-opening.svg",
     "publicPath": "/assets/images/echoes-of-the-void/scenes/eov-ch-0001-opening.svg",
     "status": "present",
-    "version": 1782822679536.2126
+    "version": 1790446223778.7705
   }
 ] as ImageManifestEntry[],
 };

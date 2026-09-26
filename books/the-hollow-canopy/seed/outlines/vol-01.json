@@ -1,0 +1,77 @@
+{
+  "volumeId": "vol-01",
+  "chapters": [
+    {
+      "id": "ch-0001",
+      "title": "The Man They Sent",
+      "pov": "Calder Rhys",
+      "synopsis": "At Forward Base Lantern, Major Calder Rhys prepares to guard a scientist he has already decided to dislike, while a dead frequency repeats a warning.",
+      "status": "published",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0002",
+      "title": "The Initial",
+      "pov": "Ivo Maren",
+      "synopsis": "Dr. Ivo Maren flies toward a man he has not seen in fourteen years and chooses, with his whole composure, to say nothing.",
+      "status": "published",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0003",
+      "title": "Asset Orchid",
+      "pov": "Calder Rhys",
+      "synopsis": "The briefing should be simple. The scientist is not fragile, not impressed, and familiar in a way Calder cannot name.",
+      "status": "published",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0004",
+      "title": "People You Mean to Bring Back",
+      "pov": "Nia Okonkwo",
+      "synopsis": "Captain Nia Okonkwo counts the living on the river staging and decides the ghost signal is not a bad radio.",
+      "status": "published",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0005",
+      "title": "Scientifically Acceptable",
+      "pov": "Ivo Maren",
+      "synopsis": "Ivo crosses a perimeter because the moths do, and Calder learns that curiosity is not the same thing as stupidity.",
+      "status": "published",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0006",
+      "title": "What the Rapids Didn't Do",
+      "pov": "Sable Venn",
+      "synopsis": "Survey Lantern's camp contradicts its obituary. Lieutenant Sable Venn needs a biologist she does not want to trust.",
+      "status": "published",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0007",
+      "title": "Look at Its Movement",
+      "pov": "Calder Rhys",
+      "synopsis": "Glass kites hit at dusk. Ivo's eye saves the shot. Calder's hands save Ivo. Respect arrives disguised as anger.",
+      "status": "published",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0008",
+      "title": "Not on the Chart",
+      "pov": "Mateo Solano",
+      "synopsis": "The medic treats the wounded, watches a marriage work under orders, and tells Calder the truth about fear that stays quiet.",
+      "status": "published",
+      "wordTarget": 2800
+    },
+    {
+      "id": "ch-0009",
+      "title": "The First Stones",
+      "pov": "Ivo Maren",
+      "synopsis": "The causeway of Qalen-Sar rises out of the roots. Ivo almost says a name. The expedition enters the city.",
+      "status": "published",
+      "wordTarget": 2800
+    }
+  ]
+}

@@ -54,6 +54,32 @@ export const books: Book[] = [
     },
     "totalChapters": 360,
     "totalVolumes": 8
+  },
+  {
+    "id": "the-hollow-canopy",
+    "slug": "the-hollow-canopy",
+    "title": "The Hollow Canopy",
+    "subtitle": "What the Rain Kept",
+    "author": "Aether Vale",
+    "description": "Fourteen years after St. Briony, Major Calder Rhys is ordered to keep a classified omega scientist alive in an unmapped rainforest. Dr. Ivo Maren recognizes him at once and says nothing. Beneath the canopy, a dead civilization is still trying to finish the question that ended it.",
+    "genre": [
+      "BL Romance",
+      "Omegaverse",
+      "Military Thriller",
+      "Supernatural Mystery",
+      "Expedition"
+    ],
+    "accentColor": "#1e4d3a",
+    "coverImage": "/assets/covers/the-hollow-canopy.svg",
+    "features": {
+      "codex": true,
+      "bestiary": false,
+      "map": false,
+      "timeline": true,
+      "relationships": true
+    },
+    "totalChapters": 45,
+    "totalVolumes": 5
   }
 ] as Book[];
 

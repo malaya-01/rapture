@@ -51,6 +51,20 @@ import * as echoesTimeline from "@/data/books/echoes-of-the-void/timeline";
 import * as echoesRelationships from "@/data/books/echoes-of-the-void/relationships";
 import { imageManifest as echoesImageManifest } from "@/data/books/echoes-of-the-void/image-manifest";
 
+import * as canopyCharacters from "@/data/books/the-hollow-canopy/characters";
+import * as canopyLocations from "@/data/books/the-hollow-canopy/locations";
+import * as canopyMonsters from "@/data/books/the-hollow-canopy/monsters";
+import * as canopyArtifacts from "@/data/books/the-hollow-canopy/artifacts";
+import * as canopyEquipment from "@/data/books/the-hollow-canopy/equipment";
+import * as canopyDungeons from "@/data/books/the-hollow-canopy/dungeons-data";
+import * as canopyFactions from "@/data/books/the-hollow-canopy/factions-data";
+import * as canopyCompanions from "@/data/books/the-hollow-canopy/companions";
+import * as canopyDisciples from "@/data/books/the-hollow-canopy/disciples";
+import * as canopyMagic from "@/data/books/the-hollow-canopy/magic-skills";
+import * as canopyTimeline from "@/data/books/the-hollow-canopy/timeline";
+import * as canopyRelationships from "@/data/books/the-hollow-canopy/relationships";
+import { imageManifest as canopyImageManifest } from "@/data/books/the-hollow-canopy/image-manifest";
+
 interface CodexModules {
   characters: { characters: Character[] };
   locations: { locations: BookCodexData["locations"] };
@@ -130,6 +144,21 @@ const registry: Record<string, BookCodexData> = {
     timeline: echoesTimeline,
     relationships: echoesRelationships,
     imageManifest: echoesImageManifest,
+  } as unknown as CodexModules),
+  "the-hollow-canopy": pack("the-hollow-canopy", {
+    characters: canopyCharacters,
+    locations: canopyLocations,
+    monsters: canopyMonsters,
+    artifacts: canopyArtifacts,
+    equipment: canopyEquipment,
+    dungeons: canopyDungeons,
+    factions: canopyFactions,
+    companions: canopyCompanions,
+    disciples: canopyDisciples,
+    magic: canopyMagic,
+    timeline: canopyTimeline,
+    relationships: canopyRelationships,
+    imageManifest: canopyImageManifest,
   } as unknown as CodexModules),
 };
 

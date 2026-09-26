@@ -1,0 +1,101 @@
+{
+  "acts": [
+    {
+      "id": "act-1",
+      "name": "The Return",
+      "chapterStart": 1,
+      "chapterEnd": 9,
+      "theme": "The man who left and the man who stayed quiet"
+    },
+    {
+      "id": "act-2",
+      "name": "The Name",
+      "chapterStart": 10,
+      "chapterEnd": 18,
+      "theme": "Familiarity is not the same as innocence"
+    },
+    {
+      "id": "act-3",
+      "name": "What He Carries",
+      "chapterStart": 19,
+      "chapterEnd": 27,
+      "theme": "Love that does not spend the past as coin"
+    },
+    {
+      "id": "act-4",
+      "name": "Three Days",
+      "chapterStart": 28,
+      "chapterEnd": 36,
+      "theme": "What breaks when the quiet man is the one bleeding"
+    },
+    {
+      "id": "act-5",
+      "name": "The Last Question",
+      "chapterStart": 37,
+      "chapterEnd": 45,
+      "theme": "They choose each other and still refuse the Bell"
+    }
+  ],
+  "volumes": [
+    {
+      "id": "vol-01",
+      "number": 1,
+      "title": "The Return",
+      "chapterStart": 1,
+      "chapterEnd": 9,
+      "actId": "act-1",
+      "primaryTheme": "Recognition withheld",
+      "secondaryTheme": "First contact",
+      "purpose": "Calder takes the ORCHID detail; Ivo knows him and stays silent; the expedition enters the Orrocanopy and reaches the first stones of Qalen-Sar.",
+      "outlineFile": "the-hollow-canopy/knowledgebase/volumes/VOLUME_01_THE_RETURN.md"
+    },
+    {
+      "id": "vol-02",
+      "number": 2,
+      "title": "The Name",
+      "chapterStart": 10,
+      "chapterEnd": 18,
+      "actId": "act-2",
+      "primaryTheme": "Déjà vu",
+      "secondaryTheme": "The ask/finish glyph",
+      "purpose": "Ruins, creatures, and Calder's unrecognized memories build to the gallery collapse, where he finally says Ivo's name.",
+      "outlineFile": "the-hollow-canopy/knowledgebase/volumes/VOLUME_02_THE_NAME.md"
+    },
+    {
+      "id": "vol-03",
+      "number": 3,
+      "title": "What He Carries",
+      "chapterStart": 19,
+      "chapterEnd": 27,
+      "actId": "act-3",
+      "primaryTheme": "Guilt and want",
+      "secondaryTheme": "Helix arrives",
+      "purpose": "Apology without excuse, Ivo's precise revenge, Calder falls in love, confesses, and is rejected. The warmth is put away.",
+      "outlineFile": "the-hollow-canopy/knowledgebase/volumes/VOLUME_03_WHAT_HE_CARRIES.md"
+    },
+    {
+      "id": "vol-04",
+      "number": 4,
+      "title": "Three Days",
+      "chapterStart": 28,
+      "chapterEnd": 36,
+      "actId": "act-4",
+      "primaryTheme": "The wall",
+      "secondaryTheme": "The vigil",
+      "purpose": "Distance, the Unfinished, the collapse, Calder's injury, Ivo's break, the confession, and the proof Calder heard it.",
+      "outlineFile": "the-hollow-canopy/knowledgebase/volumes/VOLUME_04_THREE_DAYS.md"
+    },
+    {
+      "id": "vol-05",
+      "number": 5,
+      "title": "The Last Question",
+      "chapterStart": 37,
+      "chapterEnd": 45,
+      "actId": "act-5",
+      "primaryTheme": "The seal",
+      "secondaryTheme": "Choosing",
+      "purpose": "Partners finish the expedition, refuse the Bell, pay the cost, and live with a hum that has not finished changing.",
+      "outlineFile": "the-hollow-canopy/knowledgebase/volumes/VOLUME_05_THE_LAST_QUESTION.md"
+    }
+  ]
+}

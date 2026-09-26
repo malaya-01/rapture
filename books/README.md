@@ -15,6 +15,12 @@ books/
     seed/
     MASTER-NOVEL-PROMPT.md
     README.md
+  the-hollow-canopy/
+    knowledgebase/
+    content/chapters/
+    seed/
+    MASTER-NOVEL-PROMPT.md
+    README.md
 
 seed/
   books.json             # Registry — paths for all books
