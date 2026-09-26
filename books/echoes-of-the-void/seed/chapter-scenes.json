@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2026-06-30T12:41:53.531Z",
+  "scenes": [
+    {
+      "id": "eov-ch-0001-opening",
+      "chapterId": "ch-0001",
+      "chapterTitle": "The Spare Son's Silence",
+      "title": "The Spare Son's Silence — Chapter Opening",
+      "sceneType": "opening",
+      "description": "Elarion Voss leaves a cold House Voss for the Royal Arcane Academy — unwanted, average, and carrying memories of another life he cannot name.",
+      "caption": "The road to Eldrathor — a spare son's departure",
+      "orientation": "landscape",
+      "placement": "wide"
+    }
+  ]
+}

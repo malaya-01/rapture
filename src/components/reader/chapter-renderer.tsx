@@ -38,9 +38,18 @@ function collectParagraphs(blocks: ChapterBlock[], start: number) {
   return { paras, nextIndex: j };
 }
 
-export function ChapterRenderer({ chapter }: { chapter: CompiledChapter }) {
+export function ChapterRenderer({
+  chapter,
+  bookSlug = "rapture",
+}: {
+  chapter: CompiledChapter;
+  bookSlug?: string;
+}) {
   const hydrated = useStoreHydration();
-  const progress = useReadingStore((s) => s.progress);
+  const activeBookSlug = useReadingStore((s) => s.activeBookSlug);
+  const progress = useReadingStore(
+    (s) => s.byBook[activeBookSlug]?.progress ?? {}
+  );
   const maxReadChapter = hydrated ? getMaxReadChapterNumber(progress) : 1;
 
   const nodes: React.ReactNode[] = [];
@@ -97,7 +106,7 @@ export function ChapterRenderer({ chapter }: { chapter: CompiledChapter }) {
         const { paras, nextIndex } = collectParagraphs(blocks, i + 1);
         nodes.push(
           <div key={`float-${fig.id}`} className="clearfix my-8">
-            <ChapterFigureView figure={fig} />
+            <ChapterFigureView figure={fig} bookSlug={bookSlug} />
             {paras.map((p, idx) => (
               <Paragraph
                 key={`fp-${idx}`}
@@ -112,7 +121,7 @@ export function ChapterRenderer({ chapter }: { chapter: CompiledChapter }) {
         continue;
       }
 
-      nodes.push(<ChapterFigureView key={`fig-${fig.id}`} figure={fig} />);
+      nodes.push(<ChapterFigureView key={`fig-${fig.id}`} figure={fig} bookSlug={bookSlug} />);
       i++;
       continue;
     }
@@ -141,15 +150,18 @@ export function ChapterRenderer({ chapter }: { chapter: CompiledChapter }) {
 export function ChapterHeader({
   chapter,
   bookTitle,
+  bookSlug = "rapture",
 }: {
   chapter: CompiledChapter;
   bookTitle?: string;
+  bookSlug?: string;
 }) {
   return (
     <>
       <ChapterFigureView
         figure={chapter.opening}
         placement={chapter.opening.placement}
+        bookSlug={bookSlug}
       />
 
       <header className="mt-12 text-center">

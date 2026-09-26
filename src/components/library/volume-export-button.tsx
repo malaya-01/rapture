@@ -5,6 +5,7 @@ import { Download, Loader2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 interface VolumeExportButtonProps {
+  bookSlug: string;
   volumeId: string;
   volumeTitle: string;
   publishedCount: number;
@@ -12,6 +13,7 @@ interface VolumeExportButtonProps {
 }
 
 export function VolumeExportButton({
+  bookSlug,
   volumeId,
   volumeTitle,
   publishedCount,
@@ -26,7 +28,7 @@ export function VolumeExportButton({
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch(`/api/export/volume/${volumeId}`);
+      const res = await fetch(`/api/export/${bookSlug}/volume/${volumeId}`);
       if (!res.ok) {
         const body = (await res.json().catch(() => null)) as { error?: string } | null;
         throw new Error(body?.error ?? "Export failed.");

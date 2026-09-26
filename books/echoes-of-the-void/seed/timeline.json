@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": "academy-arrival",
+      "title": "Arrival at Eldrathor",
+      "era": "Academy Years",
+      "description": "Elarion Voss and the cohort of seventeen-year-olds enter the Royal Arcane Academy.",
+      "chapter": "ch-0001",
+      "minChapter": 1
+    },
+    {
+      "id": "consort-tournament",
+      "title": "Royal Consort Tournament",
+      "era": "Crown Season",
+      "description": "At eighteen, eligible omegas enter the tournament; princes date and choose consorts.",
+      "chapter": "ch-0091",
+      "minChapter": 91
+    },
+    {
+      "id": "first-loop-death",
+      "title": "First Death, First Echo",
+      "era": "Loops",
+      "description": "Elarion dies and resets to Academy arrival with full memory — known only to him.",
+      "chapter": "ch-0226",
+      "minChapter": 226
+    }
+  ]
+}

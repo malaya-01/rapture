@@ -25,7 +25,7 @@ describe("volume-export-pdf", () => {
     const compiledIds = new Set(chapters.map((c) => c.id));
     const expected = manifestPublished.filter((ch) => compiledIds.has(ch.id));
 
-    const { chapters: exported } = getExportableVolumeChapters("vol-01");
+    const { chapters: exported } = getExportableVolumeChapters("rapture", "vol-01");
     expect(exported).toHaveLength(expected.length);
     expect(exported.map((c) => c.number)).toEqual(
       expected.map((c) => c.number).sort((a, b) => a - b)
@@ -33,13 +33,13 @@ describe("volume-export-pdf", () => {
   });
 
   it("builds a non-empty PDF for vol-01", async () => {
-    const pdf = await buildVolumePdfBuffer("vol-01");
+    const pdf = await buildVolumePdfBuffer("rapture", "vol-01");
     expect(pdf.length).toBeGreaterThan(50_000);
     expect(pdf.subarray(0, 4).toString()).toBe("%PDF");
   }, 60_000);
 
   it("names export files predictably", () => {
-    const { volume } = getExportableVolumeChapters("vol-01");
-    expect(volumePdfFilename(volume)).toMatch(/^Rapture_Vol01_.+\.pdf$/);
+    const { volume } = getExportableVolumeChapters("rapture", "vol-01");
+    expect(volumePdfFilename("rapture", volume)).toMatch(/^Rapture_Vol01_.+\.pdf$/);
   });
 });

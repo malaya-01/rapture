@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
-import { Cinzel, Cormorant_Garamond, Inter } from "next/font/google";
+import { Cinzel, Cormorant_Garamond, Marcellus, Inter } from "next/font/google";
 import { Navigation } from "@/components/layout/navigation";
 import { MaturityGate } from "@/components/layout/maturity-gate";
 import { ServiceWorkerRegister } from "@/components/layout/service-worker-register";
 import { BookJsonLd } from "@/components/seo/json-ld";
-import { bookMeta } from "@/data/book";
 import "./globals.css";
 
 const cinzel = Cinzel({
@@ -20,6 +19,12 @@ const cormorant = Cormorant_Garamond({
   style: ["normal", "italic"],
 });
 
+const marcellus = Marcellus({
+  variable: "--font-marcellus",
+  subsets: ["latin"],
+  weight: ["400"],
+});
+
 const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
@@ -29,16 +34,18 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),
   title: {
-    default: `${bookMeta.title}: ${bookMeta.subtitle}`,
-    template: `%s | ${bookMeta.title}`,
+    default: "Aether Vale Digital Library",
+    template: "%s | Aether Vale Library",
   },
-  description: bookMeta.description,
+  description:
+    "Premium digital novels — immersive reading, volume libraries, and living world codexes. Featuring Rapture and Echoes of the Void.",
   openGraph: {
-    title: `${bookMeta.title}: ${bookMeta.subtitle}`,
-    description: bookMeta.description,
+    title: "Aether Vale Digital Library",
+    description:
+      "Premium digital novels — Rapture, Echoes of the Void, and more.",
     type: "book",
-    authors: [bookMeta.author],
-    images: [{ url: "/window.svg", width: 1200, height: 630, alt: bookMeta.title }],
+    authors: ["Aether Vale"],
+    images: [{ url: "/window.svg", width: 1200, height: 630, alt: "Aether Vale Digital Library" }],
   },
 };
 
@@ -50,7 +57,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${cinzel.variable} ${cormorant.variable} ${inter.variable} h-full antialiased`}
+      className={`${cinzel.variable} ${cormorant.variable} ${marcellus.variable} ${inter.variable} h-full antialiased`}
     >
       <body className="min-h-full bg-bg text-text">
         <BookJsonLd />

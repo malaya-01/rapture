@@ -8,10 +8,10 @@ import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const seed = join(__dirname, "..");
+const seed = join(__dirname, "../../books/rapture/seed");
 const assetsNote = "Generate image; save to imagePath when ready";
 
-const IMG = (folder, id) => `assets/images/${folder}/${id}.png`;
+const IMG = (folder, id) => `assets/images/rapture/${folder}/${id}.png`;
 
 const monsters = [
   { id: "grave-walker", name: "Grave Walker", category: "undead", threatRank: "F", tier: 1, habitat: ["urban-ruin"], appearance: "Decayed humanoid; grey-green skin; torn modern clothing; milky eyes", behavior: "Slow shambling; drawn to sound; swarm in numbers", scale: "Human", traits: ["infectious-bite", "slow", "pack-swarm"], drops: [{ item: "rotted-flesh", rank: "F", chance: 0.6 }, { item: "grave-dust", rank: "F", chance: 0.3 }], firstAppearance: "ch-0004", imagePath: IMG("monsters", "grave-walker"), imagePrompt: "A decayed undead wandering through a deserted city street at dusk, realistic fantasy art, highly detailed, cinematic lighting, book illustration quality" },

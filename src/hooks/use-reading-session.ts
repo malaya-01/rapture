@@ -16,6 +16,7 @@ import {
 } from "@/lib/reading-leave";
 
 interface UseReadingSessionOptions {
+  bookSlug: string;
   chapterId: string;
   chapterTitle: string;
   enabled?: boolean;
@@ -26,6 +27,7 @@ interface UseReadingSessionOptions {
  * and prompts before leaving mid-chapter.
  */
 export function useReadingSession({
+  bookSlug,
   chapterId,
   chapterTitle,
   enabled = true,
@@ -39,22 +41,22 @@ export function useReadingSession({
   const flushSave = useCallback(() => {
     if (!enabled) return;
     const pct = clampScrollPercent(getWindowScrollPercent());
-    setScrollProgress(chapterId, pct);
-  }, [chapterId, enabled, setScrollProgress]);
+    setScrollProgress(bookSlug, chapterId, pct);
+  }, [bookSlug, chapterId, enabled, setScrollProgress]);
 
   const scheduleSave = useCallback(() => {
     if (saveTimerRef.current) clearTimeout(saveTimerRef.current);
     saveTimerRef.current = setTimeout(flushSave, 400);
   }, [flushSave]);
 
-  // Restore scroll when chapter loads or user returns to /read
   useEffect(() => {
     if (!enabled) return;
     restoredRef.current = false;
 
     const state = useReadingStore.getState();
-    const bookmark = state.bookmarks[chapterId];
-    const saved = state.progress[chapterId]?.scrollPercent ?? 0;
+    const slice = state.byBook[bookSlug];
+    const bookmark = slice?.bookmarks[chapterId];
+    const saved = slice?.progress[chapterId]?.scrollPercent ?? 0;
     const target = bookmark ?? saved;
     if (target <= 0) return;
 
@@ -74,9 +76,8 @@ export function useReadingSession({
       clearTimeout(t2);
       clearTimeout(t3);
     };
-  }, [chapterId, enabled]);
+  }, [bookSlug, chapterId, enabled]);
 
-  // Scroll listener — debounced auto-save + auto-bookmark
   useEffect(() => {
     if (!enabled) return;
     const onScroll = () => scheduleSave();
@@ -84,7 +85,6 @@ export function useReadingSession({
     return () => window.removeEventListener("scroll", onScroll);
   }, [enabled, scheduleSave]);
 
-  // Flush on tab hide, unmount, or page leave
   useEffect(() => {
     if (!enabled) return;
 
@@ -102,7 +102,6 @@ export function useReadingSession({
     };
   }, [enabled, flushSave]);
 
-  // Intercept in-app navigation away from /read (custom modal, not window.confirm)
   useEffect(() => {
     if (!enabled) return;
 
@@ -129,7 +128,6 @@ export function useReadingSession({
     return () => document.removeEventListener("click", onDocumentClick, true);
   }, [chapterTitle, enabled, flushSave, router]);
 
-  // Browser tab close — only native dialog is possible here
   useEffect(() => {
     if (!enabled) return;
 

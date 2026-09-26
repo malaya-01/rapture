@@ -12,7 +12,7 @@ import { equipment } from "@/data/equipment";
 import { dungeons } from "@/data/dungeons-data";
 import { factions } from "@/data/factions-data";
 import { companions } from "@/data/companions";
-import { magicSkills, manaLaws } from "@/data/magic-skills";
+import { magicSkills, manaLaws, magicMaterials, magicRecipes } from "@/data/magic-skills";
 import { timelineEvents } from "@/data/timeline";
 import { getRelationshipsForCharacter } from "@/data/relationships";
 import { Atmosphere } from "@/components/atmosphere/atmosphere";
@@ -80,7 +80,7 @@ export function CodexIndex() {
   const [section, setSection] = useState<Section>(initialSection);
   const [search, setSearch] = useState("");
   const hydrated = useStoreHydration();
-  const progress = useReadingStore((s) => s.progress);
+  const progress = useReadingStore((s) => s.byBook.rapture?.progress ?? {});
 
   const spoilerOk = (firstAppearance?: string) =>
     !hydrated || isFirstAppearanceUnlocked(firstAppearance, progress);
@@ -274,6 +274,40 @@ export function CodexIndex() {
         promptId: `mana-law-${i + 1}`,
       }));
 
+      const materialCards: CodexCard[] = magicMaterials
+        .filter((m) => match(m.name) || match(m.description))
+        .map((m) => ({
+          id: m.id,
+          name: m.name,
+          subtitle:
+            m.category === "mana-crystal"
+              ? `Mana Crystal · Rank ${m.rank}`
+              : `Beast Core · Rank ${m.rank}`,
+          description: m.description,
+          tags: [
+            m.category === "mana-crystal" ? "Mana Crystal" : "Beast Core",
+            `Rank ${m.rank}`,
+          ],
+          color: m.category === "mana-crystal" ? "#5a6bcf" : "#8b4513",
+          href: `/encyclopedia/magic/${m.id}`,
+          meta: m.sources[0]?.replace(/-/g, " ") ?? "Crafting material",
+          promptId: m.id,
+        }));
+
+      const recipeCards: CodexCard[] = magicRecipes
+        .filter((r) => match(r.name) || match(r.description))
+        .map((r) => ({
+          id: r.id,
+          name: r.name,
+          subtitle: `${r.type.replace(/-/g, " ")} · Rank ${r.rank}`,
+          description: r.description,
+          tags: ["Crafting", r.type.replace(/-/g, " "), ...r.inputs.slice(0, 2)],
+          color: "#6b46c1",
+          href: `/encyclopedia/magic/${r.id}`,
+          meta: r.output.replace(/-/g, " "),
+          promptId: r.id,
+        }));
+
       const skillCards: CodexCard[] = magicSkills
         .filter((s) => match(s.name))
         .map((s) => ({
@@ -288,7 +322,7 @@ export function CodexIndex() {
           promptId: s.id,
         }));
 
-      return [...lawCards, ...skillCards].filter(
+      return [...lawCards, ...materialCards, ...recipeCards, ...skillCards].filter(
         (e) => match(e.name) || match(e.description)
       );
     }

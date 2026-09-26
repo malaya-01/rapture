@@ -14,6 +14,7 @@ interface ArtworkProps {
   className?: string;
   parallax?: boolean;
   promptId?: string;
+  bookSlug?: string;
 }
 
 export function Artwork({
@@ -23,9 +24,10 @@ export function Artwork({
   aspectRatio = "21/9",
   className = "",
   promptId,
+  bookSlug = "rapture",
 }: ArtworkProps) {
   const color = illustration?.color ?? "#8b6b2e";
-  const imageSrc = promptId ? getImageSrc(promptId) : undefined;
+  const imageSrc = promptId ? getImageSrc(promptId, bookSlug) : undefined;
 
   return (
     <motion.figure

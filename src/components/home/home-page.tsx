@@ -15,12 +15,14 @@ import { cn } from "@/lib/utils";
 export function HomePage() {
   const router = useRouter();
   const hydrated = useStoreHydration();
-  const currentChapterId = useReadingStore((s) => s.currentChapterId);
+  const currentChapterId = useReadingStore((s) =>
+    hydrated ? s.getBookCurrentChapterId("rapture") : chapters[0]?.id ?? ""
+  );
   const overallProgress = useReadingStore((s) =>
-    hydrated ? s.getOverallProgress() : 0
+    hydrated ? s.getBookOverallProgress("rapture") : 0
   );
   const chapterProgress = useReadingStore((s) =>
-    hydrated ? s.getChapterProgress(currentChapterId) : 0
+    hydrated ? s.getChapterProgress("rapture", currentChapterId) : 0
   );
 
   const currentChapter = resolveChapter(currentChapterId);
@@ -30,7 +32,8 @@ export function HomePage() {
   const currentVolume = volumes[0];
   const hasProgress = overallProgress > 0;
 
-  const beginReading = () => router.push(`/read/${currentChapterId}`);
+  const beginReading = () =>
+    router.push(`/books/rapture/read/${currentChapterId}`);
 
   return (
     <Atmosphere>

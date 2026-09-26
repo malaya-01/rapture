@@ -248,6 +248,7 @@ export function ImagePromptModal({
 
 interface PortraitPlaceholderProps {
   promptId: string;
+  bookSlug?: string;
   label?: string;
   color?: string;
   className?: string;
@@ -259,6 +260,7 @@ interface PortraitPlaceholderProps {
 
 export function PortraitPlaceholder({
   promptId,
+  bookSlug = "rapture",
   label,
   color = "#8b6b2e",
   className,
@@ -268,7 +270,7 @@ export function PortraitPlaceholder({
 }: PortraitPlaceholderProps) {
   const dims =
     size === "sm" ? "h-16 w-16 text-lg" : size === "lg" ? "h-28 w-28 text-3xl" : "h-20 w-20 text-xl";
-  const imageSrc = getImageSrc(promptId);
+  const imageSrc = getImageSrc(promptId, bookSlug);
 
   return (
     <div

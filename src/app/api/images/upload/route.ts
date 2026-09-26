@@ -62,7 +62,8 @@ export async function POST(request: Request) {
   }
 
   const ext = mimeToExtension(file.type);
-  const dir = imageDirForCategory(entry.category as ImageCategory);
+  const bookSlug = (entry as { bookSlug?: string }).bookSlug ?? "rapture";
+  const dir = imageDirForCategory(entry.category as ImageCategory, bookSlug);
   mkdirSync(dir, { recursive: true });
 
   const filename = `${id}${ext}`;
@@ -73,14 +74,15 @@ export async function POST(request: Request) {
   removeSiblingImageFiles(dir, id, ext);
 
   const version = statSync(absolutePath).mtimeMs;
-  const publicPath = `/assets/images/${entry.category}/${filename}`;
+  const publicPath = `/assets/images/${bookSlug}/${entry.category}/${filename}`;
 
   return Response.json({
     ok: true,
     id: entry.id,
     category: entry.category,
+    bookSlug,
     filename,
-    relativePath: `assets/images/${entry.category}/${filename}`,
+    relativePath: `assets/images/${bookSlug}/${entry.category}/${filename}`,
     publicPath,
     version,
     cacheBustUrl: `${publicPath}?v=${version}`,

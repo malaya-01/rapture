@@ -1,0 +1,20 @@
+{
+  "skills": [
+    {
+      "id": "academy-mage-craft",
+      "name": "Imperial Magecraft",
+      "type": "magic",
+      "description": "Wand spells, potions, runes — external mana manipulation. Mages only; no Skills.",
+      "rank": "B",
+      "firstAppearance": "ch-0001"
+    },
+    {
+      "id": "martial-skill-path",
+      "name": "Skill Martial Arts",
+      "type": "skill",
+      "description": "Internalized mana as streamlined abilities — body reinforcement, weapon arts, acquired Skills.",
+      "rank": "B",
+      "firstAppearance": "ch-0001"
+    }
+  ]
+}

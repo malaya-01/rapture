@@ -24,20 +24,19 @@ function isReadable(ch: ManifestChapter) {
 
 export function LibraryView() {
   const router = useRouter();
-  const { getChapterProgress, isChapterComplete, setChapter, currentChapterId } =
+  const { getChapterProgress, isChapterComplete, setChapter, getBookCurrentChapterId, getBookOverallProgress } =
     useReadingStore();
-  const overallProgress = useReadingStore((s) => s.getOverallProgress());
+  const overallProgress = getBookOverallProgress("rapture");
+  const continueId = getBookCurrentChapterId("rapture");
   const [expanded, setExpanded] = useState<Record<string, boolean>>({
     "vol-01": true,
   });
 
   const handleChapterClick = (ch: ManifestChapter) => {
     if (!isReadable(ch)) return;
-    setChapter(ch.id);
-    router.push(`/read/${ch.id}`);
+    setChapter("rapture", ch.id);
+    router.push(`/books/rapture/read/${ch.id}`);
   };
-
-  const continueId = currentChapterId;
 
   return (
     <Atmosphere>
@@ -54,7 +53,7 @@ export function LibraryView() {
           {continueId && compiledIds.has(continueId) && (
             <button
               type="button"
-              onClick={() => router.push(`/read/${continueId}`)}
+              onClick={() => router.push(`/books/rapture/read/${continueId}`)}
               className="text-ui mt-6 rounded-sm border border-gold/30 bg-gold/10 px-6 py-2.5 text-sm text-gold hover:bg-gold/20"
             >
               Continue reading
@@ -104,6 +103,7 @@ export function LibraryView() {
                     </div>
                   </button>
                   <VolumeExportButton
+                    bookSlug="rapture"
                     volumeId={vol.id}
                     volumeTitle={vol.title}
                     publishedCount={publishedCount}
@@ -116,9 +116,9 @@ export function LibraryView() {
                     {volChapters.map((chapter) => {
                       const readable = isReadable(chapter);
                       const progress = readable
-                        ? getChapterProgress(chapter.id)
+                        ? getChapterProgress("rapture", chapter.id)
                         : 0;
-                      const complete = readable && isChapterComplete(chapter.id);
+                      const complete = readable && isChapterComplete("rapture", chapter.id);
 
                       return (
                         <button

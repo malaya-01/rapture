@@ -3,7 +3,7 @@ import { getEquipmentById } from "@/data/equipment";
 import { dungeons, getDungeonById } from "@/data/dungeons-data";
 import { factions } from "@/data/factions-data";
 import { companions, getCompanionById } from "@/data/companions";
-import { magicSkills } from "@/data/magic-skills";
+import { magicSkills, magicMaterials, magicRecipes } from "@/data/magic-skills";
 import { getLocationById } from "@/data/locations";
 import { monsters } from "@/data/monsters";
 import { characters } from "@/data/characters";
@@ -209,6 +209,73 @@ export function companionDetailConfig(id: string): CodexDetailConfig | null {
 }
 
 export function magicDetailConfig(id: string): CodexDetailConfig | null {
+  const material = magicMaterials.find((x) => x.id === id);
+  if (material) {
+    return {
+      category: "magic",
+      categoryLabel: "Magic System",
+      indexHref: "/encyclopedia?section=magic",
+      title: material.name,
+      subtitle:
+        material.category === "mana-crystal"
+          ? `Mana Crystal · Rank ${material.rank}`
+          : `Beast Core · Rank ${material.rank}`,
+      description: material.description,
+      promptId: material.id,
+      imageColor: material.category === "mana-crystal" ? "#5a6bcf" : "#8b4513",
+      fields: [
+        {
+          label: "Category",
+          value:
+            material.category === "mana-crystal" ? "Mana Crystal" : "Beast Core",
+        },
+        { label: "Rank", value: material.rank },
+        {
+          label: "Sources",
+          value: material.sources.map(formatSlugId).join(", "),
+        },
+        { label: "Used for", value: material.uses.map(formatSlugId).join(", ") },
+      ],
+      tags: [
+        material.category === "mana-crystal" ? "Mana Crystal" : "Beast Core",
+        material.rank,
+      ],
+    };
+  }
+
+  const recipe = magicRecipes.find((x) => x.id === id);
+  if (recipe) {
+    const outputGear = getEquipmentById(recipe.output);
+    return {
+      category: "magic",
+      categoryLabel: "Magic System",
+      indexHref: "/encyclopedia?section=magic",
+      title: recipe.name,
+      subtitle: `${formatSlugId(recipe.type)} · Rank ${recipe.rank}`,
+      description: recipe.description,
+      promptId: recipe.id,
+      imageColor: "#6b46c1",
+      fields: [
+        { label: "Type", value: formatSlugId(recipe.type) },
+        { label: "Rank", value: recipe.rank },
+        {
+          label: "Inputs",
+          value: recipe.inputs.map(formatSlugId).join(" + "),
+        },
+        {
+          label: "Creates",
+          value: outputGear?.name ?? formatSlugId(recipe.output),
+        },
+        { label: "Crafter", value: formatSlugId(recipe.crafter) },
+      ],
+      linkTags: outputGear
+        ? [{ label: outputGear.name, href: `/encyclopedia/equipment/${recipe.output}` }]
+        : undefined,
+      tags: ["Crafting", recipe.type, recipe.rank],
+      spoilerChapter: chapterSpoiler(recipe.unlockChapter, 1),
+    };
+  }
+
   const s = magicSkills.find((x) => x.id === id);
   if (!s) return null;
   return {

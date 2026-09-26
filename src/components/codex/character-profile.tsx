@@ -32,7 +32,7 @@ import {
 export function CharacterProfile({ id }: { id: string }) {
   const character = getCharacterById(id);
   const hydrated = useStoreHydration();
-  const progress = useReadingStore((s) => s.progress);
+  const progress = useReadingStore((s) => s.byBook.rapture?.progress ?? {});
   if (!character) notFound();
 
   if (

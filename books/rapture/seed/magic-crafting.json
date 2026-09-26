@@ -1,0 +1,207 @@
+{
+  "generatedAt": "2026-06-18T00:00:00.000Z",
+  "materials": [
+    {
+      "id": "rift-shard",
+      "name": "Rift Shard",
+      "category": "mana-crystal",
+      "rank": "D",
+      "description": "Crystallized mana from sky fractures. Unstable alone; rune-bound in Marcus Vale's workshops it becomes the foundation of post-Rapture mana-tech.",
+      "sources": ["sky-fractures", "rift-storm-debris", "dungeon-entrances"],
+      "uses": ["mana-cells", "rune-plates", "weapon-enchantment"]
+    },
+    {
+      "id": "storm-crystal",
+      "name": "Storm Crystal",
+      "category": "mana-crystal",
+      "rank": "C",
+      "description": "Lightning-charged crystal harvested from Thunder Stag territories. Holds charge longer than rift shards; required for high-amplitude spell foci.",
+      "sources": ["thunder-stag", "storm-roc-nests", "mana-storms"],
+      "uses": ["lightning-staves", "storm-call-focus", "barrier-nodes"]
+    },
+    {
+      "id": "memory-glass-shard",
+      "name": "Memory Glass Shard",
+      "category": "mana-crystal",
+      "rank": "A",
+      "description": "Forgotten Palace glass that stores emotional residue. Dangerous to handle unwarded; essential for memory-protection gear and advanced wards.",
+      "sources": ["forgotten-palace", "memory-wraith-dissolution"],
+      "uses": ["memory-wards", "amulets", "dungeon-mapping-crystals"]
+    },
+    {
+      "id": "echo-crystal",
+      "name": "Echo Crystal",
+      "category": "mana-crystal",
+      "rank": "B",
+      "description": "Resonant crystal formed where dungeon echoes pool. Amplifies rune repetition and communication arrays.",
+      "sources": ["first-dungeon", "echo-servant-cores", "ruin-belt"],
+      "uses": ["communication-arrays", "rune-light-grids", "scout-lenses"]
+    },
+    {
+      "id": "beast-core-e",
+      "name": "Beast Core (E)",
+      "category": "beast-core",
+      "rank": "E",
+      "description": "Condensed mana organ from low-tier beasts. Purified and ground, it stabilizes crystal matrices so enchantments do not collapse on first use.",
+      "sources": ["ashwolf", "glimmer-rat", "grave-walker"],
+      "uses": ["basic-mana-cells", "salvage-enchantment", "low-rank-foci"]
+    },
+    {
+      "id": "beast-core-d",
+      "name": "Beast Core (D)",
+      "category": "beast-core",
+      "rank": "D",
+      "description": "Denser core from mid-tier predators. Binds rune ink to steel and leather; standard for Iron Guild field gear.",
+      "sources": ["dire-ashwolf", "ironhide-boar", "grave-walker-alpha"],
+      "uses": ["rune-forged-weapons", "armor-plating", "ward-sigils"]
+    },
+    {
+      "id": "beast-core-c",
+      "name": "Beast Core (C)",
+      "category": "beast-core",
+      "rank": "C",
+      "description": "High-pressure mana nucleus. Required for spell staves and cloaks that channel affinity without burning the wielder's channels.",
+      "sources": ["thunder-stag", "rift-hound", "brood-hunter"],
+      "uses": ["affinity-staves", "stealth-weave", "silver-guild-gear"]
+    },
+    {
+      "id": "beast-core-b",
+      "name": "Beast Core (B)",
+      "category": "beast-core",
+      "rank": "B",
+      "description": "Elite core from settlement-tier threats. One core can anchor a squad's barrier net or a single masterwork enchantment.",
+      "sources": ["abyssal-maw", "dusk-revenant", "brood-hunter-alpha"],
+      "uses": ["elite-armor", "aquatic-weapons", "barrier-cores"]
+    },
+    {
+      "id": "beast-core-a",
+      "name": "Beast Core (A)",
+      "category": "beast-core",
+      "rank": "A",
+      "description": "Regional-threat core. Rarely traded openly; Sanctuary council licenses required for civilian use.",
+      "sources": ["storm-roc", "iron-titan-juvenile", "dungeon-guardian-construct"],
+      "uses": ["masterwork-bows", "city-barriers", "prototype-mana-tech"]
+    },
+    {
+      "id": "beast-core-s",
+      "name": "Beast Core (S)",
+      "category": "beast-core",
+      "rank": "S",
+      "description": "Sovereign-grade nucleus. Not craft fodder — story-bound relics and national assets. Mishandling causes catastrophic mana backlash.",
+      "sources": ["dungeon-sovereigns", "titan-kills", "dragon-shed-scale-sites"],
+      "uses": ["world-relic-forging", "bronze-heart-interface", "legendary-foci"]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "craft-basic-mana-cell",
+      "name": "Basic Mana Cell",
+      "type": "craft",
+      "rank": "D",
+      "description": "Portable mana battery for explorers. Marcus Vale's first scalable product — proof that crystals and cores can rebuild civilization.",
+      "inputs": ["rift-shard", "beast-core-e"],
+      "output": "mana-cell-basic",
+      "crafter": "marcus-vale",
+      "unlockChapter": "ch-0210"
+    },
+    {
+      "id": "craft-rune-forged-blade",
+      "name": "Rune-Forged Blade",
+      "type": "enchant",
+      "rank": "D",
+      "description": "Steel blade with a rift-shard channel and D-rank core binder. Channels low-cost techniques and Ember Strike without shattering the edge.",
+      "inputs": ["rift-shard", "beast-core-d", "rusted-scrap"],
+      "output": "rune-forged-blade",
+      "crafter": "sanctuary-forge",
+      "unlockChapter": "ch-0180"
+    },
+    {
+      "id": "craft-storm-crystal-staff",
+      "name": "Storm Crystal Staff",
+      "type": "craft",
+      "rank": "C",
+      "description": "Lightning focus staff. Storm crystal provides amplitude; C-rank core prevents feedback into the wielder's channels.",
+      "inputs": ["storm-crystal", "beast-core-c"],
+      "output": "storm-crystal-staff",
+      "crafter": "sanctuary-forge",
+      "unlockChapter": "ch-0086"
+    },
+    {
+      "id": "craft-ember-hide-jacket",
+      "name": "Ember Hide Jacket",
+      "type": "craft",
+      "rank": "E",
+      "description": "Light armor from Ashwolf hide. E-rank core binds ember-resist runes into the leather grain.",
+      "inputs": ["ember-hide", "beast-core-e"],
+      "output": "ember-hide-jacket",
+      "crafter": "field-crafter",
+      "unlockChapter": "ch-0008"
+    },
+    {
+      "id": "craft-void-silk-cloak",
+      "name": "Void Silk Cloak",
+      "type": "enchant",
+      "rank": "C",
+      "description": "Stealth weave from Whisper Shade silk. Core stabilizes void-silk so the cloak does not whisper back to its wearer.",
+      "inputs": ["void-silk", "beast-core-c"],
+      "output": "void-silk-cloak",
+      "crafter": "silver-guild",
+      "unlockChapter": "ch-0120"
+    },
+    {
+      "id": "craft-memory-glass-amulet",
+      "name": "Memory Glass Amulet",
+      "type": "enchant",
+      "rank": "A",
+      "description": "Forgotten Palace expedition gear. Memory glass stores ward-pattern; B-rank core keeps personal memories from leaking into the crystal.",
+      "inputs": ["memory-glass-shard", "beast-core-b"],
+      "output": "memory-glass-amulet",
+      "crafter": "sanctuary-forge",
+      "unlockChapter": "ch-0350"
+    },
+    {
+      "id": "craft-rune-light-node",
+      "name": "Rune Light Node",
+      "type": "rune-craft",
+      "rank": "E",
+      "description": "Infrastructure rune plate for settlement lighting. Rift shard provides steady mana drip; E-core anchors the engraving.",
+      "inputs": ["rift-shard", "beast-core-e"],
+      "output": "rune-light",
+      "crafter": "marcus-vale",
+      "unlockChapter": "ch-0210"
+    },
+    {
+      "id": "craft-healing-salve",
+      "name": "Healing Salve",
+      "type": "alchemy",
+      "rank": "D",
+      "description": "Field medicine — not Lifefire, but stabilizes wounds until a healer arrives. Purified E-core carries restorative mana without live channel contact.",
+      "inputs": ["beast-core-e", "salvaged-rations"],
+      "output": "healing-salve",
+      "crafter": "guild-medic",
+      "unlockChapter": "ch-0050"
+    },
+    {
+      "id": "craft-roc-wing-bow",
+      "name": "Roc Wing Bow",
+      "type": "masterwork",
+      "rank": "A",
+      "description": "Nora Winters' intended masterwork. Roc plume and A-rank core let arrows ride wind-currents shaped by Horizon Sight.",
+      "inputs": ["roc-plume", "beast-core-a", "storm-crystal"],
+      "output": "roc-wing-bow",
+      "crafter": "sanctuary-forge",
+      "unlockChapter": "ch-0400"
+    },
+    {
+      "id": "craft-enchant-weapon-rite",
+      "name": "Enchant Weapon Rite",
+      "type": "enchant",
+      "rank": "D",
+      "description": "Temporary mana channel on any blade. Requires rift-shard dust and a spent D-core — standard Sanctuary forge commission.",
+      "inputs": ["rift-shard", "beast-core-d"],
+      "output": "enchant-weapon",
+      "crafter": "marcus-vale",
+      "unlockChapter": "ch-0210"
+    }
+  ]
+}

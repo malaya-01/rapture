@@ -1,0 +1,130 @@
+{
+  "acts": [
+    {
+      "id": "act-1",
+      "name": "The Academy",
+      "chapterStart": 1,
+      "chapterEnd": 90,
+      "theme": "Who survives kindness in a hungry world?"
+    },
+    {
+      "id": "act-2",
+      "name": "Crowns and Consorts",
+      "chapterStart": 91,
+      "chapterEnd": 180,
+      "theme": "Love as strategy — strategy as love"
+    },
+    {
+      "id": "act-3",
+      "name": "Empire of Thorns",
+      "chapterStart": 181,
+      "chapterEnd": 270,
+      "theme": "What breaks first: the heart or the throne?"
+    },
+    {
+      "id": "act-4",
+      "name": "The End",
+      "chapterStart": 271,
+      "chapterEnd": 360,
+      "theme": "When loneliness becomes annihilation"
+    }
+  ],
+  "volumes": [
+    {
+      "id": "vol-01",
+      "number": 1,
+      "title": "The Spare Son's Silence",
+      "chapterStart": 1,
+      "chapterEnd": 45,
+      "actId": "act-1",
+      "primaryTheme": "Invisibility",
+      "secondaryTheme": "Arrival",
+      "purpose": "Elarion arrives unwanted; Academy introduction; first kindness and first cruelty; ensemble seeds",
+      "outlineFile": "echoes-of-the-void/knowledgebase/volumes/VOLUME_01_THE_SPARE_SONS_SILENCE.md"
+    },
+    {
+      "id": "vol-02",
+      "number": 2,
+      "title": "Halls of Amber and Iron",
+      "chapterStart": 46,
+      "chapterEnd": 90,
+      "actId": "act-1",
+      "primaryTheme": "Alliance",
+      "secondaryTheme": "Rivalry",
+      "purpose": "Deep Academy arc; classes, duels, dungeons; friendships and schemes; slow character bonds",
+      "outlineFile": "echoes-of-the-void/knowledgebase/volumes/VOLUME_02_HALLS_OF_AMBER_AND_IRON.md"
+    },
+    {
+      "id": "vol-03",
+      "number": 3,
+      "title": "Consort Season",
+      "chapterStart": 91,
+      "chapterEnd": 135,
+      "actId": "act-2",
+      "primaryTheme": "Desire",
+      "secondaryTheme": "Selection",
+      "purpose": "Royal Consort Tournament at 18+; princes date candidates; political and romantic entanglements",
+      "outlineFile": "echoes-of-the-void/knowledgebase/volumes/VOLUME_03_CONSORT_SEASON.md"
+    },
+    {
+      "id": "vol-04",
+      "number": 4,
+      "title": "Thrones of Equal Fire",
+      "chapterStart": 136,
+      "chapterEnd": 180,
+      "actId": "act-2",
+      "primaryTheme": "Succession",
+      "secondaryTheme": "Competition",
+      "purpose": "Crown Prince Couple Tournament; five pairs, equal resources, divergent crises; winners crowned",
+      "outlineFile": "echoes-of-the-void/knowledgebase/volumes/VOLUME_04_THRONES_OF_EQUAL_FIRE.md"
+    },
+    {
+      "id": "vol-05",
+      "number": 5,
+      "title": "Marrow and Crown",
+      "chapterStart": 181,
+      "chapterEnd": 225,
+      "actId": "act-3",
+      "primaryTheme": "Bond",
+      "secondaryTheme": "Court",
+      "purpose": "Marriages, adventures, mpreg arcs, dungeon campaigns, betrayals deepen",
+      "outlineFile": "echoes-of-the-void/knowledgebase/volumes/VOLUME_05_MARROW_AND_CROWN.md"
+    },
+    {
+      "id": "vol-06",
+      "number": 6,
+      "title": "First Death, First Echo",
+      "chapterStart": 226,
+      "chapterEnd": 270,
+      "actId": "act-3",
+      "primaryTheme": "Loss",
+      "secondaryTheme": "Rebirth",
+      "purpose": "Elarion's first death; time loop revealed to reader; loop resets to Academy arrival",
+      "outlineFile": "echoes-of-the-void/knowledgebase/volumes/VOLUME_06_FIRST_DEATH_FIRST_ECHO.md"
+    },
+    {
+      "id": "vol-07",
+      "number": 7,
+      "title": "The Loops That Broke Him",
+      "chapterStart": 271,
+      "chapterEnd": 315,
+      "actId": "act-4",
+      "primaryTheme": "Iteration",
+      "secondaryTheme": "Hardening",
+      "purpose": "Accelerating loops; different princes; children and betrayals; soul corrosion; strategic genius",
+      "outlineFile": "echoes-of-the-void/knowledgebase/volumes/VOLUME_07_THE_LOOPS_THAT_BROKE_HIM.md"
+    },
+    {
+      "id": "vol-08",
+      "number": 8,
+      "title": "The Absolute End",
+      "chapterStart": 316,
+      "chapterEnd": 360,
+      "actId": "act-4",
+      "primaryTheme": "Termination",
+      "secondaryTheme": "Acceptance",
+      "purpose": "War on gods; annihilation powers; bitter-sweet finale — peace through oblivion",
+      "outlineFile": "echoes-of-the-void/knowledgebase/volumes/VOLUME_08_THE_ABSOLUTE_END.md"
+    }
+  ]
+}

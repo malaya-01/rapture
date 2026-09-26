@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Echoes of the Void cover">
+  <defs>
+    <linearGradient id="void" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1030"/>
+      <stop offset="50%" stop-color="#2d2450"/>
+      <stop offset="100%" stop-color="#090807"/>
+    </linearGradient>
+    <radialGradient id="echo" cx="50%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#6b5b95" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#void)"/>
+  <rect width="600" height="900" fill="url(#echo)"/>
+  <path d="M300 180 L360 420 L240 420 Z" stroke="#9b8ec4" stroke-width="2" fill="none" opacity="0.6"/>
+  <circle cx="300" cy="320" r="48" stroke="#4a3f6b" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <text x="300" y="700" text-anchor="middle" fill="#c4b5fd" font-family="Georgia, serif" font-size="34" letter-spacing="4">ECHOES OF</text>
+  <text x="300" y="750" text-anchor="middle" fill="#e8e0ff" font-family="Georgia, serif" font-size="42" letter-spacing="6">THE VOID</text>
+  <text x="300" y="800" text-anchor="middle" fill="#9b8ec4" font-family="Georgia, serif" font-size="18" font-style="italic">The Omega Who Became the End</text>
+</svg>

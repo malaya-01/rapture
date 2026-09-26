@@ -1,19 +1,20 @@
 #!/usr/bin/env node
 /**
- * Generates seed/chapter-manifest.json — metadata for all 1200 chapters.
- * Merges hand-written beats from seed/outlines/vol-XX.json when present.
- * Run: npm run seed:manifest
+ * Generates chapter-manifest.json per book from seed/<book>/arcs.json
+ * Run: node seed/scripts/generate-manifest.mjs [--book <slug>]
  */
-import { existsSync, readdirSync, readFileSync, writeFileSync } from "fs";
+import { existsSync, readdirSync, readFileSync, writeFileSync, mkdirSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
+import { booksToProcess, resolveBookPaths } from "./book-config.mjs";
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const root = join(__dirname, "..");
-
-const { volumes } = JSON.parse(readFileSync(join(root, "arcs.json"), "utf-8"));
-
-const SEGMENT_LABELS = ["Setup", "First Impact", "Systems Response", "Personal Climax", "Volume Bridge"];
+const SEGMENT_LABELS = [
+  "Setup",
+  "First Impact",
+  "Systems Response",
+  "Personal Climax",
+  "Volume Bridge",
+];
 
 function segmentForLocalChapter(local, volumeLength) {
   const p20 = Math.ceil(volumeLength * 0.22);
@@ -31,15 +32,13 @@ function pad(n, w = 4) {
   return String(n).padStart(w, "0");
 }
 
-/** Load all seed/outlines/vol-XX.json into a map keyed by chapter id */
-function loadOutlineChapters() {
+function loadOutlineChapters(outlinesDir) {
   const byId = new Map();
-  const dir = join(root, "outlines");
-  if (!existsSync(dir)) return byId;
+  if (!existsSync(outlinesDir)) return byId;
 
-  for (const file of readdirSync(dir)) {
+  for (const file of readdirSync(outlinesDir)) {
     if (!/^vol-\d+\.json$/i.test(file)) continue;
-    const volOutline = JSON.parse(readFileSync(join(dir, file), "utf8"));
+    const volOutline = JSON.parse(readFileSync(join(outlinesDir, file), "utf8"));
     for (const ch of volOutline.chapters ?? []) {
       byId.set(ch.id, { ...ch, outlineVolumeId: volOutline.volumeId });
     }
@@ -54,15 +53,31 @@ function titleFor(vol, local) {
   return `${vol.title} — ${local}`;
 }
 
-function povFor(local) {
-  const rotation = [
+const POV_ROTATIONS = {
+  rapture: [
     "Cassian Reed",
     "Rowan Hale",
     "Adrian Hale",
     "Marcus Vale",
     "Nora Winters",
     "Selene Arkwright",
-  ];
+  ],
+  "echoes-of-the-void": [
+    "Elarion Voss",
+    "Lirien Thorne",
+    "Seraphiel Kane",
+    "Vesper Quill",
+    "Aurelius Dawn",
+    "Draven Valerius",
+    "Kael Valerius",
+    "Thorne Valerius",
+    "Riven Valerius",
+    "Soren Valerius",
+  ],
+};
+
+function povFor(slug, local) {
+  const rotation = POV_ROTATIONS[slug] ?? ["Unknown"];
   return rotation[(local - 1) % rotation.length];
 }
 
@@ -70,72 +85,97 @@ function synopsisFor(vol, segment, local) {
   return `Vol ${vol.number} "${vol.title}" (${segment.label}): ${vol.purpose} [local ch ${local}]`;
 }
 
-/**
- * Canonical in-world day calendar (global chapter number).
- * Vol 1 detailed calendar lives in seed/outlines/vol-01.json and overrides this.
- *
- * Vol 1: Ch1=day0 … Ch10=day9; day10 skipped; Ch11=day11 … Ch30=day30
- * Vol 2 early: continues +1/day through ~ch40
- */
-function inWorldDayFor(globalNum) {
+function inWorldDayRapture(globalNum) {
   if (globalNum <= 10) return globalNum - 1;
   if (globalNum <= 30) return 10 + (globalNum - 10);
   if (globalNum <= 40) return 30 + (globalNum - 30);
   return 40 + Math.floor((globalNum - 40) * 2.5);
 }
 
-function statusFor(globalNum, outlineStatus) {
+function inWorldDayEchoes(globalNum) {
+  return Math.floor((globalNum - 1) * 3.5);
+}
+
+function statusFor(slug, globalNum, outlineStatus) {
   if (outlineStatus) return outlineStatus;
-  if (globalNum === 1) return "published";
-  if (globalNum <= 30) return "outlined";
+  if (slug === "rapture") {
+    if (globalNum === 1) return "published";
+    if (globalNum <= 30) return "outlined";
+    return "seed";
+  }
+  if (slug === "echoes-of-the-void") {
+    if (globalNum === 1) return "published";
+    if (globalNum <= 45) return "outlined";
+    return "seed";
+  }
   return "seed";
 }
 
-const outlineById = loadOutlineChapters();
-const chapters = [];
-
-for (const vol of volumes) {
-  const volumeLength = vol.chapterEnd - vol.chapterStart + 1;
-  for (let n = vol.chapterStart; n <= vol.chapterEnd; n++) {
-    const local = n - vol.chapterStart + 1;
-    const segment = segmentForLocalChapter(local, volumeLength);
-    const id = `ch-${pad(n)}`;
-    const outline = outlineById.get(id);
-
-    chapters.push({
-      id,
-      number: n,
-      volumeId: vol.id,
-      volumeNumber: vol.number,
-      volumeTitle: vol.title,
-      ageId: vol.ageId,
-      localChapter: local,
-      segment: outline?.segment ?? segment.key,
-      segmentLabel: segment.label,
-      title: outline?.title ?? titleFor(vol, local),
-      pov: outline?.pov ?? povFor(local),
-      synopsis: outline?.synopsis ?? synopsisFor(vol, segment, local),
-      status: statusFor(n, outline?.status),
-      inWorldDay: outline?.inWorldDay ?? inWorldDayFor(n),
-      wordTarget: outline?.wordTarget ?? 2100,
-      outlineFile: vol.outlineFile,
-    });
+function generateForBook(book) {
+  const paths = resolveBookPaths(book);
+  const arcsPath = join(paths.seedDir, "arcs.json");
+  const bookMetaPath = join(paths.seedDir, "book.json");
+  if (!existsSync(arcsPath)) {
+    console.warn(`Skip ${book.slug}: no arcs.json`);
+    return;
   }
+
+  const arcs = JSON.parse(readFileSync(arcsPath, "utf8"));
+  const bookMeta = existsSync(bookMetaPath)
+    ? JSON.parse(readFileSync(bookMetaPath, "utf8"))
+    : { id: book.id };
+  const { volumes } = arcs;
+  const outlineById = loadOutlineChapters(paths.outlinesDir);
+  const inWorldDay =
+    book.slug === "echoes-of-the-void" ? inWorldDayEchoes : inWorldDayRapture;
+
+  const chapters = [];
+  for (const vol of volumes) {
+    const volumeLength = vol.chapterEnd - vol.chapterStart + 1;
+    for (let n = vol.chapterStart; n <= vol.chapterEnd; n++) {
+      const local = n - vol.chapterStart + 1;
+      const segment = segmentForLocalChapter(local, volumeLength);
+      const id = `ch-${pad(n)}`;
+      const outline = outlineById.get(id);
+
+      chapters.push({
+        id,
+        number: n,
+        volumeId: vol.id,
+        volumeNumber: vol.number,
+        volumeTitle: vol.title,
+        ageId: vol.ageId ?? vol.actId ?? "act-1",
+        localChapter: local,
+        segment: outline?.segment ?? segment.key,
+        segmentLabel: segment.label,
+        title: outline?.title ?? titleFor(vol, local),
+        pov: outline?.pov ?? povFor(book.slug, local),
+        synopsis: outline?.synopsis ?? synopsisFor(vol, segment, local),
+        status: statusFor(book.slug, n, outline?.status),
+        inWorldDay: outline?.inWorldDay ?? inWorldDay(n),
+        wordTarget:
+          outline?.wordTarget ??
+          (book.slug === "echoes-of-the-void" ? 5000 : 2100),
+        outlineFile: vol.outlineFile,
+      });
+    }
+  }
+
+  const manifest = {
+    generatedAt: new Date().toISOString(),
+    seriesId: bookMeta.id ?? book.id,
+    totalChapters: chapters.length,
+    totalVolumes: volumes.length,
+    chapters,
+  };
+
+  mkdirSync(paths.seedDir, { recursive: true });
+  writeFileSync(paths.manifestOut, JSON.stringify(manifest, null, 2));
+  console.log(
+    `[${book.slug}] Generated ${chapters.length} chapters across ${volumes.length} volumes → ${paths.manifestOut}`
+  );
 }
 
-const manifest = {
-  generatedAt: new Date().toISOString(),
-  seriesId: "rapture-cycle",
-  totalChapters: chapters.length,
-  totalVolumes: volumes.length,
-  calendarNotes:
-    "In-world days: Vol1 Ch1=day0 (Rapture morning). Ch2–10=days1–9. Day10 intentionally unused (arc break). Ch11–30=days11–30. See seed/outlines/vol-01.json.",
-  chapters,
-};
-
-writeFileSync(join(root, "chapter-manifest.json"), JSON.stringify(manifest, null, 2));
-const outlined = chapters.filter((c) => c.synopsis && !c.synopsis.startsWith("Vol ")).length;
-console.log(
-  `Generated ${chapters.length} chapters across ${volumes.length} volumes → seed/chapter-manifest.json`
-);
-console.log(`  ${outlined} chapters with hand-written synopses from seed/outlines/`);
+for (const book of booksToProcess(process.argv)) {
+  generateForBook(book);
+}

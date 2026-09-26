@@ -1,0 +1,28 @@
+{
+  "locations": [
+    {
+      "id": "eldrathor-spires",
+      "name": "Eldrathor Spires",
+      "region": "Imperial Heartlands",
+      "description": "Seat of the Royal Arcane Academy — obsidian-veined towers, crystal bridges, and witchlight courtyards where noble heirs train for empire.",
+      "firstAppearance": "ch-0001",
+      "minChapter": 1
+    },
+    {
+      "id": "royal-arcane-academy",
+      "name": "Royal Arcane Academy",
+      "region": "Eldrathor",
+      "description": "Prestigious mage and Skill academy. Voluntary enrollment for alliance-building. Consort tournaments begin at eighteen.",
+      "firstAppearance": "ch-0001",
+      "minChapter": 1
+    },
+    {
+      "id": "obsidian-throne",
+      "name": "Obsidian Throne",
+      "region": "Eldrathor",
+      "description": "Imperial seat of Emperor Valerius. Succession games radiate from its shadow.",
+      "firstAppearance": "ch-0010",
+      "minChapter": 10
+    }
+  ]
+}

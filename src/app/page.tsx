@@ -1,8 +1,5 @@
-"use client";
+import { HomeArchive } from "@/components/home/home-archive";
 
-import { useRouter } from "next/navigation";
-import { HomePage } from "@/components/home/home-page";
-
-export default function Page() {
-  return <HomePage />;
+export default function HomePage() {
+  return <HomeArchive />;
 }

@@ -89,7 +89,7 @@ export function LoreNetwork() {
   const [selected, setSelected] = useState<string | null>(null);
   const [filter, setFilter] = useState<RelationshipType | "all">("all");
   const hydrated = useStoreHydration();
-  const progress = useReadingStore((s) => s.progress);
+  const progress = useReadingStore((s) => s.byBook.rapture?.progress ?? {});
   const maxChapter = hydrated ? getMaxReadChapterNumber(progress) : 1;
 
   const visibleRelationships = useMemo(

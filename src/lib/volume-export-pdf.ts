@@ -1,20 +1,12 @@
 import fs from "fs";
-import path from "path";
 import PDFDocument from "pdfkit";
 import type PDFKit from "pdfkit";
-import { chapters, getChapterById } from "@/data/chapters";
-import {
-  getChaptersByVolume,
-  getManifestChapter,
-  manifestVolumes,
-  type ManifestVolume,
-} from "@/data/chapter-manifest";
-import { bookMeta } from "@/data/book";
+import { getBookData } from "@/lib/books/book-data";
+import { getBookBySlug } from "@/data/books-registry";
 import { getImageEntry } from "@/lib/images";
 import { projectPath } from "@/lib/project-path";
 import type { ChapterBlock, CompiledChapter } from "@/types";
-
-const COMPILED_IDS = new Set(chapters.map((c) => c.id));
+import type { ManifestVolume } from "@/data/chapter-manifest";
 
 const MARGIN = 72;
 const BODY_SIZE = 11;
@@ -30,18 +22,20 @@ export class VolumeExportError extends Error {
   }
 }
 
-export function getExportableVolumeChapters(volumeId: string): {
+export function getExportableVolumeChapters(bookSlug: string, volumeId: string): {
   volume: ManifestVolume;
   chapters: CompiledChapter[];
 } {
-  const volume = manifestVolumes.find((v) => v.id === volumeId);
+  const data = getBookData(bookSlug);
+  const compiledIds = new Set(data.chapters.map((c) => c.id));
+  const volume = data.manifestVolumes.find((v) => v.id === volumeId);
   if (!volume) {
     throw new VolumeExportError("Volume not found.", 404);
   }
 
-  const manifestChapters = getChaptersByVolume(volumeId).filter(
-    (ch) => ch.status === "published" && COMPILED_IDS.has(ch.id)
-  );
+  const manifestChapters = data
+    .getChaptersByVolume(volumeId)
+    .filter((ch) => ch.status === "published" && compiledIds.has(ch.id));
 
   if (manifestChapters.length === 0) {
     throw new VolumeExportError(
@@ -51,19 +45,24 @@ export function getExportableVolumeChapters(volumeId: string): {
   }
 
   const compiled = manifestChapters
-    .map((m) => getChapterById(m.id))
+    .map((m) => data.resolveChapter(m.id))
     .filter((c): c is CompiledChapter => Boolean(c))
     .sort((a, b) => a.number - b.number);
 
   return { volume, chapters: compiled };
 }
 
-export function volumePdfFilename(volume: ManifestVolume): string {
+export function volumePdfFilename(bookSlug: string, volume: ManifestVolume): string {
+  const book = getBookBySlug(bookSlug);
+  const prefix = (book?.title ?? bookSlug)
+    .replace(/[^\w\s-]/g, "")
+    .trim()
+    .replace(/\s+/g, "_");
   const slug = volume.title
     .replace(/[^\w\s-]/g, "")
     .trim()
     .replace(/\s+/g, "_");
-  return `Rapture_Vol${String(volume.number).padStart(2, "0")}_${slug}.pdf`;
+  return `${prefix}_Vol${String(volume.number).padStart(2, "0")}_${slug}.pdf`;
 }
 
 /** Decode a minimal subset of HTML produced by compile-chapters.mjs. */
@@ -92,8 +91,8 @@ export function htmlToPlainText(html: string): string {
   return text.replace(/\s+\n/g, "\n").trim();
 }
 
-function imagePathForId(id: string): string | null {
-  const entry = getImageEntry(id);
+function imagePathForId(bookSlug: string, id: string): string | null {
+  const entry = getImageEntry(id, bookSlug);
   if (!entry || entry.status !== "present") return null;
   const filePath = projectPath("public", entry.relativePath);
   return fs.existsSync(filePath) ? filePath : null;
@@ -144,14 +143,14 @@ function writeHeading(doc: PDFKit.PDFDocument, text: string) {
   doc.moveDown(0.5);
 }
 
-/** PDF export is text-first: captions are kept, images are omitted to avoid layout overlap and huge file sizes. */
 const EMBED_IMAGES = false;
 
 function writeFigure(
   doc: PDFKit.PDFDocument,
+  bookSlug: string,
   figure: NonNullable<Extract<ChapterBlock, { type: "figure" }>["figure"]>
 ) {
-  const imgPath = EMBED_IMAGES ? imagePathForId(figure.id) : null;
+  const imgPath = EMBED_IMAGES ? imagePathForId(bookSlug, figure.id) : null;
   const caption = [figure.title, figure.subtitle, figure.caption].filter(Boolean).join(" — ");
 
   if (imgPath) {
@@ -163,13 +162,12 @@ function writeFigure(
         fit: [maxWidth, 180],
         align: "center",
       });
-      // pdfkit may not advance doc.y when fit scales oddly — always move past the image box
       if (doc.y <= yBefore + 4) {
         doc.y = yBefore + 180 + 10;
       }
       doc.moveDown(0.4);
     } catch {
-      // Fall through to caption-only if image decode fails
+      // caption-only fallback
     }
   }
 
@@ -185,13 +183,15 @@ function writeFigure(
   }
 }
 
-function writeChapterOpening(doc: PDFKit.PDFDocument, chapter: CompiledChapter) {
-  const opening = chapter.opening;
-  if (!opening) return;
-  writeFigure(doc, opening);
+function writeChapterOpening(
+  doc: PDFKit.PDFDocument,
+  bookSlug: string,
+  chapter: CompiledChapter
+) {
+  if (chapter.opening) writeFigure(doc, bookSlug, chapter.opening);
 }
 
-function writeBlock(doc: PDFKit.PDFDocument, block: ChapterBlock) {
+function writeBlock(doc: PDFKit.PDFDocument, bookSlug: string, block: ChapterBlock) {
   switch (block.type) {
     case "paragraph":
       writeParagraph(doc, block.html, { indent: !block.dropCap });
@@ -203,14 +203,19 @@ function writeBlock(doc: PDFKit.PDFDocument, block: ChapterBlock) {
       writeSceneBreak(doc);
       break;
     case "figure":
-      writeFigure(doc, block.figure);
+      writeFigure(doc, bookSlug, block.figure);
       break;
     default:
       break;
   }
 }
 
-function writeChapter(doc: PDFKit.PDFDocument, chapter: CompiledChapter) {
+function writeChapter(
+  doc: PDFKit.PDFDocument,
+  bookSlug: string,
+  chapter: CompiledChapter,
+  getManifestChapter: (id: string) => { pov?: string } | undefined
+) {
   doc.addPage();
 
   const manifest = getManifestChapter(chapter.id);
@@ -234,19 +239,19 @@ function writeChapter(doc: PDFKit.PDFDocument, chapter: CompiledChapter) {
     width: doc.page.width - MARGIN * 2,
     align: "center",
   });
-  doc.moveDown(0.5);
+  doc.moveDown(0.4);
 
   if (manifest?.pov) {
-    doc.font("Times-Italic").fontSize(10).fillColor("#666666");
+    doc.font("Times-Italic").fontSize(10).fillColor("#777777");
     doc.text(`POV: ${manifest.pov}`, MARGIN, doc.y, {
       width: doc.page.width - MARGIN * 2,
       align: "center",
     });
-    doc.moveDown(0.4);
+    doc.moveDown(0.5);
   }
 
   if (chapter.epigraph) {
-    doc.font("Times-Italic").fontSize(11).fillColor("#444444");
+    doc.font("Times-Italic").fontSize(11).fillColor("#555555");
     doc.text(`\u201C${chapter.epigraph}\u201D`, MARGIN + 24, doc.y, {
       width: doc.page.width - MARGIN * 2 - 48,
       align: "center",
@@ -276,24 +281,33 @@ function writeChapter(doc: PDFKit.PDFDocument, chapter: CompiledChapter) {
   doc.moveTo(MARGIN, doc.y).lineTo(doc.page.width - MARGIN, doc.y).strokeColor("#cccccc").stroke();
   doc.moveDown(0.8);
 
-  writeChapterOpening(doc, chapter);
+  writeChapterOpening(doc, bookSlug, chapter);
 
   for (const block of chapter.blocks) {
-    writeBlock(doc, block);
+    writeBlock(doc, bookSlug, block);
   }
 }
 
-export function buildVolumePdfBuffer(volumeId: string): Promise<Buffer> {
-  const { volume, chapters: volumeChapters } = getExportableVolumeChapters(volumeId);
+export function buildVolumePdfBuffer(bookSlug: string, volumeId: string): Promise<Buffer> {
+  const book = getBookBySlug(bookSlug);
+  if (!book) {
+    throw new VolumeExportError("Book not found.", 404);
+  }
+
+  const data = getBookData(bookSlug);
+  const { volume, chapters: volumeChapters } = getExportableVolumeChapters(
+    bookSlug,
+    volumeId
+  );
 
   return new Promise((resolve, reject) => {
     const doc = new PDFDocument({
       size: "LETTER",
       margin: MARGIN,
       info: {
-        Title: `${bookMeta.title}: Volume ${volume.number} — ${volume.title}`,
-        Author: bookMeta.author,
-        Subject: bookMeta.subtitle,
+        Title: `${book.title}: Volume ${volume.number} — ${volume.title}`,
+        Author: book.author,
+        Subject: book.subtitle,
       },
     });
 
@@ -302,9 +316,8 @@ export function buildVolumePdfBuffer(volumeId: string): Promise<Buffer> {
     doc.on("end", () => resolve(Buffer.concat(chunks)));
     doc.on("error", reject);
 
-    // Title page
     doc.font("Times-Roman").fontSize(11).fillColor("#888888");
-    doc.text(bookMeta.title.toUpperCase(), MARGIN, doc.page.height * 0.32, {
+    doc.text(book.title.toUpperCase(), MARGIN, doc.page.height * 0.32, {
       width: doc.page.width - MARGIN * 2,
       align: "center",
       characterSpacing: 2,
@@ -323,7 +336,7 @@ export function buildVolumePdfBuffer(volumeId: string): Promise<Buffer> {
     });
 
     doc.font("Times-Italic").fontSize(12).fillColor("#555555");
-    doc.text(bookMeta.subtitle, MARGIN, doc.y + 12, {
+    doc.text(book.subtitle, MARGIN, doc.y + 12, {
       width: doc.page.width - MARGIN * 2,
       align: "center",
     });
@@ -337,13 +350,13 @@ export function buildVolumePdfBuffer(volumeId: string): Promise<Buffer> {
     );
 
     doc.fontSize(9).fillColor("#999999");
-    doc.text(`By ${bookMeta.author}`, MARGIN, doc.page.height - MARGIN - 24, {
+    doc.text(`By ${book.author}`, MARGIN, doc.page.height - MARGIN - 24, {
       width: doc.page.width - MARGIN * 2,
       align: "center",
     });
 
     volumeChapters.forEach((chapter) => {
-      writeChapter(doc, chapter);
+      writeChapter(doc, bookSlug, chapter, data.getManifestChapter);
     });
 
     doc.end();

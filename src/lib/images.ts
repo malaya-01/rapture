@@ -1,12 +1,19 @@
-import { imageManifest } from "@/data/image-manifest";
+import { imageManifest as raptureManifest } from "@/data/image-manifest";
+import { imageManifest as echoesManifest } from "@/data/books/echoes-of-the-void/image-manifest";
 
-export function getImageEntry(id: string) {
-  return imageManifest.entries.find((e) => e.id === id);
+const manifests = {
+  rapture: raptureManifest,
+  "echoes-of-the-void": echoesManifest,
+};
+
+export function getImageEntry(id: string, bookSlug = "rapture") {
+  const manifest = manifests[bookSlug as keyof typeof manifests] ?? raptureManifest;
+  return manifest.entries.find((e) => e.id === id);
 }
 
 /** Public URL for a codex image when the file exists on disk. */
-export function getImageSrc(id: string): string | undefined {
-  const entry = getImageEntry(id);
+export function getImageSrc(id: string, bookSlug = "rapture"): string | undefined {
+  const entry = getImageEntry(id, bookSlug);
   if (!entry || entry.status !== "present") return undefined;
   const v = entry.version;
   return v ? `${entry.publicPath}?v=${v}` : entry.publicPath;

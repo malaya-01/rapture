@@ -3,46 +3,69 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { motion } from "framer-motion";
-import {
-  BookOpen,
-  Library,
-  Globe,
-  Clock,
-  Map,
-  Skull,
-} from "lucide-react";
+import { BookOpen, Library, ArrowLeft } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useStoreHydration } from "@/lib/use-hydration";
 import { useReadingStore } from "@/store/reading-store";
+import { isArchiveRoute } from "@/lib/archive/navigation";
+import {
+  parseBookSlugFromPath,
+  getBookBasePath,
+  getReadPath,
+  getLibraryPath,
+} from "@/lib/books/book-data";
+import { getBookBySlug } from "@/data/books-registry";
 
-const navItems = [
-  { href: "/read", label: "Read", icon: BookOpen },
-  { href: "/library", label: "Library", icon: Library },
-  { href: "/encyclopedia", label: "Codex", icon: Globe },
-  { href: "/bestiary", label: "Bestiary", icon: Skull },
-  { href: "/map", label: "Map", icon: Map },
-  { href: "/timeline", label: "Chronicle", icon: Clock },
-];
-
+/** Bottom nav for in-book reading context only — wings use ArchiveNav */
 export function Navigation() {
   const pathname = usePathname();
   const hydrated = useStoreHydration();
+  const bookSlug = parseBookSlugFromPath(pathname);
+  const book = bookSlug ? getBookBySlug(bookSlug) : undefined;
+  const inBookContext = Boolean(bookSlug && book);
   const progress = useReadingStore((s) =>
-    hydrated ? s.getOverallProgress() : 0
+    hydrated && bookSlug ? s.getBookOverallProgress(bookSlug) : 0
   );
   const chromeVisible = useReadingStore((s) => s.chromeVisible);
 
-  if (pathname === "/") return null;
-  if (pathname === "/read" && !chromeVisible) return null;
+  const isReading =
+    pathname.startsWith("/read") || /^\/books\/[^/]+\/read/.test(pathname);
+
+  if (isArchiveRoute(pathname)) return null;
+  if (/^\/books\/[^/]+$/.test(pathname)) return null;
+  if (isReading && !chromeVisible) return null;
+  if (!inBookContext) return null;
+
+  const navItems = [
+    { href: "/", label: "Home", icon: ArrowLeft },
+    { href: "/library", label: "Library", icon: Library },
+    { href: getBookBasePath(book!.slug), label: "Series", icon: BookOpen },
+    {
+      href: getReadPath(book!.slug, "ch-0001"),
+      label: "Read",
+      icon: BookOpen,
+    },
+    {
+      href: getLibraryPath(book!.slug),
+      label: "Volumes",
+      icon: Library,
+    },
+    {
+      href: `${getBookBasePath(book!.slug)}/encyclopedia`,
+      label: "Chronicles",
+      icon: BookOpen,
+      show: book!.features.codex,
+    },
+  ].filter((item) => item.show !== false);
 
   return (
     <nav className="text-ui fixed bottom-0 left-0 right-0 z-50 border-t border-gold/10 bg-bg/95 backdrop-blur-lg md:top-0 md:bottom-auto md:border-b md:border-t-0">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-3">
         <Link
-          href="/"
+          href="/library"
           className="hidden font-display text-sm tracking-[0.25em] text-gold md:block"
         >
-          RAPTURE
+          AETHER VALE
         </Link>
 
         <div className="flex flex-1 items-center justify-around gap-0.5 py-2 md:flex-none md:justify-end">
@@ -74,14 +97,19 @@ export function Navigation() {
           })}
         </div>
 
-        <div className="hidden items-center gap-2 md:flex">
-          <div className="h-1 w-16 overflow-hidden rounded-full bg-bg-elevated">
-            <div
-              className="h-full bg-gradient-to-r from-gold-dim to-gold transition-all duration-700"
-              style={{ width: `${progress}%` }}
-            />
+        {book && (
+          <div className="hidden items-center gap-2 md:flex">
+            <span className="max-w-[8rem] truncate text-[0.6rem] tracking-wider text-text-muted uppercase">
+              {book.title}
+            </span>
+            <div className="h-1 w-16 overflow-hidden rounded-full bg-bg-elevated">
+              <div
+                className="h-full bg-gradient-to-r from-gold-dim to-gold transition-all duration-700"
+                style={{ width: `${progress}%` }}
+              />
+            </div>
           </div>
-        </div>
+        )}
       </div>
     </nav>
   );

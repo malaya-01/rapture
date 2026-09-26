@@ -5,8 +5,13 @@ export function isMidChapterScroll() {
   return pct > 4 && pct < 96;
 }
 
+function isReadPath(pathname: string) {
+  if (pathname === "/read" || pathname.startsWith("/read/")) return true;
+  return /^\/books\/[^/]+\/read(\/|$)/.test(pathname);
+}
+
 export function isLeavingReadPath(pathname: string) {
-  return pathname !== "/read" && !pathname.startsWith("/read/");
+  return !isReadPath(pathname);
 }
 
 export function resolveLinkPath(href: string): string | null {

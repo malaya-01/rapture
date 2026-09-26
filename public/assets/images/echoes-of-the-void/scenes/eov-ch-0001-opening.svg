@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" role="img" aria-label="The road to Eldrathor">
+  <defs>
+    <linearGradient id="dawn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2d2450"/>
+      <stop offset="40%" stop-color="#4a3f6b"/>
+      <stop offset="100%" stop-color="#1a1410"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#dawn)"/>
+  <polygon points="960,200 1100,700 820,700" fill="#1a1030" stroke="#9b8ec4" stroke-width="2" opacity="0.9"/>
+  <polygon points="700,750 1220,750 1280,1080 640,1080" fill="#090807" opacity="0.85"/>
+  <rect x="860" y="420" width="200" height="280" fill="#2d2450" stroke="#6b5b95" stroke-width="2"/>
+  <text x="960" y="980" text-anchor="middle" fill="#c4b5fd" font-family="Georgia, serif" font-size="36" opacity="0.7">The Spare Son&apos;s Silence</text>
+</svg>

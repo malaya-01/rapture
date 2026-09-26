@@ -57,11 +57,13 @@ export interface CodexDetailConfig {
 
 export function CodexDetailProfile({
   config,
+  bookSlug = "rapture",
 }: {
   config: CodexDetailConfig | null;
+  bookSlug?: string;
 }) {
   const hydrated = useStoreHydration();
-  const progress = useReadingStore((s) => s.progress);
+  const progress = useReadingStore((s) => s.byBook[bookSlug]?.progress ?? {});
   if (!config) notFound();
 
   const unlocked =
@@ -102,6 +104,7 @@ export function CodexDetailProfile({
             title={config.title}
             aspectRatio={config.aspectRatio ?? "16/7"}
             promptId={config.promptId}
+            bookSlug={bookSlug}
             illustration={{
               type: "character",
               title: config.title,

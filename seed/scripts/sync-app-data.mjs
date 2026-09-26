@@ -21,13 +21,17 @@ import {
   buildGenericPrompts,
   buildWorldMapPrompt,
 } from "./prompt-builder.mjs";
+import { getBook, resolveBookPaths } from "./book-config.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, "..", "..");
-const seed = join(root, "seed");
-const kb = join(root, "knowledgebase");
+const raptureBook = getBook("rapture");
+const rapturePaths = resolveBookPaths(raptureBook);
+const seed = rapturePaths.seedDir;
+const kb = rapturePaths.knowledgebaseDir;
 const dataDir = join(root, "src", "data");
-const publicImages = join(root, "public", "assets", "images");
+const publicImages = rapturePaths.imagesDir;
+const imageBookSlug = raptureBook.slug;
 
 const IMAGE_EXT = [".png", ".webp", ".jpg", ".jpeg"];
 
@@ -178,6 +182,7 @@ const worldMapSeed = readJson(join(seed, "world-map.json"));
 const artifactsSeed = readJson(join(seed, "artifacts.json")).artifacts;
 const dungeonsSeed = readJson(join(seed, "dungeons.json")).dungeons;
 const skillsSeed = readJson(join(seed, "skills.json")).skills;
+const magicCraftingSeed = readJson(join(seed, "magic-crafting.json"));
 const factionsSeed = readJson(join(seed, "factions.json")).factions;
 const timelineSeed = readJson(join(seed, "timeline.json"));
 const companionsSeed = readJson(join(seed, "companions.json")).companions;
@@ -557,6 +562,28 @@ export interface MagicSkill {
   unlockChapter?: string;
 }
 
+export interface MagicMaterial {
+  id: string;
+  name: string;
+  category: "mana-crystal" | "beast-core";
+  rank: string;
+  description: string;
+  sources: string[];
+  uses: string[];
+}
+
+export interface MagicRecipe {
+  id: string;
+  name: string;
+  type: string;
+  rank: string;
+  description: string;
+  inputs: string[];
+  output: string;
+  crafter: string;
+  unlockChapter?: string;
+}
+
 export const manaLaws = [
   "Mana cannot be created or destroyed — only transformed.",
   "Power without understanding is unstable — smarter beats stronger.",
@@ -583,6 +610,40 @@ ${skillsSeed
     manaCost: ${JSON.stringify(s.manaCost ?? "")},
     user: ${JSON.stringify(s.user ?? "")},
     unlockChapter: ${JSON.stringify(s.unlockChapter ?? "")},
+  }`
+  )
+  .join(",\n")}
+];
+
+export const magicMaterials: MagicMaterial[] = [
+${(magicCraftingSeed.materials ?? [])
+  .map(
+    (m) => `  {
+    id: ${JSON.stringify(m.id)},
+    name: ${JSON.stringify(m.name)},
+    category: ${JSON.stringify(m.category)},
+    rank: ${JSON.stringify(m.rank)},
+    description: ${JSON.stringify(m.description)},
+    sources: ${JSON.stringify(m.sources ?? [])},
+    uses: ${JSON.stringify(m.uses ?? [])},
+  }`
+  )
+  .join(",\n")}
+];
+
+export const magicRecipes: MagicRecipe[] = [
+${(magicCraftingSeed.recipes ?? [])
+  .map(
+    (r) => `  {
+    id: ${JSON.stringify(r.id)},
+    name: ${JSON.stringify(r.name)},
+    type: ${JSON.stringify(r.type)},
+    rank: ${JSON.stringify(r.rank)},
+    description: ${JSON.stringify(r.description)},
+    inputs: ${JSON.stringify(r.inputs ?? [])},
+    output: ${JSON.stringify(r.output)},
+    crafter: ${JSON.stringify(r.crafter ?? "")},
+    unlockChapter: ${JSON.stringify(r.unlockChapter ?? "")},
   }`
   )
   .join(",\n")}
@@ -925,13 +986,15 @@ function manifestRow(category, id, title) {
   const present = filePath !== null;
   const ext = present ? extname(filePath) : ".png";
   const version = present ? statSync(filePath).mtimeMs : undefined;
+  const rel = `assets/images/${imageBookSlug}/${category}/${id}${ext}`;
   manifestEntries.push({
     id,
     category,
+    bookSlug: imageBookSlug,
     title,
     filename: `${id}${ext}`,
-    relativePath: `assets/images/${category}/${id}${ext}`,
-    publicPath: `/assets/images/${category}/${id}${ext}`,
+    relativePath: rel,
+    publicPath: `/${rel}`,
     status: present ? "present" : "missing",
     ...(version !== undefined ? { version } : {}),
   });
@@ -963,6 +1026,7 @@ export type ImageStatus = "present" | "missing";
 export interface ImageManifestEntry {
   id: string;
   category: ImageCategory;
+  bookSlug?: string;
   title: string;
   filename: string;
   relativePath: string;
@@ -973,10 +1037,11 @@ export interface ImageManifestEntry {
 }
 
 export const imageManifest = {
+  bookSlug: ${JSON.stringify(imageBookSlug)},
   generatedAt: ${JSON.stringify(new Date().toISOString())},
   summary: { total: ${manifestEntries.length}, present: ${present}, missing: ${missing} },
   categories: {
-${categories.map((cat) => `    ${JSON.stringify(cat)}: { folder: "public/assets/images/${cat}/", naming: "{id}.png" }`).join(",\n")}
+${categories.map((cat) => `    ${JSON.stringify(cat)}: { folder: "public/assets/images/${imageBookSlug}/${cat}/", naming: "{id}.png" }`).join(",\n")}
   },
   entries: ${JSON.stringify(manifestEntries, null, 2)} as ImageManifestEntry[],
 };
@@ -999,7 +1064,7 @@ const repoDoc = `# Rapture Image Repository
 ## Folder structure
 
 \`\`\`
-public/assets/images/
+public/assets/images/rapture/
 ├── characters/     # Main, supporting, antagonist portraits — {id}.png
 ├── disciples/      # Limbo disciples — disciple-{name}.png
 ├── companions/     # Beast contracts — {id}.png

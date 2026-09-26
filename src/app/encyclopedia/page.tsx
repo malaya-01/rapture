@@ -1,10 +1,5 @@
-import { Suspense } from "react";
-import { CodexIndex } from "@/components/codex/codex-index";
+import { redirect } from "next/navigation";
 
-export default function EncyclopediaPage() {
-  return (
-    <Suspense fallback={null}>
-      <CodexIndex />
-    </Suspense>
-  );
+export default function EncyclopediaRedirect() {
+  redirect("/chronicles");
 }

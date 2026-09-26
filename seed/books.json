@@ -1,0 +1,55 @@
+{
+  "libraryName": "Aether Vale Digital Library",
+  "books": [
+    {
+      "id": "rapture-cycle",
+      "slug": "rapture",
+      "title": "Rapture",
+      "subtitle": "The Fractured Sky",
+      "author": "Aether Vale",
+      "description": "When the sky fractures and dragons fall, an ordinary omega named Cassian Reed survives among strangers who will become family, founders, and rivals—while the slow bond between him and alpha Adrian Hale grows across catastrophe, rebuilding, and choice.",
+      "genre": ["Post-Apocalyptic Fantasy", "Survival", "Romance", "Epic Fantasy"],
+      "bookDir": "books/rapture",
+      "seedDir": "books/rapture/seed",
+      "contentDir": "books/rapture/content/chapters",
+      "knowledgebaseDir": "books/rapture/knowledgebase",
+      "outlinesDir": "books/rapture/seed/outlines",
+      "imagesDir": "public/assets/images/rapture",
+      "coversDir": "public/assets/covers",
+      "accentColor": "#8b6b2e",
+      "coverImage": "/assets/covers/rapture.svg",
+      "features": {
+        "codex": true,
+        "bestiary": true,
+        "map": true,
+        "timeline": true,
+        "relationships": true
+      }
+    },
+    {
+      "id": "echoes-of-the-void",
+      "slug": "echoes-of-the-void",
+      "title": "Echoes of the Void",
+      "subtitle": "The Omega Who Became the End",
+      "author": "Aether Vale",
+      "description": "An average, unloved transmigrator reborn as an unwanted spare omega tries again and again across secret time loops to find peace and love—until exhaustion and betrayal transform him into the absolute End of everything.",
+      "genre": ["Dark Fantasy", "Omegaverse", "Time Loop", "Political Intrigue", "MM Romance"],
+      "bookDir": "books/echoes-of-the-void",
+      "seedDir": "books/echoes-of-the-void/seed",
+      "contentDir": "books/echoes-of-the-void/content/chapters",
+      "knowledgebaseDir": "books/echoes-of-the-void/knowledgebase",
+      "outlinesDir": "books/echoes-of-the-void/seed/outlines",
+      "imagesDir": "public/assets/images/echoes-of-the-void",
+      "coversDir": "public/assets/covers",
+      "accentColor": "#4a3f6b",
+      "coverImage": "/assets/covers/echoes-of-the-void.svg",
+      "features": {
+        "codex": true,
+        "bestiary": false,
+        "map": false,
+        "timeline": true,
+        "relationships": true
+      }
+    }
+  ]
+}

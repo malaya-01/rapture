@@ -34,8 +34,8 @@ export function mimeToExtension(mime: string): ".png" | ".jpg" | ".webp" {
   return ".png";
 }
 
-export function imageDirForCategory(category: ImageCategory) {
-  return projectPath("public", "assets", "images", category);
+export function imageDirForCategory(category: ImageCategory, bookSlug = "rapture") {
+  return projectPath("public", "assets", "images", bookSlug, category);
 }
 
 export function removeSiblingImageFiles(dir: string, id: string, keepExt: string) {

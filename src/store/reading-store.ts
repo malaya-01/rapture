@@ -2,31 +2,53 @@
 
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-import { chapters, resolveChapter } from "@/data/chapters";
-import { manifestChapters } from "@/data/chapter-manifest";
+import { getBookData } from "@/lib/books/book-data";
+import { getDefaultBook } from "@/data/books-registry";
 import type {
   AmbientTrack,
   ReaderSettings,
   ReadingProgress,
 } from "@/types";
 
-interface ReadingState extends ReaderSettings {
+interface BookReadingSlice {
   currentChapterId: string;
   progress: Record<string, ReadingProgress>;
   bookmarks: Record<string, number>;
+}
+
+interface ReadingState extends ReaderSettings {
+  activeBookSlug: string;
+  byBook: Record<string, BookReadingSlice>;
   ambientTrack: AmbientTrack;
   chromeVisible: boolean;
 
-  setChapter: (chapterId: string) => void;
-  setScrollProgress: (chapterId: string, percent: number) => void;
-  markChapterComplete: (chapterId: string) => void;
+  setActiveBook: (bookSlug: string) => void;
+  setChapter: (bookSlug: string, chapterId: string) => void;
+  setScrollProgress: (
+    bookSlug: string,
+    chapterId: string,
+    percent: number
+  ) => void;
+  markChapterComplete: (bookSlug: string, chapterId: string) => void;
+  getBookOverallProgress: (bookSlug: string) => number;
   getOverallProgress: () => number;
-  getChapterProgress: (chapterId: string) => number;
-  isChapterComplete: (chapterId: string) => boolean;
-  getBookmark: (chapterId: string) => number | null;
-  setBookmark: (chapterId: string, scrollPercent: number) => void;
-  clearBookmark: (chapterId: string) => void;
-  toggleBookmark: (chapterId: string, scrollPercent: number) => void;
+  getChapterProgress: (bookSlug: string, chapterId: string) => number;
+  isChapterComplete: (bookSlug: string, chapterId: string) => boolean;
+  getBookmark: (bookSlug: string, chapterId: string) => number | null;
+  setBookmark: (
+    bookSlug: string,
+    chapterId: string,
+    scrollPercent: number
+  ) => void;
+  clearBookmark: (bookSlug: string, chapterId: string) => void;
+  toggleBookmark: (
+    bookSlug: string,
+    chapterId: string,
+    scrollPercent: number
+  ) => void;
+  getBookCurrentChapterId: (bookSlug: string) => string;
+  /** @deprecated use getBookCurrentChapterId(activeBookSlug) */
+  currentChapterId: string;
   setAmbientTrack: (track: AmbientTrack) => void;
   toggleChrome: () => void;
   setReaderSettings: (patch: Partial<ReaderSettings>) => void;
@@ -45,125 +67,221 @@ const defaultSettings: ReaderSettings = {
   reducedMotion: false,
 };
 
+function defaultSlice(bookSlug: string): BookReadingSlice {
+  const data = getBookData(bookSlug);
+  const first = data.firstReadableChapterId ?? data.chapters[0]?.id ?? "";
+  return {
+    currentChapterId: first,
+    progress: {},
+    bookmarks: {},
+  };
+}
+
+function ensureSlice(
+  byBook: Record<string, BookReadingSlice>,
+  bookSlug: string
+): BookReadingSlice {
+  return byBook[bookSlug] ?? defaultSlice(bookSlug);
+}
+
 export const useReadingStore = create<ReadingState>()(
   persist(
     (set, get) => ({
       ...defaultSettings,
-      currentChapterId: chapters[0]?.id ?? "",
-      progress: {},
-      bookmarks: {},
+      activeBookSlug: getDefaultBook().slug,
+      byBook: {
+        [getDefaultBook().slug]: defaultSlice(getDefaultBook().slug),
+      },
+      currentChapterId: defaultSlice(getDefaultBook().slug).currentChapterId,
       ambientTrack: "none",
       chromeVisible: true,
 
-      setChapter: (chapterId) => {
-        const chapter = resolveChapter(chapterId);
-        if (!chapter) return;
-        set({ currentChapterId: chapter.id });
+      setActiveBook: (bookSlug) => {
+        set((state) => {
+          const slice = ensureSlice(state.byBook, bookSlug);
+          return {
+            activeBookSlug: bookSlug,
+            currentChapterId: slice.currentChapterId,
+            byBook: { ...state.byBook, [bookSlug]: slice },
+          };
+        });
       },
 
-      setScrollProgress: (chapterId, percent) => {
-        const chapter = resolveChapter(chapterId);
+      setChapter: (bookSlug, chapterId) => {
+        const data = getBookData(bookSlug);
+        const chapter = data.resolveChapter(chapterId);
+        if (!chapter) return;
+        set((state) => {
+          const slice = ensureSlice(state.byBook, bookSlug);
+          const next = {
+            ...slice,
+            currentChapterId: chapter.id,
+          };
+          return {
+            activeBookSlug: bookSlug,
+            currentChapterId: chapter.id,
+            byBook: { ...state.byBook, [bookSlug]: next },
+          };
+        });
+      },
+
+      setScrollProgress: (bookSlug, chapterId, percent) => {
+        const data = getBookData(bookSlug);
+        const chapter = data.resolveChapter(chapterId);
         if (!chapter) return;
 
         const scrollPercent = clampPercent(percent);
         const completed = scrollPercent >= 98;
 
-        set((state) => ({
-          currentChapterId: chapter.id,
-          progress: {
-            ...state.progress,
-            [chapter.id]: {
-              chapterId: chapter.id,
-              scrollPercent,
-              completed:
-                completed || state.progress[chapter.id]?.completed === true,
-              lastReadAt: new Date().toISOString(),
+        set((state) => {
+          const slice = ensureSlice(state.byBook, bookSlug);
+          const next: BookReadingSlice = {
+            ...slice,
+            currentChapterId: chapter.id,
+            progress: {
+              ...slice.progress,
+              [chapter.id]: {
+                chapterId: chapter.id,
+                scrollPercent,
+                completed:
+                  completed || slice.progress[chapter.id]?.completed === true,
+                lastReadAt: new Date().toISOString(),
+              },
             },
-          },
-          bookmarks: {
-            ...state.bookmarks,
-            [chapter.id]: scrollPercent,
-          },
-        }));
+            bookmarks: {
+              ...slice.bookmarks,
+              [chapter.id]: scrollPercent,
+            },
+          };
+          return {
+            activeBookSlug: bookSlug,
+            currentChapterId: chapter.id,
+            byBook: { ...state.byBook, [bookSlug]: next },
+          };
+        });
       },
 
-      markChapterComplete: (chapterId) => {
-        const chapter = resolveChapter(chapterId);
+      markChapterComplete: (bookSlug, chapterId) => {
+        const data = getBookData(bookSlug);
+        const chapter = data.resolveChapter(chapterId);
         if (!chapter) return;
-        set((state) => ({
-          progress: {
-            ...state.progress,
-            [chapter.id]: {
-              chapterId: chapter.id,
-              scrollPercent: 100,
-              completed: true,
-              lastReadAt: new Date().toISOString(),
+        set((state) => {
+          const slice = ensureSlice(state.byBook, bookSlug);
+          return {
+            byBook: {
+              ...state.byBook,
+              [bookSlug]: {
+                ...slice,
+                progress: {
+                  ...slice.progress,
+                  [chapter.id]: {
+                    chapterId: chapter.id,
+                    scrollPercent: 100,
+                    completed: true,
+                    lastReadAt: new Date().toISOString(),
+                  },
+                },
+              },
             },
-          },
-        }));
+          };
+        });
       },
 
-      getOverallProgress: () => {
-        const total = manifestChapters.length || chapters.length;
+      getBookOverallProgress: (bookSlug) => {
+        const data = getBookData(bookSlug);
+        const total = data.manifestChapters.length || data.chapters.length;
         if (total === 0) return 0;
-        const { progress } = get();
+        const slice = ensureSlice(get().byBook, bookSlug);
         let sum = 0;
-        for (const ch of manifestChapters) {
-          const cp = progress[ch.id];
+        for (const ch of data.manifestChapters) {
+          const cp = slice.progress[ch.id];
           sum += cp?.completed ? 100 : cp?.scrollPercent ?? 0;
         }
         return Math.round(sum / total);
       },
 
-      getChapterProgress: (chapterId) => {
-        const chapter = resolveChapter(chapterId);
+      getOverallProgress: () => get().getBookOverallProgress(get().activeBookSlug),
+
+      getChapterProgress: (bookSlug, chapterId) => {
+        const data = getBookData(bookSlug);
+        const chapter = data.resolveChapter(chapterId);
         const id = chapter?.id ?? chapterId;
-        const cp = get().progress[id];
+        const slice = ensureSlice(get().byBook, bookSlug);
+        const cp = slice.progress[id];
         if (cp?.completed) return 100;
         return cp?.scrollPercent ?? 0;
       },
 
-      isChapterComplete: (chapterId) => {
-        const chapter = resolveChapter(chapterId);
+      isChapterComplete: (bookSlug, chapterId) => {
+        const data = getBookData(bookSlug);
+        const chapter = data.resolveChapter(chapterId);
         const id = chapter?.id ?? chapterId;
-        return get().progress[id]?.completed ?? false;
+        const slice = ensureSlice(get().byBook, bookSlug);
+        return slice.progress[id]?.completed ?? false;
       },
 
-      getBookmark: (chapterId) => {
-        const chapter = resolveChapter(chapterId);
+      getBookmark: (bookSlug, chapterId) => {
+        const data = getBookData(bookSlug);
+        const chapter = data.resolveChapter(chapterId);
         const id = chapter?.id ?? chapterId;
-        const pct = get().bookmarks[id];
+        const slice = ensureSlice(get().byBook, bookSlug);
+        const pct = slice.bookmarks[id];
         return pct === undefined ? null : pct;
       },
 
-      setBookmark: (chapterId, scrollPercent) => {
-        const chapter = resolveChapter(chapterId);
-        const id = chapter?.id ?? chapterId;
-        set((state) => ({
-          bookmarks: {
-            ...state.bookmarks,
-            [id]: clampPercent(scrollPercent),
-          },
-        }));
-      },
-
-      clearBookmark: (chapterId) => {
-        const chapter = resolveChapter(chapterId);
+      setBookmark: (bookSlug, chapterId, scrollPercent) => {
+        const data = getBookData(bookSlug);
+        const chapter = data.resolveChapter(chapterId);
         const id = chapter?.id ?? chapterId;
         set((state) => {
-          const next = { ...state.bookmarks };
-          delete next[id];
-          return { bookmarks: next };
+          const slice = ensureSlice(state.byBook, bookSlug);
+          return {
+            byBook: {
+              ...state.byBook,
+              [bookSlug]: {
+                ...slice,
+                bookmarks: {
+                  ...slice.bookmarks,
+                  [id]: clampPercent(scrollPercent),
+                },
+              },
+            },
+          };
         });
       },
 
-      toggleBookmark: (chapterId, scrollPercent) => {
-        const existing = get().getBookmark(chapterId);
+      clearBookmark: (bookSlug, chapterId) => {
+        const data = getBookData(bookSlug);
+        const chapter = data.resolveChapter(chapterId);
+        const id = chapter?.id ?? chapterId;
+        set((state) => {
+          const slice = ensureSlice(state.byBook, bookSlug);
+          const next = { ...slice.bookmarks };
+          delete next[id];
+          return {
+            byBook: {
+              ...state.byBook,
+              [bookSlug]: { ...slice, bookmarks: next },
+            },
+          };
+        });
+      },
+
+      toggleBookmark: (bookSlug, chapterId, scrollPercent) => {
+        const existing = get().getBookmark(bookSlug, chapterId);
         if (existing !== null && Math.abs(existing - scrollPercent) < 3) {
-          get().clearBookmark(chapterId);
+          get().clearBookmark(bookSlug, chapterId);
         } else {
-          get().setBookmark(chapterId, scrollPercent);
+          get().setBookmark(bookSlug, chapterId, scrollPercent);
         }
+      },
+
+      getBookCurrentChapterId: (bookSlug) => {
+        const slice = ensureSlice(get().byBook, bookSlug);
+        const data = getBookData(bookSlug);
+        const chapter = data.resolveChapter(slice.currentChapterId);
+        if (chapter) return chapter.id;
+        return data.firstReadableChapterId ?? slice.currentChapterId;
       },
 
       setAmbientTrack: (track) => set({ ambientTrack: track }),
@@ -175,11 +293,10 @@ export const useReadingStore = create<ReadingState>()(
         const state = get();
         return JSON.stringify(
           {
-            version: 2,
+            version: 3,
             exportedAt: new Date().toISOString(),
-            currentChapterId: state.currentChapterId,
-            progress: state.progress,
-            bookmarks: state.bookmarks,
+            activeBookSlug: state.activeBookSlug,
+            byBook: state.byBook,
             ambientTrack: state.ambientTrack,
             fontSize: state.fontSize,
             lineWidth: state.lineWidth,
@@ -193,32 +310,67 @@ export const useReadingStore = create<ReadingState>()(
 
       importProgress: (json) => {
         try {
-          const data = JSON.parse(json) as Partial<ReadingState> & {
+          const data = JSON.parse(json) as {
             version?: number;
+            activeBookSlug?: string;
+            byBook?: Record<string, BookReadingSlice>;
+            currentChapterId?: string;
+            progress?: Record<string, ReadingProgress>;
+            bookmarks?: Record<string, number>;
+            ambientTrack?: AmbientTrack;
+            fontSize?: ReaderSettings["fontSize"];
+            lineWidth?: ReaderSettings["lineWidth"];
+            theme?: ReaderSettings["theme"];
+            reducedMotion?: boolean;
           };
-          if (!data.progress) return false;
-          set({
-            currentChapterId: data.currentChapterId ?? get().currentChapterId,
-            progress: data.progress,
-            bookmarks: data.bookmarks ?? get().bookmarks,
-            ambientTrack: data.ambientTrack ?? get().ambientTrack,
-            fontSize: data.fontSize ?? get().fontSize,
-            lineWidth: data.lineWidth ?? get().lineWidth,
-            theme: data.theme ?? get().theme,
-            reducedMotion: data.reducedMotion ?? get().reducedMotion,
-          });
-          return true;
+
+          if (data.version === 3 && data.byBook) {
+            set({
+              activeBookSlug: data.activeBookSlug ?? get().activeBookSlug,
+              byBook: data.byBook,
+              currentChapterId:
+                data.byBook[data.activeBookSlug ?? get().activeBookSlug]
+                  ?.currentChapterId ?? get().currentChapterId,
+              ambientTrack: data.ambientTrack ?? get().ambientTrack,
+              fontSize: data.fontSize ?? get().fontSize,
+              lineWidth: data.lineWidth ?? get().lineWidth,
+              theme: data.theme ?? get().theme,
+              reducedMotion: data.reducedMotion ?? get().reducedMotion,
+            });
+            return true;
+          }
+
+          if (data.progress) {
+            const slug = getDefaultBook().slug;
+            set({
+              byBook: {
+                [slug]: {
+                  currentChapterId: data.currentChapterId ?? "",
+                  progress: data.progress,
+                  bookmarks: data.bookmarks ?? {},
+                },
+              },
+              currentChapterId: data.currentChapterId ?? "",
+              ambientTrack: data.ambientTrack ?? get().ambientTrack,
+              fontSize: data.fontSize ?? get().fontSize,
+              lineWidth: data.lineWidth ?? get().lineWidth,
+              theme: data.theme ?? get().theme,
+              reducedMotion: data.reducedMotion ?? get().reducedMotion,
+            });
+            return true;
+          }
+
+          return false;
         } catch {
           return false;
         }
       },
     }),
     {
-      name: "rapture-reading-v2",
+      name: "aether-library-reading-v3",
       partialize: (state) => ({
-        currentChapterId: state.currentChapterId,
-        progress: state.progress,
-        bookmarks: state.bookmarks,
+        activeBookSlug: state.activeBookSlug,
+        byBook: state.byBook,
         ambientTrack: state.ambientTrack,
         fontSize: state.fontSize,
         lineWidth: state.lineWidth,
@@ -226,11 +378,45 @@ export const useReadingStore = create<ReadingState>()(
         reducedMotion: state.reducedMotion,
       }),
       onRehydrateStorage: () => (state) => {
-        if (!state || chapters.length === 0) return;
-        const chapter = resolveChapter(state.currentChapterId);
-        if (!chapter) state.currentChapterId = chapters[0].id;
-        else state.currentChapterId = chapter.id;
+        if (!state) return;
+        const slug = state.activeBookSlug || getDefaultBook().slug;
+        const slice = ensureSlice(state.byBook ?? {}, slug);
+        const data = getBookData(slug);
+        const chapter = data.resolveChapter(slice.currentChapterId);
+        if (!chapter && data.firstReadableChapterId) {
+          slice.currentChapterId = data.firstReadableChapterId;
+        } else if (chapter) {
+          slice.currentChapterId = chapter.id;
+        }
+        state.byBook = { ...state.byBook, [slug]: slice };
+        state.currentChapterId = slice.currentChapterId;
       },
+      migrate: (persisted, version) => {
+        const p = persisted as Record<string, unknown>;
+        if (version < 3) {
+          const slug = getDefaultBook().slug;
+          const legacyProgress = (p.progress as Record<string, ReadingProgress>) ?? {};
+          const legacyBookmarks = (p.bookmarks as Record<string, number>) ?? {};
+          const legacyChapter =
+            (p.currentChapterId as string) ??
+            defaultSlice(slug).currentChapterId;
+          return {
+            ...p,
+            version: 3,
+            activeBookSlug: slug,
+            byBook: {
+              [slug]: {
+                currentChapterId: legacyChapter,
+                progress: legacyProgress,
+                bookmarks: legacyBookmarks,
+              },
+            },
+            currentChapterId: legacyChapter,
+          };
+        }
+        return p;
+      },
+      version: 3,
     }
   )
 );

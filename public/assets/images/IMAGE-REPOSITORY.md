@@ -1,11 +1,11 @@
 # Rapture Image Repository
 
-**Generated:** 2026-06-18T14:24:53.965Z
+**Generated:** 2026-06-30T12:41:53.795Z
 
 ## Folder structure
 
 ```
-public/assets/images/
+public/assets/images/rapture/
 ├── characters/     # Main, supporting, antagonist portraits — {id}.png
 ├── disciples/      # Limbo disciples — disciple-{name}.png
 ├── companions/     # Beast contracts — {id}.png
@@ -46,5 +46,5 @@ public/assets/images/
 ## Stats
 
 - **Total entries:** 369
-- **Present:** 82
-- **Missing:** 287
+- **Present:** 117
+- **Missing:** 252

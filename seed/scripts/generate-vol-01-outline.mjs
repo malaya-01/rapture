@@ -7,7 +7,7 @@ import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const out = join(__dirname, "../outlines/vol-01.json");
+const out = join(__dirname, "../../books/rapture/seed/outlines/vol-01.json");
 
 const CHAPTERS = [
   { n: 1, title: "The Last Ordinary Morning", pov: "Cassian Reed", synopsis: "Cassian's ordinary Tuesday in Ashford ends when the sky fractures over the harbor." },
@@ -67,11 +67,11 @@ writeFileSync(
       volumeTitle: "The Sky Breaks",
       chapterStart: 1,
       chapterEnd: 30,
-      outlineFile: "knowledgebase/volumes/VOLUME_01_THE_SKY_BREAKS.md",
+      outlineFile: "books/rapture/knowledgebase/volumes/VOLUME_01_THE_SKY_BREAKS.md",
       chapters,
     },
     null,
     2
   )
 );
-console.log("Wrote seed/outlines/vol-01.json (30 chapters)");
+console.log("Wrote books/rapture/seed/outlines/vol-01.json (30 chapters)");

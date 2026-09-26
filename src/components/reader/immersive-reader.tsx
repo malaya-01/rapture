@@ -2,8 +2,7 @@
 
 import { useEffect, useCallback, useState } from "react";
 import { motion } from "framer-motion";
-import { chapters, resolveChapter } from "@/data/chapters";
-import { bookMeta } from "@/data/book";
+import { getBookData, getReadPath } from "@/lib/books/book-data";
 import { useReadingStore } from "@/store/reading-store";
 import { useReadingSession } from "@/hooks/use-reading-session";
 import { useAmbientSound } from "@/lib/ambient-sound";
@@ -21,17 +20,22 @@ import { LeaveChapterConfirm } from "./leave-chapter-confirm";
 import { cn } from "@/lib/utils";
 
 interface ImmersiveReaderProps {
+  bookSlug: string;
   chapterId: string;
 }
 
-export function ImmersiveReader({ chapterId }: ImmersiveReaderProps) {
+export function ImmersiveReader({ bookSlug, chapterId }: ImmersiveReaderProps) {
+  const data = getBookData(bookSlug);
+  const { chapters, book } = data;
+
   const {
     setChapter,
+    setActiveBook,
     ambientTrack,
     setAmbientTrack,
     chromeVisible,
     toggleChrome,
-    progress,
+    getChapterProgress,
     getBookmark,
     fontSize,
     lineWidth,
@@ -42,21 +46,27 @@ export function ImmersiveReader({ chapterId }: ImmersiveReaderProps) {
   const [settingsOpen, setSettingsOpen] = useState(false);
 
   useEffect(() => {
-    setChapter(chapterId);
-  }, [chapterId, setChapter]);
+    setActiveBook(bookSlug);
+    setChapter(bookSlug, chapterId);
+  }, [bookSlug, chapterId, setActiveBook, setChapter]);
 
   useAmbientSound(ambientTrack);
 
-  const chapter = resolveChapter(chapterId) ?? chapters[0];
+  const chapter = data.resolveChapter(chapterId) ?? chapters[0];
   const chapterIndex = chapters.findIndex((c) => c.id === chapter?.id);
   const prevChapter = chapterIndex > 0 ? chapters[chapterIndex - 1] : null;
   const nextChapter =
     chapterIndex < chapters.length - 1 ? chapters[chapterIndex + 1] : null;
 
-  const savedScroll = chapter ? (progress[chapter.id]?.scrollPercent ?? 0) : 0;
-  const bookmarkPercent = chapter ? getBookmark(chapter.id) : null;
+  const savedScroll = chapter
+    ? getChapterProgress(bookSlug, chapter.id)
+  : 0;
+  const bookmarkPercent = chapter
+    ? getBookmark(bookSlug, chapter.id)
+    : null;
 
   const { flushSave } = useReadingSession({
+    bookSlug,
     chapterId: chapter?.id ?? "",
     chapterTitle: chapter?.title ?? "",
     enabled: !!chapter,
@@ -72,10 +82,10 @@ export function ImmersiveReader({ chapterId }: ImmersiveReaderProps) {
     (id: string) => {
       if (!chapter || id === chapter.id) return;
       flushSave();
-      setChapter(id);
-      push(`/read/${id}`);
+      setChapter(bookSlug, id);
+      push(getReadPath(bookSlug, id));
     },
-    [chapter, flushSave, setChapter, push]
+    [bookSlug, chapter, flushSave, setChapter, push]
   );
 
   useEffect(() => {
@@ -97,8 +107,8 @@ export function ImmersiveReader({ chapterId }: ImmersiveReaderProps) {
     return (
       <Atmosphere>
         <div className="flex min-h-screen items-center justify-center text-text-muted">
-          No chapters available. Add markdown to content/chapters/ and run npm
-          run seed:chapters
+          No chapters available for {book.title}. Add markdown and run npm run
+          seed:sync
         </div>
       </Atmosphere>
     );
@@ -129,7 +139,7 @@ export function ImmersiveReader({ chapterId }: ImmersiveReaderProps) {
 
       <article
         className={cn(
-          "page-shell reader-shell mx-auto w-full px-5 md:px-8",
+          "page-shell reader-shell reader-parchment mx-auto w-full px-5 md:px-8",
           settingsClass,
           lineWidth === "narrow" && "max-w-[720px]",
           lineWidth === "default" && "max-w-[1000px]",
@@ -144,12 +154,13 @@ export function ImmersiveReader({ chapterId }: ImmersiveReaderProps) {
           >
             <ChapterHeader
               chapter={chapter}
-              bookTitle={bookMeta.title.toUpperCase()}
+              bookTitle={book.title.toUpperCase()}
+              bookSlug={bookSlug}
             />
           </motion.div>
         </header>
 
-        <ChapterRenderer chapter={chapter} />
+        <ChapterRenderer chapter={chapter} bookSlug={bookSlug} />
       </article>
 
       <ReaderToolbar

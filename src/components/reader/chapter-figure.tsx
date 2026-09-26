@@ -27,6 +27,7 @@ export function isFloatPlacement(placement: FigurePlacement) {
 
 interface ChapterFigureViewProps {
   figure: ChapterFigure;
+  bookSlug?: string;
   placement?: FigurePlacement;
   className?: string;
 }
@@ -86,10 +87,11 @@ function FigureImage({
 
 export function ChapterFigureView({
   figure,
+  bookSlug = "rapture",
   placement = figure.placement,
   className,
 }: ChapterFigureViewProps) {
-  const imageSrc = getImageSrc(figure.promptId);
+  const imageSrc = getImageSrc(figure.promptId, bookSlug);
   const aspect =
     placement === "wide" ? "21/9" : aspectForOrientation(figure.orientation);
   const color = figure.color ?? "#8b6b2e";
