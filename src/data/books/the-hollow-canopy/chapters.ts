@@ -16382,17 +16382,22 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "Before sleep he said it once more, not as a speech Calder had to absorb like medicine, but as a fact filed where facts belonged: \"I don't forget. I choose you. If the Directorate asks for a cleaner story, they can invent one without my signature.\"",
+        "html": "Before sleep he said it once more, not as a speech Calder had to absorb like medicine, but as a fact filed where facts belonged: \"I don't forget. I choose you. If the Directorate asks for a cleaner story, they can invent one without my signature. The notebook stays wet in the record. The stair stays. The laugh stays. The jacket stays. The empty hand at the Bell stays. All of it. I'm not trading pieces.\"",
         "dropCap": false
       },
       {
         "type": "paragraph",
-        "html": "\"Copy,\" Calder murmured. \"I'll insult their invention in the morning. Tonight I'm partnered.\"",
+        "html": "\"Copy,\" Calder murmured. \"I'll insult their invention in the morning. Tonight I'm partnered. Tonight I don't invent a speech about deserving you. I just stay in the room.\"",
         "dropCap": false
       },
       {
         "type": "paragraph",
-        "html": "Ivo Maren lay on top of the blanket, not yet a life, already a choice, and listened to a man he had not forgotten keep a promise by staying in the room. The lights of Puerto Virel pressed against the shutters like an audience. He declined to perform for them. He kept the record and the man and the unfinished quiet, and that was the seal he could live inside.",
+        "html": "\"Good. Staying is the practice. Speeches are how spans start.\"",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "Ivo Maren lay on top of the blanket, not yet a life, already a choice, and listened to a man he had not forgotten keep a promise by staying in the room. The lights of Puerto Virel pressed against the shutters like an audience. He declined to perform for them. He kept the record and the man and the unfinished quiet, and that was the seal he could live inside. Outside, generators hummed a note that was only generators. Offshore, if he held very still, something older might have been humming too. He did not ask it. He chose sleep beside a cracked-rib major who had finally learned how not to grab, and the choice held through the night like a flood pin chalked and honest. In the dark he did not dream of bells. He dreamed, briefly, of oversteeped tea and a map with a blank instead of a red circle, and woke once to Calder's breathing — costly, regular, present — and went back under without asking the dark anything it might finish. Partnership, he thought, half-asleep, was not a cure. It was a refusal to ring. It was enough for one night and then for the next, which was how long ways worked when you refused, carefully and without any drama, to let any new hum write the schedule overnight. He slept beside the promise.",
         "dropCap": false
       }
     ]
@@ -16423,7 +16428,22 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "He had given testimony in three rooms that smelled of polish and fear. Classified hearings with flags and water carafes and people who said <em>anomaly</em> the way other people said <em>weather</em>. He had said Qalen-Sar, and seal, and not a manual. He had said Pavel Ruiz's full name until a clerk flinched. He had not said Ivo's name more than the record required, and the record required it often, because the Directorate liked pairs it could diagram. His forearm worked if he did not ask it to be twenty. His ribs were a weather report that improved on dry days. The sling was gone. The habit of protecting the side remained, a ghost of a ghost. Cocky lived at something closer to three-quarters volume now. Full volume still tore something that wasn't bone.",
+        "html": "Morning light through the plantain-street window made the counter look almost honest. Calder had woken to Ivo already awake, already judging the kettle's past life, already stealing. This was, he had decided, the only acceptable form of asset loss.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He had given testimony in three rooms that smelled of polish and fear. Classified hearings with flags and water carafes and people who said anomaly the way other people said weather. He had said Qalen-Sar, and seal, and not a manual. He had said Pavel Ruiz's full name until a clerk flinched. He had sat through a slide deck that tried to turn the Unfinished into a bullet list and had said, flat, \"They're people with scraps. Don't put them in a matrix.\" A general had looked annoyed. Nia, in the gallery, had looked proud in the way she reserved for when Calder stopped being charming and started being correct. Between sessions he drank bad coffee and did not joke at full volume. Between sessions he texted Ivo nothing useful and received back a photograph of the tea tin with the caption: still stolen. That had been enough to get him through the third room. After the third room he had gone home and let Ivo insult his adjectives until the adjectives surrendered.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "He had not said Ivo's name more than the record required, and the record required it often, because the Directorate liked pairs it could diagram. His forearm worked if he did not ask it to be twenty. His ribs were a weather report that improved on dry days. The sling was gone. The habit of protecting the side remained, a ghost of a ghost. Cocky lived at something closer to three-quarters volume now. Full volume still tore something that wasn't bone.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "On leave days he walked the harbor and counted boats that were only boats. He visited Harun and Jun in a flat that smelled like gun oil and soup; Harun demonstrated the limp as comedy and then, when Jun left the room, admitted the night terrors about stone. Calder did not offer a speech. He offered a beer and a silence that wasn't a vault. Harun said, \"Still mine,\" about the leg, and then, quieter, \"Still hers,\" about Jun, and Calder nodded as if both statements were tactical intel. He visited Mateo and Anouk and got drafted into holding a resin sample while they argued about meniscus; he held it wrong on purpose once to make Anouk yell at him instead of Mateo, which Mateo rated as marital aid. Anouk made him label a bag correctly as penance. He stood in Sable and Ellis's doorway and looked at a moth terrarium that was not a metaphor and said, \"Don't bond the insects,\" and Sable said, \"Get out of my flat, Major,\" fondly. Ellis offered him cardamom for the road. Calder took it. He visited Priya's quiet office once and did not ask to see the locked drawer; she made tea and talked about cassava calendars with a dryness that was courage. He did not visit Cho. Jonah's reports were enough: alive, horrible, unfinished, contained. Once he stood outside Hester's seminar hall and heard her call the rapids story a lie, and then heard her get angry at herself for agreeing with a major, and smiled without going in.",
         "dropCap": false
       },
       {
@@ -16433,12 +16453,12 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "Home was a set of rooms above a street that sold fried plantains and phone cards. Not a trophy flat. A place with a door and a kettle and a tea tin Ivo treated as shared property without filing forms. The windows faced a strip of sea that was not the Reach and still carried, on bad nights, a rumor of hum. Calder had learned to sleep on the side that wasn't a thesis. Ivo had learned to wake without inventing a laboratory before coffee. They argued about reports and sleep and whether a major was allowed to pretend he was fine. The arguments were how they stayed unfinished on purpose.",
+        "html": "Home was a set of rooms above a street that sold fried plantains and phone cards. Not a trophy flat. A place with a door and a kettle and a tea tin Ivo treated as shared property without filing forms. The windows faced a strip of sea that was not the Reach and still carried, on bad nights, a rumor of hum. Calder had learned to sleep on the side that wasn't a thesis. Ivo had learned to wake without inventing a laboratory before coffee. They argued about reports and sleep and whether a major was allowed to pretend he was fine. They argued about whether the Directorate's classification stamps constituted literature. They argued about the correct steep time for cardamom tea until the argument became foreplay for silence and the silence became sleep. The arguments were how they stayed unfinished on purpose. Unfinished, Calder had learned, could be a mercy when you chose it. Chosen unfinished was the opposite of Cho. Chosen unfinished was the point of the seal, the kettle, the long way, the not-tonight.",
         "dropCap": false
       },
       {
         "type": "paragraph",
-        "html": "Ivo stole the good tea. This was a ritual and a crime. He stood at Calder's counter in a shirt that had survived the jungle only as a memory, hair still cut like a man who did not trust humidity, scar through the eyebrow catching a domestic lamp. He insulted the prose of Calder's after-action with the focus he had once given flaking murals.",
+        "html": "Ivo stole the good tea. This was a ritual and a crime. He stood at Calder's counter in a shirt that had survived the jungle only as a memory, hair still cut like a man who did not trust humidity, scar through the eyebrow catching a domestic lamp. He insulted the prose of Calder's after-action with the focus he had once given flaking murals. Calder let himself be insulted. Insults from Ivo were a weather system he had subscribed to on purpose.",
         "dropCap": false
       },
       {
@@ -16473,12 +16493,12 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "Calder smiled into the kettle. The smile was half volume, which was the volume he could afford and the one Ivo actually liked. \"Mateo and Anouk?\"",
+        "html": "Calder smiled into the kettle. The smile was half volume, which was the volume he could afford and the one Ivo actually liked. Outside a vendor shouted about plantains; inside the water nearly boiled and then was denied, which Ivo treated as a moral victory. \"Mateo and Anouk?\"",
         "dropCap": false
       },
       {
         "type": "paragraph",
-        "html": "\"On leave and at war over a basin carving. He says meniscus. She says meniscus and also you're sitting on the resin. Their marriage will outlive the Directorate. Hester is teaching a seminar in which she calls the rapids story a lie and then gets angry at herself for agreeing with a major. She sent me Pavel's napkin photograph with a note that said <em>primary source, do not tidy</em>. Priya has a locked drawer and a career that looks, from the outside, like caution. The drawer is the bravest thing in her office. She had lunch with me and did not say your childhood name, which is how I know she is well. Rhee writes letters to her sister that say nothing prosecutable and everything frightened, and then she builds clean nets for people who will never know her name.\"",
+        "html": "\"On leave and at war over a basin carving. He says meniscus. She says meniscus and also you're sitting on the resin. Their marriage will outlive the Directorate. Last week Mateo called me to ask whether anomalous resin could invalidate a leave form. I told him only if he let Anouk win the argument first. Hester is teaching a seminar in which she calls the rapids story a lie and then gets angry at herself for agreeing with a major. She sent me Pavel's napkin photograph with a note that said primary source, do not tidy. I hung the photocopy in the hallway where coats live. Priya has a locked drawer and a career that looks, from the outside, like caution. The drawer is the bravest thing in her office. She had lunch with me and did not say your childhood name, which is how I know she is well. Rhee writes letters to her sister that say nothing prosecutable and everything frightened, and then she builds clean nets for people who will never know her name. Tomas Ibarra sent a polite note from Virelia about ordinary river traffic. I answered politely. You were only mildly unpleasant about it, which I filed as growth.\"",
         "dropCap": false
       },
       {
@@ -16488,7 +16508,7 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "\"Promoted sideways into a role that lets her keep people out of boxes. She sent a spreadsheet titled <em>Reasons the Major Remains Insufferable</em> with a new tab for domestic tea crimes. I added a row. She approved.\"",
+        "html": "\"Promoted sideways into a role that lets her keep people out of boxes and still yell at majors by spreadsheet. She sent a spreadsheet titled Reasons the Major Remains Insufferable with a new tab for domestic tea crimes. I added a row. She approved without smiling, which means she approved.\"",
         "dropCap": false
       },
       {
@@ -16508,22 +16528,32 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "Ivo's hand paused on the tin. \"A medical vault. Alive. Half. He tries to finish sentences with a mouth that isn't only his. They asked me to consult. I said containment, not study. Jonah sent a longer version of the same no. If they turn him into a breakthrough I will burn the breakthrough in print. That is not a metaphor. I have Priya's calendar-lie and my own name on the omission, and I will use both. Last month a technician asked whether the lagging mouth could be interviewed. I said the interview would be an ask. The technician went pale. Good.\"",
+        "html": "Ivo's hand paused on the tin. \"A medical vault. Alive. Half. He tries to finish sentences with a mouth that isn't only his. They asked me to consult. I said containment, not study. Jonah sent a longer version of the same no. If they turn him into a breakthrough I will burn the breakthrough in print. That is not a metaphor. I have Priya's calendar-lie and my own name on the omission, and I will use both. Last month a technician asked whether the lagging mouth could be interviewed. I said the interview would be an ask. The technician went pale. Good. Cho is not a sample. He is a warning that walks sideways through a sentence. Leaving him in the jungle would have made us Helix with better footnotes. Keeping him studied would make us Helix with tenure. We contain. We do not complete.\"",
         "dropCap": false
       },
       {
         "type": "paragraph",
-        "html": "Calder leaned his good hip against the counter and let the kitchen hold him. Outside, plantain oil and phone-card arguments. Inside, the smell of cardamom and the small domestic war of water temperature. He thought of the expedition as a shape that still lived in his body: eels, flood, cracked bronze, Ivo's empty hand on wet stone, Harun's scream becoming <em>still mine</em>, Leona vanishing into rain, the Unfinished holding scraps of name. He did not tidy the shape. Tidying was how clerks printed <em>rapids</em>.",
+        "html": "Calder nodded. He had visited the vault once, against advice, and stood behind glass while Cho's human eye found him and tried to say finally. What came out was weather. Calder had not answered. He had left. The leaving was the kindness available.",
         "dropCap": false
       },
       {
         "type": "paragraph",
-        "html": "The listening post had called while Ivo was still in the shower, and Calder had stood with the handset and watched steam edge the door and felt the old urge to solve the hum before Ivo could be afraid of it. He had killed the urge. Solving first was the jacket without consent. He had written the officer's words on the back of a ration label — offshore, +one, no visual, request expedited — and put the label under the tea tin, where a thief of good tea would find a truth instead of a surprise.",
+        "html": "Calder leaned his good hip against the counter and let the kitchen hold him. Outside, plantain oil and phone-card arguments. Inside, the smell of cardamom and the small domestic war of water temperature. He thought of the expedition as a shape that still lived in his body: eels, flood, cracked bronze, Ivo's empty hand on wet stone, Harun's scream becoming still mine, Leona vanishing into rain, the Unfinished holding scraps of name. He did not tidy the shape. Tidying was how clerks printed rapids. He thought of the three days he had lost and the joke he had won with, and of Ivo's hug that had hurt the ribs on purpose. He thought of a school hallway and declined to rewrite it as fondness. The record stayed wet. The partnership stayed chosen.",
         "dropCap": false
       },
       {
         "type": "paragraph",
-        "html": "The kettle began its small metal song. Under the song, Calder heard the other thing: offshore, a hum. The Vein, or something that had learned the Vein's handwriting. One note higher than the note they had lived inside for weeks in the Reach. Not a bell. Not yet a question. A pitch change, as if a vast throat had cleared. Somewhere, someone might have asked. The novel did not need to become that someone's sequel tonight.",
+        "html": "Sometimes, late, he still woke reaching for a radio that wasn't there, expecting Pavel's nineteen minutes. The radio was gone. The kettle was here. That substitution was the whole of adulthood he could currently afford.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The listening post had called while Ivo was still in the shower, and Calder had stood with the handset and watched steam edge the door and felt the old urge to solve the hum before Ivo could be afraid of it. He had killed the urge. Solving first was the jacket without consent. He had written the officer's words on the back of a ration label — offshore, +one, no visual, request expedited — and put the label under the tea tin, where a thief of good tea would find a truth instead of a surprise. The officer had sounded young and trying not to sound young. Calder had been kind without being available. Kindness without availability was a skill the Reach had taught expensive. He had said, \"Not tonight for teams. Morning for tape. Do not ask it anything.\" The officer had said yes, sir, in a voice that wanted a different yes. After hanging up, Calder had stood in the steam and practiced breathing at half volume until the urge to be useful stopped looking like love.",
+        "dropCap": false
+      },
+      {
+        "type": "paragraph",
+        "html": "The kettle began its small metal song. Under the song, Calder heard the other thing: offshore, a hum. The Vein, or something that had learned the Vein's handwriting. One note higher than the note they had lived inside for weeks in the Reach. Not a bell. Not yet a question. A pitch change, as if a vast throat had cleared. Somewhere, someone might have asked. The novel did not need to become that someone's sequel tonight. The hum was enough of an ending and enough of a beginning to leave alone until morning. Calder filed sequel-plot under not-tonight and left it there, next to the old urge to be useful and the older urge to rewrite a hallway, neither of which got a vote in the kitchen.",
         "dropCap": false
       },
       {
@@ -16538,7 +16568,7 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "Ivo listened to the kitchen the way he listened to stone, head tilted, the pause before the important sentence. He heard it. Calder saw him hear it: the hum under the boil, faint, not in the teeth the way Qalen-Sar had been, but in the room, a guest that had not been invited and was not yet a command. Fear moved across Ivo's face and did not own it. Curiosity arrived and was refused a chair.",
+        "html": "Ivo listened to the kitchen the way he listened to stone, head tilted, the pause before the important sentence. He heard it. Calder saw him hear it: the hum under the boil, faint, not in the teeth the way Qalen-Sar had been, but in the room, a guest that had not been invited and was not yet a command. Fear moved across Ivo's face and did not own it. Curiosity arrived and was refused a chair. The scar through his eyebrow caught the lamp the way it had caught tin light in a briefing tent a lifetime ago.",
         "dropCap": false
       },
       {
@@ -16553,7 +16583,7 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "\"If it's still higher in the morning, we look at the tape. We do not get on a boat because a pitch changed and a committee is lonely. We do not ask it what it wants. We eat food that is not a ration and you sleep on the side that isn't a thesis. We keep the record. We keep the refusal. A new hum does not get to be a new ask by arriving politely.\"",
+        "html": "\"If it's still higher in the morning, we look at the tape. We do not get on a boat because a pitch changed and a committee is lonely. We do not ask it what it wants. We eat food that is not a ration and you sleep on the side that isn't a thesis. We keep the record. We keep the refusal. A new hum does not get to be a new ask by arriving politely. Pavel's warning is still true even when the pitch changes. Don't ask it. Finish only the seal you already finished. Live.\"",
         "dropCap": false
       },
       {
@@ -16563,7 +16593,7 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "\"Accurate.\" He took the good cups, the ones Calder hid from other officers, and poured as if the pouring were a seal. Too strong. One pod. No sugar. He handed Calder his and did not make their fingers a scene. They met anyway, briefly, a choice. \"I don't forget,\" Ivo said, not a speech, a check, the way you check a knot. \"I'm still choosing you. A new question does not get to skip the queue.\"",
+        "html": "\"Accurate. Also frightened. Don't make me pretend otherwise. Beauty and dread can share a kitchen. They already do.\" He took the good cups, the ones Calder hid from other officers, and poured as if the pouring were a seal. Too strong. One pod. No sugar. He handed Calder his and did not make their fingers a scene. They met anyway, briefly, a choice. \"I don't forget,\" Ivo said, not a speech, a check, the way you check a knot. \"I'm still choosing you. A new question does not get to skip the queue. The notebook is still wet. The stair is still there. The laugh is still there. So are you. So am I. That is the record.\"",
         "dropCap": false
       },
       {
@@ -16573,7 +16603,7 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "\"All three. Continuous audit. You're passing on a curve that includes a sling and a stolen tea and a hearing where you defended a dictionary.\"",
+        "html": "\"All three. Continuous audit. You're passing on a curve that includes a sling and a stolen tea and a hearing where you defended a dictionary and a night where you let a hum wait until morning.\"",
         "dropCap": false
       },
       {
@@ -16588,12 +16618,12 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "They drank. The kettle clicked off. The hum did not. It sat under the ordinary sounds — a neighbor's radio, a pipe, Ivo's swallow — one note higher than the note that had tried to finish a civilization, not yet a mouth, not yet their problem to feed. Calder looked at Ivo. Ivo looked back, frightened and clear, the same eyes as the chamber and the hall and the pad, finally attached to a life that had a door.",
+        "html": "They drank. The kettle clicked off. The hum did not. It sat under the ordinary sounds — a neighbor's radio, a pipe, Ivo's swallow, a moto in the street — one note higher than the note that had tried to finish a civilization, not yet a mouth, not yet their problem to feed. Calder looked at Ivo. Ivo looked back, frightened and clear, the same eyes as the chamber and the hall and the pad, finally attached to a life that had a door. Calder felt the old cockiness rise at half volume and let it become something quieter: gratitude without a speech.",
         "dropCap": false
       },
       {
         "type": "paragraph",
-        "html": "Outside, Puerto Virel went on being a city. Inside, two men who had not been fine and were not performing fine stood in a kitchen with a record that still contained a ruined notebook and a sealed bell and a half-finished man in a vault. Jun's shoulder. Harun's limp. Mateo and Anouk's resin war. Sable and Ellis's moth flat. Priya's locked drawer. Leona unfound. Cho unfinished. The novel of the expedition was over. The water was not. Calder set his cup down. Ivo stole another sip of the good tea from Calder's cup, a petty theft, a future.",
+        "html": "Outside, Puerto Virel went on being a city. Inside, two men who had not been fine and were not performing fine stood in a kitchen with a record that still contained a ruined notebook and a sealed bell and a half-finished man in a vault. Jun's shoulder. Harun's limp. Mateo and Anouk's resin war. Sable and Ellis's moth flat. Priya's locked drawer. Hester's seminar. Rhee's clean nets. Nia's spreadsheet. Leona unfound. Cho unfinished. The novel of the expedition was over. The water was not. Calder set his cup down. Ivo stole another sip of the good tea from Calder's cup, a petty theft, a future.",
         "dropCap": false
       },
       {
@@ -16618,7 +16648,7 @@ export const chapters: CompiledChapter[] = [
       },
       {
         "type": "paragraph",
-        "html": "The kitchen held, and under the kettle the hum went on being only a hum, one note higher, refused for an evening that belonged to tea and the long way and two adults who were good at their jobs and wrong in specific, surviving, chosen ways.",
+        "html": "The kitchen held, and under the kettle the hum went on being only a hum, one note higher, refused for an evening that belonged to tea and the long way and two adults who were good at their jobs and wrong in specific, surviving, chosen ways. Calder listened without answering. Ivo listened without translating. The kettle cooled. The hum remained — not a sequel plot, not a question fed, only a pitch change waiting under domestic metal until morning, if morning still wanted it.",
         "dropCap": false
       }
     ]
